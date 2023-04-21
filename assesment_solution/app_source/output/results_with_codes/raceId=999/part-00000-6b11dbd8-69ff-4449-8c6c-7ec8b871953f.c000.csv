@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+1,23983,131,44,14,1,1,1,25,67,1:32:29.845,5549845,66,1,1:15.545,217.968,1,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+822,23984,131,77,2,2,2,2,18,67,+4.535,5554380,65,2,1:15.721,217.461,1,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
+8,23985,6,7,3,3,3,3,15,67,+6.732,5556577,64,4,1:15.990,216.691,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+830,23986,9,33,4,4,4,4,12,67,+7.654,5557499,66,3,1:15.852,217.085,1,max_verstappen,33,VER,Max,Verstappen,1997-09-30,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen
+807,23987,4,27,7,5,5,5,10,67,+26.609,5576454,66,16,1:17.910,211.351,1,hulkenberg,27,HUL,Nico,Hülkenberg,1987-08-19,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+154,23988,210,8,6,6,6,6,8,67,+28.871,5578716,66,5,1:16.716,214.641,1,grosjean,8,GRO,Romain,Grosjean,1986-04-17,French,http://en.wikipedia.org/wiki/Romain_Grosjean
+815,23989,10,11,10,7,7,7,6,67,+30.556,5580401,66,15,1:17.867,211.468,1,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+839,23990,10,31,15,8,8,8,4,67,+31.750,5581595,64,17,1:17.941,211.267,1,ocon,31,OCO,Esteban,Ocon,1996-09-17,French,http://en.wikipedia.org/wiki/Esteban_Ocon
+828,23991,15,9,13,9,9,9,2,67,+32.362,5582207,65,12,1:17.745,211.800,1,ericsson,9,ERI,Marcus,Ericsson,1990-09-02,Swedish,http://en.wikipedia.org/wiki/Marcus_Ericsson
+843,23992,5,28,17,10,10,10,1,67,+34.197,5584042,66,9,1:17.681,211.974,1,brendon_hartley,28,HAR,Brendon,Hartley,1989-11-10,New Zealander,http://en.wikipedia.org/wiki/Brendon_Hartley
+825,23993,210,20,5,11,11,11,0,67,+34.919,5584764,66,10,1:17.697,211.930,1,kevin_magnussen,20,MAG,Kevin,Magnussen,1992-10-05,Danish,http://en.wikipedia.org/wiki/Kevin_Magnussen
+832,23994,4,55,8,12,12,12,0,67,+43.069,5592914,63,7,1:17.430,212.661,1,sainz,55,SAI,Carlos,Sainz,1994-09-01,Spanish,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.
+838,23995,1,2,19,13,13,13,0,67,+46.617,5596462,67,8,1:17.537,212.368,1,vandoorne,2,VAN,Stoffel,Vandoorne,1992-03-26,Belgian,http://en.wikipedia.org/wiki/Stoffel_Vandoorne
+842,23996,5,10,16,14,14,14,0,66,\N,\N,66,13,1:17.762,211.753,11,gasly,10,GAS,Pierre,Gasly,1996-02-07,French,http://en.wikipedia.org/wiki/Pierre_Gasly
+844,23997,15,16,9,15,15,15,0,66,\N,\N,64,14,1:17.852,211.509,11,leclerc,16,LEC,Charles,Leclerc,1997-10-16,Monegasque,http://en.wikipedia.org/wiki/Charles_Leclerc
+4,23998,1,14,11,16,16,16,0,65,\N,\N,60,11,1:17.741,211.811,31,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+840,23999,3,18,18,\N,R,17,0,53,\N,\N,35,19,1:18.861,208.802,5,stroll,18,STR,Lance,Stroll,1998-10-29,Canadian,http://en.wikipedia.org/wiki/Lance_Stroll
+20,24000,6,5,1,\N,R,18,0,51,\N,\N,39,6,1:17.290,213.046,3,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+845,24001,3,35,12,\N,R,19,0,51,\N,\N,36,20,1:18.934,208.609,5,sirotkin,35,SIR,Sergey,Sirotkin,1995-08-27,Russian,http://en.wikipedia.org/wiki/Sergey_Sirotkin_(racing_driver)
+817,24002,9,3,20,\N,R,20,0,27,\N,\N,22,18,1:18.262,210.400,5,ricciardo,3,RIC,Daniel,Ricciardo,1989-07-01,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo

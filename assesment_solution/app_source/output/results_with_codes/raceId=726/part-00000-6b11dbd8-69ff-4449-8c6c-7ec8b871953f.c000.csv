@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+289,17577,66,1,1,1,1,1,9,110,2:19:22.1,8362100,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+386,17578,66,2,4,2,2,2,6,110,+34.3,8396400,\N,\N,\N,\N,1,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+373,17579,172,8,2,3,3,3,4,109,\N,\N,\N,\N,\N,\N,11,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+356,17580,34,5,5,4,4,4,3,108,\N,\N,\N,\N,\N,\N,12,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+385,17581,6,24,9,5,5,5,2,106,\N,\N,\N,\N,\N,\N,14,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+430,17582,95,12,19,6,6,6,1,99,\N,\N,\N,\N,\N,\N,45,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+448,17583,98,21,21,7,7,7,0,88,\N,\N,\N,\N,\N,\N,115,broeker,\N,\N,Peter,Broeker,1926-05-15,Canadian,http://en.wikipedia.org/wiki/Peter_Broeker
+347,17584,170,11,12,8,8,8,0,85,\N,\N,\N,\N,\N,\N,113,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+341,17585,6,23,3,9,9,9,0,82,\N,\N,\N,\N,\N,\N,5,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+440,17586,176,16,16,10,10,10,0,76,\N,\N,\N,\N,\N,\N,6,hall,\N,\N,Jim,Hall,1935-07-23,American,http://en.wikipedia.org/wiki/Jim_Hall_(race_car_driver)
+360,17587,170,3,11,11,11,11,0,74,\N,\N,\N,\N,\N,\N,48,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+346,17588,176,14,14,\N,R,12,0,56,\N,\N,\N,\N,\N,\N,6,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+408,17589,170,4,10,\N,R,13,0,44,\N,\N,\N,\N,\N,\N,80,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+449,17590,176,18,17,\N,R,14,0,44,\N,\N,\N,\N,\N,\N,6,ward,\N,\N,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
+364,17591,34,6,6,\N,R,15,0,42,\N,\N,\N,\N,\N,\N,83,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+345,17592,172,10,13,\N,R,16,0,36,\N,\N,\N,\N,\N,\N,5,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+401,17593,172,9,7,\N,R,17,0,24,\N,\N,\N,\N,\N,\N,10,trevor_taylor,\N,\N,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
+418,17594,26,17,8,\N,R,18,0,14,\N,\N,\N,\N,\N,\N,5,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+434,17595,176,22,18,\N,R,19,0,6,\N,\N,\N,\N,\N,\N,31,sharp,\N,\N,Hap,Sharp,1928-01-01,American,http://en.wikipedia.org/wiki/Hap_Sharp
+403,17596,54,25,15,\N,R,20,0,4,\N,\N,\N,\N,\N,\N,94,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+394,17597,54,26,20,\N,R,21,0,0,\N,\N,\N,\N,\N,\N,94,baghetti,\N,\N,Giancarlo,Baghetti,1934-12-25,Italian,http://en.wikipedia.org/wiki/Giancarlo_Baghetti
+433,17598,172,7,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,hansgen,\N,\N,Walt,Hansgen,1919-10-28,American,http://en.wikipedia.org/wiki/Walt_Hansgen
+404,17599,176,15,0,\N,W,23,0,0,\N,\N,\N,\N,\N,\N,54,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+450,17600,98,19,0,\N,W,24,0,0,\N,\N,\N,\N,\N,\N,54,vos,\N,\N,Ernie,de Vos,1941-07-01,Dutch,http://en.wikipedia.org/wiki/Ernie_de_Vos

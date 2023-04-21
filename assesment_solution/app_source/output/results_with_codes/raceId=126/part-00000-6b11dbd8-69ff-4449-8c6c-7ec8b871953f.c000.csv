@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+30,2239,6,1,2,1,1,1,10,71,1:31:43.662,5503662,\N,\N,\N,\N,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+23,2240,3,5,3,2,2,2,6,71,+0.588,5504250,\N,\N,\N,\N,1,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+14,2241,1,3,4,3,3,3,4,71,+59.109,5562771,\N,\N,\N,\N,1,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+18,2242,4,15,7,4,4,4,3,71,+1:06.883,5570545,\N,\N,\N,\N,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+31,2243,3,6,1,5,5,5,2,71,+1:07.563,5571225,\N,\N,\N,\N,1,montoya,\N,MON,Juan,Pablo Montoya,1975-09-20,Colombian,http://en.wikipedia.org/wiki/Juan_Pablo_Montoya
+63,2244,7,24,10,6,6,6,1,70,\N,\N,\N,\N,\N,\N,11,salo,\N,\N,Mika,Salo,1966-11-30,Finnish,http://en.wikipedia.org/wiki/Mika_Salo
+56,2245,19,16,13,7,7,7,0,70,\N,\N,\N,\N,\N,\N,11,irvine,\N,\N,Eddie,Irvine,1965-11-10,British,http://en.wikipedia.org/wiki/Eddie_Irvine
+37,2246,19,17,11,8,8,8,0,70,\N,\N,\N,\N,\N,\N,11,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+11,2247,17,10,19,9,9,9,0,69,\N,\N,\N,\N,\N,\N,12,sato,\N,SAT,Takuma,Sato,1977-01-28,Japanese,http://en.wikipedia.org/wiki/Takuma_Sato
+35,2248,16,11,15,10,10,10,0,68,\N,\N,\N,\N,\N,\N,5,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+17,2249,18,23,20,11,11,11,0,68,\N,\N,\N,\N,\N,\N,13,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+8,2250,1,4,5,12,12,12,0,67,\N,\N,\N,\N,\N,\N,46,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+62,2251,18,22,22,13,13,13,0,67,\N,\N,\N,\N,\N,\N,14,yoong,\N,\N,Alex,Yoong,1976-07-20,Malaysian,http://en.wikipedia.org/wiki/Alex_Yoong
+2,2252,15,7,9,\N,R,14,0,61,\N,\N,\N,\N,\N,\N,23,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+15,2253,4,14,6,\N,R,15,0,60,\N,\N,\N,\N,\N,\N,5,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+13,2254,15,8,12,\N,R,16,0,41,\N,\N,\N,\N,\N,\N,4,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+66,2255,7,25,16,\N,R,17,0,40,\N,\N,\N,\N,\N,\N,20,mcnish,\N,\N,Allan,McNish,1969-12-29,British,http://en.wikipedia.org/wiki/Allan_McNish
+44,2256,16,12,17,\N,R,18,0,25,\N,\N,\N,\N,\N,\N,6,panis,\N,\N,Olivier,Panis,1966-09-02,French,http://en.wikipedia.org/wiki/Olivier_Panis
+49,2257,21,20,18,\N,R,19,0,25,\N,\N,\N,\N,\N,\N,22,frentzen,\N,\N,Heinz-Harald,Frentzen,1967-05-18,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen
+59,2258,21,21,21,\N,R,20,0,19,\N,\N,\N,\N,\N,\N,22,bernoldi,\N,\N,Enrique,Bernoldi,1978-10-19,Brazilian,http://en.wikipedia.org/wiki/Enrique_Bernoldi
+22,2259,6,2,8,\N,R,21,0,16,\N,\N,\N,\N,\N,\N,9,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+21,2260,17,9,14,\N,R,22,0,6,\N,\N,\N,\N,\N,\N,5,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella

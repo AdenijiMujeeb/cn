@@ -1,0 +1,22 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,20046,51,34,1,1,1,1,9,100,3:13:18.7,11598700,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+647,20047,6,40,7,2,2,2,6,99,\N,\N,\N,\N,\N,\N,11,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+589,20048,105,48,8,3,3,3,4,98,\N,\N,\N,\N,\N,\N,12,chiron,\N,\N,Louis,Chiron,1899-08-03,Monegasque,http://en.wikipedia.org/wiki/Louis_Chiron
+793,20049,6,42,9,4,4,4,3,97,\N,\N,\N,\N,\N,\N,13,sommer,\N,\N,Raymond,Sommer,1906-08-31,French,http://en.wikipedia.org/wiki/Raymond_Sommer
+669,20050,105,50,15,5,5,5,2,95,\N,\N,\N,\N,\N,\N,15,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+619,20051,151,26,16,6,6,6,0,94,\N,\N,\N,\N,\N,\N,16,gerard,\N,\N,Bob,Gerard,1914-01-19,British,http://en.wikipedia.org/wiki/Bob_Gerard
+660,20052,154,6,19,7,7,7,0,94,\N,\N,\N,\N,\N,\N,16,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+633,20053,6,38,6,\N,R,8,0,63,\N,\N,\N,\N,\N,\N,109,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+741,20054,154,14,4,\N,R,9,0,38,\N,\N,\N,\N,\N,\N,44,etancelin,\N,\N,Philippe,Étancelin,1896-12-28,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
+498,20055,105,2,3,\N,R,10,0,1,\N,\N,\N,\N,\N,\N,3,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+642,20056,51,32,2,\N,R,11,0,0,\N,\N,\N,\N,\N,\N,3,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+786,20057,51,36,5,\N,R,12,0,0,\N,\N,\N,\N,\N,\N,3,fagioli,\N,\N,Luigi,Fagioli,1898-06-09,Italian,http://en.wikipedia.org/wiki/Luigi_Fagioli
+627,20058,154,16,10,\N,R,13,0,0,\N,\N,\N,\N,\N,\N,3,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+626,20059,141,10,11,\N,R,14,0,0,\N,\N,\N,\N,\N,\N,3,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+640,20060,105,52,12,\N,R,15,0,0,\N,\N,\N,\N,\N,\N,3,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+427,20061,141,12,13,\N,R,16,0,0,\N,\N,\N,\N,\N,\N,3,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+787,20062,151,24,14,\N,R,17,0,0,\N,\N,\N,\N,\N,\N,3,harrison,\N,\N,Cuth,Harrison,1906-07-06,British,http://en.wikipedia.org/wiki/Cuth_Harrison
+762,20063,105,44,17,\N,R,18,0,0,\N,\N,\N,\N,\N,\N,3,rol,\N,\N,Franco,Rol,1908-06-05,Italian,http://en.wikipedia.org/wiki/Franco_Rol
+501,20064,87,8,20,\N,R,19,0,0,\N,\N,\N,\N,\N,\N,4,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+687,20065,6,28,21,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,5,whitehead,\N,\N,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
+792,20066,105,4,18,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,3,pian,\N,\N,Alfredo,Pián,1912-10-21,Argentine,http://en.wikipedia.org/wiki/Alfredo_Pi%C3%A0n

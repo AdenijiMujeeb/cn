@@ -1,0 +1,30 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+475,19032,105,36,6,1,1,1,9,50,2:23:41.3,8621300,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+581,19033,6,26,7,2,2,2,3,50,+5.7,8627000,\N,\N,\N,\N,1,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+541,19034,125,4,26,3,3,3,4,49,\N,\N,\N,\N,\N,\N,11,flockhart,\N,\N,Ron,Flockhart,1923-06-16,British,http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing)
+580,19035,105,38,18,4,4,4,3,49,\N,\N,\N,\N,\N,\N,11,godia,\N,\N,Paco,Godia,1921-03-21,Spanish,http://en.wikipedia.org/wiki/Paco_Godia
+486,19036,125,6,16,5,5,5,2,47,\N,\N,\N,\N,\N,\N,13,fairman,\N,\N,Jack,Fairman,1913-03-15,British,http://en.wikipedia.org/wiki/Jack_Fairman
+586,19037,105,40,15,6,6,6,0,47,\N,\N,\N,\N,\N,\N,13,piotti,\N,\N,Luigi,Piotti,1913-10-27,Italian,http://en.wikipedia.org/wiki/Luigi_Piotti
+640,19038,105,14,19,7,7,7,0,46,\N,\N,\N,\N,\N,\N,14,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+579,19039,6,22,1,8,8,8,0,46,\N,\N,\N,\N,\N,\N,14,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+609,19040,128,12,25,9,9,9,0,45,\N,\N,\N,\N,\N,\N,15,simon,\N,\N,André,Simon,1920-01-05,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Simon_(racing_driver)
+583,19041,105,42,17,10,10,10,0,42,\N,\N,\N,\N,\N,\N,18,gerini,\N,\N,Gerino,Gerini,1928-08-10,Italian,http://en.wikipedia.org/wiki/Gerino_Gerini_(racing_driver)
+456,19042,105,44,14,11,11,11,0,41,\N,\N,\N,\N,\N,\N,19,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+577,19043,6,28,3,\N,R,12,0,47,\N,\N,\N,\N,\N,\N,38,musso,\N,\N,Luigi,Musso,1924-07-28,Italian,http://en.wikipedia.org/wiki/Luigi_Musso
+620,19044,105,46,13,\N,R,13,0,42,\N,\N,\N,\N,\N,\N,38,maglioli,\N,\N,Umberto,Maglioli,1928-06-05,Italian,http://en.wikipedia.org/wiki/Umberto_Maglioli
+501,19045,118,18,10,\N,R,14,0,32,\N,\N,\N,\N,\N,\N,7,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+554,19046,105,32,5,\N,R,15,0,23,\N,\N,\N,\N,\N,\N,121,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+506,19047,105,48,22,\N,R,16,0,16,\N,\N,\N,\N,\N,\N,5,halford,\N,\N,Bruce,Halford,1931-05-18,British,http://en.wikipedia.org/wiki/Bruce_Halford
+427,19048,118,20,11,\N,R,17,0,13,\N,\N,\N,\N,\N,\N,7,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+641,19049,118,16,4,\N,R,18,0,12,\N,\N,\N,\N,\N,\N,44,taruffi,\N,\N,Piero,Taruffi,1906-10-12,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
+608,19050,6,24,2,\N,R,19,0,9,\N,\N,\N,\N,\N,\N,27,castellotti,\N,\N,Eugenio,Castellotti,1930-10-10,Italian,http://en.wikipedia.org/wiki/Eugenio_Castellotti
+633,19051,105,34,8,\N,R,20,0,7,\N,\N,\N,\N,\N,\N,5,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+626,19052,128,10,23,\N,R,21,0,7,\N,\N,\N,\N,\N,\N,83,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+606,19053,6,30,9,\N,R,22,0,6,\N,\N,\N,\N,\N,\N,27,portago,\N,\N,Alfonso,de Portago,1928-10-11,Spanish,http://en.wikipedia.org/wiki/Alfonso_de_Portago
+610,19054,125,2,20,\N,R,23,0,6,\N,\N,\N,\N,\N,\N,22,leston,\N,\N,Les,Leston,1920-12-16,British,http://en.wikipedia.org/wiki/Les_Leston
+624,19055,128,8,21,\N,R,24,0,3,\N,\N,\N,\N,\N,\N,5,ramos,\N,\N,Hernando,da Silva Ramos,1925-12-07,Brazilian,http://en.wikipedia.org/wiki/Hernando_da_Silva_Ramos
+476,19056,6,50,0,\N,W,25,0,0,\N,\N,\N,\N,\N,\N,54,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+579,20281,6,26,7,2,2,2,3,50,+5.7,8627000,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+608,20282,6,22,1,8,8,8,0,46,\N,\N,\N,\N,\N,\N,14,castellotti,\N,\N,Eugenio,Castellotti,1930-10-10,Italian,http://en.wikipedia.org/wiki/Eugenio_Castellotti
+554,20283,105,46,13,\N,R,13,0,42,\N,\N,\N,\N,\N,\N,38,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+347,20284,105,34,8,\N,R,20,0,7,\N,\N,\N,\N,\N,\N,5,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier

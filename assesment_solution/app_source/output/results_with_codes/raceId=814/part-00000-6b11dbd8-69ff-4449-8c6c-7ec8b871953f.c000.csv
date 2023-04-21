@@ -1,0 +1,37 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+642,19556,6,12,3,1,1,1,8,18,3:02:25.0,10945000,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+579,19557,105,5,2,2,2,2,6,18,+1:04.0,11009000,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+578,19558,6,3,4,3,3,3,4,18,+1:43.6,11048600,\N,\N,\N,\N,1,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+697,19559,105,7,7,4,4,4,3,18,+8:48.6,11473600,\N,\N,\N,\N,1,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+640,19560,105,17,11,5,5,5,2,17,\N,\N,\N,\N,\N,\N,11,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+475,19561,87,19,12,6,6,6,0,17,\N,\N,\N,\N,\N,\N,11,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+680,19562,6,18,19,7,7,7,0,17,\N,\N,\N,\N,\N,\N,11,swaters,\N,\N,Jacques,Swaters,1926-10-30,American,http://en.wikipedia.org/wiki/Jacques_Swaters
+647,19563,6,1,1,8,8,8,0,17,\N,\N,\N,\N,\N,\N,11,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+478,19564,144,31,14,9,9,9,0,17,\N,\N,\N,\N,\N,\N,11,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+627,19565,6,20,22,10,10,10,0,17,\N,\N,\N,\N,\N,\N,11,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+690,19566,87,40,20,11,11,11,0,16,\N,\N,\N,\N,\N,\N,12,nuckey,\N,\N,Rodney,Nuckey,1929-06-26,British,http://en.wikipedia.org/wiki/Rodney_Nuckey
+692,19567,144,24,28,12,12,12,0,16,\N,\N,\N,\N,\N,\N,12,helfrich,\N,\N,Theo,Helfrich,1913-05-13,German,http://en.wikipedia.org/wiki/Theo_Helfrich
+664,19568,125,16,16,13,13,13,0,16,\N,\N,\N,\N,\N,\N,12,mcalpine,\N,\N,Kenneth,McAlpine,1920-09-21,British,http://en.wikipedia.org/wiki/Kenneth_McAlpine
+710,19569,145,36,26,14,14,14,0,16,\N,\N,\N,\N,\N,\N,12,krause,\N,\N,Rudolf,Krause,1907-03-30,East German,http://en.wikipedia.org/wiki/Rudolf_Krause
+709,19570,145,37,32,15,15,15,0,15,\N,\N,\N,\N,\N,\N,13,klodwig,\N,\N,Ernst,Klodwig,1903-05-23,East German,http://en.wikipedia.org/wiki/Ernst_Klodwig
+455,19571,144,22,29,16,16,16,0,14,\N,\N,\N,\N,\N,\N,14,seidel,\N,\N,Wolfgang,Seidel,1926-07-04,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel
+633,19572,6,4,6,\N,R,17,0,15,\N,\N,\N,\N,\N,\N,5,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+689,19573,87,38,17,\N,R,18,0,15,\N,\N,\N,\N,\N,\N,5,alan_brown,\N,\N,Alan,Brown,1919-11-20,British,http://en.wikipedia.org/wiki/Alan_Brown_(racing_driver)
+670,19574,105,8,8,\N,R,19,0,13,\N,\N,\N,\N,\N,\N,22,marimon,\N,\N,Onofre,Marimón,1923-12-19,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n
+431,19575,146,35,24,\N,R,20,0,12,\N,\N,\N,\N,\N,\N,43,barth,\N,\N,Edgar,Barth,1917-01-26,German,http://en.wikipedia.org/wiki/Edgar_Barth
+660,19576,125,12,25,\N,R,21,0,12,\N,\N,\N,\N,\N,\N,31,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+711,19577,144,26,34,\N,R,22,0,10,\N,\N,\N,\N,\N,\N,31,karch,\N,\N,Oswald,Karch,1917-03-06,German,http://en.wikipedia.org/wiki/Oswald_Karch
+712,19578,144,23,18,\N,R,23,0,8,\N,\N,\N,\N,\N,\N,31,heeks,\N,\N,Willi,Heeks,1922-02-13,German,http://en.wikipedia.org/wiki/Willi_Heeks
+554,19579,128,9,9,\N,R,24,0,7,\N,\N,\N,\N,\N,\N,6,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+501,19580,128,11,10,\N,R,25,0,6,\N,\N,\N,\N,\N,\N,5,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+669,19581,125,14,15,\N,R,26,0,6,\N,\N,\N,\N,\N,\N,22,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+713,19582,147,28,21,\N,R,27,0,3,\N,\N,\N,\N,\N,\N,31,fitzau,\N,\N,Theo,Fitzau,1923-02-10,East German,http://en.wikipedia.org/wiki/Theo_Fitzau
+714,19583,6,34,27,\N,R,28,0,3,\N,\N,\N,\N,\N,\N,31,adolff,\N,\N,Kurt,Adolff,1921-11-05,German,http://en.wikipedia.org/wiki/Kurt_Adolff
+715,19584,147,41,30,\N,R,29,0,2,\N,\N,\N,\N,\N,\N,31,bechem,\N,\N,Günther,Bechem,1921-12-21,German,http://en.wikipedia.org/wiki/G%C3%BCnther_Bechem
+427,19585,128,10,5,\N,R,30,0,1,\N,\N,\N,\N,\N,\N,24,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+456,19586,125,15,13,\N,R,31,0,1,\N,\N,\N,\N,\N,\N,5,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+716,19587,144,32,33,\N,R,32,0,1,\N,\N,\N,\N,\N,\N,31,bauer,\N,\N,Erwin,Bauer,1912-07-17,German,http://en.wikipedia.org/wiki/Erwin_Bauer
+717,19588,147,21,23,\N,R,33,0,0,\N,\N,\N,\N,\N,\N,31,hans_stuck,\N,\N,Hans,von Stuck,1900-12-27,German,http://en.wikipedia.org/wiki/Hans_Von_Stuck
+718,19589,144,30,31,\N,R,34,0,0,\N,\N,\N,\N,\N,\N,48,loof,\N,\N,Ernst,Loof,1907-07-04,German,http://en.wikipedia.org/wiki/Ernst_Loof
+633,20211,6,1,1,8,8,8,0,17,\N,\N,\N,\N,\N,\N,11,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+647,20212,6,4,6,\N,R,17,1,15,\N,\N,\N,\N,\N,\N,5,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari

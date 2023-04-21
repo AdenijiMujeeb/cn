@@ -1,0 +1,20 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+360,18465,170,9,10,1,1,1,8,42,2:12:35.7,7955700,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+427,18466,170,6,5,2,2,2,7,42,+0.6,7956300,\N,\N,\N,\N,1,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+479,18467,6,2,4,3,3,3,4,42,+3:00.9,8136600,\N,\N,\N,\N,1,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+356,18468,170,8,2,4,4,4,3,42,+4:57.3,8253000,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+404,18469,32,10,9,5,5,5,2,39,\N,\N,\N,\N,\N,\N,13,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+476,18470,6,4,6,6,6,6,0,38,\N,\N,\N,\N,\N,\N,5,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+572,18471,95,17,16,7,7,7,0,38,\N,\N,\N,\N,\N,\N,14,blanchard,\N,\N,Harry,Blanchard,1929-06-13,American,http://en.wikipedia.org/wiki/Harry_Blanchard
+477,18472,6,3,11,\N,R,8,0,23,\N,\N,\N,\N,\N,\N,7,allison,\N,\N,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
+456,18473,167,12,11,\N,R,9,0,23,\N,\N,\N,\N,\N,\N,7,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+449,18474,113,1,19,\N,R,10,0,20,\N,\N,\N,\N,\N,\N,8,ward,\N,\N,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
+573,18475,168,14,14,\N,R,11,0,13,\N,\N,\N,\N,\N,\N,23,tomaso,\N,\N,Alessandro,de Tomaso,1928-07-10,Argentine-Italian,http://en.wikipedia.org/wiki/Alessandro_de_Tomaso
+403,18476,6,5,8,\N,R,12,0,8,\N,\N,\N,\N,\N,\N,8,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+567,18477,124,15,17,\N,R,13,0,6,\N,\N,\N,\N,\N,\N,44,orey,\N,\N,Fritz,d'Orey,1938-03-25,Brazilian,http://en.wikipedia.org/wiki/Fritz_d%27Orey
+475,18478,170,7,1,\N,R,14,0,5,\N,\N,\N,\N,\N,\N,7,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+501,18479,170,19,3,\N,R,15,0,5,\N,\N,\N,\N,\N,\N,8,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+574,18480,169,16,15,\N,R,16,0,5,\N,\N,\N,\N,\N,\N,25,constantine,\N,\N,George,Constantine,1918-02-22,American,http://en.wikipedia.org/wiki/George_Constantine
+502,18481,32,11,12,\N,R,17,0,2,\N,\N,\N,\N,\N,\N,8,stacey,\N,\N,Alan,Stacey,1933-08-29,British,http://en.wikipedia.org/wiki/Alan_Stacey
+575,18482,125,18,13,\N,R,18,0,0,\N,\N,\N,\N,\N,\N,3,said,\N,\N,Bob,Said,1932-05-05,American,http://en.wikipedia.org/wiki/Bob_Said
+576,18483,105,22,0,\N,W,19,0,0,\N,\N,\N,\N,\N,\N,54,cade,\N,\N,Phil,Cade,1916-06-12,American,http://en.wikipedia.org/wiki/Phil_Cade

@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+102,5971,1,8,1,1,1,1,10,79,1:43:27.476,6207476,\N,\N,\N,\N,1,senna,\N,\N,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
+117,5972,3,2,2,2,2,2,6,79,+9.259,6216735,\N,\N,\N,\N,1,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+71,5973,3,0,3,3,3,3,4,79,+33.902,6241378,\N,\N,\N,\N,1,damon_hill,\N,\N,Damon,Hill,1960-09-17,British,http://en.wikipedia.org/wiki/Damon_Hill
+55,5974,6,27,7,4,4,4,3,78,\N,\N,\N,\N,\N,\N,11,alesi,\N,\N,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
+77,5975,6,28,6,5,5,5,2,78,\N,\N,\N,\N,\N,\N,11,berger,\N,\N,Gerhard,Berger,1959-08-27,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger
+84,5976,27,25,8,6,6,6,1,78,\N,\N,\N,\N,\N,\N,11,brundle,\N,\N,Martin,Brundle,1959-06-01,British,http://en.wikipedia.org/wiki/Martin_Brundle
+88,5977,29,10,10,7,7,7,0,78,\N,\N,\N,\N,\N,\N,11,suzuki,\N,\N,Aguri,Suzuki,1960-09-08,Japanese,http://en.wikipedia.org/wiki/Aguri_Suzuki
+119,5978,22,6,9,8,8,8,0,77,\N,\N,\N,\N,\N,\N,69,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+87,5979,27,26,14,9,9,9,0,77,\N,\N,\N,\N,\N,\N,12,blundell,\N,\N,Mark,Blundell,1966-04-08,British,http://en.wikipedia.org/wiki/Mark_Blundell
+118,5980,29,9,17,10,10,10,0,77,\N,\N,\N,\N,\N,\N,12,warwick,\N,\N,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
+22,5981,17,14,13,11,11,11,0,76,\N,\N,\N,\N,\N,\N,13,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+100,5982,33,20,21,12,12,12,0,76,\N,\N,\N,\N,\N,\N,13,comas,\N,\N,Érik,Comas,1963-09-28,French,http://en.wikipedia.org/wiki/%C3%89rik_Comas
+110,5983,25,4,15,13,13,13,0,75,\N,\N,\N,\N,\N,\N,14,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
+126,5984,33,19,24,14,14,14,0,74,\N,\N,\N,\N,\N,\N,15,toshio_suzuki,\N,\N,Toshio,Suzuki,1955-03-10,Japanese,http://en.wikipedia.org/wiki/Toshio_Suzuki_(driver)
+91,5985,15,29,11,15,15,15,0,73,\N,\N,\N,\N,\N,\N,23,wendlinger,\N,\N,Karl,Wendlinger,1968-12-20,Austrian,http://en.wikipedia.org/wiki/Karl_Wendlinger
+109,5986,15,30,12,\N,R,16,0,56,\N,\N,\N,\N,\N,\N,3,lehto,\N,\N,Jyrki,Järvilehto,1966-01-31,Finnish,http://en.wikipedia.org/wiki/Jyrki_J%C3%A4rvilehto
+111,5987,18,23,22,\N,R,17,0,34,\N,\N,\N,\N,\N,\N,20,gounon,\N,\N,Jean-Marc,Gounon,1963-01-01,French,http://en.wikipedia.org/wiki/Jean-Marc_Gounon
+57,5988,1,7,5,\N,R,18,0,28,\N,\N,\N,\N,\N,\N,23,hakkinen,\N,\N,Mika,Häkkinen,1968-09-28,Finnish,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen
+30,5989,22,5,4,\N,R,19,0,19,\N,\N,\N,\N,\N,\N,5,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+79,5990,25,3,18,\N,R,20,0,11,\N,\N,\N,\N,\N,\N,20,katayama,\N,\N,Ukyo,Katayama,1963-05-29,Japanese,http://en.wikipedia.org/wiki/Ukyo_Katayama
+56,5991,17,15,19,\N,R,21,0,10,\N,\N,\N,\N,\N,\N,3,irvine,\N,\N,Eddie,Irvine,1965-11-10,British,http://en.wikipedia.org/wiki/Eddie_Irvine
+65,5992,32,12,20,\N,R,22,0,9,\N,\N,\N,\N,\N,\N,22,herbert,\N,\N,Johnny,Herbert,1964-06-25,British,http://en.wikipedia.org/wiki/Johnny_Herbert
+94,5993,18,24,16,\N,R,23,0,5,\N,\N,\N,\N,\N,\N,6,martini,\N,\N,Pierluigi,Martini,1961-04-23,Italian,http://en.wikipedia.org/wiki/Pierluigi_Martini
+83,5994,32,11,23,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,3,lamy,\N,\N,Pedro,Lamy,1972-03-20,Portuguese,http://en.wikipedia.org/wiki/Pedro_Lamy

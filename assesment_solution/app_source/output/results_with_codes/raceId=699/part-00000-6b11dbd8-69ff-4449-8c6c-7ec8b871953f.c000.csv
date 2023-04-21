@@ -1,0 +1,32 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,16984,172,5,1,1,1,1,9,85,2:06:46.0,7606000,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+341,16985,6,1,2,2,2,2,6,85,+29.0,7635000,\N,\N,\N,\N,1,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+289,16986,66,3,5,3,3,3,4,85,+31.8,7637800,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+374,16987,172,6,4,4,4,4,3,85,+54.4,7660400,\N,\N,\N,\N,1,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+360,16988,170,9,8,5,5,5,2,84,\N,\N,\N,\N,\N,\N,11,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+328,16989,66,4,11,6,6,6,1,83,\N,\N,\N,\N,\N,\N,12,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+346,16990,181,12,14,7,7,7,0,83,\N,\N,\N,\N,\N,\N,12,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+356,16991,183,7,3,8,8,8,0,81,\N,\N,\N,\N,\N,\N,14,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+406,16992,182,18,16,9,9,9,0,81,\N,\N,\N,\N,\N,\N,14,hawkins,\N,\N,Paul,Hawkins,1937-10-12,Australian,http://en.wikipedia.org/wiki/Paul_Hawkins_(racing_driver)
+362,16993,51,20,17,10,10,10,0,79,\N,\N,\N,\N,\N,\N,16,klerk,\N,\N,Peter,de Klerk,1935-03-16,South African,http://en.wikipedia.org/wiki/Peter_de_Klerk
+408,16994,176,15,13,11,11,11,0,77,\N,\N,\N,\N,\N,\N,18,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+380,16995,181,16,15,12,12,12,0,75,\N,\N,\N,\N,\N,\N,88,gardner,\N,\N,Frank,Gardner,1930-10-01,Australian,http://en.wikipedia.org/wiki/Frank_Gardner_(driver)
+368,16996,185,25,20,13,13,13,0,73,\N,\N,\N,\N,\N,\N,55,tingle,\N,\N,Sam,Tingle,1921-08-24,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle
+407,16997,182,19,19,14,14,14,0,71,\N,\N,\N,\N,\N,\N,111,prophet,\N,\N,David,Prophet,1937-10-09,British,http://en.wikipedia.org/wiki/David_Prophet
+385,16998,6,2,6,15,15,15,0,66,\N,\N,\N,\N,\N,\N,80,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+383,16999,183,14,12,\N,N,16,0,50,\N,\N,\N,\N,\N,\N,62,anderson,\N,\N,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
+347,17000,183,11,7,\N,R,17,0,42,\N,\N,\N,\N,\N,\N,8,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+358,17001,170,10,10,\N,R,18,0,39,\N,\N,\N,\N,\N,\N,10,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+340,17002,170,17,18,\N,R,19,0,20,\N,\N,\N,\N,\N,\N,86,love,\N,\N,John,Love,1924-12-07,Rhodesian,http://en.wikipedia.org/wiki/John_Love_(racing_driver)
+364,17003,183,8,9,\N,R,20,0,11,\N,\N,\N,\N,\N,\N,80,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+409,17004,186,28,0,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,blokdyk,\N,\N,Trevor,Blokdyk,1935-11-30,South African,http://en.wikipedia.org/wiki/Trevor_Blokdyk
+410,17005,172,23,0,\N,F,22,0,0,\N,\N,\N,\N,\N,\N,81,lederle,\N,\N,Neville,Lederle,1938-09-25,South African,http://en.wikipedia.org/wiki/Neville_Lederle
+411,17006,184,21,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,serrurier,\N,\N,Doug,Serrurier,1920-12-09,South African,http://en.wikipedia.org/wiki/Doug_Serrurier
+412,17007,180,27,0,\N,F,24,0,0,\N,\N,\N,\N,\N,\N,81,niemann,\N,\N,Brausch,Niemann,1939-01-07,South African,http://en.wikipedia.org/wiki/Brausch_Niemann
+413,17008,172,22,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,pieterse,\N,\N,Ernie,Pieterse,1938-07-04,South African,http://en.wikipedia.org/wiki/Ernie_Pieterse
+414,17009,172,24,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,97,puzey,\N,\N,Clive,Puzey,1941-07-11,Rhodesian,http://en.wikipedia.org/wiki/Clive_Puzey
+334,17010,185,29,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,97,pretorius,\N,\N,Jackie,Pretorius,1934-11-22,South African,http://en.wikipedia.org/wiki/Jackie_Pretorius
+293,17011,180,32,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,97,charlton,\N,\N,Dave,Charlton,1936-10-27,South African,http://en.wikipedia.org/wiki/Dave_Charlton
+415,17012,93,26,0,\N,W,29,0,0,\N,\N,\N,\N,\N,\N,54,reed,\N,\N,Ray,Reed,1932-04-30,South African,http://en.wikipedia.org/wiki/Ray_Reed
+416,17013,167,31,0,\N,W,30,0,0,\N,\N,\N,\N,\N,\N,54,clapham,\N,\N,David,Clapham,1931-05-18,South African,http://en.wikipedia.org/wiki/David_Clapham
+417,17014,170,33,0,\N,W,31,0,0,\N,\N,\N,\N,\N,\N,54,blignaut,\N,\N,Alex,Blignaut,1932-11-30,South African,http://en.wikipedia.org/wiki/Alex_Blignaut

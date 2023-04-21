@@ -1,0 +1,14 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+642,19905,51,4,2,1,1,1,8,36,2:45:46.2,9946200,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+647,19906,6,8,4,2,2,2,6,36,+2:51.0,10117200,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+633,19907,6,10,3,3,3,3,4,36,+4:21.9,10208100,\N,\N,\N,\N,1,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+627,19908,154,14,7,4,4,4,3,34,\N,\N,\N,\N,\N,\N,12,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+704,19909,154,22,8,5,5,5,2,34,\N,\N,\N,\N,\N,\N,12,cabantous,\N,\N,Yves,Cabantous,1904-10-08,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous
+429,19910,154,24,12,6,6,6,0,33,\N,\N,\N,\N,\N,\N,13,andre_pilette,\N,\N,André,Pilette,1918-10-06,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette
+660,19911,154,16,11,7,7,7,0,33,\N,\N,\N,\N,\N,\N,13,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+773,19912,154,26,13,8,8,8,0,32,\N,\N,\N,\N,\N,\N,14,levegh,\N,\N,Pierre,Levegh,1905-12-22,French,http://en.wikipedia.org/wiki/Pierre_Levegh
+579,19913,51,2,1,9,9,9,1,32,\N,\N,\N,\N,\N,\N,14,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+589,19914,154,18,9,\N,R,10,0,28,\N,\N,\N,\N,\N,\N,5,chiron,\N,\N,Louis,Chiron,1899-08-03,Monegasque,http://en.wikipedia.org/wiki/Louis_Chiron
+763,19915,51,6,6,\N,R,11,0,11,\N,\N,\N,\N,\N,\N,21,sanesi,\N,\N,Consalvo,Sanesi,1911-03-28,Italian,http://en.wikipedia.org/wiki/Consalvo_Sanesi
+641,19916,6,12,5,\N,R,12,0,8,\N,\N,\N,\N,\N,\N,7,taruffi,\N,\N,Piero,Taruffi,1906-10-12,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
+741,19917,154,20,10,\N,R,13,0,0,\N,\N,\N,\N,\N,\N,7,etancelin,\N,\N,Philippe,Étancelin,1896-12-28,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin

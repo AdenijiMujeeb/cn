@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+30,2135,6,1,1,1,1,1,10,53,1:14:19.838,4459838,\N,\N,\N,\N,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+31,2136,3,3,2,2,2,2,8,53,+5.294,4465132,\N,\N,\N,\N,1,montoya,\N,MON,Juan,Pablo Montoya,1975-09-20,Colombian,http://en.wikipedia.org/wiki/Juan_Pablo_Montoya
+22,2137,6,2,3,3,3,3,6,53,+11.835,4471673,\N,\N,\N,\N,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+8,2138,1,6,4,4,4,4,5,53,+12.834,4472672,\N,\N,\N,\N,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+48,2139,3,4,5,5,5,5,4,53,+27.891,4487729,\N,\N,\N,\N,1,gene,\N,\N,Marc,Gené,1974-03-29,Spanish,http://en.wikipedia.org/wiki/Marc_Gen%C3%A9
+35,2140,16,16,10,6,6,6,3,52,\N,\N,\N,\N,\N,\N,11,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+17,2141,19,14,11,7,7,7,2,52,\N,\N,\N,\N,\N,\N,11,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+4,2142,4,8,20,8,8,8,1,52,\N,\N,\N,\N,\N,\N,11,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+2,2143,15,9,16,9,9,9,0,52,\N,\N,\N,\N,\N,\N,11,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+21,2144,17,11,13,10,10,10,0,52,\N,\N,\N,\N,\N,\N,11,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+47,2145,17,12,18,11,11,11,0,51,\N,\N,\N,\N,\N,\N,12,baumgartner,\N,\N,Zsolt,Baumgartner,1981-01-01,Hungarian,http://en.wikipedia.org/wiki/Zsolt_Baumgartner
+53,2146,18,18,19,12,12,12,0,51,\N,\N,\N,\N,\N,\N,12,kiesa,\N,\N,Nicolas,Kiesa,1978-03-03,Danish,http://en.wikipedia.org/wiki/Nicolas_Kiesa
+49,2147,15,10,14,13,13,13,0,50,\N,\N,\N,\N,\N,\N,13,frentzen,\N,\N,Heinz-Harald,Frentzen,1967-05-18,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen
+14,2148,1,5,8,\N,R,14,0,45,\N,\N,\N,\N,\N,\N,32,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+44,2149,7,20,9,\N,R,15,0,35,\N,\N,\N,\N,\N,\N,23,panis,\N,\N,Olivier,Panis,1966-09-02,French,http://en.wikipedia.org/wiki/Olivier_Panis
+50,2150,18,19,17,\N,R,16,0,27,\N,\N,\N,\N,\N,\N,44,verstappen,\N,\N,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
+18,2151,16,17,7,\N,R,17,0,24,\N,\N,\N,\N,\N,\N,6,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+43,2152,7,21,12,\N,R,18,0,3,\N,\N,\N,\N,\N,\N,27,matta,\N,\N,Cristiano,da Matta,1973-09-19,Brazilian,http://en.wikipedia.org/wiki/Cristiano_da_Matta
+51,2153,19,15,15,\N,R,19,0,2,\N,\N,\N,\N,\N,\N,6,wilson,\N,\N,Justin,Wilson,1978-07-31,British,http://en.wikipedia.org/wiki/Justin_Wilson_(racing_driver)
+15,2154,4,7,6,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,9,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli

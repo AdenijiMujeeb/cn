@@ -1,0 +1,32 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,19610,105,50,2,1,1,1,9,80,2:49:45.9,10185900,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+642,19611,6,6,3,2,2,2,6,80,+1.4,10187300,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+633,19612,6,2,5,3,3,3,4,79,\N,\N,\N,\N,\N,\N,11,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+578,19613,6,8,6,4,4,4,3,79,\N,\N,\N,\N,\N,\N,11,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+427,19614,128,36,8,5,5,5,2,79,\N,\N,\N,\N,\N,\N,11,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+643,19615,128,40,16,6,6,6,0,77,\N,\N,\N,\N,\N,\N,13,mieres,\N,\N,Roberto,Mieres,1924-12-03,Argentine,http://en.wikipedia.org/wiki/Roberto_Mieres
+644,19616,105,56,12,7,7,7,0,76,\N,\N,\N,\N,\N,\N,14,mantovani,\N,\N,Sergio,Mantovani,1929-05-22,Italian,http://en.wikipedia.org/wiki/Sergio_Mantovani
+620,19617,6,10,11,8,8,8,0,75,\N,\N,\N,\N,\N,\N,15,maglioli,\N,\N,Umberto,Maglioli,1928-06-05,Italian,http://en.wikipedia.org/wiki/Umberto_Maglioli
+501,19618,128,38,15,9,9,9,0,75,\N,\N,\N,\N,\N,\N,15,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+589,19619,127,32,25,10,10,10,0,72,\N,\N,\N,\N,\N,\N,18,chiron,\N,\N,Louis,Chiron,1899-08-03,Monegasque,http://en.wikipedia.org/wiki/Louis_Chiron
+669,19620,105,44,23,11,11,11,0,72,\N,\N,\N,\N,\N,\N,18,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+689,19621,87,46,24,12,12,12,0,70,\N,\N,\N,\N,\N,\N,88,alan_brown,\N,\N,Alan,Brown,1919-11-20,British,http://en.wikipedia.org/wiki/Alan_Brown_(racing_driver)
+475,19622,87,28,10,13,13,13,0,70,\N,\N,\N,\N,\N,\N,88,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+717,19623,147,48,29,14,14,14,0,67,\N,\N,\N,\N,\N,\N,53,hans_stuck,\N,\N,Hans,von Stuck,1900-12-27,German,http://en.wikipedia.org/wiki/Hans_Von_Stuck
+704,19624,133,16,28,15,15,15,0,67,\N,\N,\N,\N,\N,\N,53,cabantous,\N,\N,Yves,Cabantous,1904-10-08,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous
+627,19625,6,64,17,16,16,16,0,65,\N,\N,\N,\N,\N,\N,112,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+647,19626,6,4,1,\N,R,17,0,79,\N,\N,\N,\N,\N,\N,3,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+697,19627,105,52,7,\N,R,18,0,77,\N,\N,\N,\N,\N,\N,60,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+670,19628,105,54,4,\N,R,19,0,75,\N,\N,\N,\N,\N,\N,3,marimon,\N,\N,Onofre,Marimón,1923-12-19,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n
+640,19629,105,58,9,\N,R,20,0,70,\N,\N,\N,\N,\N,\N,5,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+486,19630,125,20,22,\N,N,21,0,61,\N,\N,\N,\N,\N,\N,62,fairman,\N,\N,Jack,Fairman,1913-03-15,British,http://en.wikipedia.org/wiki/Jack_Fairman
+663,19631,87,30,19,\N,N,22,0,57,\N,\N,\N,\N,\N,\N,62,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+664,19632,125,24,18,\N,N,23,0,56,\N,\N,\N,\N,\N,\N,62,mcalpine,\N,\N,Kenneth,McAlpine,1920-09-21,British,http://en.wikipedia.org/wiki/Kenneth_McAlpine
+722,19633,6,12,20,\N,R,24,0,40,\N,\N,\N,\N,\N,\N,5,carini,\N,\N,Piero,Carini,1921-03-06,Italian,http://en.wikipedia.org/wiki/Piero_Carini
+456,19634,125,22,14,\N,R,25,0,33,\N,\N,\N,\N,\N,\N,37,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+622,19635,105,2,21,\N,R,26,0,18,\N,\N,\N,\N,\N,\N,5,landi,\N,\N,Chico,Landi,1907-07-14,Brazilian,http://en.wikipedia.org/wiki/Chico_Landi
+625,19636,127,34,13,\N,R,27,0,17,\N,\N,\N,\N,\N,\N,5,bayol,\N,\N,Élie,Bayol,1914-02-28,French,http://en.wikipedia.org/wiki/%C3%89lie_Bayol
+667,19637,133,18,26,\N,R,28,0,14,\N,\N,\N,\N,\N,\N,5,fitch,\N,\N,John,Fitch,1917-08-04,American,http://en.wikipedia.org/wiki/John_Fitch_(driver)
+660,19638,125,26,30,\N,R,29,0,7,\N,\N,\N,\N,\N,\N,69,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+651,19639,133,14,27,\N,R,30,0,6,\N,\N,\N,\N,\N,\N,5,macklin,\N,\N,Lance,Macklin,1919-09-02,British,http://en.wikipedia.org/wiki/Lance_Macklin
+577,20215,105,56,12,7,7,7,0,76,\N,\N,\N,\N,\N,\N,14,musso,\N,\N,Luigi,Musso,1924-07-28,Italian,http://en.wikipedia.org/wiki/Luigi_Musso

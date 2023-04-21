@@ -1,0 +1,22 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+475,17849,172,20,1,1,1,1,9,100,2:45:50.1,9950100,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+386,17850,6,36,2,2,2,2,6,100,+3.6,9953700,\N,\N,\N,\N,1,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+403,17851,6,38,5,3,3,3,4,100,+41.3,9991400,\N,\N,\N,\N,1,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+476,17852,6,40,6,4,4,4,3,98,\N,\N,\N,\N,\N,\N,3,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+364,17853,95,4,11,5,5,5,2,98,\N,\N,\N,\N,\N,\N,12,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+360,17854,170,26,7,6,6,6,1,95,\N,\N,\N,\N,\N,\N,15,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+427,17855,167,42,16,7,7,7,0,95,\N,\N,\N,\N,\N,\N,15,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+477,17856,172,32,15,8,8,8,0,93,\N,\N,\N,\N,\N,\N,17,allison,\N,\N,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
+478,17857,95,6,13,9,9,9,0,91,\N,\N,\N,\N,\N,\N,19,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+373,17858,172,28,3,10,10,10,0,89,\N,\N,\N,\N,\N,\N,45,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+341,17859,170,22,12,11,11,11,0,68,\N,\N,\N,\N,\N,\N,5,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+347,17860,95,2,9,12,12,12,0,59,\N,\N,\N,\N,\N,\N,98,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+479,17861,66,16,8,13,13,13,0,54,\N,\N,\N,\N,\N,\N,5,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+480,17862,172,8,14,\N,R,14,0,42,\N,\N,\N,\N,\N,\N,108,may,\N,\N,Michael,May,1934-08-18,Swiss,http://en.wikipedia.org/wiki/Michael_May_(racing_driver)
+356,17863,170,24,21,\N,R,15,0,38,\N,\N,\N,\N,\N,\N,80,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+289,17864,66,18,4,\N,R,16,0,11,\N,\N,\N,\N,\N,\N,48,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+404,17865,172,30,0,\N,W,17,0,0,\N,\N,\N,\N,\N,\N,54,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+481,17866,172,34,0,\N,F,18,0,0,\N,\N,\N,\N,\N,\N,81,henry_taylor,\N,\N,Henry,Taylor,1932-12-16,British,http://en.wikipedia.org/wiki/Henry_Taylor_(racing_driver)
+418,17867,170,14,0,\N,F,19,0,0,\N,\N,\N,\N,\N,\N,81,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+376,17868,99,10,0,\N,F,20,0,0,\N,\N,\N,\N,\N,\N,81,bianchi,\N,BIA,Lucien,Bianchi,1934-11-10,Belgian,http://en.wikipedia.org/wiki/Lucien_Bianchi
+482,17869,99,12,0,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,gendebien,\N,\N,Olivier,Gendebien,1924-01-12,Belgian,http://en.wikipedia.org/wiki/Olivier_Gendebien

@@ -1,0 +1,28 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+224,15545,32,6,4,1,1,1,9,55,1:29:58.4,5398400,\N,\N,\N,\N,1,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+305,15546,63,10,9,2,2,2,6,55,+14.5,5412900,\N,\N,\N,\N,1,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+304,15547,1,14,5,3,3,3,4,55,+23.8,5422200,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+309,15548,1,15,8,4,4,4,3,55,+35.7,5434100,\N,\N,\N,\N,1,revson,\N,\N,Peter,Revson,1939-02-27,American,http://en.wikipedia.org/wiki/Peter_Revson
+289,15549,34,28,13,5,5,5,2,55,+1:05.6,5464000,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+320,15550,66,23,12,6,6,6,1,55,+1:21.9,5480300,\N,\N,\N,\N,1,gethin,\N,\N,Peter,Gethin,1940-02-21,British,http://en.wikipedia.org/wiki/Peter_Gethin
+207,15551,6,3,7,7,7,7,0,54,\N,\N,\N,\N,\N,\N,11,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+306,15552,66,21,16,8,8,8,0,54,\N,\N,\N,\N,\N,\N,11,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+238,15553,37,19,24,9,9,9,0,54,\N,\N,\N,\N,\N,\N,11,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+329,15554,37,16,25,10,10,10,0,54,\N,\N,\N,\N,\N,\N,11,beuttler,\N,\N,Mike,Beuttler,1940-04-13,British,http://en.wikipedia.org/wiki/Mike_Beuttler
+307,15555,66,22,17,11,11,11,0,52,\N,\N,\N,\N,\N,\N,13,ganley,\N,\N,Howden,Ganley,1941-12-24,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley
+317,15556,66,24,10,12,12,12,0,51,\N,\N,\N,\N,\N,\N,14,wisell,\N,\N,Reine,Wisell,1941-09-30,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell
+182,15557,37,18,20,13,13,13,0,50,\N,\N,\N,\N,\N,\N,15,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+235,15558,6,4,1,\N,R,14,0,46,\N,\N,\N,\N,\N,\N,10,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+278,15559,82,20,2,\N,R,15,0,38,\N,\N,\N,\N,\N,\N,23,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+333,15560,63,9,21,\N,R,16,0,33,\N,\N,\N,\N,\N,\N,23,adamich,\N,\N,Andrea,de Adamich,1941-10-03,Italian,http://en.wikipedia.org/wiki/Andrea_de_Adamich
+290,15561,34,29,19,\N,R,17,0,20,\N,\N,\N,\N,\N,\N,22,wilson_fittipaldi,\N,\N,Wilson,Fittipaldi,1943-12-25,Brazilian,http://en.wikipedia.org/wiki/Wilson_Fittipaldi
+341,15562,63,7,22,\N,R,18,0,20,\N,\N,\N,\N,\N,\N,69,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+314,15563,63,8,15,\N,R,19,0,20,\N,\N,\N,\N,\N,\N,20,schenken,\N,\N,Tim,Schenken,1943-09-26,Australian,http://en.wikipedia.org/wiki/Tim_Schenken
+223,15564,6,5,4,\N,R,20,0,16,\N,\N,\N,\N,\N,\N,4,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+250,15565,37,26,18,\N,R,21,0,15,\N,\N,\N,\N,\N,\N,4,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+199,15566,34,30,11,\N,R,22,0,14,\N,\N,\N,\N,\N,\N,22,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+327,15567,25,2,14,\N,R,23,0,14,\N,\N,\N,\N,\N,\N,5,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+330,15568,81,11,23,\N,R,24,0,6,\N,\N,\N,\N,\N,\N,5,galli,\N,\N,Nanni,Galli,1940-10-02,Italian,http://en.wikipedia.org/wiki/Nanni_Galli
+328,15569,25,1,3,\N,R,25,0,0,\N,\N,\N,\N,\N,\N,8,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+280,15570,37,25,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+321,15571,81,12,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,bell,\N,\N,Derek,Bell,1941-10-31,British,http://en.wikipedia.org/wiki/Derek_Bell_(auto_racer)

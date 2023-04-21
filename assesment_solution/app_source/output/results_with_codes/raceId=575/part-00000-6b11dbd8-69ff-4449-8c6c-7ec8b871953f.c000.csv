@@ -1,0 +1,27 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+207,14136,32,5,1,1,1,1,9,73,1:43:58.86,6238860,\N,\N,\N,\N,1,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+221,14137,25,4,13,2,2,2,6,72,\N,\N,\N,\N,\N,\N,11,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+231,14138,1,11,2,3,3,3,4,72,\N,\N,\N,\N,\N,\N,11,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+178,14139,63,19,20,4,4,4,3,72,\N,\N,\N,\N,\N,\N,11,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+223,14140,6,2,7,5,5,5,2,72,\N,\N,\N,\N,\N,\N,11,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+255,14141,32,6,16,6,6,6,1,72,\N,\N,\N,\N,\N,\N,11,nilsson,\N,\N,Gunnar,Nilsson,1948-11-20,Swedish,http://en.wikipedia.org/wiki/Gunnar_Nilsson
+172,14142,27,26,11,7,7,7,0,72,\N,\N,\N,\N,\N,\N,11,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+229,14143,64,24,22,8,8,8,0,72,\N,\N,\N,\N,\N,\N,11,ertl,\N,\N,Harald,Ertl,1948-08-31,Austrian,http://en.wikipedia.org/wiki/Harald_Ertl
+274,14144,63,18,24,9,9,9,0,70,\N,\N,\N,\N,\N,\N,13,takahara,\N,\N,Noritake,Takahara,1951-06-06,Japanese,http://en.wikipedia.org/wiki/Noritake_Takahara
+197,14145,58,17,15,10,10,10,0,69,\N,\N,\N,\N,\N,\N,14,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+287,14146,72,51,10,11,11,11,0,66,\N,\N,\N,\N,\N,\N,17,hasemi,\N,\N,Masahiro,Hasemi,1945-11-13,Japanese,http://en.wikipedia.org/wiki/Masahiro_Hasemi
+222,14147,25,3,5,\N,R,12,0,58,\N,\N,\N,\N,\N,\N,25,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+246,14148,59,21,25,\N,R,13,0,49,\N,\N,\N,\N,\N,\N,36,binder,\N,\N,Hans,Binder,1948-06-12,Austrian,http://en.wikipedia.org/wiki/Hans_Binder
+252,14149,58,16,14,\N,R,14,0,46,\N,\N,\N,\N,\N,\N,68,pryce,\N,\N,Tom,Pryce,1949-06-11,British,http://en.wikipedia.org/wiki/Tom_Pryce
+230,14150,37,9,8,\N,R,15,0,38,\N,\N,\N,\N,\N,\N,10,brambilla,\N,\N,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
+233,14151,37,34,18,\N,R,16,0,37,\N,\N,\N,\N,\N,\N,10,stuck,\N,\N,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
+200,14152,1,12,12,\N,R,17,0,35,\N,\N,\N,\N,\N,\N,3,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+187,14153,67,28,4,\N,R,18,0,33,\N,\N,\N,\N,\N,\N,5,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+273,14154,25,52,21,\N,R,19,0,27,\N,\N,\N,\N,\N,\N,27,hoshino,\N,\N,Kazuyoshi,Hoshino,1947-07-01,Japanese,http://en.wikipedia.org/wiki/Kazuyoshi_Hoshino
+232,14155,59,20,19,\N,R,20,0,23,\N,\N,\N,\N,\N,\N,6,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+224,14156,56,30,23,\N,R,21,0,9,\N,\N,\N,\N,\N,\N,54,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+250,14157,204,8,6,\N,R,22,0,7,\N,\N,\N,\N,\N,\N,54,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+182,14158,6,1,3,\N,R,23,0,2,\N,\N,\N,\N,\N,\N,54,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+256,14159,204,7,17,\N,R,24,0,1,\N,\N,\N,\N,\N,\N,54,perkins,\N,\N,Larry,Perkins,1950-03-18,Australian,http://en.wikipedia.org/wiki/Larry_Perkins
+238,14160,37,10,9,\N,R,25,0,0,\N,\N,\N,\N,\N,\N,5,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+245,14161,74,54,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,trimmer,\N,\N,Tony,Trimmer,1943-01-24,British,http://en.wikipedia.org/wiki/Tony_Trimmer

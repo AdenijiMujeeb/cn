@@ -1,0 +1,30 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+117,10712,4,15,1,1,1,1,9,54,1:34:13.913,5653913,\N,\N,\N,\N,1,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+137,10713,34,5,6,2,2,2,6,54,+29.720,5683633,\N,\N,\N,\N,1,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+158,10714,4,16,2,3,3,3,4,54,+40.232,5694145,\N,\N,\N,\N,1,cheever,\N,\N,Eddie,Cheever,1958-01-10,American,http://en.wikipedia.org/wiki/Eddie_Cheever
+175,10715,6,27,11,4,4,4,3,54,+1:06.880,5720793,\N,\N,\N,\N,1,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+177,10716,3,1,16,5,5,5,2,53,\N,\N,\N,\N,\N,\N,11,keke_rosberg,\N,\N,Keke,Rosberg,1948-12-06,Finnish,http://en.wikipedia.org/wiki/Keke_Rosberg
+172,10717,3,2,19,6,6,6,1,53,\N,\N,\N,\N,\N,\N,11,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+163,10718,6,28,4,7,7,7,0,53,\N,\N,\N,\N,\N,\N,11,arnoux,\N,\N,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
+105,10719,25,3,15,8,8,8,0,53,\N,\N,\N,\N,\N,\N,11,alboreto,\N,\N,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
+197,10720,27,25,20,9,9,9,0,53,\N,\N,\N,\N,\N,\N,11,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+176,10721,21,29,21,10,10,10,0,53,\N,\N,\N,\N,\N,\N,11,surer,\N,\N,Marc,Surer,1951-09-18,Swiss,http://en.wikipedia.org/wiki/Marc_Surer
+188,10722,55,34,17,11,11,11,0,52,\N,\N,\N,\N,\N,\N,12,cecotto,\N,\N,Johnny,Cecotto,1956-01-25,Venezuelan,http://en.wikipedia.org/wiki/Johnny_Cecotto
+110,10723,51,22,7,12,12,12,0,50,\N,\N,\N,\N,\N,\N,14,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
+152,10724,53,36,13,13,13,13,0,49,\N,\N,\N,\N,\N,\N,6,giacomelli,\N,\N,Bruno,Giacomelli,1952-09-10,Italian,http://en.wikipedia.org/wiki/Bruno_Giacomelli
+196,10725,27,26,25,\N,R,14,0,47,\N,\N,\N,\N,\N,\N,5,boesel,\N,\N,Raul,Boesel,1957-12-04,Brazilian,http://en.wikipedia.org/wiki/Raul_Boesel
+190,10726,45,31,23,\N,R,15,0,36,\N,\N,\N,\N,\N,\N,5,corrado_fabi,\N,\N,Corrado,Fabi,1961-04-12,Italian,http://en.wikipedia.org/wiki/Corrado_Fabi
+181,10727,54,9,10,\N,R,16,0,36,\N,\N,\N,\N,\N,\N,101,manfred_winkelhock,\N,\N,Manfred,Winkelhock,1951-10-06,German,http://en.wikipedia.org/wiki/Manfred_Winkelhock
+182,10728,1,8,12,\N,R,17,0,29,\N,\N,\N,\N,\N,\N,67,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+184,10729,51,23,8,\N,R,18,0,28,\N,\N,\N,\N,\N,\N,20,baldi,\N,\N,Mauro,Baldi,1954-01-31,Italian,http://en.wikipedia.org/wiki/Mauro_Baldi
+192,10730,21,30,26,\N,R,19,0,26,\N,\N,\N,\N,\N,\N,6,serra,\N,\N,Chico,Serra,1957-02-03,Brazilian,http://en.wikipedia.org/wiki/Chico_Serra
+195,10731,55,33,22,\N,R,20,0,23,\N,\N,\N,\N,\N,\N,5,guerrero,\N,\N,Roberto,Guerrero,1958-11-16,Colombian,http://en.wikipedia.org/wiki/Roberto_Guerrero
+193,10732,25,4,24,\N,R,21,0,21,\N,\N,\N,\N,\N,\N,8,sullivan,\N,\N,Danny,Sullivan,1950-03-09,American,http://en.wikipedia.org/wiki/Danny_Sullivan
+173,10733,32,11,5,\N,R,22,0,20,\N,\N,\N,\N,\N,\N,10,angelis,\N,\N,Elio,de Angelis,1958-03-26,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
+119,10734,34,6,3,\N,R,23,0,19,\N,\N,\N,\N,\N,\N,47,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+118,10735,53,35,9,\N,R,24,0,14,\N,\N,\N,\N,\N,\N,5,warwick,\N,\N,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
+95,10736,32,12,18,\N,R,25,0,6,\N,\N,\N,\N,\N,\N,68,mansell,\N,\N,Nigel,Mansell,1953-08-08,British,http://en.wikipedia.org/wiki/Nigel_Mansell
+187,10737,1,7,14,\N,R,26,0,3,\N,\N,\N,\N,\N,\N,5,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+194,10738,50,17,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,salazar,\N,\N,Eliseo,Salazar,1954-11-14,Chilean,http://en.wikipedia.org/wiki/Eliseo_Salazar
+160,10739,45,32,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,ghinzani,\N,\N,Piercarlo,Ghinzani,1952-01-16,Italian,http://en.wikipedia.org/wiki/Piercarlo_Ghinzani
+168,10740,50,18,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,schlesser,\N,\N,Jean-Louis,Schlesser,1948-09-12,French,http://en.wikipedia.org/wiki/Jean-Louis_Schlesser

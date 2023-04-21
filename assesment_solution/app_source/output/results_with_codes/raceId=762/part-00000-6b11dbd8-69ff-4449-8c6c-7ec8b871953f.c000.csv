@@ -1,0 +1,17 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+475,18428,170,4,1,1,1,1,9,62,2:11:55.41,7915410,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+418,18429,170,2,3,2,2,2,6,61,\N,\N,\N,\N,\N,\N,11,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+364,18430,6,16,6,3,3,3,4,61,\N,\N,\N,\N,\N,\N,11,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+427,18431,170,5,4,4,4,4,3,60,\N,\N,\N,\N,\N,\N,12,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+501,18432,66,6,9,5,5,5,2,59,\N,\N,\N,\N,\N,\N,13,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+456,18433,117,10,12,6,6,6,0,59,\N,\N,\N,\N,\N,\N,13,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+541,18434,66,8,11,7,7,7,0,59,\N,\N,\N,\N,\N,\N,13,flockhart,\N,\N,Ron,Flockhart,1923-06-16,British,http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing)
+566,18435,117,9,13,8,8,8,0,58,\N,\N,\N,\N,\N,\N,14,shelby,\N,\N,Carroll,Shelby,1923-01-11,American,http://en.wikipedia.org/wiki/Carroll_Shelby
+479,18436,6,14,10,9,9,9,0,57,\N,\N,\N,\N,\N,\N,15,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+432,18437,167,18,14,10,10,10,0,56,\N,\N,\N,\N,\N,\N,16,cabral,\N,\N,Mário de Araújo,Cabral,1934-01-15,Portuguese,http://en.wikipedia.org/wiki/Mario_de_Araujo_Cabral
+360,18438,170,3,8,\N,R,11,0,38,\N,\N,\N,\N,\N,\N,7,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+356,18439,170,1,2,\N,R,12,0,23,\N,\N,\N,\N,\N,\N,7,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+347,18440,66,7,5,\N,R,13,0,10,\N,\N,\N,\N,\N,\N,5,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+403,18441,6,15,7,\N,R,14,0,5,\N,\N,\N,\N,\N,\N,3,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+289,18442,32,11,15,\N,R,15,0,5,\N,\N,\N,\N,\N,\N,3,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+404,18443,32,12,16,\N,R,16,0,3,\N,\N,\N,\N,\N,\N,6,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland

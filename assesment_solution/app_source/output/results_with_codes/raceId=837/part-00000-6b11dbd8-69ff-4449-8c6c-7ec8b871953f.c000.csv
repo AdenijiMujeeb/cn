@@ -1,0 +1,15 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,20118,51,10,2,1,1,1,8,35,2:47:26.0,10046000,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+786,20119,51,12,3,2,2,2,6,35,+14.0,10060000,\N,\N,\N,\N,1,fagioli,\N,\N,Luigi,Fagioli,1898-06-09,Italian,http://en.wikipedia.org/wiki/Luigi_Fagioli
+627,20120,154,14,8,3,3,3,4,35,+2:19.0,10185000,\N,\N,\N,\N,1,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+642,20121,51,8,1,4,4,4,4,35,+4:05.0,10291000,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+647,20122,6,4,7,5,5,5,2,34,\N,\N,\N,\N,\N,\N,11,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+633,20123,6,2,4,6,6,6,0,33,\N,\N,\N,\N,\N,\N,12,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+773,20124,154,22,10,7,7,7,0,33,\N,\N,\N,\N,\N,\N,12,levegh,\N,\N,Pierre,Levegh,1905-12-22,French,http://en.wikipedia.org/wiki/Pierre_Levegh
+660,20125,154,24,14,8,8,8,0,22,\N,\N,\N,\N,\N,\N,13,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+785,20126,126,26,12,9,9,9,0,30,\N,\N,\N,\N,\N,\N,15,crossley,\N,\N,Geoff,Crossley,1921-05-11,British,http://en.wikipedia.org/wiki/Geoff_Crossley
+780,20127,105,30,11,10,10,10,0,29,\N,\N,\N,\N,\N,\N,16,branca,\N,\N,Toni,Branca,1916-09-15,Swiss,http://en.wikipedia.org/wiki/Toni_Branca
+774,20128,154,20,13,\N,R,11,0,22,\N,\N,\N,\N,\N,\N,108,chaboud,\N,\N,Eugène,Chaboud,1907-04-12,French,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Chaboud
+793,20129,154,6,5,\N,R,12,0,20,\N,\N,\N,\N,\N,\N,51,sommer,\N,\N,Raymond,Sommer,1906-08-31,French,http://en.wikipedia.org/wiki/Raymond_Sommer
+741,20130,154,16,6,\N,R,13,0,15,\N,\N,\N,\N,\N,\N,25,etancelin,\N,\N,Philippe,Étancelin,1896-12-28,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
+704,20131,154,18,9,\N,R,14,0,2,\N,\N,\N,\N,\N,\N,108,cabantous,\N,\N,Yves,Cabantous,1904-10-08,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous

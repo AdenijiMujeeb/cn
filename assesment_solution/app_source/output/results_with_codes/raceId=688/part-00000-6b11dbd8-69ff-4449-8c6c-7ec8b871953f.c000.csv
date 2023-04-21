@@ -1,0 +1,19 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,16781,180,5,2,1,1,1,9,108,2:03:13.2,7393200,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+289,16782,180,6,1,2,2,2,6,108,+6.3,7399500,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+304,16783,191,2,6,3,3,3,4,107,\N,\N,\N,\N,\N,\N,11,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+346,16784,167,15,12,4,4,4,3,106,\N,\N,\N,\N,\N,\N,12,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+356,16785,191,1,5,5,5,5,2,104,\N,\N,\N,\N,\N,\N,14,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+347,16786,167,16,15,6,6,6,1,101,\N,\N,\N,\N,\N,\N,17,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+306,16787,187,22,18,7,7,7,0,101,\N,\N,\N,\N,\N,\N,17,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+341,16788,11,3,11,\N,R,8,0,96,\N,\N,\N,\N,\N,\N,91,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+278,16789,6,9,4,\N,R,9,0,95,\N,\N,\N,\N,\N,\N,5,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+328,16790,66,7,10,\N,R,10,0,72,\N,\N,\N,\N,\N,\N,98,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+235,16791,167,21,16,\N,R,11,0,45,\N,\N,\N,\N,\N,\N,25,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+389,16792,191,19,17,\N,R,12,0,43,\N,\N,\N,\N,\N,\N,5,ligier,\N,\N,Guy,Ligier,1930-07-12,French,http://en.wikipedia.org/wiki/Guy_Ligier
+388,16793,66,17,14,\N,R,13,0,41,\N,\N,\N,\N,\N,\N,5,irwin,\N,\N,Chris,Irwin,1942-06-27,British,http://en.wikipedia.org/wiki/Chris_Irwin
+374,16794,66,8,13,\N,R,14,0,35,\N,\N,\N,\N,\N,\N,5,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+358,16795,167,4,8,\N,R,15,0,33,\N,\N,\N,\N,\N,\N,5,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+364,16796,190,11,3,\N,R,16,0,24,\N,\N,\N,\N,\N,\N,22,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+360,16797,194,14,9,\N,R,17,0,16,\N,\N,\N,\N,\N,\N,47,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+382,16798,180,18,7,\N,R,18,0,7,\N,\N,\N,\N,\N,\N,80,solana,\N,\N,Moisés,Solana,1935-12-26,Mexican,http://en.wikipedia.org/wiki/Mois%C3%A9s_Solana

@@ -1,0 +1,34 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+475,17975,172,7,3,1,1,1,9,15,2:18:12.4,8292400,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+476,17976,6,3,5,2,2,2,6,15,+21.4,8313800,\N,\N,\N,\N,1,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+403,17977,6,4,1,3,3,3,4,15,+22.5,8314900,\N,\N,\N,\N,1,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+373,17978,172,14,8,4,4,4,3,15,+1:17.1,8369500,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+341,17979,170,18,10,5,5,5,2,15,+1:53.1,8405500,\N,\N,\N,\N,1,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+360,17980,170,2,12,6,6,6,1,15,+2:41.4,8453800,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+364,17981,95,9,7,7,7,7,0,15,+3:23.1,8495500,\N,\N,\N,\N,1,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+386,17982,6,5,14,8,8,8,0,15,+5:23.1,8615500,\N,\N,\N,\N,1,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+453,17983,170,28,18,9,9,9,0,15,+5:23.7,8616100,\N,\N,\N,\N,1,lewis,\N,\N,Jackie,Lewis,1936-11-01,British,http://en.wikipedia.org/wiki/Jackie_Lewis
+456,17984,170,19,15,10,10,10,0,15,+12:11.5,9023900,\N,\N,\N,\N,1,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+408,17985,172,33,22,11,11,11,0,14,\N,\N,\N,\N,\N,\N,11,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+437,17986,170,30,24,12,12,12,0,14,\N,\N,\N,\N,\N,\N,11,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess
+478,17987,95,11,11,13,13,13,0,14,\N,\N,\N,\N,\N,\N,11,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+430,17988,95,31,17,14,14,14,0,14,\N,\N,\N,\N,\N,\N,11,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+459,17989,172,37,20,15,15,15,0,13,\N,\N,\N,\N,\N,\N,12,marsh,\N,\N,Tony,Marsh,1931-07-20,British,http://en.wikipedia.org/wiki/Tony_Marsh_(racing_driver)
+460,17990,172,27,25,16,16,16,0,13,\N,\N,\N,\N,\N,\N,12,ashmore,\N,\N,Gerry,Ashmore,1936-07-25,British,http://en.wikipedia.org/wiki/Gerry_Ashmore
+435,17991,6,6,13,\N,R,17,0,13,\N,\N,\N,\N,\N,\N,3,mairesse,\N,\N,Willy,Mairesse,1928-10-01,Belgian,http://en.wikipedia.org/wiki/Willy_Mairesse
+427,17992,167,20,21,\N,R,18,0,12,\N,\N,\N,\N,\N,\N,5,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+428,17993,170,38,26,\N,N,19,0,11,\N,\N,\N,\N,\N,\N,62,collomb,\N,\N,Bernard,Collomb,1930-10-07,French,http://en.wikipedia.org/wiki/Bernard_Collomb
+385,17994,167,32,19,\N,R,20,0,10,\N,\N,\N,\N,\N,\N,5,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+479,17995,66,16,9,\N,R,21,0,6,\N,\N,\N,\N,\N,\N,5,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+347,17996,95,8,4,\N,R,22,0,5,\N,\N,\N,\N,\N,\N,5,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+455,17997,172,26,23,\N,R,23,0,3,\N,\N,\N,\N,\N,\N,64,seidel,\N,\N,Wolfgang,Seidel,1926-07-04,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel
+289,17998,66,17,16,\N,R,24,0,1,\N,\N,\N,\N,\N,\N,3,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+404,17999,172,15,6,\N,R,25,0,1,\N,\N,\N,\N,\N,\N,42,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+356,18000,170,1,2,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,3,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+431,18001,95,10,0,\N,W,27,0,0,\N,\N,\N,\N,\N,\N,54,barth,\N,\N,Edgar,Barth,1917-01-26,German,http://en.wikipedia.org/wiki/Edgar_Barth
+418,18002,170,12,0,\N,W,28,0,0,\N,\N,\N,\N,\N,\N,54,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+480,18003,172,25,0,\N,W,29,0,0,\N,\N,\N,\N,\N,\N,54,may,\N,\N,Michael,May,1934-08-18,Swiss,http://en.wikipedia.org/wiki/Michael_May_(racing_driver)
+488,18004,103,29,0,\N,W,30,0,0,\N,\N,\N,\N,\N,\N,54,monteverdi,\N,\N,Peter,Monteverdi,1934-06-07,Swiss,http://en.wikipedia.org/wiki/Peter_Monteverdi
+489,18005,170,34,0,\N,W,31,0,0,\N,\N,\N,\N,\N,\N,54,pirocchi,\N,\N,Renato,Pirocchi,1933-03-26,Italian,http://en.wikipedia.org/wiki/Renato_Pirocchi
+490,18006,170,35,0,\N,W,32,0,0,\N,\N,\N,\N,\N,\N,54,duke,\N,\N,Geoff,Duke,1923-03-29,British,http://en.wikipedia.org/wiki/Geoff_Duke
+436,18007,170,39,0,\N,W,33,0,0,\N,\N,\N,\N,\N,\N,54,campbell-jones,\N,\N,John,Campbell-Jones,1930-01-21,British,http://en.wikipedia.org/wiki/John_Campbell-Jones

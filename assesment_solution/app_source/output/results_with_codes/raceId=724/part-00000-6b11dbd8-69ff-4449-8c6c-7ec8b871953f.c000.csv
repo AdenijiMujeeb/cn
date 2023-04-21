@@ -1,0 +1,30 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+341,17515,6,7,2,1,1,1,9,15,2:13:06.8,7986800,\N,\N,\N,\N,1,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+373,17516,172,3,1,2,2,2,6,15,+1:17.5,8064300,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+386,17517,66,2,6,3,3,3,4,15,+2:44.9,8151700,\N,\N,\N,\N,1,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+423,17518,95,26,15,4,4,4,3,15,+8:11.5,8478300,\N,\N,\N,\N,1,mitter,\N,\N,Gerhard,Mitter,1935-08-30,German,http://en.wikipedia.org/wiki/Gerhard_Mitter
+440,17519,176,20,16,5,5,5,2,14,\N,\N,\N,\N,\N,\N,11,hall,\N,\N,Jim,Hall,1935-07-23,American,http://en.wikipedia.org/wiki/Jim_Hall_(race_car_driver)
+347,17520,170,16,12,6,6,6,1,14,\N,\N,\N,\N,\N,\N,11,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+356,17521,34,9,8,7,7,7,0,14,\N,\N,\N,\N,\N,\N,11,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+401,17522,172,4,18,8,8,8,0,14,\N,\N,\N,\N,\N,\N,11,trevor_taylor,\N,\N,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
+346,17523,176,18,9,9,9,9,0,10,\N,\N,\N,\N,\N,\N,24,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+428,17524,172,28,21,10,10,10,0,10,\N,\N,\N,\N,\N,\N,15,collomb,\N,\N,Bernard,Collomb,1930-10-07,French,http://en.wikipedia.org/wiki/Bernard_Collomb
+430,17525,95,17,17,\N,R,11,0,9,\N,\N,\N,\N,\N,\N,36,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+408,17526,170,6,10,\N,R,12,0,7,\N,\N,\N,\N,\N,\N,5,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+364,17527,34,10,13,\N,R,13,0,6,\N,\N,\N,\N,\N,\N,6,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+432,17528,170,22,20,\N,R,14,0,6,\N,\N,\N,\N,\N,\N,6,cabral,\N,\N,Mário de Araújo,Cabral,1934-01-15,Portuguese,http://en.wikipedia.org/wiki/Mario_de_Araujo_Cabral
+437,17529,92,24,19,\N,R,15,0,5,\N,\N,\N,\N,\N,\N,38,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess
+438,17530,92,23,22,\N,R,16,0,5,\N,\N,\N,\N,\N,\N,3,settember,\N,\N,Tony,Settember,1926-07-10,American,http://en.wikipedia.org/wiki/Tony_Settember
+360,17531,170,5,5,\N,R,17,0,3,\N,\N,\N,\N,\N,\N,3,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+289,17532,66,1,4,\N,R,18,0,2,\N,\N,\N,\N,\N,\N,6,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+278,17533,26,21,14,\N,R,19,0,1,\N,\N,\N,\N,\N,\N,3,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+435,17534,6,8,7,\N,R,20,0,1,\N,\N,\N,\N,\N,\N,3,mairesse,\N,\N,Willy,Mairesse,1928-10-01,Belgian,http://en.wikipedia.org/wiki/Willy_Mairesse
+404,17535,176,14,11,\N,R,21,0,1,\N,\N,\N,\N,\N,\N,3,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+385,17536,66,15,3,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,3,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+429,17537,172,29,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,andre_pilette,\N,\N,André,Pilette,1918-10-06,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette
+420,17538,97,25,0,\N,F,24,0,0,\N,\N,\N,\N,\N,\N,81,raby,\N,\N,Ian,Raby,1921-09-22,British,http://en.wikipedia.org/wiki/Ian_Raby
+441,17539,172,30,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,parnell,\N,\N,Tim,Parnell,1932-06-25,British,http://en.wikipedia.org/wiki/Tim_Parnell
+442,17540,177,27,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,kuhnke,\N,\N,Kurt,Kuhnke,1910-04-30,German,http://en.wikipedia.org/wiki/Kurt_Kuhnke
+403,17541,54,11,0,\N,W,27,0,0,\N,\N,\N,\N,\N,\N,54,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+394,17542,54,12,0,\N,W,28,0,0,\N,\N,\N,\N,\N,\N,54,baghetti,\N,\N,Giancarlo,Baghetti,1934-12-25,Italian,http://en.wikipedia.org/wiki/Giancarlo_Baghetti
+418,17543,176,19,0,\N,W,29,0,0,\N,\N,\N,\N,\N,\N,54,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory

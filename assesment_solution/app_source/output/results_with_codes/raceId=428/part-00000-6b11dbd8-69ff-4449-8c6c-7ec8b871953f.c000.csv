@@ -1,0 +1,28 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+105,10024,6,27,8,1,1,1,9,67,1:35:31.337,5731337,\N,\N,\N,\N,1,alboreto,\N,\N,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
+117,10025,1,2,3,2,2,2,6,67,+11.661,5742998,\N,\N,\N,\N,1,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+172,10026,27,26,13,3,3,3,4,67,+51.154,5782491,\N,\N,\N,\N,1,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+123,10027,21,18,15,4,4,4,3,67,+55.279,5786616,\N,\N,\N,\N,1,boutsen,\N,\N,Thierry,Boutsen,1957-07-13,Belgian,http://en.wikipedia.org/wiki/Thierry_Boutsen
+182,10028,1,1,12,5,5,5,2,67,+1:13.972,5805309,\N,\N,\N,\N,1,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+95,10029,3,5,10,6,6,6,1,67,+1:16.820,5808157,\N,\N,\N,\N,1,mansell,\N,\N,Nigel,Mansell,1953-08-08,British,http://en.wikipedia.org/wiki/Nigel_Mansell
+77,10030,21,17,17,7,7,7,0,66,\N,\N,\N,\N,\N,\N,11,berger,\N,\N,Gerhard,Berger,1959-08-27,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger
+185,10031,25,3,19,8,8,8,0,66,\N,\N,\N,\N,\N,\N,11,bellof,\N,\N,Stefan,Bellof,1957-11-20,German,http://en.wikipedia.org/wiki/Stefan_Bellof
+140,10032,6,28,2,9,9,9,0,66,\N,\N,\N,\N,\N,\N,11,johansson,\N,\N,Stefan,Johansson,1956-09-08,Swedish,http://en.wikipedia.org/wiki/Stefan_Johansson
+84,10033,25,4,26,10,10,10,0,63,\N,\N,\N,\N,\N,\N,14,brundle,\N,\N,Martin,Brundle,1959-06-01,British,http://en.wikipedia.org/wiki/Martin_Brundle
+94,10034,18,29,27,11,11,11,0,62,\N,\N,\N,\N,\N,\N,5,martini,\N,\N,Pierluigi,Martini,1961-04-23,Italian,http://en.wikipedia.org/wiki/Pierluigi_Martini
+177,10035,3,6,4,12,12,12,0,61,\N,\N,\N,\N,\N,\N,23,keke_rosberg,\N,\N,Keke,Rosberg,1948-12-06,Finnish,http://en.wikipedia.org/wiki/Keke_Rosberg
+158,10036,51,23,18,\N,R,13,0,45,\N,\N,\N,\N,\N,\N,101,cheever,\N,\N,Eddie,Cheever,1958-01-10,American,http://en.wikipedia.org/wiki/Eddie_Cheever
+173,10037,32,11,7,\N,R,14,0,40,\N,\N,\N,\N,\N,\N,5,angelis,\N,\N,Elio,de Angelis,1958-03-26,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
+179,10038,45,24,25,\N,R,15,0,32,\N,\N,\N,\N,\N,\N,6,rothengatter,\N,\N,Huub,Rothengatter,1954-10-08,Dutch,http://en.wikipedia.org/wiki/Huub_Rothengatter
+170,10039,53,19,1,\N,R,16,0,29,\N,\N,\N,\N,\N,\N,8,fabi,\N,\N,Teo,Fabi,1955-03-09,Italian,http://en.wikipedia.org/wiki/Teo_Fabi
+102,10040,32,12,5,\N,R,17,0,27,\N,\N,\N,\N,\N,\N,102,senna,\N,\N,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
+118,10041,4,16,20,\N,R,18,0,25,\N,\N,\N,\N,\N,\N,80,warwick,\N,\N,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
+137,10042,34,7,6,\N,R,19,0,23,\N,\N,\N,\N,\N,\N,101,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+175,10043,4,15,16,\N,R,20,0,19,\N,\N,\N,\N,\N,\N,20,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+176,10044,34,8,11,\N,R,21,0,15,\N,\N,\N,\N,\N,\N,5,surer,\N,\N,Marc,Surer,1951-09-18,Swiss,http://en.wikipedia.org/wiki/Marc_Surer
+181,10045,50,9,22,\N,R,22,0,8,\N,\N,\N,\N,\N,\N,5,manfred_winkelhock,\N,\N,Manfred,Winkelhock,1951-10-06,German,http://en.wikipedia.org/wiki/Manfred_Winkelhock
+119,10046,51,22,9,\N,R,23,0,8,\N,\N,\N,\N,\N,\N,6,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+183,10047,4,14,23,\N,R,24,0,8,\N,\N,\N,\N,\N,\N,8,hesnault,\N,\N,François,Hesnault,1956-12-30,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Hesnault
+112,10048,50,10,21,\N,R,25,0,8,\N,\N,\N,\N,\N,\N,51,alliot,\N,\N,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
+156,10049,49,30,24,\N,R,26,0,7,\N,\N,\N,\N,\N,\N,91,palmer,\N,\N,Jonathan,Palmer,1956-11-07,British,http://en.wikipedia.org/wiki/Jonathan_Palmer
+110,10050,27,25,14,\N,R,27,0,0,\N,\N,\N,\N,\N,\N,4,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris

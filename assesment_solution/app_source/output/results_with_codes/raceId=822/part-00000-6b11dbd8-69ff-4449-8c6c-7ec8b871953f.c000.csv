@@ -1,0 +1,31 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+647,19768,6,101,1,1,1,1,9,18,3:06:13.3,11173300,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+642,19769,6,102,2,2,2,2,6,18,+14.1,11187400,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+723,19770,6,117,6,3,3,3,4,18,+7:10.1,11603400,\N,\N,\N,\N,1,fischer,\N,\N,Rudi,Fischer,1912-04-19,Swiss,http://en.wikipedia.org/wiki/Rudi_Fischer
+641,19771,6,103,5,4,4,4,3,17,\N,\N,\N,\N,\N,\N,11,taruffi,\N,\N,Piero,Taruffi,1906-10-12,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
+554,19772,128,108,11,5,5,5,2,17,\N,\N,\N,\N,\N,\N,11,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+736,19773,6,119,17,6,6,6,0,16,\N,\N,\N,\N,\N,\N,12,laurent,\N,\N,Roger,Laurent,1913-02-21,Belgian,http://en.wikipedia.org/wiki/Roger_Laurent
+751,19774,144,121,12,7,7,7,0,16,\N,\N,\N,\N,\N,\N,12,riess,\N,\N,Fritz,Riess,1922-07-11,German,http://en.wikipedia.org/wiki/Fritz_Riess
+724,19775,144,125,15,8,8,8,0,16,\N,\N,\N,\N,\N,\N,12,ulmen,\N,\N,Toni,Ulmen,1906-01-25,German,http://en.wikipedia.org/wiki/Toni_Ulmen
+752,19776,147,124,22,9,9,9,0,15,\N,\N,\N,\N,\N,\N,13,niedermayr,\N,\N,Helmut,Niedermayr,1915-11-29,German,http://en.wikipedia.org/wiki/Helmut_Niedermayr
+660,19777,133,113,32,10,10,10,0,15,\N,\N,\N,\N,\N,\N,13,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+753,19778,144,128,8,11,11,11,0,14,\N,\N,\N,\N,\N,\N,14,klenk,\N,\N,Hans,Klenk,1919-10-28,German,http://en.wikipedia.org/wiki/Hans_Klenk
+709,19779,145,135,29,12,12,12,0,14,\N,\N,\N,\N,\N,\N,14,klodwig,\N,\N,Ernst,Klodwig,1903-05-23,East German,http://en.wikipedia.org/wiki/Ernst_Klodwig
+626,19780,128,107,4,\N,R,13,0,8,\N,\N,\N,\N,\N,\N,3,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+712,19781,147,123,9,\N,R,14,0,7,\N,\N,\N,\N,\N,\N,31,heeks,\N,\N,Willi,Heeks,1922-02-13,German,http://en.wikipedia.org/wiki/Willi_Heeks
+738,19782,133,120,14,\N,R,15,0,6,\N,\N,\N,\N,\N,\N,6,gaze,\N,\N,Tony,Gaze,1920-02-03,Australian,http://en.wikipedia.org/wiki/Tony_Gaze
+750,19783,144,126,19,\N,R,16,0,5,\N,\N,\N,\N,\N,\N,5,brudes,\N,\N,Adolf,Brudes,1899-10-15,German,http://en.wikipedia.org/wiki/Adolf_Brudes
+754,19784,145,110,25,\N,R,17,0,5,\N,\N,\N,\N,\N,\N,31,balsa,\N,\N,Marcel,Balsa,1909-01-01,French,http://en.wikipedia.org/wiki/Marcel_Balsa
+715,19785,145,130,30,\N,R,18,0,5,\N,\N,\N,\N,\N,\N,80,bechem,\N,\N,Günther,Bechem,1921-12-21,German,http://en.wikipedia.org/wiki/G%C3%BCnther_Bechem
+748,19786,105,116,26,\N,R,19,0,4,\N,\N,\N,\N,\N,\N,109,cantoni,\N,\N,Eitel,Cantoni,1906-10-04,Uruguayan,http://en.wikipedia.org/wiki/Eitel_Cantoni
+710,19787,145,136,23,\N,R,20,0,3,\N,\N,\N,\N,\N,\N,31,krause,\N,\N,Rudolf,Krause,1907-03-30,East German,http://en.wikipedia.org/wiki/Rudolf_Krause
+755,19788,6,118,24,\N,R,21,0,3,\N,\N,\N,\N,\N,\N,22,schoeller,\N,\N,Rudolf,Schoeller,1902-04-27,Swiss,http://en.wikipedia.org/wiki/Rudolf_Schoeller
+749,19789,152,114,21,\N,R,22,0,2,\N,\N,\N,\N,\N,\N,51,aston,\N,\N,Bill,Aston,1900-03-29,British,http://en.wikipedia.org/wiki/Bill_Aston
+427,19790,128,109,3,\N,R,23,0,1,\N,\N,\N,\N,\N,\N,3,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+756,19791,144,127,7,\N,R,24,0,1,\N,\N,\N,\N,\N,\N,6,pietsch,\N,\N,Paul,Pietsch,1911-06-20,German,http://en.wikipedia.org/wiki/Paul_Pietsch
+697,19792,105,105,10,\N,D,25,0,1,\N,\N,\N,\N,\N,\N,2,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+632,19793,133,112,13,\N,R,26,0,1,\N,\N,\N,\N,\N,\N,6,frere,\N,\N,Paul,Frère,1917-01-30,Belgian,http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re
+692,19794,144,122,18,\N,R,27,0,1,\N,\N,\N,\N,\N,\N,31,helfrich,\N,\N,Theo,Helfrich,1913-05-13,German,http://en.wikipedia.org/wiki/Theo_Helfrich
+757,19795,144,129,20,\N,R,28,0,1,\N,\N,\N,\N,\N,\N,31,peters,\N,\N,Josef,Peters,1914-09-16,German,http://en.wikipedia.org/wiki/Josef_Peters_(driver)
+722,19796,6,104,27,\N,R,29,0,1,\N,\N,\N,\N,\N,\N,23,carini,\N,\N,Piero,Carini,1921-03-06,Italian,http://en.wikipedia.org/wiki/Piero_Carini
+746,19797,105,115,16,\N,R,30,0,0,\N,\N,\N,\N,\N,\N,31,bianco,\N,\N,Gino,Bianco,1916-07-22,Brazilian,http://en.wikipedia.org/wiki/Gino_Bianco

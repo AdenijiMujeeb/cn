@@ -1,0 +1,26 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+328,15070,25,5,1,1,1,1,9,78,1:57:44.3,7064300,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+224,15071,32,1,5,2,2,2,6,78,+1.3,7065600,\N,\N,\N,\N,1,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+238,15072,32,2,2,3,3,3,4,77,\N,\N,\N,\N,\N,\N,11,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+327,15073,25,6,4,4,4,4,3,77,\N,\N,\N,\N,\N,\N,11,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+309,15074,1,8,15,5,5,5,2,76,\N,\N,\N,\N,\N,\N,12,revson,\N,\N,Peter,Revson,1939-02-27,American,http://en.wikipedia.org/wiki/Peter_Revson
+304,15075,1,7,3,6,6,6,1,76,\N,\N,\N,\N,\N,\N,12,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+333,15076,34,9,25,7,7,7,0,75,\N,\N,\N,\N,\N,\N,13,adamich,\N,\N,Andrea,de Adamich,1941-10-03,Italian,http://en.wikipedia.org/wiki/Andrea_de_Adamich
+305,15077,63,23,13,8,8,8,0,75,\N,\N,\N,\N,\N,\N,13,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+231,15078,37,27,18,9,9,9,0,73,\N,\N,\N,\N,\N,\N,5,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+262,15079,58,17,22,10,10,10,0,72,\N,\N,\N,\N,\N,\N,16,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+290,15080,34,11,9,11,11,11,0,71,\N,\N,\N,\N,\N,\N,69,wilson_fittipaldi,\N,\N,Wilson,Fittipaldi,1943-12-25,Brazilian,http://en.wikipedia.org/wiki/Wilson_Fittipaldi
+197,15081,37,14,14,\N,R,12,0,67,\N,\N,\N,\N,\N,\N,6,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+289,15082,58,12,24,\N,R,13,0,62,\N,\N,\N,\N,\N,\N,22,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+232,15083,6,4,16,\N,R,14,0,58,\N,\N,\N,\N,\N,\N,51,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+199,15084,34,10,19,\N,R,15,0,46,\N,\N,\N,\N,\N,\N,6,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+235,15085,6,3,7,\N,R,16,0,44,\N,\N,\N,\N,\N,\N,86,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+307,15086,80,25,10,\N,R,17,0,41,\N,\N,\N,\N,\N,\N,86,ganley,\N,\N,Howden,Ganley,1941-12-24,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley
+306,15087,66,20,11,\N,R,18,0,39,\N,\N,\N,\N,\N,\N,3,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+250,15088,63,24,17,\N,R,19,0,31,\N,\N,\N,\N,\N,\N,86,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+259,15089,37,18,23,\N,R,20,0,31,\N,\N,\N,\N,\N,\N,95,purley,\N,\N,David,Purley,1945-01-26,British,http://en.wikipedia.org/wiki/David_Purley
+330,15090,80,26,21,\N,R,21,0,30,\N,\N,\N,\N,\N,\N,86,galli,\N,\N,Nanni,Galli,1940-10-02,Italian,http://en.wikipedia.org/wiki/Nanni_Galli
+182,15091,66,21,6,\N,R,22,0,24,\N,\N,\N,\N,\N,\N,6,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+278,15092,81,22,12,\N,R,23,0,22,\N,\N,\N,\N,\N,\N,25,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+223,15093,66,19,8,\N,R,24,0,15,\N,\N,\N,\N,\N,\N,23,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+329,15094,37,15,20,\N,R,25,0,3,\N,\N,\N,\N,\N,\N,5,beuttler,\N,\N,Mike,Beuttler,1940-04-13,British,http://en.wikipedia.org/wiki/Mike_Beuttler

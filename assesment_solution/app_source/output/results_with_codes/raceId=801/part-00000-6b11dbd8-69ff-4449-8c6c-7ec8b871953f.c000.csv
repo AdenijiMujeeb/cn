@@ -1,0 +1,16 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,19265,105,26,1,1,1,1,9,36,2:44:42.4,9882400,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+427,19266,6,8,6,2,2,2,6,36,+24.2,9906600,\N,\N,\N,\N,1,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+475,19267,105,22,9,3,3,3,4,35,\N,\N,\N,\N,\N,\N,11,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+498,19268,6,10,5,4,4,4,1.5,35,\N,\N,\N,\N,\N,\N,11,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+429,19269,128,18,8,5,5,5,2,35,\N,\N,\N,\N,\N,\N,11,andre_pilette,\N,\N,André,Pilette,1918-10-06,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette
+669,19270,105,20,13,6,6,6,0,35,\N,\N,\N,\N,\N,\N,11,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+644,19271,105,30,11,7,7,7,0,34,\N,\N,\N,\N,\N,\N,12,mantovani,\N,\N,Sergio,Mantovani,1929-05-22,Italian,http://en.wikipedia.org/wiki/Sergio_Mantovani
+642,19272,6,4,3,\N,R,8,0,14,\N,\N,\N,\N,\N,\N,80,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+632,19273,128,16,10,\N,R,9,0,14,\N,\N,\N,\N,\N,\N,5,frere,\N,\N,Paul,Frère,1917-01-30,Belgian,http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re
+554,19274,128,12,7,\N,R,10,0,12,\N,\N,\N,\N,\N,\N,22,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+670,19275,105,28,4,\N,R,11,0,3,\N,\N,\N,\N,\N,\N,5,marimon,\N,\N,Onofre,Marimón,1923-12-19,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n
+498,19276,6,6,2,\N,R,12,0,1,\N,\N,\N,\N,\N,\N,5,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+680,19277,6,2,14,\N,R,13,0,1,\N,\N,\N,\N,\N,\N,5,swaters,\N,\N,Jacques,Swaters,1926-10-30,American,http://en.wikipedia.org/wiki/Jacques_Swaters
+643,19278,105,24,12,\N,R,14,0,0,\N,\N,\N,\N,\N,\N,42,mieres,\N,\N,Roberto,Mieres,1924-12-03,Argentine,http://en.wikipedia.org/wiki/Roberto_Mieres
+578,20238,6,10,5,4,4,4,1.5,35,\N,\N,\N,\N,\N,\N,11,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn

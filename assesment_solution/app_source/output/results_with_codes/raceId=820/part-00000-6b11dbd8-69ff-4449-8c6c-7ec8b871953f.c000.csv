@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+647,19716,6,8,1,1,1,1,9,77,3:00:00.0,10800000,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+642,19717,6,10,2,2,2,2,6,76,\N,\N,\N,\N,\N,\N,11,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+641,19718,6,12,3,3,3,3,4,75,\N,\N,\N,\N,\N,\N,12,taruffi,\N,\N,Piero,Taruffi,1906-10-12,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
+626,19719,128,2,5,4,4,4,3,74,\N,\N,\N,\N,\N,\N,13,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+427,19720,141,44,6,5,5,5,2,72,\N,\N,\N,\N,\N,\N,15,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+581,19721,133,22,8,6,6,6,0,70,\N,\N,\N,\N,\N,\N,17,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+554,19722,128,4,4,7,7,7,0,70,\N,\N,\N,\N,\N,\N,17,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+741,19723,105,28,18,8,8,8,0,70,\N,\N,\N,\N,\N,\N,17,etancelin,\N,\N,Philippe,Étancelin,1896-12-28,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
+651,19724,133,20,14,9,9,9,0,70,\N,\N,\N,\N,\N,\N,17,macklin,\N,\N,Lance,Macklin,1919-09-02,British,http://en.wikipedia.org/wiki/Lance_Macklin
+704,19725,133,24,10,10,10,10,0,68,\N,\N,\N,\N,\N,\N,19,cabantous,\N,\N,Yves,Cabantous,1904-10-08,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous
+723,19726,6,34,17,11,11,11,0,66,\N,\N,\N,\N,\N,\N,45,fischer,\N,\N,Rudi,Fischer,1912-04-19,Swiss,http://en.wikipedia.org/wiki/Rudi_Fischer
+740,19727,6,38,16,12,12,12,0,63,\N,\N,\N,\N,\N,\N,111,comotti,\N,\N,Franco,Comotti,1906-07-24,Italian,http://en.wikipedia.org/wiki/Franco_Comotti
+669,19728,128,6,7,\N,R,13,0,56,\N,\N,\N,\N,\N,\N,109,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+578,19729,87,42,15,\N,R,14,0,51,\N,\N,\N,\N,\N,\N,80,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+640,19730,105,16,12,\N,R,15,0,34,\N,\N,\N,\N,\N,\N,23,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+687,19731,126,26,13,\N,R,16,0,17,\N,\N,\N,\N,\N,\N,8,whitehead,\N,\N,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
+627,19732,6,14,9,\N,R,17,0,17,\N,\N,\N,\N,\N,\N,5,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+660,19733,141,32,20,\N,R,18,0,15,\N,\N,\N,\N,\N,\N,5,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+501,19734,105,18,11,\N,R,19,0,7,\N,\N,\N,\N,\N,\N,6,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+722,19735,6,40,19,\N,R,20,0,2,\N,\N,\N,\N,\N,\N,5,carini,\N,\N,Piero,Carini,1921-03-06,Italian,http://en.wikipedia.org/wiki/Piero_Carini
+721,20191,6,34,17,11,11,11,0,66,\N,\N,\N,\N,\N,\N,45,hirt,\N,\N,Peter,Hirt,1910-03-30,Swiss,http://en.wikipedia.org/wiki/Peter_Hirt
+501,20192,105,16,12,\N,R,15,0,34,\N,\N,\N,\N,\N,\N,23,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell

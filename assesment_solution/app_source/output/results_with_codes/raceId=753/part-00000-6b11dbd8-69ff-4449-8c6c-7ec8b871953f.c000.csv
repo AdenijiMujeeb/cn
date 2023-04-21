@@ -1,0 +1,16 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+356,18234,170,2,3,1,1,1,8,55,2:19:00.03,8340030,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+360,18235,170,4,6,2,2,2,6,55,+57.97,8398000,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+373,18236,32,14,8,3,3,3,4,55,+1:53.23,8453260,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+476,18237,6,28,9,4,4,4,3,55,+1:58.81,8458840,\N,\N,\N,\N,1,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+479,18238,170,6,12,5,5,5,2,49,\N,\N,\N,\N,\N,\N,16,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+404,18239,32,16,7,6,6,6,1,48,\N,\N,\N,\N,\N,\N,17,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+482,18240,170,8,14,7,7,7,0,46,\N,\N,\N,\N,\N,\N,19,gendebien,\N,\N,Olivier,Gendebien,1924-01-12,Belgian,http://en.wikipedia.org/wiki/Olivier_Gendebien
+475,18241,32,12,4,\N,D,8,0,51,\N,\N,\N,\N,\N,\N,2,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+432,18242,167,32,15,\N,R,9,0,38,\N,\N,\N,\N,\N,\N,3,cabral,\N,\N,Mário de Araújo,Cabral,1934-01-15,Portuguese,http://en.wikipedia.org/wiki/Mario_de_Araujo_Cabral
+341,18243,32,18,1,\N,R,10,0,37,\N,\N,\N,\N,\N,\N,21,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+403,18244,6,26,10,\N,R,11,0,30,\N,\N,\N,\N,\N,\N,3,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+364,18245,66,24,2,\N,R,12,0,25,\N,\N,\N,\N,\N,\N,5,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+418,18246,167,30,11,\N,R,13,0,21,\N,\N,\N,\N,\N,\N,6,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+289,18247,66,22,5,\N,R,14,0,9,\N,\N,\N,\N,\N,\N,6,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+347,18248,66,20,13,\N,R,15,0,6,\N,\N,\N,\N,\N,\N,5,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier

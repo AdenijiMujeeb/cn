@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+56,3480,6,4,3,1,1,1,10,71,1:28:12.438,5292438,\N,\N,\N,\N,1,irvine,\N,\N,Eddie,Irvine,1965-11-10,British,http://en.wikipedia.org/wiki/Eddie_Irvine
+14,3481,1,2,2,2,2,2,6,71,+0.313,5292751,\N,\N,\N,\N,1,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+57,3482,1,1,1,3,3,3,4,71,+22.282,5314720,\N,\N,\N,\N,1,hakkinen,\N,\N,Mika,Häkkinen,1968-09-28,Finnish,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen
+49,3483,17,8,4,4,4,4,3,71,+52.803,5345241,\N,\N,\N,\N,1,frentzen,\N,\N,Heinz-Harald,Frentzen,1967-05-18,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen
+25,3484,22,10,10,5,5,5,2,71,+1:06.358,5358796,\N,\N,\N,\N,1,wurz,\N,WUR,Alexander,Wurz,1974-02-15,Austrian,http://en.wikipedia.org/wiki/Alexander_Wurz
+64,3485,15,12,16,6,6,6,1,71,+1:10.933,5363371,\N,\N,\N,\N,1,diniz,\N,\N,Pedro,Diniz,1970-05-22,Brazilian,http://en.wikipedia.org/wiki/Pedro_Diniz
+15,3486,20,19,13,7,7,7,0,70,\N,\N,\N,\N,\N,\N,11,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+71,3487,17,7,11,8,8,8,0,70,\N,\N,\N,\N,\N,\N,11,damon_hill,\N,\N,Damon,Hill,1960-09-17,British,http://en.wikipedia.org/wiki/Damon_Hill
+63,3488,6,3,7,9,9,9,0,70,\N,\N,\N,\N,\N,\N,11,salo,\N,\N,Mika,Salo,1966-11-30,Finnish,http://en.wikipedia.org/wiki/Mika_Salo
+44,3489,20,18,18,10,10,10,0,70,\N,\N,\N,\N,\N,\N,11,panis,\N,\N,Olivier,Panis,1966-09-02,French,http://en.wikipedia.org/wiki/Olivier_Panis
+48,3490,18,21,22,11,11,11,0,70,\N,\N,\N,\N,\N,\N,11,gene,\N,\N,Marc,Gené,1974-03-29,Spanish,http://en.wikipedia.org/wiki/Marc_Gen%C3%A9
+21,3491,22,9,12,12,12,12,0,68,\N,\N,\N,\N,\N,\N,5,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+69,3492,18,20,19,13,13,13,0,68,\N,\N,\N,\N,\N,\N,13,badoer,\N,BAD,Luca,Badoer,1971-01-25,Italian,http://en.wikipedia.org/wiki/Luca_Badoer
+65,3493,24,17,6,14,14,14,0,67,\N,\N,\N,\N,\N,\N,14,herbert,\N,\N,Johnny,Herbert,1964-06-25,British,http://en.wikipedia.org/wiki/Johnny_Herbert
+41,3494,16,23,15,15,15,15,0,63,\N,\N,\N,\N,\N,\N,8,zonta,\N,ZON,Ricardo,Zonta,1976-03-23,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta
+22,3495,24,16,5,\N,R,16,0,55,\N,\N,\N,\N,\N,\N,5,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+55,3496,15,11,17,\N,R,17,0,49,\N,\N,\N,\N,\N,\N,60,alesi,\N,\N,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
+37,3497,21,14,21,\N,R,18,0,38,\N,\N,\N,\N,\N,\N,20,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+70,3498,3,5,14,\N,R,19,0,35,\N,\N,\N,\N,\N,\N,60,zanardi,\N,\N,Alessandro,Zanardi,1966-10-23,Italian,http://en.wikipedia.org/wiki/Alex_Zanardi
+35,3499,16,22,9,\N,R,20,0,34,\N,\N,\N,\N,\N,\N,86,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+68,3500,21,15,20,\N,R,21,0,25,\N,\N,\N,\N,\N,\N,5,takagi,\N,\N,Toranosuke,Takagi,1974-02-12,Japanese,http://en.wikipedia.org/wiki/Toranosuke_Takagi
+23,3501,3,6,8,\N,R,22,0,8,\N,\N,\N,\N,\N,\N,20,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher

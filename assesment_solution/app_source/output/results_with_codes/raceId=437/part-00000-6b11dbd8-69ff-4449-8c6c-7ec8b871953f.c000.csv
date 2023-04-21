@@ -1,0 +1,28 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+182,10253,1,8,8,1,1,1,9,75,1:29:23.430,5363430,\N,\N,\N,\N,1,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+117,10254,1,7,5,2,2,2,6,75,+1:05.950,5429380,\N,\N,\N,\N,1,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+118,10255,4,16,9,3,3,3,4,74,\N,\N,\N,\N,\N,\N,11,warwick,\N,\N,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
+119,10256,51,22,18,4,4,4,3,73,\N,\N,\N,\N,\N,\N,12,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+110,10257,27,26,14,5,5,5,2,73,\N,\N,\N,\N,\N,\N,12,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
+102,10258,53,19,13,6,6,6,1,72,\N,\N,\N,\N,\N,\N,13,senna,\N,\N,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
+173,10259,32,11,7,7,7,7,0,71,\N,\N,\N,\N,\N,\N,14,angelis,\N,\N,Elio,de Angelis,1958-03-26,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
+184,10260,52,21,20,8,8,8,0,71,\N,\N,\N,\N,\N,\N,14,baldi,\N,\N,Mauro,Baldi,1954-01-31,Italian,http://en.wikipedia.org/wiki/Mauro_Baldi
+176,10261,21,17,23,9,9,9,0,71,\N,\N,\N,\N,\N,\N,14,surer,\N,\N,Marc,Surer,1951-09-18,Swiss,http://en.wikipedia.org/wiki/Marc_Surer
+183,10262,27,25,17,10,10,10,0,71,\N,\N,\N,\N,\N,\N,14,hesnault,\N,\N,François,Hesnault,1956-12-30,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Hesnault
+105,10263,6,27,10,11,11,11,0,70,\N,\N,\N,\N,\N,\N,80,alboreto,\N,\N,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
+123,10264,21,18,26,12,12,12,0,70,\N,\N,\N,\N,\N,\N,15,boutsen,\N,\N,Thierry,Boutsen,1957-07-13,Belgian,http://en.wikipedia.org/wiki/Thierry_Boutsen
+84,10265,25,3,25,\N,D,13,0,71,\N,\N,\N,\N,\N,\N,2,brundle,\N,\N,Martin,Brundle,1959-06-01,British,http://en.wikipedia.org/wiki/Martin_Brundle
+175,10266,4,15,4,\N,R,14,0,66,\N,\N,\N,\N,\N,\N,60,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+185,10267,25,4,24,\N,D,15,0,60,\N,\N,\N,\N,\N,\N,2,bellof,\N,\N,Stefan,Bellof,1957-11-20,German,http://en.wikipedia.org/wiki/Stefan_Bellof
+172,10268,3,5,11,\N,R,16,0,60,\N,\N,\N,\N,\N,\N,7,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+181,10269,54,14,12,\N,R,17,0,53,\N,\N,\N,\N,\N,\N,5,manfred_winkelhock,\N,\N,Manfred,Winkelhock,1951-10-06,German,http://en.wikipedia.org/wiki/Manfred_Winkelhock
+177,10270,3,6,2,\N,R,18,0,51,\N,\N,\N,\N,\N,\N,36,keke_rosberg,\N,\N,Keke,Rosberg,1948-12-06,Finnish,http://en.wikipedia.org/wiki/Keke_Rosberg
+95,10271,32,12,3,\N,R,19,0,51,\N,\N,\N,\N,\N,\N,101,mansell,\N,\N,Nigel,Mansell,1953-08-08,British,http://en.wikipedia.org/wiki/Nigel_Mansell
+163,10272,6,28,15,\N,R,20,0,40,\N,\N,\N,\N,\N,\N,98,arnoux,\N,\N,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
+137,10273,34,1,1,\N,R,21,0,29,\N,\N,\N,\N,\N,\N,101,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+188,10274,53,20,19,\N,R,22,0,26,\N,\N,\N,\N,\N,\N,27,cecotto,\N,\N,Johnny,Cecotto,1956-01-25,Venezuelan,http://en.wikipedia.org/wiki/Johnny_Cecotto
+112,10275,50,9,22,\N,R,23,0,24,\N,\N,\N,\N,\N,\N,5,alliot,\N,\N,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
+156,10276,50,10,21,\N,R,24,0,22,\N,\N,\N,\N,\N,\N,6,palmer,\N,\N,Jonathan,Palmer,1956-11-07,British,http://en.wikipedia.org/wiki/Jonathan_Palmer
+170,10277,34,2,6,\N,R,25,0,18,\N,\N,\N,\N,\N,\N,101,fabi,\N,\N,Teo,Fabi,1955-03-09,Italian,http://en.wikipedia.org/wiki/Teo_Fabi
+158,10278,51,23,16,\N,R,26,0,4,\N,\N,\N,\N,\N,\N,21,cheever,\N,\N,Eddie,Cheever,1958-01-10,American,http://en.wikipedia.org/wiki/Eddie_Cheever
+160,10279,45,24,0,\N,W,27,0,0,\N,\N,\N,\N,\N,\N,54,ghinzani,\N,\N,Piercarlo,Ghinzani,1952-01-16,Italian,http://en.wikipedia.org/wiki/Piercarlo_Ghinzani

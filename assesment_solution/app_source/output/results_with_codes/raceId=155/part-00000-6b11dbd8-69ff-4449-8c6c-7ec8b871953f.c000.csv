@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+31,2865,3,6,1,1,1,1,10,53,1:16:58.493,4618493,\N,\N,\N,\N,1,montoya,\N,MON,Juan,Pablo Montoya,1975-09-20,Colombian,http://en.wikipedia.org/wiki/Juan_Pablo_Montoya
+22,2866,6,2,2,2,2,2,6,53,+5.175,4623668,\N,\N,\N,\N,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+23,2867,3,5,4,3,3,3,4,53,+17.335,4635828,\N,\N,\N,\N,1,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+30,2868,6,1,3,4,4,4,3,53,+24.991,4643484,\N,\N,\N,\N,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+37,2869,19,19,10,5,5,5,2,53,+1:14.984,4693477,\N,\N,\N,\N,1,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+35,2870,16,10,15,6,6,6,1,53,+1:22.469,4700962,\N,\N,\N,\N,1,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+8,2871,15,17,9,7,7,7,0,53,+1:23.107,4701600,\N,\N,\N,\N,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+55,2872,17,12,16,8,8,8,0,52,\N,\N,\N,\N,\N,\N,11,alesi,\N,\N,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
+44,2873,16,9,17,9,9,9,0,52,\N,\N,\N,\N,\N,\N,11,panis,\N,\N,Olivier,Panis,1966-09-02,French,http://en.wikipedia.org/wiki/Olivier_Panis
+21,2874,22,7,14,10,10,10,0,52,\N,\N,\N,\N,\N,\N,11,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+2,2875,15,16,8,11,11,11,0,52,\N,\N,\N,\N,\N,\N,11,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+61,2876,20,23,20,12,12,12,0,52,\N,\N,\N,\N,\N,\N,11,enge,\N,\N,Tomáš,Enge,1976-09-11,Czech,http://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Enge
+4,2877,18,21,21,13,13,13,0,51,\N,\N,\N,\N,\N,\N,12,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+59,2878,21,15,18,\N,R,14,0,46,\N,\N,\N,\N,\N,\N,87,bernoldi,\N,\N,Enrique,Bernoldi,1978-10-19,Brazilian,http://en.wikipedia.org/wiki/Enrique_Bernoldi
+62,2879,18,20,22,\N,R,15,0,44,\N,\N,\N,\N,\N,\N,20,yoong,\N,\N,Alex,Yoong,1976-07-20,Malaysian,http://en.wikipedia.org/wiki/Alex_Yoong
+49,2880,20,22,12,\N,R,16,0,28,\N,\N,\N,\N,\N,\N,6,frentzen,\N,\N,Heinz-Harald,Frentzen,1967-05-18,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen
+50,2881,21,14,19,\N,R,17,0,25,\N,\N,\N,\N,\N,\N,32,verstappen,\N,\N,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
+57,2882,1,3,7,\N,R,18,0,19,\N,\N,\N,\N,\N,\N,6,hakkinen,\N,\N,Mika,Häkkinen,1968-09-28,Finnish,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen
+56,2883,19,18,13,\N,R,19,0,14,\N,\N,\N,\N,\N,\N,5,irvine,\N,\N,Eddie,Irvine,1965-11-10,British,http://en.wikipedia.org/wiki/Eddie_Irvine
+14,2884,1,4,6,\N,R,20,0,6,\N,\N,\N,\N,\N,\N,5,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+18,2885,22,8,11,\N,R,21,0,4,\N,\N,\N,\N,\N,\N,5,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+15,2886,17,11,5,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,4,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli

@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+341,17290,6,7,1,1,1,1,9,15,2:12:04.8,7924800,\N,\N,\N,\N,1,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+289,17291,66,3,5,2,2,2,6,15,+1:15.6,8000400,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+385,17292,6,8,4,3,3,3,4,15,+4:52.8,8217600,\N,\N,\N,\N,1,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+346,17293,181,19,10,4,4,4,3,15,+5:23.1,8247900,\N,\N,\N,\N,1,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+427,17294,66,22,14,5,5,5,2,14,\N,\N,\N,\N,\N,\N,84,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+408,17295,66,26,16,6,6,6,1,14,\N,\N,\N,\N,\N,\N,11,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+386,17296,66,4,11,7,7,7,0,14,\N,\N,\N,\N,\N,\N,11,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+374,17297,172,2,17,8,8,8,0,14,\N,\N,\N,\N,\N,\N,11,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+423,17298,172,23,19,9,9,9,0,14,\N,\N,\N,\N,\N,\N,11,mitter,\N,\N,Gerhard,Mitter,1935-08-30,German,http://en.wikipedia.org/wiki/Gerhard_Mitter
+364,17299,183,5,3,10,10,10,0,14,\N,\N,\N,\N,\N,\N,11,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+278,17300,176,14,9,11,11,11,0,12,\N,\N,\N,\N,\N,\N,22,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+356,17301,183,6,6,12,12,12,0,11,\N,\N,\N,\N,\N,\N,24,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+405,17302,11,20,22,13,13,13,0,11,\N,\N,\N,\N,\N,\N,3,bucknum,\N,\N,Ronnie,Bucknum,1936-04-05,American,http://en.wikipedia.org/wiki/Ronnie_Bucknum
+309,17303,176,27,18,14,14,14,0,10,\N,\N,\N,\N,\N,\N,3,revson,\N,\N,Peter,Revson,1939-02-27,American,http://en.wikipedia.org/wiki/Peter_Revson
+373,17304,172,1,2,\N,R,15,0,7,\N,\N,\N,\N,\N,\N,5,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+360,17305,170,9,7,\N,R,16,0,4,\N,\N,\N,\N,\N,\N,5,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+383,17306,183,16,15,\N,R,17,0,4,\N,\N,\N,\N,\N,\N,22,anderson,\N,\N,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
+431,17307,170,12,20,\N,R,18,0,3,\N,\N,\N,\N,\N,\N,8,barth,\N,\N,Edgar,Barth,1917-01-26,German,http://en.wikipedia.org/wiki/Edgar_Barth
+394,17308,66,18,21,\N,R,19,0,2,\N,\N,\N,\N,\N,\N,37,baghetti,\N,\N,Giancarlo,Baghetti,1934-12-25,Italian,http://en.wikipedia.org/wiki/Giancarlo_Baghetti
+403,17309,170,10,8,\N,R,20,0,1,\N,\N,\N,\N,\N,\N,5,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+347,17310,181,11,12,\N,R,21,0,0,\N,\N,\N,\N,\N,\N,10,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+305,17311,176,15,13,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,5,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+429,17312,92,28,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,andre_pilette,\N,\N,André,Pilette,1918-10-06,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette

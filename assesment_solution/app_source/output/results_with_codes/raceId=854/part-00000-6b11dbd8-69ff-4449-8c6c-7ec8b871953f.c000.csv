@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+20,21088,9,1,1,1,1,1,25,61,1:59:04.757,7146757,51,2,1:48.688,168.029,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+18,21089,1,4,3,2,2,2,18,61,+1.737,7148494,54,1,1:48.454,168.392,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+17,21090,9,2,2,3,3,3,15,61,+29.279,7176036,54,3,1:50.088,165.892,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+4,21091,6,5,5,4,4,4,12,61,+55.449,7202206,58,5,1:50.891,164.691,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+1,21092,1,3,4,5,5,5,10,61,+1:07.766,7214523,54,4,1:50.832,164.779,1,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+814,21093,10,15,10,6,6,6,8,61,+1:51.067,7257824,41,15,1:54.239,159.864,1,resta,\N,DIR,Paul,di Resta,1986-04-16,British,http://en.wikipedia.org/wiki/Paul_di_Resta
+3,21094,131,8,7,7,7,7,6,60,\N,\N,42,16,1:54.383,159.663,11,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+16,21095,10,14,9,8,8,8,4,60,\N,\N,45,17,1:54.564,159.411,11,sutil,99,SUT,Adrian,Sutil,1983-01-11,German,http://en.wikipedia.org/wiki/Adrian_Sutil
+13,21096,6,6,6,9,9,9,2,60,\N,\N,26,8,1:52.550,162.263,11,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+815,21097,15,17,11,10,10,10,1,60,\N,\N,42,18,1:54.615,159.340,11,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+813,21098,3,12,13,11,11,11,0,60,\N,\N,50,10,1:53.198,161.335,11,maldonado,13,MAL,Pastor,Maldonado,1985-03-09,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
+67,21099,5,18,14,12,12,12,0,60,\N,\N,51,7,1:52.197,162.774,11,buemi,\N,BUE,Sébastien,Buemi,1988-10-31,Swiss,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi
+22,21100,3,11,12,13,13,13,0,60,\N,\N,40,19,1:55.235,158.483,11,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+155,21101,15,16,17,14,14,14,0,59,\N,\N,56,6,1:51.329,164.043,12,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi
+811,21102,4,9,15,15,15,15,0,59,\N,\N,55,12,1:53.774,160.518,12,bruno_senna,\N,SEN,Bruno,Senna,1983-10-15,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna
+5,21103,205,20,19,16,16,16,0,59,\N,\N,56,13,1:54.063,160.111,12,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen
+808,21104,4,10,18,17,17,17,0,59,\N,\N,56,14,1:54.204,159.913,12,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
+816,21105,166,25,22,18,18,18,0,59,\N,\N,22,22,1:58.730,153.817,12,ambrosio,\N,DAM,Jérôme,d'Ambrosio,1985-12-27,Belgian,http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio
+817,21106,164,22,23,19,19,19,0,57,\N,\N,40,23,1:59.064,153.386,14,ricciardo,3,RIC,Daniel,Ricciardo,1989-07-01,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo
+24,21107,164,23,24,20,20,20,0,57,\N,\N,41,21,1:58.283,154.399,14,liuzzi,\N,LIU,Vitantonio,Liuzzi,1980-08-06,Italian,http://en.wikipedia.org/wiki/Vitantonio_Liuzzi
+153,21108,5,19,16,21,21,21,0,56,\N,\N,37,11,1:53.676,160.656,3,alguersuari,\N,ALG,Jaime,Alguersuari,1990-03-23,Spanish,http://en.wikipedia.org/wiki/Jaime_Alguersuari
+15,21109,205,21,20,\N,R,22,0,47,\N,\N,25,20,1:57.126,155.924,6,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+30,21110,131,7,8,\N,R,23,0,28,\N,\N,26,9,1:53.096,161.480,3,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+10,21111,166,24,21,\N,R,24,0,9,\N,\N,6,24,2:00.412,151.669,3,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock

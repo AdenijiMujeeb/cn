@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+647,19465,6,2,1,1,1,1,8,90,2:53:35.8,10415800,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+642,19466,6,6,3,2,2,2,6,90,+10.4,10426200,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+697,19467,105,16,13,3,3,3,2,89,\N,\N,\N,\N,\N,\N,11,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+578,19468,6,8,6,4,4,4,3,89,\N,\N,\N,\N,\N,\N,11,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+640,19469,105,18,7,5,5,5,2,88,\N,\N,\N,\N,\N,\N,12,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+427,19470,128,24,12,6,6,6,0,87,\N,\N,\N,\N,\N,\N,13,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+627,19471,6,10,8,7,7,7,0,86,\N,\N,\N,\N,\N,\N,14,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+581,19472,133,36,16,8,8,8,0,84,\N,\N,\N,\N,\N,\N,16,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+475,19473,125,34,9,9,9,9,0,83,\N,\N,\N,\N,\N,\N,17,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+633,19474,6,4,4,\N,R,10,1,67,\N,\N,\N,\N,\N,\N,37,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+664,19475,125,28,14,\N,R,11,0,63,\N,\N,\N,\N,\N,\N,5,mcalpine,\N,\N,Kenneth,McAlpine,1920-09-21,British,http://en.wikipedia.org/wiki/Kenneth_McAlpine
+501,19476,128,20,10,\N,R,12,0,59,\N,\N,\N,\N,\N,\N,7,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+660,19477,125,30,17,\N,N,13,0,52,\N,\N,\N,\N,\N,\N,62,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+579,19478,105,12,2,\N,R,14,0,36,\N,\N,\N,\N,\N,\N,109,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+643,19479,128,22,19,\N,R,15,0,28,\N,\N,\N,\N,\N,\N,7,mieres,\N,\N,Roberto,Mieres,1924-12-03,Argentine,http://en.wikipedia.org/wiki/Roberto_Mieres
+498,19480,105,14,5,\N,R,16,0,22,\N,\N,\N,\N,\N,\N,109,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+663,19481,87,32,18,\N,R,17,0,19,\N,\N,\N,\N,\N,\N,68,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+456,19482,125,26,11,\N,R,18,0,14,\N,\N,\N,\N,\N,\N,5,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+651,19483,133,38,15,\N,R,19,0,7,\N,\N,\N,\N,\N,\N,37,macklin,\N,\N,Lance,Macklin,1919-09-02,British,http://en.wikipedia.org/wiki/Lance_Macklin
+498,20209,105,16,13,3,3,3,2,89,\N,\N,\N,\N,\N,\N,11,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez

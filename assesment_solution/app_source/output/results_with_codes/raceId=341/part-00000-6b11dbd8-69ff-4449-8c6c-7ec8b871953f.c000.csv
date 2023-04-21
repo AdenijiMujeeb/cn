@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+17,20419,9,6,1,1,1,1,25,66,1:35:44.101,5744101,62,2,1:24.828,197.552,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+4,20420,6,8,4,2,2,2,18,66,+24.065,5768166,57,3,1:24.846,197.510,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+20,20421,9,5,2,3,3,3,15,66,+51.338,5795439,56,5,1:25.176,196.745,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+30,20422,131,3,6,4,4,4,12,66,+1:02.195,5806296,64,10,1:25.529,195.933,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+18,20423,1,1,5,5,5,5,10,66,+1:03.728,5807829,64,4,1:25.166,196.768,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+13,20424,6,7,9,6,6,6,8,66,+1:05.767,5809868,64,9,1:25.497,196.006,1,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+16,20425,10,14,11,7,7,7,6,66,+1:12.941,5817042,65,13,1:25.845,195.212,1,sutil,99,SUT,Adrian,Sutil,1983-01-11,German,http://en.wikipedia.org/wiki/Adrian_Sutil
+9,20426,4,11,7,8,8,8,4,66,+1:13.677,5817778,66,7,1:25.466,196.077,1,kubica,88,KUB,Robert,Kubica,1984-12-07,Polish,http://en.wikipedia.org/wiki/Robert_Kubica
+22,20427,3,9,17,9,9,9,2,65,\N,\N,59,12,1:25.728,195.478,11,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+153,20428,5,17,15,10,10,10,1,65,\N,\N,63,11,1:25.655,195.645,11,alguersuari,\N,ALG,Jaime,Alguersuari,1990-03-23,Spanish,http://en.wikipedia.org/wiki/Jaime_Alguersuari
+808,20429,4,12,19,11,11,11,0,65,\N,\N,63,8,1:25.470,196.068,11,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
+155,20430,15,23,10,12,12,12,0,65,\N,\N,62,15,1:26.083,194.672,11,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi
+3,20431,131,4,8,13,13,13,0,65,\N,\N,50,6,1:25.455,196.103,11,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+1,20432,1,2,3,14,14,14,0,64,\N,\N,59,1,1:24.357,198.655,29,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+24,20433,10,15,16,15,15,15,0,64,\N,\N,63,14,1:25.924,195.032,5,liuzzi,\N,LIU,Vitantonio,Liuzzi,1980-08-06,Italian,http://en.wikipedia.org/wiki/Vitantonio_Liuzzi
+807,20434,3,10,13,16,16,16,0,64,\N,\N,63,17,1:26.863,192.924,12,hulkenberg,27,HUL,Nico,Hülkenberg,1987-08-19,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+15,20435,205,18,18,17,17,17,0,63,\N,\N,56,18,1:29.564,187.106,13,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+10,20436,166,24,22,18,18,18,0,63,\N,\N,60,19,1:29.776,186.664,13,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+810,20437,166,25,23,19,19,19,0,62,\N,\N,47,20,1:29.904,186.398,14,grassi,\N,DIG,Lucas,di Grassi,1984-08-11,Brazilian,http://en.wikipedia.org/wiki/Lucas_di_Grassi
+67,20438,5,16,14,\N,R,20,0,42,\N,\N,41,16,1:26.724,193.233,9,buemi,\N,BUE,Sébastien,Buemi,1988-10-31,Swiss,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi
+812,20439,164,20,24,\N,R,21,0,27,\N,\N,26,22,1:32.041,182.071,22,chandhok,\N,CHA,Karun,Chandhok,1984-01-19,Indian,http://en.wikipedia.org/wiki/Karun_Chandhok
+37,20440,15,22,12,\N,R,22,0,18,\N,\N,9,21,1:30.411,185.353,4,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+811,20441,164,21,21,\N,R,23,0,0,\N,\N,\N,\N,\N,\N,3,bruno_senna,\N,SEN,Bruno,Senna,1983-10-15,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna
+5,20442,205,19,20,\N,W,24,0,0,\N,\N,\N,\N,\N,\N,6,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen

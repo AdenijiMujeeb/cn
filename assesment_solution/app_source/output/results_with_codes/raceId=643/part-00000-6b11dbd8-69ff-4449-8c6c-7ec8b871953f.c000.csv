@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+356,15889,34,12,3,1,1,1,9,80,1:49:35.4,6575400,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+304,15890,187,6,6,2,2,2,6,80,+8.1,6583500,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+328,15891,37,1,1,3,3,3,4,80,+17.1,6592500,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+306,15892,82,3,8,4,4,4,3,80,+1:13.1,6648500,\N,\N,\N,\N,1,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+357,15893,32,10,14,5,5,5,2,79,\N,\N,\N,\N,\N,\N,11,miles,\N,\N,John,Miles,1943-06-14,British,http://en.wikipedia.org/wiki/John_Miles_(auto_racer)
+289,15894,32,11,19,6,6,6,1,79,\N,\N,\N,\N,\N,\N,11,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+280,15895,82,4,18,7,7,7,0,78,\N,\N,\N,\N,\N,\N,12,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+340,15896,32,23,22,8,8,8,0,78,\N,\N,\N,\N,\N,\N,12,love,\N,\N,John,Love,1924-12-07,Rhodesian,http://en.wikipedia.org/wiki/John_Love_(racing_driver)
+345,15897,66,20,16,9,9,9,0,76,\N,\N,\N,\N,\N,\N,14,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+346,15898,37,16,9,10,10,10,0,75,\N,\N,\N,\N,\N,\N,15,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+362,15899,34,24,21,11,11,11,0,75,\N,\N,\N,\N,\N,\N,15,klerk,\N,\N,Peter,de Klerk,1935-03-16,South African,http://en.wikipedia.org/wiki/Peter_de_Klerk
+293,15900,32,25,13,12,12,12,0,73,\N,\N,\N,\N,\N,\N,5,charlton,\N,\N,Dave,Charlton,1936-10-27,South African,http://en.wikipedia.org/wiki/Dave_Charlton
+358,15901,32,9,4,13,13,13,0,72,\N,\N,\N,\N,\N,\N,5,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+235,15902,6,17,5,\N,R,14,0,60,\N,\N,\N,\N,\N,\N,5,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+341,15903,187,7,7,\N,R,15,0,60,\N,\N,\N,\N,\N,\N,5,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+352,15904,66,21,23,\N,R,16,0,58,\N,\N,\N,\N,\N,\N,5,eaton,\N,\N,George,Eaton,1945-11-12,Canadian,http://en.wikipedia.org/wiki/George_Eaton
+359,15905,37,2,17,\N,R,17,0,57,\N,\N,\N,\N,\N,\N,5,gavin,\N,\N,Johnny,Servoz-Gavin,1942-01-18,French,http://en.wikipedia.org/wiki/Johnny_Servoz-Gavin
+360,15906,187,5,10,\N,R,18,0,39,\N,\N,\N,\N,\N,\N,5,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+361,15907,86,22,20,\N,R,19,0,39,\N,\N,\N,\N,\N,\N,3,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+207,15908,37,8,11,\N,R,20,0,26,\N,\N,\N,\N,\N,\N,25,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+243,15909,34,14,15,\N,R,21,0,23,\N,\N,\N,\N,\N,\N,5,stommelen,\N,\N,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
+262,15910,66,19,12,\N,R,22,0,22,\N,\N,\N,\N,\N,\N,6,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+278,15911,37,15,2,\N,R,23,0,14,\N,\N,\N,\N,\N,\N,25,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon

@@ -1,0 +1,27 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+309,15264,1,8,2,1,1,1,9,80,1:59:04.083,7144083,\N,\N,\N,\N,1,revson,\N,\N,Peter,Revson,1939-02-27,American,http://en.wikipedia.org/wiki/Peter_Revson
+224,15265,32,1,5,2,2,2,6,80,+32.734,7176817,\N,\N,\N,\N,1,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+262,15266,58,17,14,3,3,3,4,80,+34.505,7178588,\N,\N,\N,\N,1,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+306,15267,66,20,16,4,4,4,3,80,+36.514,7180597,\N,\N,\N,\N,1,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+328,15268,25,5,9,5,5,5,2,79,\N,\N,\N,\N,\N,\N,11,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+307,15269,80,25,22,6,6,6,1,79,\N,\N,\N,\N,\N,\N,11,ganley,\N,\N,Howden,Ganley,1941-12-24,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley
+231,15270,37,27,15,7,7,7,0,78,\N,\N,\N,\N,\N,\N,12,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+199,15271,34,10,4,8,8,8,0,78,\N,\N,\N,\N,\N,\N,12,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+305,15272,63,23,12,9,9,9,0,78,\N,\N,\N,\N,\N,\N,12,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+278,15273,25,29,11,10,10,10,0,77,\N,\N,\N,\N,\N,\N,13,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+290,15274,34,11,10,11,11,11,0,77,\N,\N,\N,\N,\N,\N,13,wilson_fittipaldi,\N,\N,Wilson,Fittipaldi,1943-12-25,Brazilian,http://en.wikipedia.org/wiki/Wilson_Fittipaldi
+243,15275,34,9,18,12,12,12,0,76,\N,\N,\N,\N,\N,\N,14,stommelen,\N,\N,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
+304,15276,1,7,7,13,13,13,0,75,\N,\N,\N,\N,\N,\N,15,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+314,15277,80,26,24,14,14,14,0,75,\N,\N,\N,\N,\N,\N,15,schenken,\N,\N,Tim,Schenken,1943-09-26,Australian,http://en.wikipedia.org/wiki/Tim_Schenken
+232,15278,6,4,20,15,15,15,0,75,\N,\N,\N,\N,\N,\N,15,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+289,15279,58,12,17,16,16,16,0,73,\N,\N,\N,\N,\N,\N,17,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+332,15280,58,16,13,17,17,17,0,73,\N,\N,\N,\N,\N,\N,17,follmer,\N,\N,George,Follmer,1934-01-27,American,http://en.wikipedia.org/wiki/George_Follmer
+250,15281,63,24,19,18,18,18,0,72,\N,\N,\N,\N,\N,\N,18,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+197,15282,37,18,23,\N,N,19,0,71,\N,\N,\N,\N,\N,\N,62,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+313,15283,57,28,26,\N,N,20,0,68,\N,\N,\N,\N,\N,\N,62,opel,\N,\N,Rikky,von Opel,1947-10-14,Liechtensteiner,http://en.wikipedia.org/wiki/Rikky_von_Opel
+182,15284,66,21,8,\N,R,21,0,62,\N,\N,\N,\N,\N,\N,7,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+222,15285,1,0,3,\N,R,22,0,32,\N,\N,\N,\N,\N,\N,3,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+327,15286,25,6,6,\N,R,23,0,32,\N,\N,\N,\N,\N,\N,3,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+329,15287,37,15,21,\N,R,24,0,20,\N,\N,\N,\N,\N,\N,5,beuttler,\N,\N,Mike,Beuttler,1940-04-13,British,http://en.wikipedia.org/wiki/Mike_Beuttler
+238,15288,32,2,1,\N,R,25,0,16,\N,\N,\N,\N,\N,\N,22,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+320,15289,66,19,25,\N,R,26,0,5,\N,\N,\N,\N,\N,\N,94,gethin,\N,\N,Peter,Gethin,1940-02-21,British,http://en.wikipedia.org/wiki/Peter_Gethin

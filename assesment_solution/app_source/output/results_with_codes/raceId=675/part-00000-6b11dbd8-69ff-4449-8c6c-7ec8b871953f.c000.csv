@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+304,16529,187,1,7,1,1,1,9,68,1:40:14.8,6014800,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+359,16530,196,5,13,2,2,2,6,68,+1:28.4,6103200,\N,\N,\N,\N,1,gavin,\N,\N,Johnny,Servoz-Gavin,1942-01-18,French,http://en.wikipedia.org/wiki/Johnny_Servoz-Gavin
+235,16531,6,8,4,3,3,3,4,68,+1:28.6,6103400,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+361,16532,66,27,17,4,4,4,3,67,\N,\N,\N,\N,\N,\N,11,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+306,16533,82,6,18,5,5,5,2,66,\N,\N,\N,\N,\N,\N,12,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+347,16534,194,3,19,6,6,6,1,64,\N,\N,\N,\N,\N,\N,14,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+346,16535,180,20,9,\N,R,7,0,58,\N,\N,\N,\N,\N,\N,22,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+356,16536,191,10,16,\N,R,8,0,56,\N,\N,\N,\N,\N,\N,51,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+328,16537,196,4,6,\N,R,9,0,42,\N,\N,\N,\N,\N,\N,5,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+322,16538,11,15,14,\N,R,10,0,42,\N,\N,\N,\N,\N,\N,5,hobbs,\N,\N,David,Hobbs,1939-06-09,British,http://en.wikipedia.org/wiki/David_Hobbs_(racing_driver)
+262,16539,180,19,11,\N,R,11,0,38,\N,\N,\N,\N,\N,\N,7,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+360,16540,187,2,2,\N,R,12,0,34,\N,\N,\N,\N,\N,\N,44,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+358,16541,191,11,10,\N,R,13,0,33,\N,\N,\N,\N,\N,\N,5,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+345,16542,66,26,15,\N,R,14,0,22,\N,\N,\N,\N,\N,\N,5,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+364,16543,190,21,12,\N,R,15,0,19,\N,\N,\N,\N,\N,\N,5,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+289,16544,180,16,5,\N,R,16,0,10,\N,\N,\N,\N,\N,\N,36,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+341,16545,11,14,1,\N,R,17,0,8,\N,\N,\N,\N,\N,\N,3,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+278,16546,6,9,3,\N,R,18,0,8,\N,\N,\N,\N,\N,\N,3,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+321,16547,6,7,8,\N,R,19,0,4,\N,\N,\N,\N,\N,\N,69,bell,\N,\N,Derek,Bell,1941-10-31,British,http://en.wikipedia.org/wiki/Derek_Bell_(auto_racer)
+350,16548,195,23,20,\N,R,20,0,2,\N,\N,\N,\N,\N,\N,3,elford,\N,\N,Vic,Elford,1935-06-10,British,http://en.wikipedia.org/wiki/Vic_Elford
+380,16549,66,28,0,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,gardner,\N,\N,Frank,Gardner,1930-10-01,Australian,http://en.wikipedia.org/wiki/Frank_Gardner_(driver)
+351,16550,191,12,0,\N,F,22,0,0,\N,\N,\N,\N,\N,\N,81,moser,\N,\N,Silvio,Moser,1941-04-24,Swiss,http://en.wikipedia.org/wiki/Silvio_Moser

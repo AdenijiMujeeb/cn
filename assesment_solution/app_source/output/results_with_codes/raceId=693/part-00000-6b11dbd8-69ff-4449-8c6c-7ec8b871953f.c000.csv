@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+356,16869,191,5,1,1,1,1,9,80,2:13:13.4,7993400,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+304,16870,191,6,2,2,2,2,6,80,+9.6,8003000,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+289,16871,66,3,4,3,3,3,4,79,\N,\N,\N,\N,\N,\N,11,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+373,16872,172,1,5,4,4,4,3,79,\N,\N,\N,\N,\N,\N,11,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+358,16873,167,11,7,5,5,5,2,79,\N,\N,\N,\N,\N,\N,11,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+360,16874,188,14,13,6,6,6,1,78,\N,\N,\N,\N,\N,\N,12,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+388,16875,183,7,12,7,7,7,0,78,\N,\N,\N,\N,\N,\N,12,irwin,\N,\N,Chris,Irwin,1942-06-27,British,http://en.wikipedia.org/wiki/Chris_Irwin
+399,16876,181,22,16,8,8,8,0,76,\N,\N,\N,\N,\N,\N,14,taylor,\N,\N,John,Taylor,1933-03-23,British,http://en.wikipedia.org/wiki/John_Taylor_(racer)
+396,16877,66,25,14,9,9,9,0,76,\N,\N,\N,\N,\N,\N,14,bondurant,\N,\N,Bob,Bondurant,1933-04-27,American,http://en.wikipedia.org/wiki/Bob_Bondurant
+389,16878,167,19,17,10,10,10,0,75,\N,\N,\N,\N,\N,\N,15,ligier,\N,\N,Guy,Ligier,1930-07-12,French,http://en.wikipedia.org/wiki/Guy_Ligier
+400,16879,192,24,19,11,11,11,0,73,\N,\N,\N,\N,\N,\N,17,lawrence,\N,\N,Chris,Lawrence,1933-07-27,British,http://en.wikipedia.org/wiki/Chris_Lawrence_(racing_driver)
+383,16880,183,21,10,\N,N,12,0,70,\N,\N,\N,\N,\N,\N,62,anderson,\N,\N,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
+346,16881,167,20,11,\N,N,13,0,70,\N,\N,\N,\N,\N,\N,62,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+341,16882,167,12,6,\N,R,14,0,67,\N,\N,\N,\N,\N,\N,7,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+347,16883,183,18,15,\N,R,15,0,42,\N,\N,\N,\N,\N,\N,8,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+397,16884,176,2,20,\N,R,16,0,32,\N,\N,\N,\N,\N,\N,6,arundell,\N,\N,Peter,Arundell,1933-11-08,British,http://en.wikipedia.org/wiki/Peter_Arundell
+328,16885,66,4,8,\N,R,17,0,17,\N,\N,\N,\N,\N,\N,5,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+374,16886,176,17,9,\N,R,18,0,15,\N,\N,\N,\N,\N,\N,44,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+364,16887,189,16,3,\N,R,19,0,9,\N,\N,\N,\N,\N,\N,5,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+401,16888,91,23,18,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,5,trevor_taylor,\N,\N,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor

@@ -1,0 +1,18 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,17051,172,6,1,1,1,1,9,40,2:41:38.4,9698400,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+328,17052,66,12,2,2,2,2,6,40,+26.3,9724700,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+341,17053,6,2,4,3,3,3,4,40,+2:33.5,9851900,\N,\N,\N,\N,1,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+304,17054,183,16,6,4,4,4,3,40,+2:53.1,9871500,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+289,17055,66,10,13,5,5,5,2,39,\N,\N,\N,\N,\N,\N,11,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+346,17056,181,36,14,6,6,6,1,39,\N,\N,\N,\N,\N,\N,11,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+374,17057,172,8,10,7,7,7,0,39,\N,\N,\N,\N,\N,\N,11,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+385,17058,6,4,3,8,8,8,0,36,\N,\N,\N,\N,\N,\N,3,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+383,17059,183,30,15,9,9,9,0,34,\N,\N,\N,\N,\N,\N,69,anderson,\N,\N,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
+360,17060,170,18,9,\N,R,10,0,23,\N,\N,\N,\N,\N,\N,22,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+347,17061,183,34,11,\N,R,11,0,21,\N,\N,\N,\N,\N,\N,91,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+278,17062,176,24,8,\N,R,12,0,20,\N,\N,\N,\N,\N,\N,69,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+404,17063,176,22,17,\N,R,13,0,18,\N,\N,\N,\N,\N,\N,6,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+364,17064,183,14,5,\N,R,14,0,16,\N,\N,\N,\N,\N,\N,5,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+386,17065,11,26,7,\N,R,15,0,9,\N,\N,\N,\N,\N,\N,80,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+405,17066,11,28,16,\N,R,16,0,4,\N,\N,\N,\N,\N,\N,80,bucknum,\N,\N,Ronnie,Bucknum,1936-04-05,American,http://en.wikipedia.org/wiki/Ronnie_Bucknum
+358,17067,170,20,12,\N,R,17,0,3,\N,\N,\N,\N,\N,\N,3,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt

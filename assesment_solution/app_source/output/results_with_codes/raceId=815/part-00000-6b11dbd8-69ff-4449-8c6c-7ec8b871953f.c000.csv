@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+647,19590,6,46,2,1,1,1,9,65,3:01:34.40,10894400,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+642,19591,6,24,3,2,2,2,6,65,+1:12.93,10967330,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+578,19592,6,26,7,3,3,3,4,65,+1:35.96,10990360,\N,\N,\N,\N,1,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+579,19593,105,32,1,4,4,4,1.5,64,\N,\N,\N,\N,\N,\N,11,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+691,19594,105,34,11,5,5,5,2,62,\N,\N,\N,\N,\N,\N,13,lang,\N,\N,Hermann,Lang,1909-04-06,German,http://en.wikipedia.org/wiki/Hermann_Lang
+633,19595,6,28,6,6,6,6,0,62,\N,\N,\N,\N,\N,\N,13,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+663,19596,87,20,9,7,7,7,0,62,\N,\N,\N,\N,\N,\N,13,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+720,19597,6,40,19,8,8,8,0,51,\N,\N,\N,\N,\N,\N,111,terra,\N,\N,Max,de Terra,1918-10-06,Swiss,http://en.wikipedia.org/wiki/Max_de_Terra
+719,19598,133,18,18,9,9,9,0,49,\N,\N,\N,\N,\N,\N,116,scherrer,\N,\N,Albert,Scherrer,1908-02-28,Swiss,http://en.wikipedia.org/wiki/Albert_Scherrer
+622,19599,105,4,20,\N,R,10,0,54,\N,\N,\N,\N,\N,\N,6,landi,\N,\N,Chico,Landi,1907-07-14,Brazilian,http://en.wikipedia.org/wiki/Chico_Landi
+640,19600,105,42,8,\N,R,11,0,49,\N,\N,\N,\N,\N,\N,7,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+670,19601,105,36,5,\N,R,12,0,46,\N,\N,\N,\N,\N,\N,5,marimon,\N,\N,Onofre,Marimón,1923-12-19,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n
+427,19602,128,8,4,\N,R,13,0,43,\N,\N,\N,\N,\N,\N,109,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+554,19603,128,6,12,\N,R,14,0,37,\N,\N,\N,\N,\N,\N,51,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+697,19604,105,30,10,\N,R,15,0,29,\N,\N,\N,\N,\N,\N,5,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+651,19605,133,16,15,\N,R,16,0,29,\N,\N,\N,\N,\N,\N,5,macklin,\N,\N,Lance,Macklin,1919-09-02,British,http://en.wikipedia.org/wiki/Lance_Macklin
+721,19606,6,38,17,\N,R,17,0,17,\N,\N,\N,\N,\N,\N,5,hirt,\N,\N,Peter,Hirt,1910-03-30,Swiss,http://en.wikipedia.org/wiki/Peter_Hirt
+632,19607,133,14,16,\N,R,18,0,1,\N,\N,\N,\N,\N,\N,5,frere,\N,\N,Paul,Frère,1917-01-30,Belgian,http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re
+680,19608,6,2,13,\N,R,19,0,0,\N,\N,\N,\N,\N,\N,20,swaters,\N,\N,Jacques,Swaters,1926-10-30,American,http://en.wikipedia.org/wiki/Jacques_Swaters
+627,19609,6,10,14,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,20,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+697,20213,105,32,1,4,4,4,1.5,64,\N,\N,\N,\N,\N,\N,11,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+579,20214,105,30,10,\N,R,15,0,29,\N,\N,\N,\N,\N,\N,5,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio

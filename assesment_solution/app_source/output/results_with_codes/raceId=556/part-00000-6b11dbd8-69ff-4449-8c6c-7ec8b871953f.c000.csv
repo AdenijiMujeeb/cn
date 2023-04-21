@@ -1,0 +1,35 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+207,13617,32,5,4,1,1,1,9,52,1:27:50.30,5270300,\N,\N,\N,\N,1,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+182,13618,6,11,5,2,2,2,6,52,+16.96,5287260,\N,\N,\N,\N,1,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+178,13619,58,17,16,3,3,3,4,52,+23.63,5293930,\N,\N,\N,\N,1,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+200,13620,1,2,9,4,4,4,3,52,+28.48,5298780,\N,\N,\N,\N,1,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+223,13621,57,22,7,5,5,5,2,52,+30.11,5300410,\N,\N,\N,\N,1,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+238,13622,25,3,12,6,6,6,1,52,+1:19.22,5349520,\N,\N,\N,\N,1,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+258,13623,37,27,24,7,7,7,0,50,\N,\N,\N,\N,\N,\N,12,neve,\N,\N,Patrick,Nève,1949-10-13,Belgian,http://en.wikipedia.org/wiki/Patrick_Neve
+172,13624,27,26,8,8,8,8,0,50,\N,\N,\N,\N,\N,\N,12,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+211,13625,64,24,23,9,9,9,0,48,\N,\N,\N,\N,\N,\N,14,keegan,\N,\N,Rupert,Keegan,1955-02-26,British,http://en.wikipedia.org/wiki/Rupert_Keegan
+251,13626,37,10,17,\N,R,10,0,41,\N,\N,\N,\N,\N,\N,7,ian_scheckter,\N,\N,Ian,Scheckter,1947-08-22,South African,http://en.wikipedia.org/wiki/Ian_Scheckter
+199,13627,6,12,2,\N,R,11,0,39,\N,\N,\N,\N,\N,\N,20,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+119,13628,58,16,6,\N,R,12,0,39,\N,\N,\N,\N,\N,\N,20,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+152,13629,1,14,15,\N,R,13,0,38,\N,\N,\N,\N,\N,\N,5,giacomelli,\N,\N,Bruno,Giacomelli,1952-09-10,Italian,http://en.wikipedia.org/wiki/Bruno_Giacomelli
+233,13630,34,8,11,\N,R,14,0,31,\N,\N,\N,\N,\N,\N,5,stuck,\N,\N,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
+231,13631,1,1,1,\N,R,15,0,26,\N,\N,\N,\N,\N,\N,20,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+221,13632,25,4,13,\N,R,16,0,24,\N,\N,\N,\N,\N,\N,5,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+222,13633,59,20,3,\N,R,17,0,23,\N,\N,\N,\N,\N,\N,5,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+219,13634,4,15,20,\N,R,18,0,23,\N,\N,\N,\N,\N,\N,5,jabouille,\N,\N,Jean-Pierre,Jabouille,1942-10-01,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jabouille
+197,13635,67,34,18,\N,R,19,0,19,\N,\N,\N,\N,\N,\N,5,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+175,13636,57,23,21,\N,R,20,0,9,\N,\N,\N,\N,\N,\N,5,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+230,13637,63,19,10,\N,R,21,0,5,\N,\N,\N,\N,\N,\N,3,brambilla,\N,\N,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
+255,13638,32,6,22,\N,R,22,0,4,\N,\N,\N,\N,\N,\N,22,nilsson,\N,\N,Gunnar,Nilsson,1948-11-20,Swedish,http://en.wikipedia.org/wiki/Gunnar_Nilsson
+239,13639,1,30,19,\N,R,23,0,4,\N,\N,\N,\N,\N,\N,5,lunger,\N,\N,Brett,Lunger,1945-11-14,American,http://en.wikipedia.org/wiki/Brett_Lunger
+187,13640,34,7,14,\N,R,24,0,3,\N,\N,\N,\N,\N,\N,3,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+237,13641,37,9,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,ribeiro,\N,\N,Alex,Ribeiro,1948-11-07,Brazilian,http://en.wikipedia.org/wiki/Alex_Ribeiro
+224,13642,56,28,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+241,13643,63,18,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,leoni,\N,\N,Lamberto,Leoni,1953-05-24,Italian,http://en.wikipedia.org/wiki/Lamberto_Leoni
+205,13644,70,38,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,henton,\N,\N,Brian,Henton,1946-09-19,British,http://en.wikipedia.org/wiki/Brian_Henton
+208,13645,1,36,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,villota,\N,\N,Emilio,de Villota,1946-07-26,Spanish,http://en.wikipedia.org/wiki/Emilio_de_Villota
+270,13646,64,25,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,ashley,\N,\N,Ian,Ashley,1947-10-26,British,http://en.wikipedia.org/wiki/Ian_Ashley
+269,13647,66,29,0,\N,F,31,0,0,\N,\N,\N,\N,\N,\N,81,pilette,\N,\N,Teddy,Pilette,1942-07-26,Belgian,http://en.wikipedia.org/wiki/Teddy_Pilette
+246,13648,67,33,0,\N,F,32,0,0,\N,\N,\N,\N,\N,\N,81,binder,\N,\N,Hans,Binder,1948-06-12,Austrian,http://en.wikipedia.org/wiki/Hans_Binder
+271,13649,71,41,0,\N,F,33,0,0,\N,\N,\N,\N,\N,\N,81,kessel,\N,\N,Loris,Kessel,1950-04-01,Swiss,http://en.wikipedia.org/wiki/Loris_Kessel
+220,13650,34,21,0,\N,F,34,0,0,\N,\N,\N,\N,\N,\N,81,francia,\N,\N,Giorgio,Francia,1947-11-08,Italian,http://en.wikipedia.org/wiki/Giorgio_Francia

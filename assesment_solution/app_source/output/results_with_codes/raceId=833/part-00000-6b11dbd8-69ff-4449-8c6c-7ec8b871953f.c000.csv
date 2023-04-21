@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+642,20025,51,2,1,1,1,1,9,70,2:13:23.6,8003600,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+786,20026,51,3,2,2,2,2,6,70,+2.6,8006200,\N,\N,\N,\N,1,fagioli,\N,\N,Luigi,Fagioli,1898-06-09,Italian,http://en.wikipedia.org/wiki/Luigi_Fagioli
+686,20027,51,4,4,3,3,3,4,70,+52.0,8055600,\N,\N,\N,\N,1,reg_parnell,\N,\N,Reg,Parnell,1911-07-02,British,http://en.wikipedia.org/wiki/Reg_Parnell
+704,20028,154,14,6,4,4,4,3,68,\N,\N,\N,\N,\N,\N,12,cabantous,\N,\N,Yves,Cabantous,1904-10-08,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous
+627,20029,154,15,9,5,5,5,2,68,\N,\N,\N,\N,\N,\N,12,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+619,20030,151,12,13,6,6,6,0,67,\N,\N,\N,\N,\N,\N,13,gerard,\N,\N,Bob,Gerard,1914-01-19,British,http://en.wikipedia.org/wiki/Bob_Gerard
+787,20031,151,11,15,7,7,7,0,67,\N,\N,\N,\N,\N,\N,13,harrison,\N,\N,Cuth,Harrison,1906-07-06,British,http://en.wikipedia.org/wiki/Cuth_Harrison
+741,20032,154,16,14,8,8,8,0,65,\N,\N,\N,\N,\N,\N,15,etancelin,\N,\N,Philippe,Étancelin,1896-12-28,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
+784,20033,105,6,16,9,9,9,0,64,\N,\N,\N,\N,\N,\N,16,hampshire,\N,\N,David,Hampshire,1917-12-29,British,http://en.wikipedia.org/wiki/David_Hampshire
+778,20034,105,10,20,10,10,10,0,64,\N,\N,\N,\N,\N,\N,16,shawe_taylor,\N,\N,Brian,Shawe Taylor,1915-01-28,British,http://en.wikipedia.org/wiki/Brian_Shawe_Taylor
+660,20035,154,18,21,11,11,11,0,64,\N,\N,\N,\N,\N,\N,16,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+579,20036,51,1,3,\N,R,12,0,62,\N,\N,\N,\N,\N,\N,44,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+776,20037,126,23,19,\N,N,13,0,57,\N,\N,\N,\N,\N,\N,62,kelly,\N,\N,Joe,Kelly,1913-03-13,Irish,http://en.wikipedia.org/wiki/Joe_Kelly_(Formula_One)
+669,20038,105,21,5,\N,R,14,0,49,\N,\N,\N,\N,\N,\N,60,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+747,20039,105,5,18,\N,R,15,0,44,\N,\N,\N,\N,\N,\N,5,murray,\N,\N,David,Murray,1909-12-28,British,http://en.wikipedia.org/wiki/David_Murray_(driver)
+785,20040,126,24,17,\N,R,16,0,43,\N,\N,\N,\N,\N,\N,7,crossley,\N,\N,Geoff,Crossley,1921-05-11,British,http://en.wikipedia.org/wiki/Geoff_Crossley
+640,20041,105,20,8,\N,R,17,0,36,\N,\N,\N,\N,\N,\N,5,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+589,20042,105,19,11,\N,R,18,0,26,\N,\N,\N,\N,\N,\N,8,chiron,\N,\N,Louis,Chiron,1899-08-03,Monegasque,http://en.wikipedia.org/wiki/Louis_Chiron
+789,20043,154,17,7,\N,R,19,0,8,\N,\N,\N,\N,\N,\N,51,martin,\N,\N,Eugène,Martin,1915-03-24,French,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Martin
+661,20044,151,9,10,\N,R,20,0,5,\N,\N,\N,\N,\N,\N,6,peter_walker,\N,\N,Peter,Walker,1912-10-07,British,http://en.wikipedia.org/wiki/Peter_Walker_(driver)
+790,20045,151,8,12,\N,R,21,0,2,\N,\N,\N,\N,\N,\N,126,leslie_johnson,\N,\N,Leslie,Johnson,1912-03-22,British,http://en.wikipedia.org/wiki/Leslie_Johnson_(racing_driver)
+788,20177,105,10,20,10,10,10,0,64,\N,\N,\N,\N,\N,\N,16,fry,\N,\N,Joe,Fry,1915-10-26,British,http://en.wikipedia.org/wiki/Joe_Fry
+666,20178,151,9,10,\N,R,20,0,5,\N,\N,\N,\N,\N,\N,6,rolt,\N,\N,Tony,Rolt,1918-10-16,British,http://en.wikipedia.org/wiki/Tony_Rolt

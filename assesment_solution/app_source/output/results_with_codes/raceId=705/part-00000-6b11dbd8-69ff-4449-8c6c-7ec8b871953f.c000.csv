@@ -1,0 +1,22 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,17108,172,1,1,1,1,1,9,15,2:07:52.4,7672400,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+289,17109,66,9,3,2,2,2,6,15,+15.9,7688300,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+364,17110,183,5,5,3,3,3,4,15,+21.4,7693800,\N,\N,\N,\N,1,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+358,17111,170,12,8,4,4,4,3,15,+3:29.6,7882000,\N,\N,\N,\N,1,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+356,17112,183,4,14,5,5,5,2,15,+4:41.2,7953600,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+385,17113,6,8,7,6,6,6,1,15,+5:08.6,7981000,\N,\N,\N,\N,1,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+347,17114,183,16,9,7,7,7,0,15,+5:58.5,8030900,\N,\N,\N,\N,1,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+418,17115,66,24,19,8,8,8,0,14,\N,\N,\N,\N,\N,\N,11,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+341,17116,6,7,4,\N,R,9,0,11,\N,\N,\N,\N,\N,\N,6,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+346,17117,181,17,11,\N,R,10,0,9,\N,\N,\N,\N,\N,\N,5,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+374,17118,172,2,6,\N,R,11,0,8,\N,\N,\N,\N,\N,\N,7,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+423,17119,172,3,12,\N,R,12,0,8,\N,\N,\N,\N,\N,\N,47,mitter,\N,\N,Gerhard,Mitter,1935-08-30,German,http://en.wikipedia.org/wiki/Gerhard_Mitter
+370,17120,176,20,17,\N,R,13,0,8,\N,\N,\N,\N,\N,\N,47,attwood,\N,\N,Richard,Attwood,1940-04-04,British,http://en.wikipedia.org/wiki/Richard_Attwood
+360,17121,170,11,10,\N,R,14,0,7,\N,\N,\N,\N,\N,\N,6,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+304,17122,183,6,13,\N,R,15,0,5,\N,\N,\N,\N,\N,\N,95,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+278,17123,176,19,16,\N,R,16,0,3,\N,\N,\N,\N,\N,\N,10,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+406,17124,172,22,20,\N,R,17,0,3,\N,\N,\N,\N,\N,\N,44,hawkins,\N,\N,Paul,Hawkins,1937-10-12,Australian,http://en.wikipedia.org/wiki/Paul_Hawkins_(racing_driver)
+328,17125,66,10,2,\N,R,18,0,2,\N,\N,\N,\N,\N,\N,22,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+380,17126,181,21,18,\N,R,19,0,0,\N,\N,\N,\N,\N,\N,6,gardner,\N,\N,Frank,Gardner,1930-10-01,Australian,http://en.wikipedia.org/wiki/Frank_Gardner_(driver)
+424,17127,66,25,0,\N,F,20,0,0,\N,\N,\N,\N,\N,\N,81,bussinello,\N,\N,Roberto,Bussinello,1927-10-04,Italian,http://en.wikipedia.org/wiki/Roberto_Bussinello
+420,17128,183,23,0,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,raby,\N,\N,Ian,Raby,1921-09-22,British,http://en.wikipedia.org/wiki/Ian_Raby

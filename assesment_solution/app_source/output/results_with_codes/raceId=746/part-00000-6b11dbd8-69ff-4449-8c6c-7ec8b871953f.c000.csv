@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+360,18067,170,16,13,1,1,1,8,80,2:17:49.5,8269500,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+477,18068,6,24,7,2,2,2,6,80,+26.3,8295800,\N,\N,\N,\N,1,allison,\N,\N,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
+427,18069,170,38,8,3,3,3,0,80,+36.9,8306400,\N,\N,\N,\N,1,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+496,18070,167,6,12,4,4,4,3,80,+53.3,8322800,\N,\N,\N,\N,1,menditeguy,\N,\N,Carlos,Menditeguy,1914-08-10,Argentine,http://en.wikipedia.org/wiki/Carlos_Menditeguy
+476,18071,6,30,5,5,5,5,2,79,\N,\N,\N,\N,\N,\N,11,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+404,18072,32,20,2,6,6,6,1,79,\N,\N,\N,\N,\N,\N,11,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+347,18073,66,40,4,7,7,7,0,79,\N,\N,\N,\N,\N,\N,11,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+403,18074,6,26,6,8,8,8,0,77,\N,\N,\N,\N,\N,\N,13,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+497,18075,32,46,15,9,9,9,0,77,\N,\N,\N,\N,\N,\N,13,larreta,\N,\N,Alberto Rodriguez,Larreta,1934-01-14,Argentine,http://en.wikipedia.org/wiki/Alberto_Rodriguez_Larreta
+498,18076,6,32,11,10,10,10,0,77,\N,\N,\N,\N,\N,\N,13,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+499,18077,167,4,17,11,11,11,0,76,\N,\N,\N,\N,\N,\N,14,bonomi,\N,\N,Roberto,Bonomi,1919-09-30,Argentine,http://en.wikipedia.org/wiki/Roberto_Bonomi
+418,18078,104,2,16,12,12,12,0,76,\N,\N,\N,\N,\N,\N,14,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+500,18079,105,14,19,13,13,13,0,72,\N,\N,\N,\N,\N,\N,18,munaron,\N,\N,Gino,Munaron,1928-04-02,Italian,http://en.wikipedia.org/wiki/Gino_Munaron
+439,18080,105,10,20,14,14,14,0,70,\N,\N,\N,\N,\N,\N,88,estefano,\N,\N,Nasif,Estéfano,1932-11-18,Argentine,http://en.wikipedia.org/wiki/Nasif_Est%C3%A9fano
+501,18081,170,34,9,\N,R,15,0,63,\N,\N,\N,\N,\N,\N,48,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+356,18082,170,18,10,\N,R,16,0,42,\N,\N,\N,\N,\N,\N,6,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+475,18083,170,36,1,\N,R,17,0,40,\N,\N,\N,\N,\N,\N,22,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+289,18084,66,42,3,\N,R,18,0,37,\N,\N,\N,\N,\N,\N,25,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+502,18085,32,22,14,\N,R,19,0,24,\N,\N,\N,\N,\N,\N,68,stacey,\N,\N,Alan,Stacey,1933-08-29,British,http://en.wikipedia.org/wiki/Alan_Stacey
+503,18086,105,44,21,\N,R,20,0,23,\N,\N,\N,\N,\N,\N,68,chimeri,\N,\N,Ettore,Chimeri,1921-06-04,Venezuelan,http://en.wikipedia.org/wiki/Ettore_Chimeri
+504,18087,105,12,22,\N,R,21,0,16,\N,\N,\N,\N,\N,\N,68,creus,\N,\N,Antonio,Creus,1924-10-28,Spanish,http://en.wikipedia.org/wiki/Antonio_Creus
+483,18088,105,8,18,\N,R,22,0,11,\N,\N,\N,\N,\N,\N,25,scarlatti,\N,\N,Giorgio,Scarlatti,1921-10-02,Italian,http://en.wikipedia.org/wiki/Giorgio_Scarlatti
+475,22372,170,38,8,3,3,3,0,80,+36.9,8306400,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss

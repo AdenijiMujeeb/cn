@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+328,16509,196,6,6,1,1,1,9,14,2:19:03.2,8343200,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+289,16510,180,3,4,2,2,2,6,14,+4:03.2,8586400,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+358,16511,191,5,3,3,3,3,4,14,+4:09.4,8592600,\N,\N,\N,\N,1,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+235,16512,6,9,1,4,4,4,3,14,+5:55.2,8698400,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+356,16513,191,4,15,5,5,5,2,14,+6:21.1,8724300,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+345,16514,66,10,14,6,6,6,1,14,+6:25.0,8728200,\N,\N,\N,\N,1,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+304,16515,187,1,11,7,7,7,0,14,+6:31.0,8734200,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+361,16516,66,22,8,8,8,8,0,14,+7:56.4,8819600,\N,\N,\N,\N,1,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+364,16517,190,14,10,9,9,9,0,14,+8:13.7,8836900,\N,\N,\N,\N,1,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+365,16518,26,18,18,10,10,10,0,14,+10:11.4,8954600,\N,\N,\N,\N,1,hahne,\N,\N,Hubert,Hahne,1935-03-28,German,http://en.wikipedia.org/wiki/Hubert_Hahne
+262,16519,180,21,13,11,11,11,0,13,\N,\N,\N,\N,\N,\N,11,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+379,16520,191,17,17,12,12,12,0,13,\N,\N,\N,\N,\N,\N,11,ahrens,\N,\N,Kurt,Ahrens,1940-04-19,German,"http://en.wikipedia.org/wiki/Kurt_Ahrens,_Jr."
+360,16521,1,2,16,13,13,13,0,13,\N,\N,\N,\N,\N,\N,11,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+370,16522,66,11,20,14,14,14,0,13,\N,\N,\N,\N,\N,\N,11,attwood,\N,\N,Richard,Attwood,1940-04-04,British,http://en.wikipedia.org/wiki/Richard_Attwood
+278,16523,6,8,2,\N,R,15,0,11,\N,\N,\N,\N,\N,\N,3,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+306,16524,82,12,12,\N,R,16,0,8,\N,\N,\N,\N,\N,\N,3,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+346,16525,180,16,9,\N,R,17,0,6,\N,\N,\N,\N,\N,\N,80,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+376,16526,195,19,19,\N,R,18,0,6,\N,\N,\N,\N,\N,\N,95,bianchi,\N,BIA,Lucien,Bianchi,1934-11-10,Belgian,http://en.wikipedia.org/wiki/Lucien_Bianchi
+341,16527,11,7,7,\N,R,19,0,3,\N,\N,\N,\N,\N,\N,80,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+350,16528,195,20,5,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,3,elford,\N,\N,Vic,Elford,1935-06-10,British,http://en.wikipedia.org/wiki/Vic_Elford

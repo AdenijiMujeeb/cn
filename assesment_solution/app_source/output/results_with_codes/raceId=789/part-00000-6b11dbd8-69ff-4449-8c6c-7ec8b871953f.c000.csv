@@ -1,0 +1,31 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,18982,6,1,2,1,1,1,8,101,2:59:47.0,10787000,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+606,18983,6,4,12,2,2,2,3,100,\N,\N,\N,\N,\N,\N,11,portago,\N,\N,Alfonso,de Portago,1928-10-11,Spanish,http://en.wikipedia.org/wiki/Alfonso_de_Portago
+554,18984,105,8,13,3,3,3,4,99,\N,\N,\N,\N,\N,\N,12,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+486,18985,125,21,21,4,4,4,3,98,\N,\N,\N,\N,\N,\N,13,fairman,\N,\N,Jack,Fairman,1913-03-15,British,http://en.wikipedia.org/wiki/Jack_Fairman
+547,18986,105,31,14,5,5,5,2,97,\N,\N,\N,\N,\N,\N,14,gould,\N,\N,Horace,Gould,1918-09-20,British,http://en.wikipedia.org/wiki/Horace_Gould
+633,18987,105,11,19,6,6,6,0,96,\N,\N,\N,\N,\N,\N,15,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+607,18988,105,9,15,7,7,7,0,95,\N,\N,\N,\N,\N,\N,16,perdisa,\N,\N,Cesare,Perdisa,1932-10-21,Italian,http://en.wikipedia.org/wiki/Cesare_Perdisa
+580,18989,105,10,25,8,8,8,0,94,\N,\N,\N,\N,\N,\N,17,godia,\N,\N,Paco,Godia,1921-03-21,Spanish,http://en.wikipedia.org/wiki/Paco_Godia
+626,18990,128,15,18,9,9,9,0,94,\N,\N,\N,\N,\N,\N,17,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+608,18991,6,3,8,10,10,10,0,92,\N,\N,\N,\N,\N,\N,19,castellotti,\N,\N,Eugenio,Castellotti,1930-10-10,Italian,http://en.wikipedia.org/wiki/Eugenio_Castellotti
+619,18992,87,26,22,11,11,11,0,88,\N,\N,\N,\N,\N,\N,53,gerard,\N,\N,Bob,Gerard,1914-01-19,British,http://en.wikipedia.org/wiki/Bob_Gerard
+475,18993,105,7,1,\N,R,12,1,94,\N,\N,\N,\N,\N,\N,109,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+501,18994,118,16,5,\N,R,13,0,87,\N,\N,\N,\N,\N,\N,69,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+636,18995,125,20,11,\N,R,14,0,74,\N,\N,\N,\N,\N,\N,5,titterington,\N,\N,Desmond,Titterington,1928-05-01,British,http://en.wikipedia.org/wiki/Desmond_Titterington
+427,18996,118,17,16,\N,R,15,0,74,\N,\N,\N,\N,\N,\N,69,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+624,18997,128,14,26,\N,R,16,0,71,\N,\N,\N,\N,\N,\N,109,ramos,\N,\N,Hernando,da Silva Ramos,1925-12-07,Brazilian,http://en.wikipedia.org/wiki/Hernando_da_Silva_Ramos
+581,18998,6,2,4,\N,R,17,0,64,\N,\N,\N,\N,\N,\N,51,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+456,18999,105,28,7,\N,R,18,0,59,\N,\N,\N,\N,\N,\N,69,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+479,19000,66,24,9,\N,R,19,0,39,\N,\N,\N,\N,\N,\N,3,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+578,19001,66,23,3,\N,R,20,0,24,\N,\N,\N,\N,\N,\N,7,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+627,19002,105,27,27,\N,R,21,0,23,\N,\N,\N,\N,\N,\N,10,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+506,19003,105,29,20,\N,R,22,0,22,\N,\N,\N,\N,\N,\N,5,halford,\N,\N,Bruce,Halford,1931-05-18,British,http://en.wikipedia.org/wiki/Bruce_Halford
+620,19004,105,12,24,\N,R,23,0,21,\N,\N,\N,\N,\N,\N,6,maglioli,\N,\N,Umberto,Maglioli,1928-06-05,Italian,http://en.wikipedia.org/wiki/Umberto_Maglioli
+637,19005,125,19,10,\N,R,24,0,16,\N,\N,\N,\N,\N,\N,7,scott_Brown,\N,\N,Archie,Scott Brown,1927-05-13,British,http://en.wikipedia.org/wiki/Archie_Scott_Brown
+585,19006,99,32,23,\N,R,25,0,12,\N,\N,\N,\N,\N,\N,80,emery,\N,\N,Paul,Emery,1916-11-12,British,http://en.wikipedia.org/wiki/Paul_Emery
+356,19007,105,30,28,\N,R,26,0,3,\N,\N,\N,\N,\N,\N,5,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+541,19008,66,25,17,\N,R,27,0,2,\N,\N,\N,\N,\N,\N,5,flockhart,\N,\N,Ron,Flockhart,1923-06-16,British,http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing)
+498,19009,118,18,6,\N,R,28,0,0,\N,\N,\N,\N,\N,\N,7,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+581,20277,6,4,12,2,2,2,3,100,\N,\N,\N,\N,\N,\N,11,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+606,20278,6,3,8,10,10,10,0,92,\N,\N,\N,\N,\N,\N,19,portago,\N,\N,Alfonso,de Portago,1928-10-11,Spanish,http://en.wikipedia.org/wiki/Alfonso_de_Portago

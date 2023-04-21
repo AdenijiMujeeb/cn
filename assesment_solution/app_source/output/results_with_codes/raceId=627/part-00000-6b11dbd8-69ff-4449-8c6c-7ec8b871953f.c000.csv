@@ -1,0 +1,28 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+235,15493,6,4,1,1,1,1,9,14,1:42:12.3,6132300,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+223,15494,6,9,7,2,2,2,6,14,+48.3,6180600,\N,\N,\N,\N,1,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+238,15495,37,10,4,3,3,3,4,14,+1:06.7,6199000,\N,\N,\N,\N,1,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+307,15496,66,17,18,4,4,4,3,14,+2:20.2,6272500,\N,\N,\N,\N,1,ganley,\N,\N,Howden,Ganley,1941-12-24,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley
+312,15497,1,5,19,5,5,5,2,14,+2:35.7,6288000,\N,\N,\N,\N,1,redman,\N,\N,Brian,Redman,1937-03-09,British,http://en.wikipedia.org/wiki/Brian_Redman
+289,15498,34,11,15,6,6,6,1,14,+2:59.6,6311900,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+290,15499,34,26,21,7,7,7,0,14,+3:00.1,6312400,\N,\N,\N,\N,1,wilson_fittipaldi,\N,\N,Wilson,Fittipaldi,1943-12-25,Brazilian,http://en.wikipedia.org/wiki/Wilson_Fittipaldi
+329,15500,37,28,27,8,8,8,0,14,+5:10.7,6443000,\N,\N,\N,\N,1,beuttler,\N,\N,Mike,Beuttler,1940-04-13,British,http://en.wikipedia.org/wiki/Mike_Beuttler
+306,15501,66,6,13,9,9,9,0,14,+5:20.2,6452500,\N,\N,\N,\N,1,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+327,15502,25,7,5,10,10,10,0,14,+5:43.7,6476000,\N,\N,\N,\N,1,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+328,15503,25,1,2,11,11,11,0,13,\N,\N,\N,\N,\N,\N,4,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+232,15504,6,19,22,12,12,12,0,13,\N,\N,\N,\N,\N,\N,11,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+333,15505,63,16,20,13,13,13,0,13,\N,\N,\N,\N,\N,\N,11,adamich,\N,\N,Andrea,de Adamich,1941-10-03,Italian,http://en.wikipedia.org/wiki/Andrea_de_Adamich
+314,15506,63,15,12,14,14,14,0,13,\N,\N,\N,\N,\N,\N,11,schenken,\N,\N,Tim,Schenken,1943-09-26,Australian,http://en.wikipedia.org/wiki/Tim_Schenken
+278,15507,82,8,8,15,15,15,0,13,\N,\N,\N,\N,\N,\N,11,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+250,15508,37,21,11,\N,N,16,0,11,\N,\N,\N,\N,\N,\N,62,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+224,15509,32,2,3,\N,R,17,0,10,\N,\N,\N,\N,\N,\N,6,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+280,15510,37,20,9,\N,R,18,0,10,\N,\N,\N,\N,\N,\N,3,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+304,15511,1,3,10,\N,R,19,0,8,\N,\N,\N,\N,\N,\N,5,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+305,15512,63,14,16,\N,R,20,0,8,\N,\N,\N,\N,\N,\N,22,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+199,15513,34,12,6,\N,R,21,0,6,\N,\N,\N,\N,\N,\N,24,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+243,15514,37,22,14,\N,R,22,0,6,\N,\N,\N,\N,\N,\N,10,stommelen,\N,\N,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
+338,15515,32,25,23,\N,R,23,0,6,\N,\N,\N,\N,\N,\N,44,walker,\N,\N,David,Walker,1941-06-10,Australian,http://en.wikipedia.org/wiki/David_Walker_(racing_driver)
+182,15516,37,23,24,\N,R,24,0,4,\N,\N,\N,\N,\N,\N,44,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+321,15517,81,27,25,\N,R,25,0,4,\N,\N,\N,\N,\N,\N,5,bell,\N,\N,Derek,Bell,1941-10-31,British,http://en.wikipedia.org/wiki/Derek_Bell_(auto_racer)
+293,15518,32,29,26,\N,R,26,0,4,\N,\N,\N,\N,\N,\N,68,charlton,\N,\N,Dave,Charlton,1936-10-27,South African,http://en.wikipedia.org/wiki/Dave_Charlton
+317,15519,66,18,17,\N,R,27,0,3,\N,\N,\N,\N,\N,\N,5,wisell,\N,\N,Reine,Wisell,1941-09-30,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell

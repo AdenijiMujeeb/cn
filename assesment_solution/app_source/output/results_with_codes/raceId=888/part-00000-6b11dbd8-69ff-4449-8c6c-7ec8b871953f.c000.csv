@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+20,21888,9,1,2,1,1,1,25,60,1:41:14.711,6074711,59,5,1:34.164,196.814,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+8,21889,208,7,4,2,2,2,18,60,+1.008,6075719,57,2,1:33.767,197.647,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+154,21890,208,8,5,3,3,3,15,60,+5.830,6080541,57,10,1:34.576,195.956,1,grosjean,8,GRO,Romain,Grosjean,1986-04-17,French,http://en.wikipedia.org/wiki/Romain_Grosjean
+4,21891,6,3,8,4,4,4,12,60,+7.721,6082432,51,1,1:33.468,198.279,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+1,21892,131,10,1,5,5,5,10,60,+26.927,6101638,57,4,1:34.156,196.830,1,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+18,21893,1,5,9,6,6,6,8,60,+27.996,6102707,49,7,1:34.201,196.736,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+17,21894,9,2,3,7,7,7,6,60,+37.562,6112273,55,11,1:34.782,195.530,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+815,21895,1,6,13,8,8,8,4,60,+38.306,6113017,50,15,1:36.134,192.780,1,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+3,21896,131,9,11,9,9,9,2,60,+46.821,6121532,55,6,1:34.181,196.778,1,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+807,21897,15,11,10,10,10,10,1,60,+49.892,6124603,58,8,1:34.244,196.647,1,hulkenberg,27,HUL,Nico,Hülkenberg,1987-08-19,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+814,21898,10,14,12,11,11,11,0,60,+53.771,6128482,43,16,1:36.566,191.918,1,resta,\N,DIR,Paul,di Resta,1986-04-16,British,http://en.wikipedia.org/wiki/Paul_di_Resta
+817,21899,5,19,6,12,12,12,0,60,+56.975,6131686,58,14,1:35.982,193.086,1,ricciardo,3,RIC,Daniel,Ricciardo,1989-07-01,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo
+16,21900,10,15,15,13,13,13,0,60,+57.738,6132449,60,13,1:35.816,193.420,1,sutil,99,SUT,Adrian,Sutil,1983-01-11,German,http://en.wikipedia.org/wiki/Adrian_Sutil
+821,21901,15,12,14,14,14,14,0,60,+1:00.160,6134871,56,12,1:35.792,193.469,1,gutierrez,21,GUT,Esteban,Gutiérrez,1991-08-05,Mexican,http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez
+813,21902,3,16,18,15,15,15,0,60,+1:01.929,6136640,56,9,1:34.293,196.544,1,maldonado,13,MAL,Pastor,Maldonado,1985-03-09,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
+822,21903,3,17,17,16,16,16,0,59,\N,\N,56,3,1:33.972,197.216,11,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
+819,21904,207,20,22,17,17,17,0,59,\N,\N,51,17,1:37.584,189.916,11,pic,\N,PIC,Charles,Pic,1990-02-15,French,http://en.wikipedia.org/wiki/Charles_Pic
+823,21905,207,21,20,18,18,18,0,59,\N,\N,40,19,1:38.509,188.133,11,garde,\N,VDG,Giedo,van der Garde,1985-04-25,Dutch,http://en.wikipedia.org/wiki/Giedo_van_der_Garde
+820,21906,206,23,21,19,19,19,0,59,\N,\N,47,18,1:38.383,188.374,11,chilton,4,CHI,Max,Chilton,1991-04-21,British,http://en.wikipedia.org/wiki/Max_Chilton
+818,21907,5,18,16,\N,R,20,0,22,\N,\N,12,21,1:39.281,186.670,9,vergne,25,VER,Jean-Éric,Vergne,1990-04-25,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne
+824,21908,206,22,19,\N,R,21,0,21,\N,\N,20,22,1:39.844,185.617,5,jules_bianchi,17,BIA,Jules,Bianchi,1989-08-03,French,http://en.wikipedia.org/wiki/Jules_Bianchi
+13,21909,6,4,7,\N,R,22,0,3,\N,\N,3,20,1:38.890,187.408,20,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa

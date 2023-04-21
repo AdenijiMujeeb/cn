@@ -1,0 +1,18 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+356,16889,191,16,1,1,1,1,9,90,2:20:32.5,8432500,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+289,16890,66,12,7,2,2,2,6,89,\N,\N,\N,\N,\N,\N,11,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+373,16891,172,6,3,3,3,3,4,88,\N,\N,\N,\N,\N,\N,12,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+328,16892,66,14,8,4,4,4,3,88,\N,\N,\N,\N,\N,\N,12,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+374,16893,176,32,12,5,5,5,2,87,\N,\N,\N,\N,\N,\N,13,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+385,16894,6,2,9,6,6,6,1,87,\N,\N,\N,\N,\N,\N,13,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+347,16895,167,30,13,7,7,7,0,84,\N,\N,\N,\N,\N,\N,16,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+399,16896,181,38,17,8,8,8,0,84,\N,\N,\N,\N,\N,\N,16,taylor,\N,\N,John,Taylor,1933-03-23,British,http://en.wikipedia.org/wiki/John_Taylor_(racer)
+389,16897,167,36,16,9,9,9,0,84,\N,\N,\N,\N,\N,\N,16,ligier,\N,\N,Guy,Ligier,1930-07-12,French,http://en.wikipedia.org/wiki/Guy_Ligier
+346,16898,167,28,11,\N,R,10,0,79,\N,\N,\N,\N,\N,\N,5,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+383,16899,183,34,14,\N,R,11,0,73,\N,\N,\N,\N,\N,\N,22,anderson,\N,\N,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
+341,16900,167,24,10,\N,R,12,0,44,\N,\N,\N,\N,\N,\N,10,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+304,16901,191,18,2,\N,R,13,0,37,\N,\N,\N,\N,\N,\N,80,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+397,16902,176,8,15,\N,R,14,0,28,\N,\N,\N,\N,\N,\N,80,arundell,\N,\N,Peter,Arundell,1933-11-08,British,http://en.wikipedia.org/wiki/Peter_Arundell
+364,16903,189,10,4,\N,R,15,0,26,\N,\N,\N,\N,\N,\N,44,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+387,16904,6,4,5,\N,R,16,0,10,\N,\N,\N,\N,\N,\N,3,parkes,\N,\N,Mike,Parkes,1931-09-24,British,http://en.wikipedia.org/wiki/Mike_Parkes
+358,16905,167,26,6,\N,R,17,0,2,\N,\N,\N,\N,\N,\N,3,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt

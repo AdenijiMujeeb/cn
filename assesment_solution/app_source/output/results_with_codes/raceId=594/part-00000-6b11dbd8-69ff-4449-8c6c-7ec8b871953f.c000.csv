@@ -1,0 +1,33 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+224,14629,1,5,4,1,1,1,9,85,1:44:20.57,6260570,\N,\N,\N,\N,1,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+182,14630,6,12,3,2,2,2,6,85,+0.35,6260920,\N,\N,\N,\N,1,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+222,14631,25,3,2,3,3,3,4,85,+45.61,6306180,\N,\N,\N,\N,1,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+223,14632,6,11,1,4,4,4,3,85,+52.02,6312590,\N,\N,\N,\N,1,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+306,14633,66,14,7,5,5,5,2,85,+1:08.05,6328620,\N,\N,\N,\N,1,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+304,14634,1,6,12,6,6,6,1,85,+1:10.54,6331110,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+305,14635,1,33,13,7,7,7,0,84,\N,\N,\N,\N,\N,\N,11,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+289,14636,26,26,29,8,8,8,0,83,\N,\N,\N,\N,\N,\N,12,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+230,14637,37,10,31,9,9,9,0,83,\N,\N,\N,\N,\N,\N,12,brambilla,\N,\N,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
+314,14638,77,41,23,10,10,10,0,83,\N,\N,\N,\N,\N,\N,12,schenken,\N,\N,Tim,Schenken,1943-09-26,Australian,http://en.wikipedia.org/wiki/Tim_Schenken
+187,14639,34,28,19,11,11,11,0,83,\N,\N,\N,\N,\N,\N,12,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+265,14640,26,27,21,12,12,12,0,82,\N,\N,\N,\N,\N,\N,13,edwards,\N,\N,Guy,Edwards,1942-12-30,British,http://en.wikipedia.org/wiki/Guy_Edwards
+197,14641,58,17,17,13,13,13,0,82,\N,\N,\N,\N,\N,\N,13,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+298,14642,80,21,30,14,14,14,0,82,\N,\N,\N,\N,\N,\N,13,lennep,\N,\N,Gijs,van Lennep,1942-03-16,Dutch,http://en.wikipedia.org/wiki/Gijs_Van_Lennep
+267,14643,57,22,14,15,15,15,0,82,\N,\N,\N,\N,\N,\N,13,schuppan,\N,\N,Vern,Schuppan,1943-03-19,Australian,http://en.wikipedia.org/wiki/Vern_Schuppan
+296,14644,66,37,25,16,16,16,0,82,\N,\N,\N,\N,\N,\N,13,migault,\N,\N,François,Migault,1944-12-04,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Migault
+269,14645,34,34,27,17,17,17,0,81,\N,\N,\N,\N,\N,\N,14,pilette,\N,\N,Teddy,Pilette,1942-07-26,Belgian,http://en.wikipedia.org/wiki/Teddy_Pilette
+312,14646,58,16,18,18,18,18,0,80,\N,\N,\N,\N,\N,\N,5,redman,\N,\N,Brian,Redman,1937-03-09,British,http://en.wikipedia.org/wiki/Brian_Redman
+235,14647,32,2,16,\N,R,19,0,72,\N,\N,\N,\N,\N,\N,25,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+252,14648,79,42,20,\N,R,20,0,66,\N,\N,\N,\N,\N,\N,4,pryce,\N,\N,Tom,Pryce,1949-06-11,British,http://en.wikipedia.org/wiki/Tom_Pryce
+199,14649,34,7,24,\N,R,21,0,62,\N,\N,\N,\N,\N,\N,5,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+238,14650,32,1,5,\N,R,22,0,56,\N,\N,\N,\N,\N,\N,95,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+221,14651,25,4,28,\N,R,23,0,53,\N,\N,\N,\N,\N,\N,23,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+200,14652,63,19,26,\N,R,24,0,53,\N,\N,\N,\N,\N,\N,22,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+315,14653,34,43,11,\N,R,25,0,53,\N,\N,\N,\N,\N,\N,27,larrousse,\N,\N,Gérard,Larrousse,1940-05-23,French,http://en.wikipedia.org/wiki/G%C3%A9rard_Larrousse
+250,14654,63,18,8,\N,R,26,0,50,\N,\N,\N,\N,\N,\N,64,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+313,14655,34,8,22,\N,R,27,0,49,\N,\N,\N,\N,\N,\N,5,opel,\N,\N,Rikky,von Opel,1947-10-14,Liechtensteiner,http://en.wikipedia.org/wiki/Rikky_von_Opel
+231,14656,64,24,9,\N,R,28,0,45,\N,\N,\N,\N,\N,\N,3,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+232,14657,80,20,6,\N,R,29,0,29,\N,\N,\N,\N,\N,\N,7,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+280,14658,66,15,15,\N,R,30,0,12,\N,\N,\N,\N,\N,\N,4,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+233,14659,37,9,10,\N,R,31,0,6,\N,\N,\N,\N,\N,\N,8,stuck,\N,\N,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
+316,14660,63,44,0,\N,F,32,0,0,\N,\N,\N,\N,\N,\N,81,kinnunen,\N,\N,Leo,Kinnunen,1943-08-05,Finnish,http://en.wikipedia.org/wiki/Leo_Kinnunen

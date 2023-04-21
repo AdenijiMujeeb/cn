@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+17,21424,9,2,2,1,1,1,25,52,1:25:11.288,5111288,49,4,1:34.934,223.393,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+4,21425,6,5,1,2,2,2,18,52,+3.060,5114348,49,7,1:35.385,222.336,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+20,21426,9,1,4,3,3,3,15,52,+4.836,5116124,52,3,1:34.897,223.480,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+13,21427,6,6,5,4,4,4,12,52,+9.519,5120807,50,5,1:35.041,223.141,1,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+8,21428,208,9,6,5,5,5,10,52,+10.314,5121602,50,1,1:34.661,224.037,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+154,21429,208,10,9,6,6,6,8,52,+17.101,5128389,50,2,1:34.884,223.510,1,grosjean,8,GRO,Romain,Grosjean,1986-04-17,French,http://en.wikipedia.org/wiki/Romain_Grosjean
+30,21430,131,7,3,7,7,7,6,52,+29.153,5140441,52,6,1:35.191,222.789,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+1,21431,1,4,8,8,8,8,4,52,+36.463,5147751,44,15,1:36.173,220.515,1,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+811,21432,3,19,13,9,9,9,2,52,+43.347,5154635,48,12,1:35.863,221.228,1,bruno_senna,\N,SEN,Bruno,Senna,1983-10-15,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna
+18,21433,1,3,16,10,10,10,1,52,+44.444,5155732,52,14,1:36.086,220.714,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+155,21434,15,14,17,11,11,11,0,52,+45.370,5156658,48,9,1:35.478,222.120,1,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi
+807,21435,10,12,14,12,12,12,0,52,+47.856,5159144,37,13,1:35.981,220.956,1,hulkenberg,27,HUL,Nico,Hülkenberg,1987-08-19,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+817,21436,5,16,12,13,13,13,0,52,+51.241,5162529,49,8,1:35.448,222.190,1,ricciardo,3,RIC,Daniel,Ricciardo,1989-07-01,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo
+818,21437,5,17,23,14,14,14,0,52,+53.313,5164601,49,10,1:35.514,222.036,1,vergne,25,VER,Jean-Éric,Vergne,1990-04-25,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne
+3,21438,131,8,11,15,15,15,0,52,+57.394,5168682,49,11,1:35.750,221.489,1,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+813,21439,3,18,7,16,16,16,0,51,\N,\N,34,17,1:37.515,217.480,11,maldonado,13,MAL,Pastor,Maldonado,1985-03-09,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
+5,21440,207,20,19,17,17,17,0,51,\N,\N,37,19,1:38.050,216.293,11,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen
+10,21441,206,24,20,18,18,18,0,51,\N,\N,50,16,1:37.422,217.687,11,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+819,21442,206,25,24,19,19,19,0,51,\N,\N,50,18,1:38.008,216.386,11,pic,\N,PIC,Charles,Pic,1990-02-15,French,http://en.wikipedia.org/wiki/Charles_Pic
+37,21443,164,22,21,20,20,20,0,50,\N,\N,44,21,1:39.618,212.889,12,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+39,21444,164,23,22,21,21,21,0,50,\N,\N,50,20,1:38.339,215.658,12,karthikeyan,\N,KAR,Narain,Karthikeyan,1977-01-14,Indian,http://en.wikipedia.org/wiki/Narain_Karthikeyan
+815,21445,15,15,15,\N,R,22,0,11,\N,\N,3,22,1:39.781,212.541,4,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+814,21446,10,11,10,\N,R,23,0,2,\N,\N,\N,0,\N,\N,4,resta,\N,DIR,Paul,di Resta,1986-04-16,British,http://en.wikipedia.org/wiki/Paul_di_Resta
+808,21447,207,21,18,\N,W,24,0,0,\N,\N,\N,0,\N,\N,5,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov

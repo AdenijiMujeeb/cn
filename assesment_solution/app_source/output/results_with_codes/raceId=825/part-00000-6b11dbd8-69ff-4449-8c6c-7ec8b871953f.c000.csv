@@ -1,0 +1,22 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,19851,51,24,1,1,1,1,9,42,2:07:53.64,7673640,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+641,19852,6,44,6,2,2,2,6,42,+55.24,7728880,\N,\N,\N,\N,1,taruffi,\N,\N,Piero,Taruffi,1906-10-12,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
+642,19853,51,22,2,3,3,3,4,42,+1:19.31,7752950,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+763,19854,51,28,4,4,4,4,3,41,\N,\N,\N,\N,\N,\N,11,sanesi,\N,\N,Consalvo,Sanesi,1911-03-28,Italian,http://en.wikipedia.org/wiki/Consalvo_Sanesi
+640,19855,51,26,5,5,5,5,2,40,\N,\N,\N,\N,\N,\N,12,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+647,19856,6,20,7,6,6,6,0,40,\N,\N,\N,\N,\N,\N,12,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+589,19857,105,30,19,7,7,7,0,40,\N,\N,\N,\N,\N,\N,12,chiron,\N,\N,Louis,Chiron,1899-08-03,Monegasque,http://en.wikipedia.org/wiki/Louis_Chiron
+475,19858,133,14,14,8,8,8,0,40,\N,\N,\N,\N,\N,\N,12,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+627,19859,154,8,8,9,9,9,0,39,\N,\N,\N,\N,\N,\N,13,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+741,19860,154,4,12,10,10,10,0,39,\N,\N,\N,\N,\N,\N,13,etancelin,\N,\N,Philippe,Étancelin,1896-12-28,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
+723,19861,6,38,10,11,11,11,0,39,\N,\N,\N,\N,\N,\N,13,fischer,\N,\N,Rudi,Fischer,1912-04-19,Swiss,http://en.wikipedia.org/wiki/Rudi_Fischer
+501,19862,105,32,17,12,12,12,0,38,\N,\N,\N,\N,\N,\N,14,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+660,19863,154,2,18,13,13,13,0,35,\N,\N,\N,\N,\N,\N,17,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+764,19864,154,40,21,14,14,14,0,31,\N,\N,\N,\N,\N,\N,45,guy_mairesse,\N,\N,Guy,Mairesse,1910-08-10,French,http://en.wikipedia.org/wiki/Guy_Mairesse
+687,19865,6,16,9,\N,R,15,0,36,\N,\N,\N,\N,\N,\N,3,whitehead,\N,\N,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
+765,19866,154,10,11,\N,R,16,0,30,\N,\N,\N,\N,\N,\N,3,louveau,\N,\N,Henri,Louveau,1910-01-25,French,http://en.wikipedia.org/wiki/Henri_Louveau
+725,19867,133,12,20,\N,R,17,0,23,\N,\N,\N,\N,\N,\N,121,abecassis,\N,\N,George,Abecassis,1913-03-21,British,http://en.wikipedia.org/wiki/George_Abecassis
+704,19868,154,6,15,\N,R,18,0,14,\N,\N,\N,\N,\N,\N,80,cabantous,\N,\N,Yves,Cabantous,1904-10-08,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous
+633,19869,6,18,3,\N,R,19,0,12,\N,\N,\N,\N,\N,\N,3,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+498,19870,154,42,13,\N,R,20,0,10,\N,\N,\N,\N,\N,\N,94,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+721,19871,144,52,16,\N,R,21,0,0,\N,\N,\N,\N,\N,\N,69,hirt,\N,\N,Peter,Hirt,1910-03-30,Swiss,http://en.wikipedia.org/wiki/Peter_Hirt

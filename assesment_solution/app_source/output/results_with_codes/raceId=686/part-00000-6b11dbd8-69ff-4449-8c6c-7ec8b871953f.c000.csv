@@ -1,0 +1,19 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+356,16745,191,1,7,1,1,1,9,90,2:40:40.0,9640000,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+304,16746,191,2,3,2,2,2,6,90,+1:01.9,9701900,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+364,16747,190,10,5,3,3,3,4,89,\N,\N,\N,\N,\N,\N,11,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+289,16748,180,4,2,4,4,4,3,88,\N,\N,\N,\N,\N,\N,12,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+374,16749,66,16,10,5,5,5,2,87,\N,\N,\N,\N,\N,\N,13,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+278,16750,6,20,4,6,6,6,1,87,\N,\N,\N,\N,\N,\N,13,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+360,16751,194,19,6,7,7,7,0,86,\N,\N,\N,\N,\N,\N,14,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+347,16752,167,9,14,8,8,8,0,85,\N,\N,\N,\N,\N,\N,15,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+322,16753,66,12,12,9,9,9,0,85,\N,\N,\N,\N,\N,\N,15,hobbs,\N,\N,David,Hobbs,1939-06-09,British,http://en.wikipedia.org/wiki/David_Hobbs_(racing_driver)
+370,16754,167,8,13,10,10,10,0,84,\N,\N,\N,\N,\N,\N,16,attwood,\N,\N,Richard,Attwood,1940-04-04,British,http://en.wikipedia.org/wiki/Richard_Attwood
+392,16755,176,6,17,11,11,11,0,81,\N,\N,\N,\N,\N,\N,19,fisher,\N,\N,Mike,Fisher,1943-03-13,American,http://en.wikipedia.org/wiki/Mike_Fisher_(driver)
+373,16756,180,3,1,\N,R,12,0,69,\N,\N,\N,\N,\N,\N,80,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+326,16757,180,5,16,\N,D,13,0,69,\N,\N,\N,\N,\N,\N,2,wietzes,\N,\N,Eppie,Wietzes,1938-05-28,Canadian,http://en.wikipedia.org/wiki/Eppie_Wietzes
+328,16758,66,15,9,\N,R,14,0,65,\N,\N,\N,\N,\N,\N,37,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+371,16759,189,11,15,\N,N,15,0,47,\N,\N,\N,\N,\N,\N,62,pease,\N,\N,Al,Pease,1921-10-15,Canadian,http://en.wikipedia.org/wiki/Al_Pease
+388,16760,66,17,11,\N,R,16,0,18,\N,\N,\N,\N,\N,\N,20,irwin,\N,\N,Chris,Irwin,1942-06-27,British,http://en.wikipedia.org/wiki/Chris_Irwin
+358,16761,167,71,8,\N,R,17,0,4,\N,\N,\N,\N,\N,\N,80,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+393,16762,170,41,0,\N,F,18,0,0,\N,\N,\N,\N,\N,\N,81,tom_jones,\N,\N,Tom,Jones,1943-04-26,American,http://en.wikipedia.org/wiki/Tom_Jones_(auto_racer)

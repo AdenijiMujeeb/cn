@@ -1,0 +1,36 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+647,19816,6,12,1,1,1,1,8.5,80,2:50:45.6,10245600,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+498,19817,105,26,5,2,2,2,6.5,80,+1:01.8,10307400,\N,\N,\N,\N,1,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+633,19818,6,16,2,3,3,3,4,80,+2:04.2,10369800,\N,\N,\N,\N,1,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+642,19819,6,10,3,4,4,4,3,80,+2:11.4,10377000,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+697,19820,105,22,13,5,5,5,2,79,\N,\N,\N,\N,\N,\N,11,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+609,19821,6,8,8,6,6,6,0,79,\N,\N,\N,\N,\N,\N,11,simon,\N,\N,André,Simon,1920-01-05,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Simon_(racing_driver)
+641,19822,6,14,6,7,7,7,0,77,\N,\N,\N,\N,\N,\N,13,taruffi,\N,\N,Piero,Taruffi,1906-10-12,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
+622,19823,105,48,18,8,8,8,0,76,\N,\N,\N,\N,\N,\N,14,landi,\N,\N,Chico,Landi,1907-07-14,Brazilian,http://en.wikipedia.org/wiki/Chico_Landi
+663,19824,87,40,15,9,9,9,0,76,\N,\N,\N,\N,\N,\N,14,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+627,19825,6,62,17,10,10,10,0,75,\N,\N,\N,\N,\N,\N,15,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+748,19826,105,50,23,11,11,11,0,75,\N,\N,\N,\N,\N,\N,15,cantoni,\N,\N,Eitel,Cantoni,1906-10-04,Uruguayan,http://en.wikipedia.org/wiki/Eitel_Cantoni
+742,19827,125,30,19,12,12,12,0,74,\N,\N,\N,\N,\N,\N,16,poore,\N,\N,Dennis,Poore,1916-08-19,British,http://en.wikipedia.org/wiki/Dennis_Poore
+688,19828,87,36,20,13,13,13,0,73,\N,\N,\N,\N,\N,\N,17,brandon,\N,\N,Eric,Brandon,1920-07-18,British,http://en.wikipedia.org/wiki/Eric_Brandon
+626,19829,128,2,7,14,14,14,0,71,\N,\N,\N,\N,\N,\N,19,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+689,19830,87,38,12,15,15,15,0,68,\N,\N,\N,\N,\N,\N,55,alan_brown,\N,\N,Alan,Brown,1919-11-20,British,http://en.wikipedia.org/wiki/Alan_Brown_(racing_driver)
+475,19831,125,32,1,\N,R,16,0,60,\N,\N,\N,\N,\N,\N,22,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+746,19832,105,46,25,\N,R,17,0,46,\N,\N,\N,\N,\N,\N,5,bianco,\N,\N,Gino,Bianco,1916-07-22,Brazilian,http://en.wikipedia.org/wiki/Gino_Bianco
+554,19833,128,6,11,\N,R,18,0,42,\N,\N,\N,\N,\N,\N,5,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+578,19834,87,42,12,\N,N,19,0,38,\N,\N,\N,\N,\N,\N,62,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+762,19835,105,24,16,\N,R,20,0,24,\N,\N,\N,\N,\N,\N,5,rol,\N,\N,Franco,Rol,1908-06-05,Italian,http://en.wikipedia.org/wiki/Franco_Rol
+427,19836,128,4,4,\N,R,21,0,5,\N,\N,\N,\N,\N,\N,5,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+664,19837,125,28,2,\N,R,22,0,4,\N,\N,\N,\N,\N,\N,22,mcalpine,\N,\N,Kenneth,McAlpine,1920-09-21,British,http://en.wikipedia.org/wiki/Kenneth_McAlpine
+723,19838,6,18,16,\N,R,23,0,3,\N,\N,\N,\N,\N,\N,5,fischer,\N,\N,Rudi,Fischer,1912-04-19,Swiss,http://en.wikipedia.org/wiki/Rudi_Fischer
+625,19839,127,34,10,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,6,bayol,\N,\N,Élie,Bayol,1914-02-28,French,http://en.wikipedia.org/wiki/%C3%89lie_Bayol
+735,19840,6,70,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,tornaco,\N,\N,Charles,de Tornaco,1927-06-07,Belgian,http://en.wikipedia.org/wiki/Charles_de_Tornaco
+761,19841,105,58,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,crespo,\N,\N,Alberto,Crespo,1920-01-16,Argentine,http://en.wikipedia.org/wiki/Alberto_Crespo
+640,19842,105,60,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+581,19843,133,54,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+687,19844,6,68,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,whitehead,\N,\N,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
+738,19845,133,56,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,gaze,\N,\N,Tony,Gaze,1920-02-03,Australian,http://en.wikipedia.org/wiki/Tony_Gaze
+749,19846,152,64,0,\N,F,31,0,0,\N,\N,\N,\N,\N,\N,81,aston,\N,\N,Bill,Aston,1900-03-29,British,http://en.wikipedia.org/wiki/Bill_Aston
+651,19847,133,52,0,\N,F,32,0,0,\N,\N,\N,\N,\N,\N,81,macklin,\N,\N,Lance,Macklin,1919-09-02,British,http://en.wikipedia.org/wiki/Lance_Macklin
+717,19848,6,20,0,\N,F,33,0,0,\N,\N,\N,\N,\N,\N,81,hans_stuck,\N,\N,Hans,von Stuck,1900-12-27,German,http://en.wikipedia.org/wiki/Hans_Von_Stuck
+760,19849,153,44,0,\N,F,34,0,0,\N,\N,\N,\N,\N,\N,81,dusio,\N,\N,Piero,Dusio,1899-10-13,Italian,http://en.wikipedia.org/wiki/Piero_Dusio
+660,19850,141,66,0,\N,F,35,0,0,\N,\N,\N,\N,\N,\N,81,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes

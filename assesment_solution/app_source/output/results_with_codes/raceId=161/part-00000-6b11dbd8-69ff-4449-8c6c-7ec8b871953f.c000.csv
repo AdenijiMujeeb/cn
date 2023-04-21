@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+14,2997,1,2,4,1,1,1,10,60,1:28:50.108,5330108,\N,\N,\N,\N,1,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+57,2998,1,1,3,2,2,2,6,60,+1.477,5331585,\N,\N,\N,\N,1,hakkinen,\N,\N,Mika,Häkkinen,1968-09-28,Finnish,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen
+30,2999,6,3,5,3,3,3,4,60,+19.917,5350025,\N,\N,\N,\N,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+23,3000,3,9,7,4,4,4,3,60,+41.312,5371420,\N,\N,\N,\N,1,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+18,3001,3,10,6,5,5,5,2,60,+57.759,5387867,\N,\N,\N,\N,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+15,3002,17,6,11,6,6,6,1,60,+1:19.273,5409381,\N,\N,\N,\N,1,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+21,3003,22,11,12,7,7,7,0,59,\N,\N,\N,\N,\N,\N,11,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+63,3004,15,17,18,8,8,8,0,59,\N,\N,\N,\N,\N,\N,11,salo,\N,\N,Mika,Salo,1966-11-30,Finnish,http://en.wikipedia.org/wiki/Mika_Salo
+25,3005,22,12,20,9,9,9,0,59,\N,\N,\N,\N,\N,\N,11,wurz,\N,WUR,Alexander,Wurz,1974-02-15,Austrian,http://en.wikipedia.org/wiki/Alexander_Wurz
+55,3006,20,14,15,10,10,10,0,59,\N,\N,\N,\N,\N,\N,11,alesi,\N,\N,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
+64,3007,15,16,13,11,11,11,0,59,\N,\N,\N,\N,\N,\N,11,diniz,\N,\N,Pedro,Diniz,1970-05-22,Brazilian,http://en.wikipedia.org/wiki/Pedro_Diniz
+65,3008,19,8,14,12,12,12,0,59,\N,\N,\N,\N,\N,\N,11,herbert,\N,\N,Johnny,Herbert,1964-06-25,British,http://en.wikipedia.org/wiki/Johnny_Herbert
+56,3009,19,7,9,13,13,13,0,59,\N,\N,\N,\N,\N,\N,11,irvine,\N,\N,Eddie,Irvine,1965-11-10,British,http://en.wikipedia.org/wiki/Eddie_Irvine
+48,3010,18,20,21,14,14,14,0,59,\N,\N,\N,\N,\N,\N,11,gene,\N,\N,Marc,Gené,1974-03-29,Spanish,http://en.wikipedia.org/wiki/Marc_Gen%C3%A9
+60,3011,18,21,22,15,15,15,0,59,\N,\N,\N,\N,\N,\N,11,mazzacane,\N,\N,Gastón,Mazzacane,1975-05-08,Argentine,http://en.wikipedia.org/wiki/Gast%C3%B3n_Mazzacane
+35,3012,16,22,10,16,16,16,0,56,\N,\N,\N,\N,\N,\N,14,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+49,3013,17,5,2,17,17,17,0,54,\N,\N,\N,\N,\N,\N,16,frentzen,\N,\N,Heinz-Harald,Frentzen,1967-05-18,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen
+2,3014,20,15,17,\N,R,18,0,51,\N,\N,\N,\N,\N,\N,5,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+41,3015,16,23,16,\N,R,19,0,36,\N,\N,\N,\N,\N,\N,20,zonta,\N,ZON,Ricardo,Zonta,1976-03-23,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta
+22,3016,6,4,1,\N,R,20,0,35,\N,\N,\N,\N,\N,\N,9,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+37,3017,21,18,19,\N,R,21,0,26,\N,\N,\N,\N,\N,\N,10,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+50,3018,21,19,8,\N,R,22,0,20,\N,\N,\N,\N,\N,\N,10,verstappen,\N,\N,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen

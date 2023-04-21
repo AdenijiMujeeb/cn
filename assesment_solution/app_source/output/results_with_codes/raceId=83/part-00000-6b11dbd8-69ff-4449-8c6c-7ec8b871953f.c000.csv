@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+8,1375,1,9,4,1,1,1,10,70,1:37:25.552,5845552,40,1,1:21.219,194.186,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+30,1376,6,1,1,2,2,2,8,70,+35.581,5881133,13,3,1:21.476,193.573,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+23,1377,7,17,5,3,3,3,6,70,+36.129,5881681,13,5,1:21.873,192.634,1,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+15,1378,7,16,3,4,4,4,5,70,+54.221,5899773,32,4,1:21.842,192.707,1,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+18,1379,16,3,8,5,5,5,4,70,+58.832,5904384,70,8,1:22.406,191.388,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+2,1380,3,8,12,6,6,6,3,70,+1:08.375,5913927,53,6,1:22.053,192.212,1,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+17,1381,3,7,16,7,7,7,2,69,\N,\N,47,9,1:22.453,191.279,11,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+11,1382,16,4,10,8,8,8,1,69,\N,\N,45,7,1:22.399,191.405,11,sato,\N,SAT,Takuma,Sato,1977-01-28,Japanese,http://en.wikipedia.org/wiki/Takuma_Sato
+21,1383,4,6,9,9,9,9,0,69,\N,\N,19,10,1:22.506,191.157,11,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+22,1384,6,2,7,10,10,10,0,69,\N,\N,20,11,1:22.768,190.551,11,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+4,1385,4,5,6,11,11,11,0,69,\N,\N,51,12,1:22.884,190.285,11,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+39,1386,17,19,18,12,12,12,0,67,\N,\N,17,15,1:24.446,186.765,13,karthikeyan,\N,KAR,Narain,Karthikeyan,1977-01-14,Indian,http://en.wikipedia.org/wiki/Narain_Karthikeyan
+33,1387,17,18,20,13,13,13,0,66,\N,\N,15,16,1:24.774,186.042,14,monteiro,\N,TMO,Tiago,Monteiro,1976-07-24,Portuguese,http://en.wikipedia.org/wiki/Tiago_Monteiro
+13,1388,15,12,14,14,14,14,0,63,\N,\N,22,13,1:23.048,189.909,17,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+27,1389,18,21,17,\N,N,15,0,59,\N,\N,8,18,1:25.956,183.484,45,albers,\N,ALB,Christijan,Albers,1979-04-16,Dutch,http://en.wikipedia.org/wiki/Christijan_Albers
+35,1390,15,11,15,\N,R,16,0,56,\N,\N,23,14,1:23.118,189.749,56,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+31,1391,1,10,2,\N,R,17,0,41,\N,\N,20,2,1:21.237,194.143,30,montoya,\N,MON,Juan,Pablo Montoya,1975-09-20,Colombian,http://en.wikipedia.org/wiki/Juan_Pablo_Montoya
+38,1392,18,20,19,\N,R,18,0,26,\N,\N,16,17,1:25.646,184.148,9,doornbos,\N,DOO,Robert,Doornbos,1981-09-23,Dutch,http://en.wikipedia.org/wiki/Robert_Doornbos
+14,1393,9,14,13,\N,R,19,0,0,\N,\N,\N,\N,\N,\N,3,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+32,1394,9,15,11,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,3,klien,\N,KLI,Christian,Klien,1983-02-07,Austrian,http://en.wikipedia.org/wiki/Christian_Klien

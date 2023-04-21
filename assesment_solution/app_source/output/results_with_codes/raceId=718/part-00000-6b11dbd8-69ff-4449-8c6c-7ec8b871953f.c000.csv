@@ -1,0 +1,20 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+364,17376,183,6,2,1,1,1,9,65,2:09:50.32,7790320,\N,\N,\N,\N,1,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+341,17377,6,7,4,2,2,2,6,65,+1:08.94,7859260,\N,\N,\N,\N,1,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+385,17378,6,8,3,3,3,3,4,65,+1:09.63,7859950,\N,\N,\N,\N,1,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+374,17379,172,2,5,4,4,4,3,65,+1:21.86,7872180,\N,\N,\N,\N,1,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+373,17380,172,1,1,5,5,5,2,64,\N,\N,\N,\N,\N,\N,5,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+345,17381,6,18,9,6,6,6,1,64,\N,\N,\N,\N,\N,\N,11,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+360,17382,170,9,10,7,7,7,0,64,\N,\N,\N,\N,\N,\N,11,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+386,17383,66,4,11,8,8,8,0,64,\N,\N,\N,\N,\N,\N,11,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+403,17384,170,10,15,9,9,9,0,63,\N,\N,\N,\N,\N,\N,5,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+382,17385,172,17,14,10,10,10,0,63,\N,\N,\N,\N,\N,\N,12,solana,\N,\N,Moisés,Solana,1935-12-26,Mexican,http://en.wikipedia.org/wiki/Mois%C3%A9s_Solana
+289,17386,66,3,6,11,11,11,0,63,\N,\N,\N,\N,\N,\N,12,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+404,17387,94,11,16,12,12,12,0,61,\N,\N,\N,\N,\N,\N,14,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+434,17388,181,23,19,13,13,13,0,60,\N,\N,\N,\N,\N,\N,15,sharp,\N,\N,Hap,Sharp,1928-01-01,American,http://en.wikipedia.org/wiki/Hap_Sharp
+278,17389,176,15,12,\N,R,14,0,46,\N,\N,\N,\N,\N,\N,6,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+356,17390,183,5,7,\N,R,15,0,44,\N,\N,\N,\N,\N,\N,10,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+305,17391,176,14,17,\N,R,16,0,12,\N,\N,\N,\N,\N,\N,25,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+346,17392,181,22,13,\N,R,17,0,11,\N,\N,\N,\N,\N,\N,48,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+347,17393,183,16,8,\N,R,18,0,9,\N,\N,\N,\N,\N,\N,22,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+401,17394,94,12,18,\N,R,19,0,6,\N,\N,\N,\N,\N,\N,25,trevor_taylor,\N,\N,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor

@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+18,20920,1,4,7,1,1,1,25,70,4:04:39.537,14679537,69,1,1:16.956,204.007,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+20,20921,9,1,1,2,2,2,18,70,+2.709,14682246,69,2,1:17.217,203.317,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+17,20922,9,2,4,3,3,3,15,70,+13.828,14693365,65,8,1:19.572,197.300,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+30,20923,131,7,8,4,4,4,12,70,+14.219,14693756,70,4,1:19.138,198.382,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+808,20924,4,10,10,5,5,5,10,70,+20.395,14699932,68,3,1:19.054,198.593,1,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
+13,20925,6,6,3,6,6,6,8,70,+33.225,14712762,68,5,1:19.148,198.357,1,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+155,20926,15,16,13,7,7,7,6,70,+33.270,14712807,70,10,1:20.213,195.723,1,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi
+153,20927,5,19,24,8,8,8,4,70,+35.964,14715501,69,13,1:20.371,195.339,1,alguersuari,\N,ALG,Jaime,Alguersuari,1990-03-23,Spanish,http://en.wikipedia.org/wiki/Jaime_Alguersuari
+22,20928,3,11,16,9,9,9,2,70,+45.117,14724654,68,11,1:20.316,195.472,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+67,20929,5,18,15,10,10,10,1,70,+47.056,14726593,69,7,1:19.507,197.461,1,buemi,\N,BUE,Sébastien,Buemi,1988-10-31,Swiss,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi
+3,20930,131,8,6,11,11,11,0,70,+50.454,14729991,69,9,1:20.071,196.070,1,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+37,20931,15,17,17,12,12,12,0,70,+1:03.607,14743144,70,12,1:20.369,195.343,1,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+24,20932,164,23,20,13,13,13,0,69,\N,\N,63,17,1:23.419,188.201,11,liuzzi,\N,LIU,Vitantonio,Liuzzi,1980-08-06,Italian,http://en.wikipedia.org/wiki/Vitantonio_Liuzzi
+39,20933,164,22,22,14,14,14,0,69,\N,\N,66,16,1:23.116,188.887,11,karthikeyan,\N,KAR,Narain,Karthikeyan,1977-01-14,Indian,http://en.wikipedia.org/wiki/Narain_Karthikeyan
+816,20934,166,25,23,15,15,15,0,69,\N,\N,68,15,1:22.495,190.309,11,ambrosio,\N,DAM,Jérôme,d'Ambrosio,1985-12-27,Belgian,http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio
+10,20935,166,24,21,16,16,16,0,69,\N,\N,68,19,1:24.590,185.596,11,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+15,20936,205,21,18,17,17,17,0,69,\N,\N,67,14,1:22.233,190.916,11,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+814,20937,10,15,11,18,18,18,0,67,\N,\N,67,6,1:19.395,197.740,3,resta,\N,DIR,Paul,di Resta,1986-04-16,British,http://en.wikipedia.org/wiki/Paul_di_Resta
+813,20938,3,12,12,\N,R,19,0,61,\N,\N,53,18,1:24.265,186.312,31,maldonado,13,MAL,Pastor,Maldonado,1985-03-09,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
+2,20939,4,9,9,\N,R,20,0,55,\N,\N,55,20,1:25.135,184.408,3,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+16,20940,10,14,14,\N,R,21,0,49,\N,\N,47,21,1:30.171,174.109,3,sutil,99,SUT,Adrian,Sutil,1983-01-11,German,http://en.wikipedia.org/wiki/Adrian_Sutil
+4,20941,6,5,2,\N,R,22,0,36,\N,\N,14,22,1:34.223,166.621,4,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+5,20942,205,20,19,\N,R,23,0,28,\N,\N,16,24,1:38.460,159.451,7,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen
+1,20943,1,3,5,\N,R,24,0,7,\N,\N,7,23,1:37.761,160.591,4,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton

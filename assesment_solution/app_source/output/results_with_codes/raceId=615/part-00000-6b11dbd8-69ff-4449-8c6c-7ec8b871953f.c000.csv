@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+328,15194,25,5,1,1,1,1,9,14,1:42:03.0,6123000,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+327,15195,25,6,3,2,2,2,6,14,+1.6,6124600,\N,\N,\N,\N,1,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+235,15196,1,30,4,3,3,3,4,14,+41.2,6164200,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+250,15197,63,24,11,4,4,4,3,14,+53.8,6176800,\N,\N,\N,\N,1,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+290,15198,34,11,13,5,5,5,2,14,+1:19.9,6202900,\N,\N,\N,\N,1,wilson_fittipaldi,\N,\N,Wilson,Fittipaldi,1943-12-25,Brazilian,http://en.wikipedia.org/wiki/Wilson_Fittipaldi
+224,15199,32,1,14,6,6,6,1,14,+1:24.3,6207300,\N,\N,\N,\N,1,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+200,15200,63,31,15,7,7,7,0,14,+1:25.2,6208200,\N,\N,\N,\N,1,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+262,15201,58,17,17,8,8,8,0,14,+1:25.7,6208700,\N,\N,\N,\N,1,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+309,15202,1,8,7,9,9,9,0,14,+2:11.8,6254800,\N,\N,\N,\N,1,revson,\N,\N,Peter,Revson,1939-02-27,American,http://en.wikipedia.org/wiki/Peter_Revson
+280,15203,80,26,12,10,10,10,0,14,+2:22.5,6265500,\N,\N,\N,\N,1,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+243,15204,34,9,16,11,11,11,0,14,+3:27.3,6330300,\N,\N,\N,\N,1,stommelen,\N,\N,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
+304,15205,1,7,8,12,12,12,0,14,+3:38.7,6341700,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+289,15206,58,12,20,13,13,13,0,14,+3:49.0,6352000,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+305,15207,63,23,18,14,14,14,0,13,\N,\N,\N,\N,\N,\N,11,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+259,15208,37,18,22,15,15,15,0,13,\N,\N,\N,\N,\N,\N,11,purley,\N,\N,David,Purley,1945-01-26,British,http://en.wikipedia.org/wiki/David_Purley
+329,15209,37,15,19,16,16,16,0,13,\N,\N,\N,\N,\N,\N,11,beuttler,\N,\N,Mike,Beuttler,1940-04-13,British,http://en.wikipedia.org/wiki/Mike_Beuttler
+199,15210,34,10,6,\N,R,17,0,7,\N,\N,\N,\N,\N,\N,5,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+223,15211,66,19,10,\N,R,18,0,7,\N,\N,\N,\N,\N,\N,5,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+332,15212,58,16,21,\N,R,19,0,5,\N,\N,\N,\N,\N,\N,3,follmer,\N,\N,George,Follmer,1934-01-27,American,http://en.wikipedia.org/wiki/George_Follmer
+306,15213,66,20,9,\N,R,20,0,4,\N,\N,\N,\N,\N,\N,6,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+182,15214,66,21,5,\N,R,21,0,1,\N,\N,\N,\N,\N,\N,3,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+238,15215,32,2,2,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,80,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson

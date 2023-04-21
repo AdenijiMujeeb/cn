@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+1,20992,1,3,2,1,1,1,25,60,1:37:30.344,5850334,59,1,1:34.302,196.526,1,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+4,20993,6,5,4,2,2,2,18,60,+3.980,5854314,60,5,1:34.626,195.853,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+17,20994,9,2,1,3,3,3,15,60,+9.788,5860122,60,2,1:34.468,196.180,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+20,20995,9,1,3,4,4,4,12,60,+47.921,5898255,47,3,1:34.587,195.933,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+13,20996,6,6,5,5,5,5,10,60,+52.252,5902586,51,4,1:34.609,195.888,1,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+16,20997,10,14,8,6,6,6,8,60,+1:26.208,5936542,57,10,1:36.653,191.745,1,sutil,99,SUT,Adrian,Sutil,1983-01-11,German,http://en.wikipedia.org/wiki/Adrian_Sutil
+3,20998,131,8,6,7,7,7,6,59,\N,\N,51,7,1:36.181,192.686,11,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+30,20999,131,7,10,8,8,8,4,59,\N,\N,49,6,1:35.628,193.800,11,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+155,21000,15,16,17,9,9,9,2,59,\N,\N,50,11,1:36.659,191.733,11,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi
+808,21001,4,10,9,10,10,10,1,59,\N,\N,50,8,1:36.186,192.676,11,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
+815,21002,15,17,15,11,11,11,0,59,\N,\N,53,13,1:37.033,190.994,11,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+153,21003,5,19,16,12,12,12,0,59,\N,\N,59,14,1:37.415,190.245,11,alguersuari,\N,ALG,Jaime,Alguersuari,1990-03-23,Spanish,http://en.wikipedia.org/wiki/Jaime_Alguersuari
+814,21004,10,15,12,13,13,13,0,59,\N,\N,54,12,1:36.715,191.622,11,resta,\N,DIR,Paul,di Resta,1986-04-16,British,http://en.wikipedia.org/wiki/Paul_di_Resta
+813,21005,3,12,13,14,14,14,0,59,\N,\N,50,15,1:37.568,189.947,11,maldonado,13,MAL,Pastor,Maldonado,1985-03-09,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
+67,21006,5,18,24,15,15,15,0,59,\N,\N,48,16,1:37.863,189.374,11,buemi,\N,BUE,Sébastien,Buemi,1988-10-31,Swiss,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi
+5,21007,205,20,18,16,16,16,0,58,\N,\N,54,17,1:39.050,187.105,12,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen
+10,21008,166,24,19,17,17,17,0,57,\N,\N,57,21,1:39.982,185.361,13,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+816,21009,166,25,21,18,18,18,0,57,\N,\N,57,20,1:39.787,185.723,13,ambrosio,\N,DAM,Jérôme,d'Ambrosio,1985-12-27,Belgian,http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio
+817,21010,164,22,22,19,19,19,0,57,\N,\N,57,23,1:40.489,184.426,13,ricciardo,3,RIC,Daniel,Ricciardo,1989-07-01,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo
+812,21011,205,21,20,20,20,20,0,56,\N,\N,56,22,1:40.435,184.525,14,chandhok,\N,CHA,Karun,Chandhok,1984-01-19,Indian,http://en.wikipedia.org/wiki/Karun_Chandhok
+24,21012,164,23,23,\N,R,21,0,37,\N,\N,28,24,1:40.683,184.070,10,liuzzi,\N,LIU,Vitantonio,Liuzzi,1980-08-06,Italian,http://en.wikipedia.org/wiki/Vitantonio_Liuzzi
+18,21013,1,4,7,\N,R,22,0,35,\N,\N,33,9,1:36.258,192.532,9,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+22,21014,3,11,14,\N,R,23,0,16,\N,\N,8,19,1:39.679,185.924,44,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+2,21015,4,9,11,\N,R,24,0,9,\N,\N,7,18,1:39.452,186.349,4,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld

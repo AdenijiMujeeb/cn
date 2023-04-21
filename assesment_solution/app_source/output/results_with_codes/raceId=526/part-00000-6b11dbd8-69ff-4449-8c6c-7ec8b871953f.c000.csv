@@ -1,0 +1,31 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+203,12750,6,12,3,1,1,1,9,59,1:52:17.734,6737734,\N,\N,\N,\N,1,gilles_villeneuve,\N,\N,Gilles,Villeneuve,1950-01-18,Canadian,http://en.wikipedia.org/wiki/Gilles_Villeneuve
+163,12751,4,16,7,2,2,2,6,59,+48.787,6786521,\N,\N,\N,\N,1,arnoux,\N,\N,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
+202,12752,25,3,10,3,3,3,4,59,+53.199,6790933,\N,\N,\N,\N,1,pironi,\N,\N,Didier,Pironi,1952-03-26,French,http://en.wikipedia.org/wiki/Didier_Pironi
+173,12753,58,18,20,4,4,4,3,59,+1:30.512,6828246,\N,\N,\N,\N,1,angelis,\N,\N,Elio,de Angelis,1958-03-26,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
+233,12754,54,9,14,5,5,5,2,59,+1:41.259,6838993,\N,\N,\N,\N,1,stuck,\N,\N,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
+187,12755,1,7,13,6,6,6,1,58,\N,\N,\N,\N,\N,\N,11,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+224,12756,56,14,23,7,7,7,0,54,\N,\N,\N,\N,\N,\N,15,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+137,12757,182,6,2,\N,R,8,0,53,\N,\N,\N,\N,\N,\N,7,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+206,12758,25,33,15,\N,R,9,0,52,\N,\N,\N,\N,\N,\N,20,daly,\N,\N,Derek,Daly,1953-03-11,Irish,http://en.wikipedia.org/wiki/Derek_Daly
+222,12759,6,11,16,\N,R,10,0,48,\N,\N,\N,\N,\N,\N,27,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+119,12760,21,29,19,\N,R,11,0,44,\N,\N,\N,\N,\N,\N,22,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+178,12761,3,27,1,\N,R,12,0,36,\N,\N,\N,\N,\N,\N,36,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+176,12762,57,22,21,\N,R,13,0,32,\N,\N,\N,\N,\N,\N,5,surer,\N,\N,Marc,Surer,1951-09-18,Swiss,http://en.wikipedia.org/wiki/Marc_Surer
+223,12763,3,28,5,\N,R,14,0,29,\N,\N,\N,\N,\N,\N,3,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+217,12764,182,5,9,\N,R,15,0,25,\N,\N,\N,\N,\N,\N,20,zunino,\N,\N,Ricardo,Zunino,1949-04-13,Argentine,http://en.wikipedia.org/wiki/Ricardo_Zunino
+219,12765,4,15,8,\N,R,16,0,24,\N,\N,\N,\N,\N,\N,5,jabouille,\N,\N,Jean-Pierre,Jabouille,1942-10-01,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jabouille
+177,12766,59,20,12,\N,R,17,0,20,\N,\N,\N,\N,\N,\N,3,keke_rosberg,\N,\N,Keke,Rosberg,1948-12-06,Finnish,http://en.wikipedia.org/wiki/Keke_Rosberg
+175,12767,1,8,22,\N,R,18,0,20,\N,\N,\N,\N,\N,\N,5,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+197,12768,25,4,11,\N,R,19,0,18,\N,\N,\N,\N,\N,\N,3,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+207,12769,32,1,17,\N,R,20,0,16,\N,\N,\N,\N,\N,\N,6,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+199,12770,32,2,6,\N,R,21,0,6,\N,\N,\N,\N,\N,\N,20,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+172,12771,27,26,4,\N,R,22,0,3,\N,\N,\N,\N,\N,\N,20,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+235,12772,27,25,24,\N,R,23,0,2,\N,\N,\N,\N,\N,\N,20,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+152,12773,51,35,18,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,20,giacomelli,\N,\N,Bruno,Giacomelli,1952-09-10,Italian,http://en.wikipedia.org/wiki/Bruno_Giacomelli
+230,12774,51,36,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,brambilla,\N,\N,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
+200,12775,21,30,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+136,12776,58,17,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,lammers,\N,\N,Jan,Lammers,1956-06-02,Dutch,http://en.wikipedia.org/wiki/Jan_Lammers
+212,12777,62,31,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,rebaque,\N,\N,Hector,Rebaque,1956-02-05,Mexican,http://en.wikipedia.org/wiki/Hector_Rebaque
+237,12778,56,19,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,ribeiro,\N,\N,Alex,Ribeiro,1948-11-07,Brazilian,http://en.wikipedia.org/wiki/Alex_Ribeiro
+232,12779,60,24,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario

@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+647,19983,6,2,3,1,1,1,8,80,2:42:39.3,9759300,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+498,19984,6,6,4,2,2,2,6,80,+24.6,9783900,\N,\N,\N,\N,1,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+697,19985,51,40,7,3,3,3,2,79,\N,\N,\N,\N,\N,\N,11,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+633,19986,6,4,5,4,4,4,3,79,\N,\N,\N,\N,\N,\N,11,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+641,19987,6,8,6,5,5,5,2,78,\N,\N,\N,\N,\N,\N,12,taruffi,\N,\N,Piero,Taruffi,1906-10-12,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
+609,19988,141,48,11,6,6,6,0,74,\N,\N,\N,\N,\N,\N,16,simon,\N,\N,André,Simon,1920-01-05,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Simon_(racing_driver)
+627,19989,154,18,15,7,7,7,0,73,\N,\N,\N,\N,\N,\N,17,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+704,19990,154,24,14,8,8,8,0,72,\N,\N,\N,\N,\N,\N,18,cabantous,\N,\N,Yves,Cabantous,1904-10-08,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous
+762,19991,127,44,18,9,9,9,0,67,\N,\N,\N,\N,\N,\N,53,rol,\N,\N,Franco,Rol,1908-06-05,Italian,http://en.wikipedia.org/wiki/Franco_Rol
+579,19992,51,38,1,\N,R,10,0,39,\N,\N,\N,\N,\N,\N,5,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+427,19993,141,50,12,\N,R,11,0,29,\N,\N,\N,\N,\N,\N,5,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+626,19994,141,46,13,\N,R,12,0,29,\N,\N,\N,\N,\N,\N,5,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+589,19995,154,20,17,\N,R,13,0,23,\N,\N,\N,\N,\N,\N,80,chiron,\N,\N,Louis,Chiron,1899-08-03,Monegasque,http://en.wikipedia.org/wiki/Louis_Chiron
+773,19996,154,22,20,\N,R,14,0,9,\N,\N,\N,\N,\N,\N,5,levegh,\N,\N,Pierre,Levegh,1905-12-22,French,http://en.wikipedia.org/wiki/Pierre_Levegh
+680,19997,154,28,22,\N,R,15,0,7,\N,\N,\N,\N,\N,\N,25,swaters,\N,\N,Jacques,Swaters,1926-10-30,American,http://en.wikipedia.org/wiki/Jacques_Swaters
+642,19998,51,34,2,\N,R,16,0,6,\N,\N,\N,\N,\N,\N,5,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+660,19999,154,26,21,\N,R,17,0,4,\N,\N,\N,\N,\N,\N,94,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+640,20000,51,36,9,\N,R,18,0,1,\N,\N,\N,\N,\N,\N,126,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+687,20001,6,16,19,\N,R,19,0,1,\N,\N,\N,\N,\N,\N,121,whitehead,\N,\N,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
+622,20002,6,12,16,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,7,landi,\N,\N,Chico,Landi,1907-07-14,Brazilian,http://en.wikipedia.org/wiki/Chico_Landi
+686,20003,66,30,8,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,54,reg_parnell,\N,\N,Reg,Parnell,1911-07-02,British,http://en.wikipedia.org/wiki/Reg_Parnell
+781,20004,66,32,10,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,richardson,\N,\N,Ken,Richardson,1911-08-21,British,http://en.wikipedia.org/wiki/Ken_Richardson_(race_car_driver)
+642,20189,51,40,7,3,3,3,3,79,\N,\N,\N,\N,\N,\N,11,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina

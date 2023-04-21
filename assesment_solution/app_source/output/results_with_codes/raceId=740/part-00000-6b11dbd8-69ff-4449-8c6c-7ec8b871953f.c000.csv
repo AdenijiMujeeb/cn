@@ -1,0 +1,27 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+403,17887,6,4,1,1,1,1,9,30,2:03:03.8,7383800,\N,\N,\N,\N,1,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+476,17888,6,2,2,2,2,2,6,30,+0.7,7384500,\N,\N,\N,\N,1,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+386,17889,6,6,5,3,3,3,4,30,+19.5,7403300,\N,\N,\N,\N,1,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+482,17890,6,8,3,4,4,4,3,30,+45.6,7429400,\N,\N,\N,\N,1,gendebien,\N,\N,Olivier,Gendebien,1924-01-12,Belgian,http://en.wikipedia.org/wiki/Olivier_Gendebien
+341,17891,170,24,4,5,5,5,2,30,+1:26.8,7470600,\N,\N,\N,\N,1,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+364,17892,95,20,10,6,6,6,1,30,+1:31.0,7474800,\N,\N,\N,\N,1,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+347,17893,95,18,9,7,7,7,0,30,+2:47.1,7550900,\N,\N,\N,\N,1,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+475,17894,172,14,8,8,8,8,0,30,+3:55.6,7619400,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+453,17895,170,40,13,9,9,9,0,29,\N,\N,\N,\N,\N,\N,11,lewis,\N,\N,Jackie,Lewis,1936-11-01,British,http://en.wikipedia.org/wiki/Jackie_Lewis
+418,17896,170,44,12,10,10,10,0,29,\N,\N,\N,\N,\N,\N,11,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+430,17897,95,22,14,11,11,11,0,28,\N,\N,\N,\N,\N,\N,12,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+373,17898,172,34,16,12,12,12,0,24,\N,\N,\N,\N,\N,\N,16,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+479,17899,66,38,7,13,13,13,0,24,\N,\N,\N,\N,\N,\N,16,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+289,17900,66,36,6,\N,R,14,0,24,\N,\N,\N,\N,\N,\N,80,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+427,17901,167,26,20,\N,R,15,0,23,\N,\N,\N,\N,\N,\N,6,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+385,17902,167,46,17,\N,R,16,0,20,\N,\N,\N,\N,\N,\N,67,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+356,17903,170,28,11,\N,R,17,0,12,\N,\N,\N,\N,\N,\N,5,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+360,17904,170,30,15,\N,R,18,0,9,\N,\N,\N,\N,\N,\N,80,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+404,17905,172,32,18,\N,R,19,0,9,\N,\N,\N,\N,\N,\N,5,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+376,17906,172,12,23,\N,R,20,0,9,\N,\N,\N,\N,\N,\N,44,bianchi,\N,BIA,Lucien,Bianchi,1934-11-10,Belgian,http://en.wikipedia.org/wiki/Lucien_Bianchi
+435,17907,172,10,19,\N,R,21,0,7,\N,\N,\N,\N,\N,\N,80,mairesse,\N,\N,Willy,Mairesse,1928-10-01,Belgian,http://en.wikipedia.org/wiki/Willy_Mairesse
+459,17908,172,42,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,marsh,\N,\N,Tony,Marsh,1931-07-20,British,http://en.wikipedia.org/wiki/Tony_Marsh_(racing_driver)
+455,17909,172,48,0,\N,W,23,0,0,\N,\N,\N,\N,\N,\N,54,seidel,\N,\N,Wolfgang,Seidel,1926-07-04,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel
+437,17910,172,50,0,\N,W,24,0,0,\N,\N,\N,\N,\N,\N,54,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess
+477,17911,172,16,0,\N,W,25,0,0,\N,\N,\N,\N,\N,\N,54,allison,\N,\N,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
+481,17912,172,16,0,\N,W,26,0,0,\N,\N,\N,\N,\N,\N,54,henry_taylor,\N,\N,Henry,Taylor,1932-12-16,British,http://en.wikipedia.org/wiki/Henry_Taylor_(racing_driver)

@@ -1,0 +1,29 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+238,15290,32,2,1,1,1,1,9,59,1:41:15.779,6075779,\N,\N,\N,\N,1,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+231,15291,37,27,4,2,2,2,6,59,+0.668,6076447,\N,\N,\N,\N,1,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+199,15292,34,10,2,3,3,3,4,59,+22.930,6098709,\N,\N,\N,\N,1,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+304,15293,1,7,8,4,4,4,3,59,+50.226,6126005,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+309,15294,1,8,7,5,5,5,2,59,+1:20.367,6156146,\N,\N,\N,\N,1,revson,\N,\N,Peter,Revson,1939-02-27,American,http://en.wikipedia.org/wiki/Peter_Revson
+224,15295,32,1,3,6,6,6,1,59,+1:47.945,6183724,\N,\N,\N,\N,1,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+235,15296,80,26,23,7,7,7,0,58,\N,\N,\N,\N,\N,\N,11,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+223,15297,66,19,15,8,8,8,0,58,\N,\N,\N,\N,\N,\N,11,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+306,15298,66,20,14,9,9,9,0,58,\N,\N,\N,\N,\N,\N,11,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+329,15299,37,15,26,10,10,10,0,58,\N,\N,\N,\N,\N,\N,11,beuttler,\N,\N,Mike,Beuttler,1940-04-13,British,http://en.wikipedia.org/wiki/Mike_Beuttler
+197,15300,37,18,17,11,11,11,0,57,\N,\N,\N,\N,\N,\N,3,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+307,15301,80,25,19,12,12,12,0,57,\N,\N,\N,\N,\N,\N,12,ganley,\N,\N,Howden,Ganley,1941-12-24,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley
+289,15302,58,12,18,13,13,13,0,57,\N,\N,\N,\N,\N,\N,12,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+332,15303,58,16,20,14,14,14,0,57,\N,\N,\N,\N,\N,\N,12,follmer,\N,\N,George,Follmer,1934-01-27,American,http://en.wikipedia.org/wiki/George_Follmer
+262,15304,58,17,22,15,15,15,0,55,\N,\N,\N,\N,\N,\N,14,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+232,15305,6,4,11,16,16,16,0,55,\N,\N,\N,\N,\N,\N,14,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+290,15306,34,11,25,\N,N,17,0,52,\N,\N,\N,\N,\N,\N,62,wilson_fittipaldi,\N,\N,Wilson,Fittipaldi,1943-12-25,Brazilian,http://en.wikipedia.org/wiki/Wilson_Fittipaldi
+222,15307,1,0,10,\N,R,18,0,39,\N,\N,\N,\N,\N,\N,22,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+200,15308,63,30,16,\N,R,19,0,35,\N,\N,\N,\N,\N,\N,5,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+182,15309,66,21,21,\N,R,20,0,35,\N,\N,\N,\N,\N,\N,48,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+305,15310,63,23,6,\N,R,21,0,34,\N,\N,\N,\N,\N,\N,22,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+250,15311,63,24,9,\N,R,22,0,32,\N,\N,\N,\N,\N,\N,22,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+187,15312,34,9,24,\N,R,23,0,7,\N,\N,\N,\N,\N,\N,5,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+312,15313,58,31,13,\N,D,24,0,5,\N,\N,\N,\N,\N,\N,2,redman,\N,\N,Brian,Redman,1937-03-09,British,http://en.wikipedia.org/wiki/Brian_Redman
+313,15314,57,28,27,\N,R,25,0,0,\N,\N,\N,\N,\N,\N,37,opel,\N,\N,Rikky,von Opel,1947-10-14,Liechtensteiner,http://en.wikipedia.org/wiki/Rikky_von_Opel
+328,15315,25,5,5,\N,W,26,0,0,\N,\N,\N,\N,\N,\N,54,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+278,15316,25,29,12,\N,W,27,0,0,\N,\N,\N,\N,\N,\N,54,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+327,15317,25,6,0,\N,W,28,0,0,\N,\N,\N,\N,\N,\N,3,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert

@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,18825,105,1,1,1,1,1,9,22,3:30:38.3,12638300,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+578,18826,6,8,2,2,2,2,6,22,+3.6,12641900,\N,\N,\N,\N,1,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+581,18827,6,7,4,3,3,3,4,22,+35.6,12673900,\N,\N,\N,\N,1,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+577,18828,6,6,8,4,4,4,3,22,+3:37.6,12855900,\N,\N,\N,\N,1,musso,\N,\N,Luigi,Musso,1924-07-28,Italian,http://en.wikipedia.org/wiki/Luigi_Musso
+475,18829,118,10,7,5,5,5,2,22,+4:37.2,12915500,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+554,18830,105,2,3,6,6,6,0,22,+4:38.5,12916800,\N,\N,\N,\N,1,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+501,18831,105,3,6,7,7,7,0,22,+6:47.5,13045800,\N,\N,\N,\N,1,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+418,18832,105,16,10,8,8,8,0,21,\N,\N,\N,\N,\N,\N,11,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+479,18833,118,11,5,9,9,9,0,21,\N,\N,\N,\N,\N,\N,11,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+483,18834,105,4,13,10,10,10,0,21,\N,\N,\N,\N,\N,\N,11,scarlatti,\N,\N,Giorgio,Scarlatti,1921-10-02,Italian,http://en.wikipedia.org/wiki/Giorgio_Scarlatti
+506,18835,105,15,16,11,11,11,0,21,\N,\N,\N,\N,\N,\N,11,halford,\N,\N,Bruce,Halford,1931-05-18,British,http://en.wikipedia.org/wiki/Bruce_Halford
+431,18836,95,21,12,12,12,12,0,21,\N,\N,\N,\N,\N,\N,11,barth,\N,\N,Edgar,Barth,1917-01-26,German,http://en.wikipedia.org/wiki/Edgar_Barth
+484,18837,87,28,17,13,13,13,0,20,\N,\N,\N,\N,\N,\N,12,naylor,\N,\N,Brian,Naylor,1923-03-24,British,http://en.wikipedia.org/wiki/Brian_Naylor
+430,18838,95,27,20,14,14,14,0,20,\N,\N,\N,\N,\N,\N,12,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+459,18839,87,25,22,15,15,15,0,17,\N,\N,\N,\N,\N,\N,15,marsh,\N,\N,Tony,Marsh,1931-07-20,British,http://en.wikipedia.org/wiki/Tony_Marsh_(racing_driver)
+478,18840,105,17,11,\N,R,16,0,14,\N,\N,\N,\N,\N,\N,83,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+620,18841,95,20,15,\N,R,17,0,13,\N,\N,\N,\N,\N,\N,5,maglioli,\N,\N,Umberto,Maglioli,1928-06-05,Italian,http://en.wikipedia.org/wiki/Umberto_Maglioli
+456,18842,87,23,14,\N,R,18,0,11,\N,\N,\N,\N,\N,\N,22,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+580,18843,105,18,21,\N,R,19,0,11,\N,\N,\N,\N,\N,\N,38,godia,\N,\N,Paco,Godia,1921-03-21,Spanish,http://en.wikipedia.org/wiki/Paco_Godia
+590,18844,118,12,9,\N,R,20,0,10,\N,\N,\N,\N,\N,\N,6,lewis-evans,\N,\N,Stuart,Lewis-Evans,1930-04-20,British,http://en.wikipedia.org/wiki/Stuart_Lewis-Evans
+356,18845,87,24,18,\N,R,21,0,6,\N,\N,\N,\N,\N,\N,7,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+621,18846,87,26,23,\N,R,22,0,4,\N,\N,\N,\N,\N,\N,99,england,\N,\N,Paul,England,1929-03-28,Australian,http://en.wikipedia.org/wiki/Paul_England
+601,18847,87,29,24,\N,R,23,0,3,\N,\N,\N,\N,\N,\N,38,gibson,\N,\N,Dick,Gibson,1918-04-16,British,http://en.wikipedia.org/wiki/Dick_Gibson
+547,18848,105,19,19,\N,R,24,0,2,\N,\N,\N,\N,\N,\N,109,gould,\N,\N,Horace,Gould,1918-09-20,British,http://en.wikipedia.org/wiki/Horace_Gould

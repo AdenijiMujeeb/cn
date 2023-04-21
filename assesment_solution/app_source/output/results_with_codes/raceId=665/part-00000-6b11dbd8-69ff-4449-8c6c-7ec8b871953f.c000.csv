@@ -1,0 +1,19 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+358,16345,180,2,1,1,1,1,9,108,1:57:56.84,7076840,\N,\N,\N,\N,1,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+361,16346,182,18,9,2,2,2,6,108,+46.99,7123830,\N,\N,\N,\N,1,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+341,16347,66,14,11,3,3,3,4,106,\N,\N,\N,\N,\N,\N,12,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+356,16348,182,8,18,4,4,4,3,106,\N,\N,\N,\N,\N,\N,12,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+345,16349,6,12,12,5,5,5,2,101,\N,\N,\N,\N,\N,\N,17,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+351,16350,182,19,17,6,6,6,1,98,\N,\N,\N,\N,\N,\N,88,moser,\N,\N,Silvio,Moser,1941-04-24,Swiss,http://en.wikipedia.org/wiki/Silvio_Moser
+359,16351,196,16,15,\N,N,7,0,92,\N,\N,\N,\N,\N,\N,62,gavin,\N,\N,Johnny,Servoz-Gavin,1942-01-18,French,http://en.wikipedia.org/wiki/Johnny_Servoz-Gavin
+289,16352,180,1,4,\N,R,8,0,90,\N,\N,\N,\N,\N,\N,3,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+235,16353,182,7,8,\N,R,9,0,77,\N,\N,\N,\N,\N,\N,5,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+352,16354,66,22,9,\N,R,10,0,76,\N,\N,\N,\N,\N,\N,5,eaton,\N,\N,George,Eaton,1945-11-12,Canadian,http://en.wikipedia.org/wiki/George_Eaton
+306,16355,196,4,7,\N,R,11,0,72,\N,\N,\N,\N,\N,\N,5,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+304,16356,187,5,2,\N,R,12,0,52,\N,\N,\N,\N,\N,\N,6,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+328,16357,196,3,3,\N,R,13,0,35,\N,\N,\N,\N,\N,\N,5,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+353,16358,180,21,16,\N,R,14,0,25,\N,\N,\N,\N,\N,\N,86,lovely,\N,\N,Pete,Lovely,1926-04-11,American,http://en.wikipedia.org/wiki/Pete_Lovely
+262,16359,66,15,14,\N,R,15,0,23,\N,\N,\N,\N,\N,\N,5,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+346,16360,180,10,13,\N,R,16,0,3,\N,\N,\N,\N,\N,\N,69,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+207,16361,180,9,5,\N,R,17,0,3,\N,\N,\N,\N,\N,\N,22,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+360,16362,187,6,6,\N,R,18,0,0,\N,\N,\N,\N,\N,\N,5,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren

@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+358,15972,32,10,1,1,1,1,9,80,1:50:43.4,6643400,\N,\N,\N,\N,1,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+328,15973,37,5,2,2,2,2,6,80,+30.0,6673400,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+235,15974,6,25,3,3,3,3,4,79,\N,\N,\N,\N,\N,\N,11,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+223,15975,6,26,6,4,4,4,3,79,\N,\N,\N,\N,\N,\N,11,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+306,15976,82,23,10,5,5,5,2,79,\N,\N,\N,\N,\N,\N,11,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+341,15977,187,16,14,6,6,6,1,79,\N,\N,\N,\N,\N,\N,11,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+357,15978,32,12,8,7,7,7,0,78,\N,\N,\N,\N,\N,\N,12,miles,\N,\N,John,Miles,1943-06-14,British,http://en.wikipedia.org/wiki/John_Miles_(auto_racer)
+280,15979,82,24,13,8,8,8,0,78,\N,\N,\N,\N,\N,\N,12,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+238,15980,37,22,16,9,9,9,0,78,\N,\N,\N,\N,\N,\N,12,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+345,15981,66,1,7,10,10,10,0,77,\N,\N,\N,\N,\N,\N,13,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+356,15982,34,18,12,11,11,11,0,76,\N,\N,\N,\N,\N,\N,14,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+289,15983,32,15,20,\N,N,12,0,71,\N,\N,\N,\N,\N,\N,62,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+327,15984,37,6,15,\N,R,13,0,31,\N,\N,\N,\N,\N,\N,5,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+352,15985,66,3,18,\N,R,14,0,26,\N,\N,\N,\N,\N,\N,44,eaton,\N,\N,George,Eaton,1945-11-12,Canadian,http://en.wikipedia.org/wiki/George_Eaton
+262,15986,66,2,5,\N,R,15,0,23,\N,\N,\N,\N,\N,\N,5,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+361,15987,86,4,9,\N,R,16,0,22,\N,\N,\N,\N,\N,\N,3,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+346,15988,37,9,17,\N,R,17,0,22,\N,\N,\N,\N,\N,\N,5,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+320,15989,187,20,11,\N,R,18,0,18,\N,\N,\N,\N,\N,\N,3,gethin,\N,\N,Peter,Gethin,1940-02-21,British,http://en.wikipedia.org/wiki/Peter_Gethin
+364,15990,187,32,19,\N,R,19,0,2,\N,\N,\N,\N,\N,\N,5,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+278,15991,37,8,4,\N,R,20,0,1,\N,\N,\N,\N,\N,\N,8,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+333,15992,198,21,0,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,adamich,\N,\N,Andrea,de Adamich,1941-10-03,Italian,http://en.wikipedia.org/wiki/Andrea_de_Adamich
+243,15993,34,19,0,\N,F,22,0,0,\N,\N,\N,\N,\N,\N,81,stommelen,\N,\N,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
+353,15994,32,31,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,lovely,\N,\N,Pete,Lovely,1926-04-11,American,http://en.wikipedia.org/wiki/Pete_Lovely
+351,15995,85,29,0,\N,F,24,0,0,\N,\N,\N,\N,\N,\N,81,moser,\N,\N,Silvio,Moser,1941-04-24,Swiss,http://en.wikipedia.org/wiki/Silvio_Moser

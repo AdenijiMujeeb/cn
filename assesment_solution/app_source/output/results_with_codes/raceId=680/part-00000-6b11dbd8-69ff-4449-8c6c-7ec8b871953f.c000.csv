@@ -1,0 +1,20 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+304,16631,191,9,4,1,1,1,9,100,2:34:34.3,9274300,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+289,16632,176,14,8,2,2,2,6,99,\N,\N,\N,\N,\N,\N,11,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+278,16633,6,20,14,3,3,3,4,98,\N,\N,\N,\N,\N,\N,12,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+360,16634,194,16,10,4,4,4,3,98,\N,\N,\N,\N,\N,\N,13,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+345,16635,167,11,16,5,5,5,2,96,\N,\N,\N,\N,\N,\N,14,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+374,16636,66,5,12,6,6,6,1,96,\N,\N,\N,\N,\N,\N,14,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+385,16637,6,18,2,\N,R,7,0,81,\N,\N,\N,\N,\N,\N,3,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+361,16638,66,6,13,\N,R,8,0,64,\N,\N,\N,\N,\N,\N,20,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+373,16639,172,12,5,\N,R,9,0,42,\N,\N,\N,\N,\N,\N,22,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+341,16640,11,7,3,\N,R,10,0,32,\N,\N,\N,\N,\N,\N,5,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+346,16641,167,17,9,\N,R,11,0,31,\N,\N,\N,\N,\N,\N,51,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+328,16642,66,4,6,\N,R,12,0,14,\N,\N,\N,\N,\N,\N,24,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+358,16643,167,10,15,\N,R,13,0,14,\N,\N,\N,\N,\N,\N,6,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+364,16644,190,23,7,\N,R,14,0,4,\N,\N,\N,\N,\N,\N,48,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+359,16645,82,2,11,\N,R,15,0,4,\N,\N,\N,\N,\N,\N,98,gavin,\N,\N,Johnny,Servoz-Gavin,1942-01-18,French,http://en.wikipedia.org/wiki/Johnny_Servoz-Gavin
+356,16646,191,8,1,\N,R,16,0,0,\N,\N,\N,\N,\N,\N,5,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+383,16647,183,15,0,\N,F,17,0,0,\N,\N,\N,\N,\N,\N,81,anderson,\N,\N,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
+306,16648,82,1,0,\N,F,18,0,0,\N,\N,\N,\N,\N,\N,81,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+386,16649,189,22,0,\N,F,19,0,0,\N,\N,\N,\N,\N,\N,81,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther

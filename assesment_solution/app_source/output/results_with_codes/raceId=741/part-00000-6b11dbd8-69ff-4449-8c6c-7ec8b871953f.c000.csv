@@ -1,0 +1,32 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+394,17913,6,50,12,1,1,1,9,52,2:14:17.5,8057500,\N,\N,\N,\N,1,baghetti,\N,\N,Giancarlo,Baghetti,1934-12-25,Italian,http://en.wikipedia.org/wiki/Giancarlo_Baghetti
+364,17914,95,12,5,2,2,2,6,52,+0.1,8057600,\N,\N,\N,\N,1,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+373,17915,172,8,9,3,3,3,4,52,+1:01.0,8118500,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+404,17916,172,6,10,4,4,4,3,52,+1:10.3,8127800,\N,\N,\N,\N,1,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+360,17917,170,4,8,5,5,5,2,52,+1:41.8,8159300,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+289,17918,66,22,6,6,6,6,1,52,+1:41.9,8159400,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+347,17919,95,10,13,7,7,7,0,52,+3:15.4,8252900,\N,\N,\N,\N,1,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+456,17920,170,42,15,8,8,8,0,51,\N,\N,\N,\N,\N,\N,11,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+403,17921,6,16,1,9,9,9,0,50,\N,\N,\N,\N,\N,\N,12,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+481,17922,172,30,25,10,10,10,0,49,\N,\N,\N,\N,\N,\N,13,henry_taylor,\N,\N,Henry,Taylor,1932-12-16,British,http://en.wikipedia.org/wiki/Henry_Taylor_(racing_driver)
+480,17923,172,46,22,11,11,11,0,48,\N,\N,\N,\N,\N,\N,14,may,\N,\N,Michael,May,1934-08-18,Swiss,http://en.wikipedia.org/wiki/Michael_May_(racing_driver)
+418,17924,170,36,16,12,12,12,0,43,\N,\N,\N,\N,\N,\N,19,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+427,17925,167,32,23,13,13,13,0,42,\N,\N,\N,\N,\N,\N,88,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+437,17926,172,38,24,14,14,14,0,42,\N,\N,\N,\N,\N,\N,88,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess
+386,17927,6,18,3,15,15,15,0,40,\N,\N,\N,\N,\N,\N,51,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+475,17928,172,26,4,\N,R,16,0,31,\N,\N,\N,\N,\N,\N,23,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+435,17929,172,48,20,\N,R,17,0,27,\N,\N,\N,\N,\N,\N,5,mairesse,\N,\N,Willy,Mairesse,1928-10-01,Belgian,http://en.wikipedia.org/wiki/Willy_Mairesse
+430,17930,95,14,17,\N,R,18,0,23,\N,\N,\N,\N,\N,\N,25,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+376,17931,172,28,19,\N,R,19,0,21,\N,\N,\N,\N,\N,\N,25,bianchi,\N,BIA,Lucien,Bianchi,1934-11-10,Belgian,http://en.wikipedia.org/wiki/Lucien_Bianchi
+476,17932,6,20,2,\N,R,20,0,18,\N,\N,\N,\N,\N,\N,5,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+483,17933,174,34,26,\N,R,21,0,15,\N,\N,\N,\N,\N,\N,5,scarlatti,\N,\N,Giorgio,Scarlatti,1921-10-02,Italian,http://en.wikipedia.org/wiki/Giorgio_Scarlatti
+356,17934,170,2,14,\N,R,22,0,14,\N,\N,\N,\N,\N,\N,51,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+428,17935,170,52,21,\N,R,23,0,6,\N,\N,\N,\N,\N,\N,5,collomb,\N,\N,Bernard,Collomb,1930-10-07,French,http://en.wikipedia.org/wiki/Bernard_Collomb
+341,17936,170,40,7,\N,R,24,0,4,\N,\N,\N,\N,\N,\N,3,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+479,17937,66,24,11,\N,R,25,0,4,\N,\N,\N,\N,\N,\N,25,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+453,17938,170,44,18,\N,R,26,0,4,\N,\N,\N,\N,\N,\N,25,lewis,\N,\N,Jackie,Lewis,1936-11-01,British,http://en.wikipedia.org/wiki/Jackie_Lewis
+455,17939,172,46,0,\N,W,27,0,0,\N,\N,\N,\N,\N,\N,54,seidel,\N,\N,Wolfgang,Seidel,1926-07-04,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel
+485,17940,172,\N,0,\N,W,28,0,0,\N,\N,\N,\N,\N,\N,54,bordeu,\N,\N,Juan Manuel,Bordeu,1934-01-28,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Bordeu
+478,17941,95,14,0,\N,W,29,0,0,\N,\N,\N,\N,\N,\N,54,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+482,17942,99,46,0,\N,W,30,0,0,\N,\N,\N,\N,\N,\N,54,gendebien,\N,\N,Olivier,Gendebien,1924-01-12,Belgian,http://en.wikipedia.org/wiki/Olivier_Gendebien
+484,17943,101,54,0,\N,W,31,0,0,\N,\N,\N,\N,\N,\N,54,naylor,\N,\N,Brian,Naylor,1923-03-24,British,http://en.wikipedia.org/wiki/Brian_Naylor

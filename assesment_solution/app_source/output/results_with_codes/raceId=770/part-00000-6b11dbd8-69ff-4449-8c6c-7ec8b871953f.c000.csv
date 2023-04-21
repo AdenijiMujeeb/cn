@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+578,18595,6,4,1,1,1,1,9,50,2:03:21.3,7401300,\N,\N,\N,\N,1,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+475,18596,118,8,6,2,2,2,6,50,+24.6,7425900,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+476,18597,6,6,21,3,3,3,4,50,+59.7,7461000,\N,\N,\N,\N,1,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+579,18598,105,34,8,4,4,4,3,50,+2:30.6,7551900,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+581,18599,6,42,4,5,5,5,2,50,+5:24.9,7726200,\N,\N,\N,\N,1,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+356,18600,87,22,12,6,6,6,0,49,\N,\N,\N,\N,\N,\N,11,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+403,18601,105,36,13,7,7,7,0,49,\N,\N,\N,\N,\N,\N,11,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+347,18602,105,38,16,8,8,8,0,48,\N,\N,\N,\N,\N,\N,12,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+583,18603,105,32,15,9,9,9,0,47,\N,\N,\N,\N,\N,\N,13,gerini,\N,\N,Gerino,Gerini,1928-08-10,Italian,http://en.wikipedia.org/wiki/Gerino_Gerini_(racing_driver)
+526,18604,105,30,18,10,10,10,0,45,\N,\N,\N,\N,\N,\N,15,ruttman,\N,\N,Troy,Ruttman,1930-03-11,American,http://en.wikipedia.org/wiki/Troy_Ruttman
+456,18605,87,20,14,11,11,11,0,37,\N,\N,\N,\N,\N,\N,53,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+501,18606,66,16,3,\N,R,12,0,41,\N,\N,\N,\N,\N,\N,25,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+554,18607,66,14,9,\N,R,13,0,41,\N,\N,\N,\N,\N,\N,48,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+590,18608,118,12,10,\N,R,14,0,35,\N,\N,\N,\N,\N,\N,5,lewis-evans,\N,\N,Stuart,Lewis-Evans,1930-04-20,British,http://en.wikipedia.org/wiki/Stuart_Lewis-Evans
+289,18609,32,24,19,\N,R,15,0,33,\N,\N,\N,\N,\N,\N,25,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+580,18610,105,40,11,\N,R,16,0,28,\N,\N,\N,\N,\N,\N,3,godia,\N,\N,Paco,Godia,1921-03-21,Spanish,http://en.wikipedia.org/wiki/Paco_Godia
+427,18611,66,18,7,\N,R,17,0,23,\N,\N,\N,\N,\N,\N,48,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+479,18612,118,10,5,\N,R,18,0,16,\N,\N,\N,\N,\N,\N,5,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+577,18613,6,2,2,\N,R,19,0,9,\N,\N,\N,\N,\N,\N,3,musso,\N,\N,Luigi,Musso,1924-07-28,Italian,http://en.wikipedia.org/wiki/Luigi_Musso
+566,18614,105,28,17,\N,R,20,0,9,\N,\N,\N,\N,\N,\N,5,shelby,\N,\N,Carroll,Shelby,1923-01-11,American,http://en.wikipedia.org/wiki/Carroll_Shelby
+477,18615,32,26,20,\N,R,21,0,6,\N,\N,\N,\N,\N,\N,5,allison,\N,\N,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
+479,20296,118,12,10,\N,R,14,0,35,\N,\N,\N,\N,\N,\N,5,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks

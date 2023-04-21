@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+641,19640,6,30,2,1,1,1,9,62,3:01:46.1,10906100,\N,\N,\N,\N,1,taruffi,\N,\N,Piero,Taruffi,1906-10-12,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
+723,19641,6,42,5,2,2,2,6,62,+2:37.2,11063300,\N,\N,\N,\N,1,fischer,\N,\N,Rudi,Fischer,1912-04-19,Swiss,http://en.wikipedia.org/wiki/Rudi_Fischer
+554,19642,128,6,7,3,3,3,4,61,\N,\N,\N,\N,\N,\N,11,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+663,19643,148,22,13,4,4,4,3,60,\N,\N,\N,\N,\N,\N,12,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+689,19644,87,26,15,5,5,5,2,59,\N,\N,\N,\N,\N,\N,13,alan_brown,\N,\N,Alan,Brown,1919-11-20,British,http://en.wikipedia.org/wiki/Alan_Brown_(racing_driver)
+640,19645,105,38,8,6,6,6,0,58,\N,\N,\N,\N,\N,\N,14,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+721,19646,6,44,19,7,7,7,0,56,\N,\N,\N,\N,\N,\N,16,hirt,\N,\N,Peter,Hirt,1910-03-30,Swiss,http://en.wikipedia.org/wiki/Peter_Hirt
+688,19647,87,24,17,8,8,8,0,55,\N,\N,\N,\N,\N,\N,17,brandon,\N,\N,Eric,Brandon,1920-07-18,British,http://en.wikipedia.org/wiki/Eric_Brandon
+669,19648,141,10,11,\N,R,9,0,52,\N,\N,\N,\N,\N,\N,5,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+609,19649,6,32,4,\N,R,10,0,51,\N,\N,\N,\N,\N,\N,121,simon,\N,\N,André,Simon,1920-01-05,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Simon_(racing_driver)
+501,19650,105,40,18,\N,R,11,0,31,\N,\N,\N,\N,\N,\N,5,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+475,19651,133,46,9,\N,W,12,0,24,\N,\N,\N,\N,\N,\N,54,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+651,19652,133,20,12,\N,W,13,0,24,\N,\N,\N,\N,\N,\N,54,macklin,\N,\N,Lance,Macklin,1919-09-02,British,http://en.wikipedia.org/wiki/Lance_Macklin
+626,19653,128,8,3,\N,R,14,0,20,\N,\N,\N,\N,\N,\N,21,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+642,19654,6,28,1,\N,R,15,0,16,\N,\N,\N,\N,\N,\N,121,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+581,19655,133,18,6,\N,R,16,0,12,\N,\N,\N,\N,\N,\N,86,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+725,19656,133,16,10,\N,R,17,0,12,\N,\N,\N,\N,\N,\N,86,abecassis,\N,\N,George,Abecassis,1913-03-21,British,http://en.wikipedia.org/wiki/George_Abecassis
+717,19657,147,2,14,\N,R,18,0,4,\N,\N,\N,\N,\N,\N,5,hans_stuck,\N,\N,Hans,von Stuck,1900-12-27,German,http://en.wikipedia.org/wiki/Hans_Von_Stuck
+724,19658,144,4,16,\N,R,19,0,4,\N,\N,\N,\N,\N,\N,95,ulmen,\N,\N,Toni,Ulmen,1906-01-25,German,http://en.wikipedia.org/wiki/Toni_Ulmen
+627,19659,6,12,20,\N,R,20,0,2,\N,\N,\N,\N,\N,\N,3,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+720,19660,141,50,21,\N,R,21,0,1,\N,\N,\N,\N,\N,\N,121,terra,\N,\N,Max,de Terra,1918-10-06,Swiss,http://en.wikipedia.org/wiki/Max_de_Terra
+642,20190,6,32,4,\N,R,10,0,51,\N,\N,\N,\N,\N,\N,121,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina

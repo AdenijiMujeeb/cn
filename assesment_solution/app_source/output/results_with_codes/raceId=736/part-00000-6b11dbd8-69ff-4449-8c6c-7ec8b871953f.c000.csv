@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,17808,172,8,1,1,1,1,9,100,2:07:13.0,7633000,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+289,17809,66,4,3,2,2,2,6,100,+9.2,7642200,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+360,17810,170,21,6,3,3,3,4,99,\N,\N,\N,\N,\N,\N,11,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+356,17811,34,17,5,4,4,4,3,99,\N,\N,\N,\N,\N,\N,11,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+364,17812,95,10,4,5,5,5,2,99,\N,\N,\N,\N,\N,\N,11,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+418,17813,176,16,7,6,6,6,1,99,\N,\N,\N,\N,\N,\N,11,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+408,17814,170,22,10,7,7,7,0,97,\N,\N,\N,\N,\N,\N,13,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+404,17815,172,15,16,8,8,8,0,96,\N,\N,\N,\N,\N,\N,14,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+468,17816,172,14,13,9,9,9,0,96,\N,\N,\N,\N,\N,\N,14,penske,\N,\N,Roger,Penske,1937-02-20,American,http://en.wikipedia.org/wiki/Roger_Penske
+469,17817,172,26,17,10,10,10,0,93,\N,\N,\N,\N,\N,\N,17,schroeder,\N,\N,Rob,Schroeder,1926-05-11,British,http://en.wikipedia.org/wiki/Rob_Schroeder
+434,17818,170,24,15,11,11,11,0,91,\N,\N,\N,\N,\N,\N,19,sharp,\N,\N,Hap,Sharp,1928-01-01,American,http://en.wikipedia.org/wiki/Hap_Sharp
+401,17819,172,9,8,12,12,12,0,85,\N,\N,\N,\N,\N,\N,112,trevor_taylor,\N,\N,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
+347,17820,95,11,9,13,13,13,0,79,\N,\N,\N,\N,\N,\N,120,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+386,17821,66,5,2,\N,R,14,0,35,\N,\N,\N,\N,\N,\N,5,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+427,17822,172,6,19,\N,R,15,0,32,\N,\N,\N,\N,\N,\N,23,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+470,17823,170,23,12,\N,R,16,0,31,\N,\N,\N,\N,\N,\N,80,mayer,\N,\N,Timmy,Mayer,1938-02-22,American,http://en.wikipedia.org/wiki/Timmy_Mayer
+341,17824,26,18,20,\N,R,17,0,19,\N,\N,\N,\N,\N,\N,5,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+430,17825,95,12,14,\N,R,18,0,9,\N,\N,\N,\N,\N,\N,3,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+456,17826,26,19,0,\N,W,19,0,0,\N,\N,\N,\N,\N,\N,54,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+440,17827,172,25,0,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,54,hall,\N,\N,Jim,Hall,1935-07-23,American,http://en.wikipedia.org/wiki/Jim_Hall_(race_car_driver)

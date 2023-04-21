@@ -1,0 +1,22 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+475,18444,170,14,1,1,1,1,8,72,2:04:05.4,7445400,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+403,18445,6,32,5,2,2,2,7,72,+46.7,7492100,\N,\N,\N,\N,1,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+356,18446,170,12,3,3,3,3,4,72,+1:12.5,7517900,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+364,18447,6,36,4,4,4,4,3,72,+1:19.6,7525000,\N,\N,\N,\N,1,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+477,18448,6,34,8,5,5,5,2,71,\N,\N,\N,\N,\N,\N,11,allison,\N,\N,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
+482,18449,6,38,6,6,6,6,0,71,\N,\N,\N,\N,\N,\N,11,gendebien,\N,\N,Olivier,Gendebien,1924-01-12,Belgian,http://en.wikipedia.org/wiki/Olivier_Gendebien
+501,18450,66,2,7,7,7,7,0,70,\N,\N,\N,\N,\N,\N,12,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+347,18451,66,6,11,8,8,8,0,70,\N,\N,\N,\N,\N,\N,12,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+427,18452,170,16,13,9,9,9,0,70,\N,\N,\N,\N,\N,\N,12,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+566,18453,117,26,19,10,10,10,0,70,\N,\N,\N,\N,\N,\N,12,shelby,\N,\N,Carroll,Shelby,1923-01-11,American,http://en.wikipedia.org/wiki/Carroll_Shelby
+462,18454,167,40,18,11,11,11,0,68,\N,\N,\N,\N,\N,\N,14,davis,\N,\N,Colin,Davis,1933-07-29,British,http://en.wikipedia.org/wiki/Colin_Davis_(driver)
+483,18455,170,10,12,12,12,12,0,68,\N,\N,\N,\N,\N,\N,14,scarlatti,\N,\N,Giorgio,Scarlatti,1921-10-02,Italian,http://en.wikipedia.org/wiki/Giorgio_Scarlatti
+541,18456,66,4,15,13,13,13,0,67,\N,\N,\N,\N,\N,\N,15,flockhart,\N,\N,Ron,Flockhart,1923-06-16,British,http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing)
+437,18457,167,42,16,14,14,14,0,67,\N,\N,\N,\N,\N,\N,15,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess
+543,18458,105,28,21,15,15,15,0,64,\N,\N,\N,\N,\N,\N,18,cabianca,\N,\N,Giulio,Cabianca,1923-02-19,Italian,http://en.wikipedia.org/wiki/Giulio_Cabianca
+456,18459,117,24,17,\N,R,16,0,44,\N,\N,\N,\N,\N,\N,5,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+360,18460,170,8,9,\N,R,17,0,22,\N,\N,\N,\N,\N,\N,5,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+486,18461,167,22,12,\N,R,18,0,18,\N,\N,\N,\N,\N,\N,5,fairman,\N,\N,Jack,Fairman,1913-03-15,British,http://en.wikipedia.org/wiki/Jack_Fairman
+404,18462,32,20,14,\N,R,19,0,14,\N,\N,\N,\N,\N,\N,23,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+289,18463,32,18,10,\N,R,20,0,1,\N,\N,\N,\N,\N,\N,8,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+479,18464,6,30,2,\N,R,21,0,0,\N,\N,\N,\N,\N,\N,8,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks

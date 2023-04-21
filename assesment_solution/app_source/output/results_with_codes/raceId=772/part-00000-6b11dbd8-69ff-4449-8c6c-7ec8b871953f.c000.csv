@@ -1,0 +1,27 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+479,18636,118,8,2,1,1,1,8,15,2:21:15.0,8475000,\N,\N,\N,\N,1,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+456,18637,87,10,6,2,2,2,6,15,+3:29.7,8684700,\N,\N,\N,\N,1,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+427,18638,87,11,7,3,3,3,4,15,+5:11.2,8786200,\N,\N,\N,\N,1,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+476,18639,6,4,5,4,4,4,3,15,+6:16.3,8851300,\N,\N,\N,\N,1,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+360,18640,87,20,12,5,5,5,0,15,+6:26.3,8861300,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+431,18641,95,21,13,6,6,6,0,15,+6:32.4,8867400,\N,\N,\N,\N,1,barth,\N,\N,Edgar,Barth,1917-01-26,German,http://en.wikipedia.org/wiki/Edgar_Barth
+437,18642,87,26,11,7,7,7,0,15,+6:59.3,8894300,\N,\N,\N,\N,1,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess
+459,18643,87,30,14,8,8,8,0,15,+7:09.9,8904900,\N,\N,\N,\N,1,marsh,\N,\N,Tony,Marsh,1931-07-20,British,http://en.wikipedia.org/wiki/Tony_Marsh_(racing_driver)
+403,18644,6,23,10,9,9,9,0,15,+7:45.5,8940500,\N,\N,\N,\N,1,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+477,18645,32,12,24,10,10,10,0,13,\N,\N,\N,\N,\N,\N,12,allison,\N,\N,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
+549,18646,32,28,16,11,11,11,0,13,\N,\N,\N,\N,\N,\N,12,bueb,\N,\N,Ivor,Bueb,1923-06-06,British,http://en.wikipedia.org/wiki/Ivor_Bueb
+578,18647,6,3,1,\N,R,12,0,11,\N,\N,\N,\N,\N,\N,8,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+581,18648,6,2,4,\N,R,13,0,10,\N,\N,\N,\N,\N,\N,3,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+455,18649,87,22,17,\N,R,14,0,9,\N,\N,\N,\N,\N,\N,22,seidel,\N,\N,Wolfgang,Seidel,1926-07-04,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel
+501,18650,66,6,8,\N,R,15,0,9,\N,\N,\N,\N,\N,\N,23,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+600,18651,87,27,23,\N,R,16,0,4,\N,\N,\N,\N,\N,\N,48,goethals,\N,\N,Christian,Goethals,1928-08-04,Belgian,http://en.wikipedia.org/wiki/Christian_Goethals
+289,18652,32,25,22,\N,R,17,0,4,\N,\N,\N,\N,\N,\N,108,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+554,18653,66,5,9,\N,R,18,0,4,\N,\N,\N,\N,\N,\N,22,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+430,18654,95,18,15,\N,R,19,0,3,\N,\N,\N,\N,\N,\N,5,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+478,18655,105,17,20,\N,R,20,0,3,\N,\N,\N,\N,\N,\N,5,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+475,18656,118,7,3,\N,R,21,1,3,\N,\N,\N,\N,\N,\N,121,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+601,18657,87,19,18,\N,R,22,0,2,\N,\N,\N,\N,\N,\N,5,gibson,\N,\N,Dick,Gibson,1918-04-16,British,http://en.wikipedia.org/wiki/Dick_Gibson
+484,18658,87,29,25,\N,R,23,0,1,\N,\N,\N,\N,\N,\N,48,naylor,\N,\N,Brian,Naylor,1923-03-24,British,http://en.wikipedia.org/wiki/Brian_Naylor
+356,18659,87,24,19,\N,R,24,0,1,\N,\N,\N,\N,\N,\N,4,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+347,18660,105,16,21,\N,R,25,0,1,\N,\N,\N,\N,\N,\N,3,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+526,18661,105,14,0,\N,W,26,0,0,\N,\N,\N,\N,\N,\N,5,ruttman,\N,\N,Troy,Ruttman,1930-03-11,American,http://en.wikipedia.org/wiki/Troy_Ruttman

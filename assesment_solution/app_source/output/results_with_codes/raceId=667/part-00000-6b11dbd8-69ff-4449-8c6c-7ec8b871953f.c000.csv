@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,16380,180,4,1,1,1,1,9,80,1:53:56.6,6836600,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+289,16381,180,5,2,2,2,2,6,80,+25.3,6861900,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+358,16382,191,3,4,3,3,3,4,80,+30.4,6867000,\N,\N,\N,\N,1,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+278,16383,6,8,8,4,4,4,3,78,\N,\N,\N,\N,\N,\N,12,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+304,16384,194,1,9,5,5,5,2,78,\N,\N,\N,\N,\N,\N,12,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+306,16385,196,21,18,6,6,6,1,77,\N,\N,\N,\N,\N,\N,13,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+346,16386,167,19,16,7,7,7,0,77,\N,\N,\N,\N,\N,\N,13,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+341,16387,11,7,6,8,8,8,0,75,\N,\N,\N,\N,\N,\N,15,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+340,16388,191,17,17,9,9,9,0,75,\N,\N,\N,\N,\N,\N,15,love,\N,\N,John,Love,1924-12-07,Rhodesian,http://en.wikipedia.org/wiki/John_Love_(racing_driver)
+334,16389,183,23,23,\N,N,10,0,71,\N,\N,\N,\N,\N,\N,62,pretorius,\N,\N,Jackie,Pretorius,1934-11-22,South African,http://en.wikipedia.org/wiki/Jackie_Pretorius
+364,16390,190,6,12,\N,R,11,0,58,\N,\N,\N,\N,\N,\N,44,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+235,16391,6,9,11,\N,R,12,0,51,\N,\N,\N,\N,\N,\N,44,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+347,16392,167,20,19,\N,R,13,0,46,\N,\N,\N,\N,\N,\N,25,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+328,16393,196,16,3,\N,R,14,0,43,\N,\N,\N,\N,\N,\N,5,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+368,16394,89,18,22,\N,R,15,0,35,\N,\N,\N,\N,\N,\N,25,tingle,\N,\N,Sam,Tingle,1921-08-24,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle
+369,16395,170,25,20,\N,R,16,0,22,\N,\N,\N,\N,\N,\N,5,rooyen,\N,\N,Basil,van Rooyen,1939-04-19,South African,http://en.wikipedia.org/wiki/Basil_van_Rooyen
+345,16396,66,11,10,\N,R,17,0,20,\N,\N,\N,\N,\N,\N,69,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+356,16397,191,2,5,\N,R,18,0,16,\N,\N,\N,\N,\N,\N,5,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+333,16398,6,10,7,\N,R,19,0,13,\N,\N,\N,\N,\N,\N,3,adamich,\N,\N,Andrea,de Adamich,1941-10-03,Italian,http://en.wikipedia.org/wiki/Andrea_de_Adamich
+374,16399,66,12,14,\N,R,20,0,7,\N,\N,\N,\N,\N,\N,69,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+312,16400,167,14,21,\N,R,21,0,4,\N,\N,\N,\N,\N,\N,44,redman,\N,\N,Brian,Redman,1937-03-09,British,http://en.wikipedia.org/wiki/Brian_Redman
+293,16401,191,22,14,\N,R,22,0,3,\N,\N,\N,\N,\N,\N,24,charlton,\N,\N,Dave,Charlton,1936-10-27,South African,http://en.wikipedia.org/wiki/Dave_Charlton
+375,16402,195,15,15,\N,R,23,0,2,\N,\N,\N,\N,\N,\N,110,scarfiotti,\N,\N,Ludovico,Scarfiotti,1933-10-18,Italian,http://en.wikipedia.org/wiki/Ludovico_Scarfiotti

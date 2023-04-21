@@ -1,0 +1,20 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,16947,176,1,2,1,1,1,9,108,2:09:40.11,7780110,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+358,16948,167,8,9,2,2,2,6,107,\N,\N,\N,\N,\N,\N,60,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+341,16949,167,7,4,3,3,3,4,107,\N,\N,\N,\N,\N,\N,11,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+346,16950,167,19,13,4,4,4,3,105,\N,\N,\N,\N,\N,\N,13,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+360,16951,187,17,11,5,5,5,2,105,\N,\N,\N,\N,\N,\N,13,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+397,16952,172,2,19,6,6,6,1,101,\N,\N,\N,\N,\N,\N,17,arundell,\N,\N,Peter,Arundell,1933-11-08,British,http://en.wikipedia.org/wiki/Peter_Arundell
+404,16953,66,10,17,\N,R,7,0,96,\N,\N,\N,\N,\N,\N,91,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+386,16954,11,12,8,\N,N,8,0,81,\N,\N,\N,\N,\N,\N,62,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+374,16955,176,18,12,\N,R,9,0,74,\N,\N,\N,\N,\N,\N,80,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+405,16956,11,14,18,\N,R,10,0,58,\N,\N,\N,\N,\N,\N,5,bucknum,\N,\N,Ronnie,Bucknum,1936-04-05,American,http://en.wikipedia.org/wiki/Ronnie_Bucknum
+347,16957,167,22,15,\N,N,11,0,57,\N,\N,\N,\N,\N,\N,62,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+356,16958,191,5,1,\N,R,12,0,55,\N,\N,\N,\N,\N,\N,5,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+328,16959,66,4,6,\N,R,13,0,53,\N,\N,\N,\N,\N,\N,5,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+289,16960,66,3,5,\N,R,14,0,52,\N,\N,\N,\N,\N,\N,24,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+385,16961,6,9,3,\N,R,15,0,34,\N,\N,\N,\N,\N,\N,5,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+304,16962,191,6,7,\N,R,16,0,18,\N,\N,\N,\N,\N,\N,5,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+345,16963,176,11,10,\N,R,17,0,13,\N,\N,\N,\N,\N,\N,31,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+364,16964,190,15,14,\N,R,18,0,13,\N,\N,\N,\N,\N,\N,8,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+396,16965,189,16,16,\N,D,19,0,5,\N,\N,\N,\N,\N,\N,2,bondurant,\N,\N,Bob,Bondurant,1933-04-27,American,http://en.wikipedia.org/wiki/Bob_Bondurant

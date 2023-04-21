@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+581,18962,6,14,3,1,1,1,8,61,2:34:23.4,9263400,\N,\N,\N,\N,1,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+608,18963,6,12,2,2,2,2,6,61,+0.3,9263700,\N,\N,\N,\N,1,castellotti,\N,\N,Eugenio,Castellotti,1930-10-10,Italian,http://en.wikipedia.org/wiki/Eugenio_Castellotti
+554,18964,105,4,7,3,3,3,4,61,+1:29.9,9353300,\N,\N,\N,\N,1,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+579,18965,6,10,1,4,4,4,4,61,+1:35.1,9358500,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+607,18966,105,6,13,5,5,5,1,59,\N,\N,\N,\N,\N,\N,12,perdisa,\N,\N,Cesare,Perdisa,1932-10-21,Italian,http://en.wikipedia.org/wiki/Cesare_Perdisa
+627,18967,105,36,12,6,6,6,0,58,\N,\N,\N,\N,\N,\N,13,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+580,18968,105,40,17,7,7,7,0,57,\N,\N,\N,\N,\N,\N,14,godia,\N,\N,Paco,Godia,1921-03-21,Spanish,http://en.wikipedia.org/wiki/Paco_Godia
+624,18969,128,32,14,8,8,8,0,57,\N,\N,\N,\N,\N,\N,14,ramos,\N,\N,Hernando,da Silva Ramos,1925-12-07,Brazilian,http://en.wikipedia.org/wiki/Hernando_da_Silva_Ramos
+626,18970,128,30,15,9,9,9,0,56,\N,\N,\N,\N,\N,\N,15,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+578,18971,118,24,6,10,10,10,0,56,\N,\N,\N,\N,\N,\N,15,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+429,18972,128,34,19,11,11,11,0,55,\N,\N,\N,\N,\N,\N,16,andre_pilette,\N,\N,André,Pilette,1918-10-06,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette
+609,18973,105,42,20,\N,R,12,0,41,\N,\N,\N,\N,\N,\N,5,simon,\N,\N,André,Simon,1920-01-05,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Simon_(racing_driver)
+624,18974,105,8,16,\N,R,13,0,40,\N,\N,\N,\N,\N,\N,5,ramos,\N,\N,Hernando,da Silva Ramos,1925-12-07,Brazilian,http://en.wikipedia.org/wiki/Hernando_da_Silva_Ramos
+482,18975,6,44,11,\N,R,14,0,38,\N,\N,\N,\N,\N,\N,8,gendebien,\N,\N,Olivier,Gendebien,1924-01-12,Belgian,http://en.wikipedia.org/wiki/Olivier_Gendebien
+633,18976,105,38,10,\N,R,15,0,23,\N,\N,\N,\N,\N,\N,23,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+606,18977,6,16,9,\N,R,16,0,20,\N,\N,\N,\N,\N,\N,6,portago,\N,\N,Alfonso,de Portago,1928-10-11,Spanish,http://en.wikipedia.org/wiki/Alfonso_de_Portago
+427,18978,130,28,18,\N,R,17,0,18,\N,\N,\N,\N,\N,\N,37,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+475,18979,105,2,8,\N,R,18,0,12,\N,\N,\N,\N,\N,\N,6,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+501,18980,118,22,4,\N,R,19,0,5,\N,\N,\N,\N,\N,\N,5,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+635,18981,118,26,5,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,3,chapman,\N,\N,Colin,Chapman,1928-05-19,British,http://en.wikipedia.org/wiki/Colin_Chapman
+475,20275,105,6,13,5,5,5,1,59,\N,\N,\N,\N,\N,\N,12,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+501,20276,118,24,6,10,10,10,0,56,\N,\N,\N,\N,\N,\N,15,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell

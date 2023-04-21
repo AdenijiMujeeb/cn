@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+364,17698,95,30,6,1,1,1,9,54,2:07:05.5,7625500,\N,\N,\N,\N,1,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+408,17699,170,24,11,2,2,2,6,53,\N,\N,\N,\N,\N,\N,11,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+386,17700,66,10,10,3,3,3,4,52,\N,\N,\N,\N,\N,\N,12,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+360,17701,170,22,3,4,4,4,3,51,\N,\N,\N,\N,\N,\N,13,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+341,17702,26,18,5,5,5,5,2,51,\N,\N,\N,\N,\N,\N,13,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+430,17703,95,38,17,6,6,6,1,51,\N,\N,\N,\N,\N,\N,13,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+427,17704,172,28,13,7,7,7,0,50,\N,\N,\N,\N,\N,\N,14,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+401,17705,172,14,12,8,8,8,0,48,\N,\N,\N,\N,\N,\N,16,trevor_taylor,\N,\N,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
+289,17706,66,8,2,9,9,9,0,44,\N,\N,\N,\N,\N,\N,88,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+347,17707,95,32,9,\N,R,10,0,43,\N,\N,\N,\N,\N,\N,69,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+373,17708,172,12,1,\N,R,11,0,34,\N,\N,\N,\N,\N,\N,22,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+453,17709,87,42,16,\N,R,12,0,28,\N,\N,\N,\N,\N,\N,3,lewis,\N,\N,Jackie,Lewis,1936-11-01,British,http://en.wikipedia.org/wiki/Jackie_Lewis
+456,17710,26,20,14,\N,R,13,0,21,\N,\N,\N,\N,\N,\N,51,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+418,17711,176,34,7,\N,R,14,0,15,\N,\N,\N,\N,\N,\N,25,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+356,17712,172,26,4,\N,R,15,0,11,\N,\N,\N,\N,\N,\N,22,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+346,17713,176,40,15,\N,R,16,0,6,\N,\N,\N,\N,\N,\N,8,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+404,17714,172,36,8,\N,R,17,0,1,\N,\N,\N,\N,\N,\N,29,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+397,17715,32,16,0,\N,W,18,0,0,\N,\N,\N,\N,\N,\N,54,arundell,\N,\N,Peter,Arundell,1933-11-08,British,http://en.wikipedia.org/wiki/Peter_Arundell
+459,17716,66,\N,0,\N,W,19,0,0,\N,\N,\N,\N,\N,\N,54,marsh,\N,\N,Tony,Marsh,1931-07-20,British,http://en.wikipedia.org/wiki/Tony_Marsh_(racing_driver)
+462,17717,95,\N,0,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,54,davis,\N,\N,Colin,Davis,1933-07-29,British,http://en.wikipedia.org/wiki/Colin_Davis_(driver)
+446,17718,172,\N,0,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,54,abate,\N,\N,Carlo,Abate,1932-07-10,Italian,http://en.wikipedia.org/wiki/Carlo_Mario_Abate
+437,17719,170,\N,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess

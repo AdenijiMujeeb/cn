@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+4,20635,6,8,1,1,1,1,25,53,1:16:24.572,4584572,52,1,1:24.139,247.861,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+18,20636,1,1,2,2,2,2,18,53,+2.938,4587510,46,8,1:24.598,246.516,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+13,20637,6,7,3,3,3,3,15,53,+4.223,4588795,51,6,1:24.575,246.583,1,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+20,20638,9,5,6,4,4,4,12,53,+28.196,4612768,50,4,1:24.493,246.822,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+3,20639,131,4,7,5,5,5,10,53,+29.942,4614514,52,3,1:24.491,246.828,1,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+17,20640,9,6,4,6,6,6,8,53,+31.276,4615848,52,2,1:24.278,247.452,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+807,20641,3,10,8,7,7,7,6,53,+32.812,4617384,52,7,1:24.576,246.580,1,hulkenberg,27,HUL,Nico,Hülkenberg,1987-08-19,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+9,20642,4,11,9,8,8,8,4,53,+34.028,4618600,48,5,1:24.560,246.627,1,kubica,88,KUB,Robert,Kubica,1984-12-07,Polish,http://en.wikipedia.org/wiki/Robert_Kubica
+30,20643,131,3,12,9,9,9,2,53,+44.948,4629520,49,11,1:24.947,245.503,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+22,20644,3,9,10,10,10,10,1,53,+1:04.213,4648785,48,14,1:25.239,244.662,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+67,20645,5,16,14,11,11,11,0,53,+1:05.056,4649628,51,13,1:25.224,244.705,1,buemi,\N,BUE,Sébastien,Buemi,1988-10-31,Swiss,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi
+24,20646,10,15,19,12,12,12,0,53,+1:06.106,4650678,51,12,1:25.102,245.056,1,liuzzi,\N,LIU,Vitantonio,Liuzzi,1980-08-06,Italian,http://en.wikipedia.org/wiki/Vitantonio_Liuzzi
+808,20647,4,12,20,13,13,13,0,53,+1:18.919,4663491,53,9,1:24.644,246.382,1,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
+37,20648,15,22,16,14,14,14,0,52,\N,\N,47,16,1:26.325,241.584,11,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+153,20649,5,17,15,15,15,15,0,52,\N,\N,51,15,1:25.472,243.995,11,alguersuari,\N,ALG,Jaime,Alguersuari,1990-03-23,Spanish,http://en.wikipedia.org/wiki/Jaime_Alguersuari
+16,20650,10,14,11,16,16,16,0,52,\N,\N,51,10,1:24.937,245.532,11,sutil,99,SUT,Adrian,Sutil,1983-01-11,German,http://en.wikipedia.org/wiki/Adrian_Sutil
+10,20651,166,24,24,17,17,17,0,51,\N,\N,50,17,1:27.765,237.620,12,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+5,20652,205,19,18,18,18,18,0,51,\N,\N,50,18,1:27.822,237.466,12,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen
+29,20653,164,20,23,19,19,19,0,51,\N,\N,45,20,1:28.875,234.653,12,yamamoto,\N,YAM,Sakon,Yamamoto,1982-07-09,Japanese,http://en.wikipedia.org/wiki/Sakon_Yamamoto
+810,20654,166,25,21,20,20,20,0,50,\N,\N,46,19,1:28.171,236.526,13,grassi,\N,DIG,Lucas,di Grassi,1984-08-11,Brazilian,http://en.wikipedia.org/wiki/Lucas_di_Grassi
+15,20655,205,18,17,\N,R,21,0,46,\N,\N,30,21,1:29.017,234.278,5,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+811,20656,164,21,22,\N,R,22,0,11,\N,\N,10,22,1:30.880,229.476,31,bruno_senna,\N,SEN,Bruno,Senna,1983-10-15,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna
+1,20657,1,2,5,\N,R,23,0,0,\N,\N,\N,\N,\N,\N,4,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+155,20658,15,23,13,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,6,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi

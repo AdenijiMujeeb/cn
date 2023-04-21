@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+117,8989,1,1,5,1,1,1,9,61,1:39:45.141,5985141,\N,\N,\N,\N,1,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+137,8990,3,6,2,2,2,2,6,61,+40.547,6025688,\N,\N,\N,\N,1,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+140,8991,1,2,10,3,3,3,4,61,+56.758,6041899,\N,\N,\N,\N,1,johansson,\N,\N,Stefan,Johansson,1956-09-08,Swedish,http://en.wikipedia.org/wiki/Stefan_Johansson
+77,8992,6,28,7,4,4,4,3,61,+1:39.235,6084376,\N,\N,\N,\N,1,berger,\N,\N,Gerhard,Berger,1959-08-27,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger
+123,8993,22,20,6,5,5,5,2,60,\N,\N,\N,\N,\N,\N,11,boutsen,\N,\N,Thierry,Boutsen,1957-07-13,Belgian,http://en.wikipedia.org/wiki/Thierry_Boutsen
+95,8994,3,5,1,6,6,6,1,60,\N,\N,\N,\N,\N,\N,11,mansell,\N,\N,Nigel,Mansell,1953-08-08,British,http://en.wikipedia.org/wiki/Nigel_Mansell
+138,8995,32,11,12,7,7,7,0,59,\N,\N,\N,\N,\N,\N,12,satoru_nakajima,\N,\N,Satoru,Nakajima,1953-02-23,Japanese,http://en.wikipedia.org/wiki/Satoru_Nakajima
+105,8996,6,27,9,8,8,8,0,58,\N,\N,\N,\N,\N,\N,20,alboreto,\N,\N,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
+157,8997,49,10,17,9,9,9,0,58,\N,\N,\N,\N,\N,\N,13,danner,\N,\N,Christian,Danner,1958-04-04,German,http://en.wikipedia.org/wiki/Christian_Danner
+156,8998,25,3,18,10,10,10,0,58,\N,\N,\N,\N,\N,\N,13,palmer,\N,\N,Jonathan,Palmer,1956-11-07,British,http://en.wikipedia.org/wiki/Jonathan_Palmer
+166,8999,25,4,20,11,11,11,0,57,\N,\N,\N,\N,\N,\N,14,streiff,\N,\N,Philippe,Streiff,1955-06-26,French,http://en.wikipedia.org/wiki/Philippe_Streiff
+169,9000,39,14,22,12,12,12,0,55,\N,\N,\N,\N,\N,\N,16,fabre,\N,\N,Pascal,Fabre,1960-01-09,French,http://en.wikipedia.org/wiki/Pascal_Fabre
+158,9001,21,18,14,\N,R,13,0,52,\N,\N,\N,\N,\N,\N,25,cheever,\N,\N,Eddie,Cheever,1958-01-10,American,http://en.wikipedia.org/wiki/Eddie_Cheever
+102,9002,32,12,3,\N,R,14,0,50,\N,\N,\N,\N,\N,\N,5,senna,\N,\N,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
+119,9003,34,7,11,\N,R,15,0,48,\N,\N,\N,\N,\N,\N,10,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+110,9004,34,8,13,\N,R,16,0,21,\N,\N,\N,\N,\N,\N,24,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
+118,9005,21,17,8,\N,R,17,0,20,\N,\N,\N,\N,\N,\N,5,warwick,\N,\N,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
+133,9006,45,21,21,\N,R,18,0,20,\N,\N,\N,\N,\N,\N,54,caffi,\N,\N,Alex,Caffi,1964-03-18,Italian,http://en.wikipedia.org/wiki/Alex_Caffi
+145,9007,18,24,15,\N,R,19,0,17,\N,\N,\N,\N,\N,\N,22,nannini,\N,\N,Alessandro,Nannini,1959-07-07,Italian,http://en.wikipedia.org/wiki/Alessandro_Nannini
+84,9008,49,9,19,\N,R,20,0,15,\N,\N,\N,\N,\N,\N,101,brundle,\N,\N,Martin,Brundle,1959-06-01,British,http://en.wikipedia.org/wiki/Martin_Brundle
+170,9009,22,19,4,\N,R,21,0,9,\N,\N,\N,\N,\N,\N,101,fabi,\N,\N,Teo,Fabi,1955-03-09,Italian,http://en.wikipedia.org/wiki/Teo_Fabi
+167,9010,18,23,16,\N,D,22,0,3,\N,\N,\N,\N,\N,\N,2,campos,\N,\N,Adrián,Campos,1960-06-17,Spanish,http://en.wikipedia.org/wiki/Adri%C3%A1n_Campos
+122,9011,37,16,23,\N,W,23,0,0,\N,\N,\N,\N,\N,\N,54,capelli,\N,\N,Ivan,Capelli,1963-05-24,Italian,http://en.wikipedia.org/wiki/Ivan_Capelli

@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+224,14980,32,1,2,1,1,1,9,40,1:43:55.6,6235600,\N,\N,\N,\N,1,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+328,14981,25,3,8,2,2,2,6,40,+13.5,6249100,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+304,14982,1,7,5,3,3,3,4,40,+1:46.4,6342000,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+232,14983,6,10,17,4,4,4,3,39,\N,\N,\N,\N,\N,\N,11,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+235,14984,6,9,3,5,5,5,2,39,\N,\N,\N,\N,\N,\N,11,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+223,14985,66,14,4,6,6,6,1,39,\N,\N,\N,\N,\N,\N,11,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+307,14986,80,19,14,7,7,7,0,39,\N,\N,\N,\N,\N,\N,11,ganley,\N,\N,Howden,Ganley,1941-12-24,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley
+182,14987,66,16,13,8,8,8,0,38,\N,\N,\N,\N,\N,\N,12,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+330,14988,80,20,18,9,9,9,0,38,\N,\N,\N,\N,\N,\N,12,galli,\N,\N,Nanni,Galli,1940-10-02,Italian,http://en.wikipedia.org/wiki/Nanni_Galli
+327,14989,25,4,9,10,10,10,0,38,\N,\N,\N,\N,\N,\N,12,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+199,14990,34,17,7,11,11,11,0,38,\N,\N,\N,\N,\N,\N,12,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+331,14991,63,23,20,12,12,12,0,36,\N,\N,\N,\N,\N,\N,14,bueno,\N,\N,Luiz,Bueno,1937-01-16,Brazilian,http://en.wikipedia.org/wiki/Luiz_Bueno
+306,14992,66,15,10,\N,R,13,0,23,\N,\N,\N,\N,\N,\N,10,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+329,14993,37,12,19,\N,R,14,0,18,\N,\N,\N,\N,\N,\N,25,beuttler,\N,\N,Mike,Beuttler,1940-04-13,British,http://en.wikipedia.org/wiki/Mike_Beuttler
+250,14994,63,6,6,\N,R,15,0,9,\N,\N,\N,\N,\N,\N,22,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+305,14995,63,5,14,\N,R,16,0,6,\N,\N,\N,\N,\N,\N,6,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+197,14996,37,11,15,\N,R,17,0,6,\N,\N,\N,\N,\N,\N,6,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+238,14997,32,2,1,\N,R,18,0,5,\N,\N,\N,\N,\N,\N,36,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+290,14998,34,18,11,\N,R,19,0,5,\N,\N,\N,\N,\N,\N,25,wilson_fittipaldi,\N,\N,Wilson,Fittipaldi,1943-12-25,Brazilian,http://en.wikipedia.org/wiki/Wilson_Fittipaldi
+309,14999,1,8,12,\N,R,20,0,3,\N,\N,\N,\N,\N,\N,6,revson,\N,\N,Peter,Revson,1939-02-27,American,http://en.wikipedia.org/wiki/Peter_Revson

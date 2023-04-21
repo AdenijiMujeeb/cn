@@ -1,0 +1,22 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,17444,172,6,1,1,1,1,9,80,2:08:13.7,7693700,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+364,17445,34,18,14,2,2,2,6,79,\N,\N,\N,\N,\N,\N,11,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+341,17446,6,2,5,3,3,3,4,79,\N,\N,\N,\N,\N,\N,11,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+404,17447,94,30,7,4,4,4,3,79,\N,\N,\N,\N,\N,\N,11,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+386,17448,66,14,6,5,5,5,2,79,\N,\N,\N,\N,\N,\N,11,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+375,17449,6,4,11,6,6,6,1,78,\N,\N,\N,\N,\N,\N,12,scarfiotti,\N,\N,Ludovico,Scarfiotti,1933-10-18,Italian,http://en.wikipedia.org/wiki/Ludovico_Scarfiotti
+346,17450,176,36,17,7,7,7,0,77,\N,\N,\N,\N,\N,\N,13,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+440,17451,176,42,18,8,8,8,0,77,\N,\N,\N,\N,\N,\N,13,hall,\N,\N,Jim,Hall,1935-07-23,American,http://en.wikipedia.org/wiki/Jim_Hall_(race_car_driver)
+430,17452,95,32,19,9,9,9,0,75,\N,\N,\N,\N,\N,\N,15,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+401,17453,172,8,10,10,10,10,0,66,\N,\N,\N,\N,\N,\N,111,trevor_taylor,\N,\N,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
+347,17454,170,28,8,11,11,11,0,56,\N,\N,\N,\N,\N,\N,117,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+289,17455,66,12,2,\N,R,12,0,69,\N,\N,\N,\N,\N,\N,25,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+356,17456,34,16,4,\N,R,13,0,68,\N,\N,\N,\N,\N,\N,3,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+278,17457,26,10,12,\N,R,14,0,29,\N,\N,\N,\N,\N,\N,103,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+394,17458,54,26,15,\N,R,15,0,17,\N,\N,\N,\N,\N,\N,80,baghetti,\N,\N,Giancarlo,Baghetti,1934-12-25,Italian,http://en.wikipedia.org/wiki/Giancarlo_Baghetti
+403,17459,54,24,13,\N,R,16,0,15,\N,\N,\N,\N,\N,\N,22,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+408,17460,170,22,9,\N,R,17,0,14,\N,\N,\N,\N,\N,\N,25,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+360,17461,170,20,3,\N,R,18,0,7,\N,\N,\N,\N,\N,\N,6,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+423,17462,95,34,16,\N,R,19,0,2,\N,\N,\N,\N,\N,\N,8,mitter,\N,\N,Gerhard,Mitter,1935-08-30,German,http://en.wikipedia.org/wiki/Gerhard_Mitter
+438,17463,92,38,0,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,54,settember,\N,\N,Tony,Settember,1926-07-10,American,http://en.wikipedia.org/wiki/Tony_Settember
+437,17464,92,40,0,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,54,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess

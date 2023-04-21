@@ -1,0 +1,28 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+182,14716,6,12,1,1,1,1,9,75,1:43:00.35,6180350,\N,\N,\N,\N,1,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+223,14717,6,11,2,2,2,2,6,75,+8.25,6188600,\N,\N,\N,\N,1,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+224,14718,1,5,3,3,3,3,4,75,+30.27,6210620,\N,\N,\N,\N,1,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+305,14719,1,33,4,4,4,4,3,75,+31.29,6211640,\N,\N,\N,\N,1,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+222,14720,25,3,5,5,5,5,2,75,+34.28,6214630,\N,\N,\N,\N,1,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+221,14721,25,4,8,6,6,6,1,75,+51.52,6231870,\N,\N,\N,\N,1,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+187,14722,34,28,13,7,7,7,0,75,+1:13.95,6254300,\N,\N,\N,\N,1,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+238,14723,32,1,10,8,8,8,0,73,\N,\N,\N,\N,\N,\N,12,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+313,14724,34,8,23,9,9,9,0,73,\N,\N,\N,\N,\N,\N,12,opel,\N,\N,Rikky,von Opel,1947-10-14,Liechtensteiner,http://en.wikipedia.org/wiki/Rikky_von_Opel
+230,14725,37,10,15,10,10,10,0,72,\N,\N,\N,\N,\N,\N,13,brambilla,\N,\N,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
+235,14726,32,2,18,11,11,11,0,71,\N,\N,\N,\N,\N,\N,14,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+199,14727,34,7,12,12,12,12,0,71,\N,\N,\N,\N,\N,\N,14,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+267,14728,57,22,17,\N,D,13,0,69,\N,\N,\N,\N,\N,\N,2,schuppan,\N,\N,Vern,Schuppan,1943-03-19,Australian,http://en.wikipedia.org/wiki/Vern_Schuppan
+304,14729,1,6,9,\N,R,14,0,65,\N,\N,\N,\N,\N,\N,80,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+296,14730,66,37,25,\N,R,15,0,60,\N,\N,\N,\N,\N,\N,6,migault,\N,\N,François,Migault,1944-12-04,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Migault
+232,14731,80,20,21,\N,R,16,0,54,\N,\N,\N,\N,\N,\N,6,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+265,14732,26,27,14,\N,R,17,0,36,\N,\N,\N,\N,\N,\N,69,edwards,\N,\N,Guy,Edwards,1942-12-30,British,http://en.wikipedia.org/wiki/Guy_Edwards
+197,14733,58,17,7,\N,R,18,0,28,\N,\N,\N,\N,\N,\N,8,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+306,14734,66,14,16,\N,R,19,0,18,\N,\N,\N,\N,\N,\N,6,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+289,14735,26,26,19,\N,R,20,0,16,\N,\N,\N,\N,\N,\N,6,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+280,14736,66,15,24,\N,R,21,0,15,\N,\N,\N,\N,\N,\N,64,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+200,14737,63,19,20,\N,R,22,0,8,\N,\N,\N,\N,\N,\N,7,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+231,14738,64,24,6,\N,R,23,0,2,\N,\N,\N,\N,\N,\N,4,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+252,14739,58,16,11,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,4,pryce,\N,\N,Tom,Pryce,1949-06-11,British,http://en.wikipedia.org/wiki/Tom_Pryce
+233,14740,37,9,22,\N,R,25,0,0,\N,\N,\N,\N,\N,\N,3,stuck,\N,\N,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
+314,14741,77,23,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,schenken,\N,\N,Tim,Schenken,1943-09-26,Australian,http://en.wikipedia.org/wiki/Tim_Schenken
+298,14742,80,21,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,lennep,\N,\N,Gijs,van Lennep,1942-03-16,Dutch,http://en.wikipedia.org/wiki/Gijs_Van_Lennep

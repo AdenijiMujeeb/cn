@@ -1,0 +1,28 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+647,19529,6,5,1,1,1,1,8.5,90,2:50:00.0,10200000,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+579,19530,105,23,4,2,2,2,6,90,+1:00.0,10260000,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+642,19531,6,6,5,3,3,3,4,88,\N,\N,\N,\N,\N,\N,12,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+498,19532,105,24,2,4,4,4,3.5,88,\N,\N,\N,\N,\N,\N,12,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+578,19533,6,8,3,5,5,5,2,87,\N,\N,\N,\N,\N,\N,13,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+697,19534,105,25,16,6,6,6,0,82,\N,\N,\N,\N,\N,\N,18,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+669,19535,125,10,19,7,7,7,0,82,\N,\N,\N,\N,\N,\N,18,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+663,19536,87,16,11,8,8,8,0,80,\N,\N,\N,\N,\N,\N,88,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+687,19537,87,20,14,9,9,9,0,79,\N,\N,\N,\N,\N,\N,45,whitehead,\N,\N,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
+627,19538,6,9,24,10,10,10,0,78,\N,\N,\N,\N,\N,\N,55,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+706,19539,87,18,15,\N,R,11,0,79,\N,\N,\N,\N,\N,\N,20,jimmy_stewart,\N,\N,Jimmy,Stewart,1931-03-06,British,http://en.wikipedia.org/wiki/Jimmy_Stewart_(racing_driver)
+666,19540,125,14,10,\N,R,12,0,70,\N,\N,\N,\N,\N,\N,86,rolt,\N,\N,Tony,Rolt,1918-10-16,British,http://en.wikipedia.org/wiki/Tony_Rolt
+633,19541,6,7,6,\N,R,13,0,65,\N,\N,\N,\N,\N,\N,109,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+670,19542,105,26,7,\N,R,14,0,65,\N,\N,\N,\N,\N,\N,5,marimon,\N,\N,Onofre,Marimón,1923-12-19,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n
+689,19543,87,19,21,\N,R,15,0,56,\N,\N,\N,\N,\N,\N,25,alan_brown,\N,\N,Alan,Brown,1919-11-20,British,http://en.wikipedia.org/wiki/Alan_Brown_(racing_driver)
+581,19544,133,2,23,\N,R,16,0,56,\N,\N,\N,\N,\N,\N,20,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+486,19545,133,4,27,\N,R,17,0,54,\N,\N,\N,\N,\N,\N,8,fairman,\N,\N,Jack,Fairman,1913-03-15,British,http://en.wikipedia.org/wiki/Jack_Fairman
+456,19546,125,12,28,\N,R,18,0,50,\N,\N,\N,\N,\N,\N,36,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+640,19547,105,31,26,\N,R,19,0,34,\N,\N,\N,\N,\N,\N,8,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+651,19548,133,1,12,\N,R,20,0,31,\N,\N,\N,\N,\N,\N,8,macklin,\N,\N,Lance,Macklin,1919-09-02,British,http://en.wikipedia.org/wiki/Lance_Macklin
+554,19549,128,30,22,\N,R,21,0,30,\N,\N,\N,\N,\N,\N,48,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+707,19550,125,15,20,\N,R,22,0,24,\N,\N,\N,\N,\N,\N,80,ian_stewart,\N,\N,Ian,Stewart,1929-07-15,British,http://en.wikipedia.org/wiki/Ian_Stewart_(racing_driver)
+427,19551,128,29,8,\N,R,23,0,14,\N,\N,\N,\N,\N,\N,109,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+708,19552,133,3,17,\N,R,24,0,14,\N,\N,\N,\N,\N,\N,8,duncan_hamilton,\N,\N,Duncan,Hamilton,1920-04-30,British,http://en.wikipedia.org/wiki/Duncan_Hamilton_(racing_driver)
+501,19553,128,28,9,\N,R,25,0,5,\N,\N,\N,\N,\N,\N,10,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+664,19554,125,11,13,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,31,mcalpine,\N,\N,Kenneth,McAlpine,1920-09-21,British,http://en.wikipedia.org/wiki/Kenneth_McAlpine
+705,19555,87,22,25,\N,R,27,0,0,\N,\N,\N,\N,\N,\N,69,crook,\N,\N,Tony,Crook,1920-02-16,British,http://en.wikipedia.org/wiki/Tony_Crook

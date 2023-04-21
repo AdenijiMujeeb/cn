@@ -1,0 +1,19 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+8,1237,1,9,1,1,1,1,10,78,1:45:15.556,6315556,41,2,1:15.921,158.375,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+2,1238,3,8,6,2,2,2,8,78,+13.877,6329433,15,9,1:17.159,155.834,1,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+17,1239,3,7,3,3,3,3,6,78,+18.484,6334040,77,7,1:16.971,156.214,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+4,1240,4,5,2,4,4,4,5,78,+36.487,6352043,19,3,1:16.600,156.971,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+31,1241,1,10,16,5,5,5,4,78,+36.647,6352203,50,10,1:17.403,155.342,1,montoya,\N,MON,Juan,Pablo Montoya,1975-09-20,Colombian,http://en.wikipedia.org/wiki/Juan_Pablo_Montoya
+23,1242,7,17,18,6,6,6,3,78,+37.117,6352673,11,8,1:17.070,156.014,1,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+30,1243,6,1,8,7,7,7,2,78,+37.223,6352779,40,1,1:15.842,158.540,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+22,1244,6,2,10,8,8,8,1,78,+37.570,6353126,51,6,1:16.916,156.326,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+13,1245,15,12,11,9,9,9,0,77,\N,\N,16,13,1:17.799,154.552,11,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+15,1246,7,16,5,10,10,10,0,77,\N,\N,38,5,1:16.812,156.538,11,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+35,1247,15,11,9,11,11,11,0,77,\N,\N,17,11,1:17.482,155.184,11,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+21,1248,4,6,4,12,12,12,0,77,\N,\N,20,4,1:16.776,156.611,11,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+33,1249,17,18,15,13,13,13,0,75,\N,\N,12,17,1:20.747,148.909,13,monteiro,\N,TMO,Tiago,Monteiro,1976-07-24,Portuguese,http://en.wikipedia.org/wiki/Tiago_Monteiro
+27,1250,18,21,14,14,14,14,0,73,\N,\N,22,16,1:20.237,149.856,15,albers,\N,ALB,Christijan,Albers,1979-04-16,Dutch,http://en.wikipedia.org/wiki/Christijan_Albers
+24,1251,9,15,12,\N,R,15,0,59,\N,\N,43,14,1:18.030,154.094,3,liuzzi,\N,LIU,Vitantonio,Liuzzi,1980-08-06,Italian,http://en.wikipedia.org/wiki/Vitantonio_Liuzzi
+40,1252,18,20,13,\N,R,16,0,29,\N,\N,19,15,1:19.037,152.131,3,friesacher,\N,FRI,Patrick,Friesacher,1980-09-26,Austrian,http://en.wikipedia.org/wiki/Patrick_Friesacher
+14,1253,9,14,7,\N,R,17,0,23,\N,\N,15,12,1:17.693,154.762,3,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+39,1254,17,19,17,\N,R,18,0,18,\N,\N,14,18,1:22.019,146.600,9,karthikeyan,\N,KAR,Narain,Karthikeyan,1977-01-14,Indian,http://en.wikipedia.org/wiki/Narain_Karthikeyan

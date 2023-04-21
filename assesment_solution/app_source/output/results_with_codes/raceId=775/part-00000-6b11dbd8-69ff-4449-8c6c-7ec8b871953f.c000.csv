@@ -1,0 +1,26 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+475,18698,118,8,2,1,1,1,9,53,2:09:15.1,7755100,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+578,18699,6,6,1,2,2,2,6,53,+1:24.7,7839800,\N,\N,\N,\N,1,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+403,18700,6,4,5,3,3,3,4,53,+1:25.5,7840600,\N,\N,\N,\N,1,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+347,18701,66,18,8,4,4,4,3,53,+1:46.7,7861800,\N,\N,\N,\N,1,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+501,18702,66,16,10,5,5,5,2,53,+2:33.7,7908800,\N,\N,\N,\N,1,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+418,18703,105,22,13,6,6,6,0,52,\N,\N,\N,\N,\N,\N,11,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+456,18704,87,28,14,7,7,7,0,51,\N,\N,\N,\N,\N,\N,12,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+486,18705,87,30,11,8,8,8,0,50,\N,\N,\N,\N,\N,\N,13,fairman,\N,\N,Jack,Fairman,1913-03-15,British,http://en.wikipedia.org/wiki/Jack_Fairman
+478,18706,105,38,18,9,9,9,0,50,\N,\N,\N,\N,\N,\N,13,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+477,18707,32,34,16,10,10,10,0,49,\N,\N,\N,\N,\N,\N,14,allison,\N,\N,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
+356,18708,87,50,19,11,11,11,0,49,\N,\N,\N,\N,\N,\N,14,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+583,18709,105,26,17,12,12,12,0,48,\N,\N,\N,\N,\N,\N,15,gerini,\N,\N,Gerino,Gerini,1928-08-10,Italian,http://en.wikipedia.org/wiki/Gerino_Gerini_(racing_driver)
+360,18710,87,52,21,13,13,13,0,48,\N,\N,\N,\N,\N,\N,15,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+602,18711,87,58,23,14,14,14,0,48,\N,\N,\N,\N,\N,\N,15,la_caze,\N,\N,Robert,La Caze,1917-02-26,French,http://en.wikipedia.org/wiki/Robert_La_Caze
+603,18712,87,48,25,15,15,15,0,48,\N,\N,\N,\N,\N,\N,15,guelfi,\N,\N,André,Guelfi,1919-05-06,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Guelfi
+289,18713,32,32,12,16,16,16,0,45,\N,\N,\N,\N,\N,\N,17,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+590,18714,118,12,3,\N,R,17,0,41,\N,\N,\N,\N,\N,\N,3,lewis-evans,\N,\N,Stuart,Lewis-Evans,1930-04-20,British,http://en.wikipedia.org/wiki/Stuart_Lewis-Evans
+604,18715,87,54,24,\N,R,18,0,31,\N,\N,\N,\N,\N,\N,3,picard,\N,\N,François,Picard,1921-04-26,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Picard
+605,18716,87,56,22,\N,R,19,0,30,\N,\N,\N,\N,\N,\N,3,bridger,\N,\N,Tom,Bridger,1934-06-24,British,http://en.wikipedia.org/wiki/Tom_Bridger
+479,18717,118,10,7,\N,R,20,0,29,\N,\N,\N,\N,\N,\N,5,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+482,18718,6,2,6,\N,R,21,0,29,\N,\N,\N,\N,\N,\N,3,gendebien,\N,\N,Olivier,Gendebien,1924-01-12,Belgian,http://en.wikipedia.org/wiki/Olivier_Gendebien
+554,18719,66,14,4,\N,R,22,0,26,\N,\N,\N,\N,\N,\N,5,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+455,18720,87,24,20,\N,R,23,0,15,\N,\N,\N,\N,\N,\N,3,seidel,\N,\N,Wolfgang,Seidel,1926-07-04,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel
+541,18721,66,20,15,\N,R,24,0,15,\N,\N,\N,\N,\N,\N,5,flockhart,\N,\N,Ron,Flockhart,1923-06-16,British,http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing)
+427,18722,87,36,9,\N,R,25,0,9,\N,\N,\N,\N,\N,\N,5,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant

@@ -1,0 +1,18 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+647,19416,6,10,1,1,1,1,9,97,3:01:04.6,10864600,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+633,19417,6,14,3,2,2,2,6,96,\N,\N,\N,\N,\N,\N,11,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+498,19418,105,4,5,3,3,3,4,96,\N,\N,\N,\N,\N,\N,11,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+578,19419,6,16,6,4,4,4,3,96,\N,\N,\N,\N,\N,\N,11,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+695,19420,105,8,9,5,5,5,2,96,\N,\N,\N,\N,\N,\N,11,galvez,\N,\N,Oscar,Gálvez,1913-08-17,Argentine,http://en.wikipedia.org/wiki/%C3%93scar_Alfredo_G%C3%A1lvez
+554,19421,128,30,11,6,6,6,0,94,\N,\N,\N,\N,\N,\N,13,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+427,19422,128,28,7,7,7,7,0,91,\N,\N,\N,\N,\N,\N,16,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+696,19423,87,22,16,8,8,8,0,90,\N,\N,\N,\N,\N,\N,17,john_barber,\N,\N,John,Barber,1929-07-22,British,http://en.wikipedia.org/wiki/John_Barber_(racing_driver)
+689,19424,87,20,12,9,9,9,0,87,\N,\N,\N,\N,\N,\N,88,alan_brown,\N,\N,Alan,Brown,1919-11-20,British,http://en.wikipedia.org/wiki/Alan_Brown_(racing_driver)
+626,19425,128,26,8,\N,R,10,0,67,\N,\N,\N,\N,\N,\N,36,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+579,19426,105,2,2,\N,R,11,0,36,\N,\N,\N,\N,\N,\N,7,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+697,19427,105,6,15,\N,R,12,0,32,\N,\N,\N,\N,\N,\N,7,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+642,19428,6,12,4,\N,R,13,0,31,\N,\N,\N,\N,\N,\N,3,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+496,19429,128,32,10,\N,R,14,0,24,\N,\N,\N,\N,\N,\N,6,menditeguy,\N,\N,Carlos,Menditeguy,1914-08-10,Argentine,http://en.wikipedia.org/wiki/Carlos_Menditeguy
+649,19430,141,34,14,\N,R,15,0,21,\N,\N,\N,\N,\N,\N,24,birger,\N,\N,Pablo,Birger,1924-01-07,Argentine,http://en.wikipedia.org/wiki/Pablo_Birger
+698,19431,87,24,13,\N,R,16,0,20,\N,\N,\N,\N,\N,\N,36,cruz,\N,\N,Adolfo,Cruz,1923-06-28,Argentine,http://en.wikipedia.org/wiki/Adolfo_Schewelm_Cruz
+501,20194,128,28,7,7,7,7,0,91,\N,\N,\N,\N,\N,\N,16,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell

@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,19191,131,18,1,1,1,1,8,50,2:25:04.4,8704400,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+641,19192,131,14,9,2,2,2,6,50,+0.7,8705100,\N,\N,\N,\N,1,taruffi,\N,\N,Piero,Taruffi,1906-10-12,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
+608,19193,6,4,4,3,3,3,4,50,+46.2,8750600,\N,\N,\N,\N,1,castellotti,\N,\N,Eugenio,Castellotti,1930-10-10,Italian,http://en.wikipedia.org/wiki/Eugenio_Castellotti
+554,19194,105,36,6,4,4,4,3,50,+3:57.5,8941900,\N,\N,\N,\N,1,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+496,19195,105,34,16,5,5,5,2,49,\N,\N,\N,\N,\N,\N,11,menditeguy,\N,\N,Carlos,Menditeguy,1914-08-10,Argentine,http://en.wikipedia.org/wiki/Carlos_Menditeguy
+620,19196,6,12,12,6,6,6,0,49,\N,\N,\N,\N,\N,\N,11,maglioli,\N,\N,Umberto,Maglioli,1928-06-05,Italian,http://en.wikipedia.org/wiki/Umberto_Maglioli
+643,19197,105,28,7,7,7,7,0,48,\N,\N,\N,\N,\N,\N,12,mieres,\N,\N,Roberto,Mieres,1924-12-03,Argentine,http://en.wikipedia.org/wiki/Roberto_Mieres
+427,19198,6,8,15,8,8,8,0,47,\N,\N,\N,\N,\N,\N,13,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+667,19199,105,40,20,9,9,9,0,46,\N,\N,\N,\N,\N,\N,14,fitch,\N,\N,John,Fitch,1917-08-04,American,http://en.wikipedia.org/wiki/John_Fitch_(driver)
+578,19200,6,6,14,10,10,10,0,38,\N,\N,\N,\N,\N,\N,6,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+648,19201,131,20,3,\N,R,11,0,32,\N,\N,\N,\N,\N,\N,6,kling,\N,\N,Karl,Kling,1910-09-16,German,http://en.wikipedia.org/wiki/Karl_Kling
+577,19202,105,30,10,\N,R,12,0,31,\N,\N,\N,\N,\N,\N,6,musso,\N,\N,Luigi,Musso,1924-07-28,Italian,http://en.wikipedia.org/wiki/Luigi_Musso
+547,19203,105,38,21,\N,R,13,0,31,\N,\N,\N,\N,\N,\N,22,gould,\N,\N,Horace,Gould,1918-09-20,British,http://en.wikipedia.org/wiki/Horace_Gould
+475,19204,131,16,2,\N,R,14,1,27,\N,\N,\N,\N,\N,\N,5,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+650,19205,128,26,19,\N,R,15,0,26,\N,\N,\N,\N,\N,\N,5,pollet,\N,\N,Jacques,Pollet,1922-07-02,French,http://en.wikipedia.org/wiki/Jacques_Pollet
+624,19206,128,22,18,\N,R,16,0,23,\N,\N,\N,\N,\N,\N,69,ramos,\N,\N,Hernando,da Silva Ramos,1925-12-07,Brazilian,http://en.wikipedia.org/wiki/Hernando_da_Silva_Ramos
+581,19207,105,32,11,\N,R,17,0,22,\N,\N,\N,\N,\N,\N,22,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+501,19208,118,42,13,\N,R,18,0,7,\N,\N,\N,\N,\N,\N,22,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+668,19209,128,24,22,\N,R,19,0,7,\N,\N,\N,\N,\N,\N,5,lucas,\N,\N,Jean,Lucas,1917-04-25,French,http://en.wikipedia.org/wiki/Jean_Lucas
+663,19210,118,44,17,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,98,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+642,19211,6,2,5,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,54,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+633,19212,6,10,8,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+586,19213,137,46,0,\N,W,23,0,0,\N,\N,\N,\N,\N,\N,54,piotti,\N,\N,Luigi,Piotti,1913-10-27,Italian,http://en.wikipedia.org/wiki/Luigi_Piotti

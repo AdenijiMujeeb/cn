@@ -1,0 +1,19 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,17212,172,18,2,1,1,1,9,80,2:07:35.4,7655400,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+341,17213,6,2,4,2,2,2,6,80,+53.6,7709000,\N,\N,\N,\N,1,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+397,17214,172,20,6,3,3,3,4,79,\N,\N,\N,\N,\N,\N,11,arundell,\N,\N,Peter,Arundell,1933-11-08,British,http://en.wikipedia.org/wiki/Peter_Arundell
+289,17215,66,6,3,4,4,4,3,79,\N,\N,\N,\N,\N,\N,11,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+278,17216,176,10,13,5,5,5,2,79,\N,\N,\N,\N,\N,\N,11,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+383,17217,183,34,11,6,6,6,1,78,\N,\N,\N,\N,\N,\N,12,anderson,\N,\N,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
+360,17218,170,24,5,7,7,7,0,78,\N,\N,\N,\N,\N,\N,12,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+403,17219,170,22,9,8,8,8,0,76,\N,\N,\N,\N,\N,\N,14,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+347,17220,181,26,12,9,9,9,0,76,\N,\N,\N,\N,\N,\N,14,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+394,17221,66,32,16,10,10,10,0,74,\N,\N,\N,\N,\N,\N,16,baghetti,\N,\N,Giancarlo,Baghetti,1934-12-25,Italian,http://en.wikipedia.org/wiki/Giancarlo_Baghetti
+386,17222,66,8,8,11,11,11,0,64,\N,\N,\N,\N,\N,\N,116,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+305,17223,176,12,14,12,12,12,0,57,\N,\N,\N,\N,\N,\N,24,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+346,17224,181,36,18,13,13,13,0,55,\N,\N,\N,\N,\N,\N,113,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+356,17225,183,14,7,\N,R,14,0,44,\N,\N,\N,\N,\N,\N,80,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+364,17226,183,16,1,\N,R,15,0,23,\N,\N,\N,\N,\N,\N,38,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+385,17227,6,4,10,\N,R,16,0,20,\N,\N,\N,\N,\N,\N,80,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+430,17228,95,28,17,\N,R,17,0,8,\N,\N,\N,\N,\N,\N,5,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+408,17229,66,30,0,\N,W,18,0,0,\N,\N,\N,\N,\N,\N,3,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs

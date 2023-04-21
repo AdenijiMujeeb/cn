@@ -1,0 +1,18 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+403,18249,6,20,1,1,1,1,8,50,2:21:09.2,8469200,\N,\N,\N,\N,1,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+386,18250,6,18,2,2,2,2,6,50,+2:27.6,8616800,\N,\N,\N,\N,1,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+435,18251,6,16,3,3,3,3,4,49,\N,\N,\N,\N,\N,\N,11,mairesse,\N,\N,Willy,Mairesse,1928-10-01,Belgian,http://en.wikipedia.org/wiki/Willy_Mairesse
+543,18252,171,2,4,4,4,4,3,48,\N,\N,\N,\N,\N,\N,12,cabianca,\N,\N,Giulio,Cabianca,1923-02-19,Italian,http://en.wikipedia.org/wiki/Giulio_Cabianca
+476,18253,6,22,6,5,5,5,2,48,\N,\N,\N,\N,\N,\N,12,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+478,18254,95,26,10,6,6,6,1,47,\N,\N,\N,\N,\N,\N,13,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+431,18255,95,24,12,7,7,7,0,47,\N,\N,\N,\N,\N,\N,13,barth,\N,\N,Edgar,Barth,1917-01-26,German,http://en.wikipedia.org/wiki/Edgar_Barth
+544,18256,170,12,15,8,8,8,0,45,\N,\N,\N,\N,\N,\N,15,drogo,\N,\N,Piero,Drogo,1926-08-08,Italian,http://en.wikipedia.org/wiki/Piero_Drogo
+455,18257,170,10,13,9,9,9,0,44,\N,\N,\N,\N,\N,\N,16,seidel,\N,\N,Wolfgang,Seidel,1926-07-04,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel
+545,18258,104,28,14,10,10,10,0,41,\N,\N,\N,\N,\N,\N,19,gamble,\N,\N,Fred,Gamble,1932-03-17,American,http://en.wikipedia.org/wiki/Fred_Gamble_(racing_driver)
+484,18259,101,6,7,\N,R,11,0,41,\N,\N,\N,\N,\N,\N,6,naylor,\N,\N,Brian,Naylor,1923-03-24,British,http://en.wikipedia.org/wiki/Brian_Naylor
+491,18260,167,34,9,\N,R,12,0,32,\N,\N,\N,\N,\N,\N,6,thiele,\N,\N,Alfonso,Thiele,1920-04-05,American-Italian,http://en.wikipedia.org/wiki/Alfonso_Thiele
+500,18261,171,4,8,\N,R,13,0,27,\N,\N,\N,\N,\N,\N,5,munaron,\N,\N,Gino,Munaron,1928-04-02,Italian,http://en.wikipedia.org/wiki/Gino_Munaron
+483,18262,167,36,5,\N,R,14,0,26,\N,\N,\N,\N,\N,\N,5,scarlatti,\N,\N,Giorgio,Scarlatti,1921-10-02,Italian,http://en.wikipedia.org/wiki/Giorgio_Scarlatti
+398,18263,170,30,16,\N,R,15,0,23,\N,\N,\N,\N,\N,\N,5,vic_wilson,\N,\N,Vic,Wilson,1931-04-14,British,http://en.wikipedia.org/wiki/Vic_Wilson_(motor_racing_driver)
+546,18264,170,8,11,\N,R,16,0,0,\N,\N,\N,\N,\N,\N,3,owen,\N,\N,Arthur,Owen,1915-03-23,British,http://en.wikipedia.org/wiki/Arthur_Owen
+547,18265,105,14,0,\N,W,17,0,0,\N,\N,\N,\N,\N,\N,69,gould,\N,\N,Horace,Gould,1918-09-20,British,http://en.wikipedia.org/wiki/Horace_Gould

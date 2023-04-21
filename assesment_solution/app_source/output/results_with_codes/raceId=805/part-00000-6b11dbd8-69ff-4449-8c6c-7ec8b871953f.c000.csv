@@ -1,0 +1,18 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,19356,131,4,2,1,1,1,9,66,3:00:34.5,10834500,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+498,19357,6,20,1,2,2,2,6,66,+57.8,10892300,\N,\N,\N,\N,1,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+478,19358,131,6,7,3,3,3,4,65,\N,\N,\N,\N,\N,\N,11,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+643,19359,105,30,12,4,4,4,3,64,\N,\N,\N,\N,\N,\N,12,mieres,\N,\N,Roberto,Mieres,1924-12-03,Argentine,http://en.wikipedia.org/wiki/Roberto_Mieres
+644,19360,105,28,9,5,5,5,2,64,\N,\N,\N,\N,\N,\N,12,mantovani,\N,\N,Sergio,Mantovani,1929-05-22,Italian,http://en.wikipedia.org/wiki/Sergio_Mantovani
+663,19361,105,18,8,6,6,6,0,64,\N,\N,\N,\N,\N,\N,12,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+620,19362,6,24,11,7,7,7,0,61,\N,\N,\N,\N,\N,\N,15,maglioli,\N,\N,Umberto,Maglioli,1928-06-05,Italian,http://en.wikipedia.org/wiki/Umberto_Maglioli
+680,19363,6,2,16,8,8,8,0,58,\N,\N,\N,\N,\N,\N,18,swaters,\N,\N,Jacques,Swaters,1926-10-30,American,http://en.wikipedia.org/wiki/Jacques_Swaters
+648,19364,131,8,5,\N,R,9,0,38,\N,\N,\N,\N,\N,\N,69,kling,\N,\N,Karl,Kling,1910-09-16,German,http://en.wikipedia.org/wiki/Karl_Kling
+427,19365,6,26,4,\N,R,10,0,33,\N,\N,\N,\N,\N,\N,5,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+578,19366,6,22,6,\N,R,11,0,30,\N,\N,\N,\N,\N,\N,44,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+501,19367,105,34,13,\N,R,12,0,23,\N,\N,\N,\N,\N,\N,94,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+475,19368,105,32,3,\N,R,13,0,21,\N,\N,\N,\N,\N,\N,94,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+693,19369,128,14,15,\N,R,14,0,10,\N,\N,\N,\N,\N,\N,7,wacker,\N,\N,Fred,Wacker,1918-07-10,American,http://en.wikipedia.org/wiki/Fred_Wacker
+554,19370,128,10,14,\N,R,15,0,8,\N,\N,\N,\N,\N,\N,8,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+645,19371,128,12,10,\N,R,16,0,0,\N,\N,\N,\N,\N,\N,48,bucci,\N,\N,Clemar,Bucci,1920-09-04,Argentine,http://en.wikipedia.org/wiki/Clemar_Bucci
+626,19372,6,24,0,\N,W,17,0,0,\N,\N,\N,\N,\N,\N,3,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon

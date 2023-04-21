@@ -1,0 +1,19 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,19214,105,2,3,1,1,1,8,87,3:00:55.8,10855800,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+642,19215,6,10,1,2,2,2,6,87,+1:19.0,10934800,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+498,19216,6,12,2,3,3,3,5,87,+2:01.0,10976800,\N,\N,\N,\N,1,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+427,19217,6,26,5,4,4,4,3,86,\N,\N,\N,\N,\N,\N,11,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+625,19218,128,20,15,5,5,5,2,85,\N,\N,\N,\N,\N,\N,12,bayol,\N,\N,Élie,Bayol,1914-02-28,French,http://en.wikipedia.org/wiki/%C3%89lie_Bayol
+501,19219,105,28,11,6,6,6,0,84,\N,\N,\N,\N,\N,\N,13,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+669,19220,105,8,10,7,7,7,0,83,\N,\N,\N,\N,\N,\N,14,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+640,19221,105,30,13,8,8,8,0,83,\N,\N,\N,\N,\N,\N,14,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+620,19222,6,16,12,9,9,9,0,82,\N,\N,\N,\N,\N,\N,15,maglioli,\N,\N,Umberto,Maglioli,1928-06-05,Italian,http://en.wikipedia.org/wiki/Umberto_Maglioli
+554,19223,128,18,17,\N,D,10,0,61,\N,\N,\N,\N,\N,\N,2,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+578,19224,6,14,4,\N,D,11,0,52,\N,\N,\N,\N,\N,\N,2,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+670,19225,105,4,6,\N,R,12,0,48,\N,\N,\N,\N,\N,\N,5,marimon,\N,\N,Onofre,Marimón,1923-12-19,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n
+643,19226,105,32,8,\N,R,13,0,37,\N,\N,\N,\N,\N,\N,44,mieres,\N,\N,Roberto,Mieres,1924-12-03,Argentine,http://en.wikipedia.org/wiki/Roberto_Mieres
+671,19227,128,22,16,\N,R,14,0,19,\N,\N,\N,\N,\N,\N,51,loyer,\N,\N,Roger,Loyer,1907-08-05,French,http://en.wikipedia.org/wiki/Roger_Loyer
+672,19228,105,34,18,\N,R,15,0,19,\N,\N,\N,\N,\N,\N,6,daponte,\N,\N,Jorge,Daponte,1923-06-05,Argentine,http://en.wikipedia.org/wiki/Jorge_Daponte
+627,19229,6,24,14,\N,R,16,0,1,\N,\N,\N,\N,\N,\N,3,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+577,19230,105,6,7,\N,W,17,0,0,\N,\N,\N,\N,\N,\N,54,musso,\N,\N,Luigi,Musso,1924-07-28,Italian,http://en.wikipedia.org/wiki/Luigi_Musso
+496,19231,105,36,9,\N,W,18,0,0,\N,\N,\N,\N,\N,\N,54,menditeguy,\N,\N,Carlos,Menditeguy,1914-08-10,Argentine,http://en.wikipedia.org/wiki/Carlos_Menditeguy

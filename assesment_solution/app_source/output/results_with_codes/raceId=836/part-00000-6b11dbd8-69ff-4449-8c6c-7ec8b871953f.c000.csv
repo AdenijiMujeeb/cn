@@ -1,0 +1,19 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+642,20100,51,16,2,1,1,1,9,42,2:02:53.7,7373700,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+786,20101,51,12,3,2,2,2,6,42,+0.4,7374100,\N,\N,\N,\N,1,fagioli,\N,\N,Luigi,Fagioli,1898-06-09,Italian,http://en.wikipedia.org/wiki/Luigi_Fagioli
+627,20102,154,10,10,3,3,3,4,41,\N,\N,\N,\N,\N,\N,11,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+669,20103,105,30,8,4,4,4,3,40,\N,\N,\N,\N,\N,\N,12,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+697,20104,105,34,12,5,5,5,2,40,\N,\N,\N,\N,\N,\N,12,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+640,20105,105,32,11,6,6,6,0,40,\N,\N,\N,\N,\N,\N,12,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+800,20106,105,2,15,7,7,7,0,39,\N,\N,\N,\N,\N,\N,13,pagani,\N,\N,Nello,Pagani,1911-10-11,Italian,http://en.wikipedia.org/wiki/Nello_Pagani
+501,20107,154,44,18,8,8,8,0,39,\N,\N,\N,\N,\N,\N,13,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+589,20108,105,26,16,9,9,9,0,39,\N,\N,\N,\N,\N,\N,13,chiron,\N,\N,Louis,Chiron,1899-08-03,Monegasque,http://en.wikipedia.org/wiki/Louis_Chiron
+660,20109,154,4,14,10,10,10,0,38,\N,\N,\N,\N,\N,\N,14,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+780,20110,105,40,17,11,11,11,0,35,\N,\N,\N,\N,\N,\N,17,branca,\N,\N,Toni,Branca,1916-09-15,Swiss,http://en.wikipedia.org/wiki/Toni_Branca
+579,20111,51,14,1,\N,R,12,0,32,\N,\N,\N,\N,\N,\N,5,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+741,20112,154,42,6,\N,R,13,0,25,\N,\N,\N,\N,\N,\N,6,etancelin,\N,\N,Philippe,Étancelin,1896-12-28,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
+789,20113,154,8,9,\N,R,14,0,19,\N,\N,\N,\N,\N,\N,3,martin,\N,\N,Eugène,Martin,1915-03-24,French,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Martin
+793,20114,6,20,13,\N,R,15,0,19,\N,\N,\N,\N,\N,\N,22,sommer,\N,\N,Raymond,Sommer,1906-08-31,French,http://en.wikipedia.org/wiki/Raymond_Sommer
+633,20115,6,22,4,\N,R,16,0,9,\N,\N,\N,\N,\N,\N,5,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+647,20116,6,18,5,\N,R,17,0,4,\N,\N,\N,\N,\N,\N,94,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+704,20117,154,6,7,\N,R,18,0,0,\N,\N,\N,\N,\N,\N,3,cabantous,\N,\N,Yves,Cabantous,1904-10-08,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous

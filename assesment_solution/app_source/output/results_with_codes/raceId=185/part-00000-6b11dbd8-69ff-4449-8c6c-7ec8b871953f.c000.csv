@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+57,3524,1,1,1,1,1,1,10,77,1:46:23.536,6383536,\N,\N,\N,\N,1,hakkinen,\N,\N,Mika,Häkkinen,1968-09-28,Finnish,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen
+14,3525,1,2,3,2,2,2,6,77,+9.706,6393242,\N,\N,\N,\N,1,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+56,3526,6,4,2,3,3,3,4,77,+27.228,6410764,\N,\N,\N,\N,1,irvine,\N,\N,Eddie,Irvine,1965-11-10,British,http://en.wikipedia.org/wiki/Eddie_Irvine
+49,3527,17,8,5,4,4,4,3,77,+31.815,6415351,\N,\N,\N,\N,1,frentzen,\N,\N,Heinz-Harald,Frentzen,1967-05-18,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen
+22,3528,24,16,8,5,5,5,2,77,+43.808,6427344,\N,\N,\N,\N,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+71,3529,17,7,6,6,6,6,1,77,+55.726,6439262,\N,\N,\N,\N,1,damon_hill,\N,\N,Damon,Hill,1960-09-17,British,http://en.wikipedia.org/wiki/Damon_Hill
+25,3530,22,10,7,7,7,7,0,77,+1:01.012,6444548,\N,\N,\N,\N,1,wurz,\N,WUR,Alexander,Wurz,1974-02-15,Austrian,http://en.wikipedia.org/wiki/Alexander_Wurz
+15,3531,20,19,13,8,8,8,0,76,\N,\N,\N,\N,\N,\N,11,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+23,3532,3,6,16,9,9,9,0,76,\N,\N,\N,\N,\N,\N,11,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+44,3533,20,18,14,10,10,10,0,76,\N,\N,\N,\N,\N,\N,11,panis,\N,\N,Olivier,Panis,1966-09-02,French,http://en.wikipedia.org/wiki/Olivier_Panis
+65,3534,24,17,10,11,11,11,0,76,\N,\N,\N,\N,\N,\N,11,herbert,\N,\N,Johnny,Herbert,1964-06-25,British,http://en.wikipedia.org/wiki/Johnny_Herbert
+63,3535,6,3,18,12,12,12,0,75,\N,\N,\N,\N,\N,\N,12,salo,\N,\N,Mika,Salo,1966-11-30,Finnish,http://en.wikipedia.org/wiki/Mika_Salo
+41,3536,16,23,17,13,13,13,0,75,\N,\N,\N,\N,\N,\N,12,zonta,\N,ZON,Ricardo,Zonta,1976-03-23,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta
+69,3537,18,20,19,14,14,14,0,75,\N,\N,\N,\N,\N,\N,12,badoer,\N,BAD,Luca,Badoer,1971-01-25,Italian,http://en.wikipedia.org/wiki/Luca_Badoer
+37,3538,21,14,20,15,15,15,0,75,\N,\N,\N,\N,\N,\N,12,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+55,3539,15,11,11,16,16,16,0,74,\N,\N,\N,\N,\N,\N,32,alesi,\N,\N,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
+48,3540,18,21,22,17,17,17,0,74,\N,\N,\N,\N,\N,\N,13,gene,\N,\N,Marc,Gené,1974-03-29,Spanish,http://en.wikipedia.org/wiki/Marc_Gen%C3%A9
+35,3541,16,22,9,\N,R,18,0,60,\N,\N,\N,\N,\N,\N,8,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+21,3542,22,9,4,\N,R,19,0,52,\N,\N,\N,\N,\N,\N,5,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+68,3543,21,15,21,\N,R,20,0,26,\N,\N,\N,\N,\N,\N,7,takagi,\N,\N,Toranosuke,Takagi,1974-02-12,Japanese,http://en.wikipedia.org/wiki/Toranosuke_Takagi
+64,3544,15,12,12,\N,R,21,0,19,\N,\N,\N,\N,\N,\N,20,diniz,\N,\N,Pedro,Diniz,1970-05-22,Brazilian,http://en.wikipedia.org/wiki/Pedro_Diniz
+70,3545,3,5,15,\N,R,22,0,10,\N,\N,\N,\N,\N,\N,24,zanardi,\N,\N,Alessandro,Zanardi,1966-10-23,Italian,http://en.wikipedia.org/wiki/Alex_Zanardi

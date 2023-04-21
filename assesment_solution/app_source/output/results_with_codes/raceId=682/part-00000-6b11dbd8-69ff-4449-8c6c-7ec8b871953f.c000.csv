@@ -1,0 +1,19 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+364,16667,190,36,2,1,1,1,9,28,1:40:49.4,6049400,\N,\N,\N,\N,1,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+328,16668,66,14,6,2,2,2,6,28,+1:03.0,6112400,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+278,16669,6,1,5,3,3,3,4,28,+1:40.0,6149400,\N,\N,\N,\N,1,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+358,16670,167,29,4,4,4,4,3,28,+2:13.9,6183300,\N,\N,\N,\N,1,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+374,16671,66,12,11,5,5,5,2,27,\N,\N,\N,\N,\N,\N,11,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+373,16672,180,21,1,6,6,6,1,27,\N,\N,\N,\N,\N,\N,11,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+346,16673,167,34,16,7,7,7,0,27,\N,\N,\N,\N,\N,\N,11,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+383,16674,183,19,17,8,8,8,0,26,\N,\N,\N,\N,\N,\N,12,anderson,\N,\N,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
+345,16675,167,30,13,9,9,9,0,25,\N,\N,\N,\N,\N,\N,5,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+389,16676,167,32,18,10,10,10,0,25,\N,\N,\N,\N,\N,\N,13,ligier,\N,\N,Guy,Ligier,1930-07-12,French,http://en.wikipedia.org/wiki/Guy_Ligier
+375,16677,6,2,9,\N,N,11,0,24,\N,\N,\N,\N,\N,\N,62,scarfiotti,\N,\N,Ludovico,Scarfiotti,1933-10-18,Italian,http://en.wikipedia.org/wiki/Ludovico_Scarfiotti
+356,16678,191,25,7,\N,R,12,0,15,\N,\N,\N,\N,\N,\N,5,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+304,16679,191,26,14,\N,R,13,0,14,\N,\N,\N,\N,\N,\N,5,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+347,16680,167,39,12,\N,R,14,0,10,\N,\N,\N,\N,\N,\N,5,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+289,16681,180,22,3,\N,R,15,0,3,\N,\N,\N,\N,\N,\N,8,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+341,16682,11,7,10,\N,R,16,0,1,\N,\N,\N,\N,\N,\N,5,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+388,16683,66,17,15,\N,R,17,0,1,\N,\N,\N,\N,\N,\N,5,irwin,\N,\N,Chris,Irwin,1942-06-27,British,http://en.wikipedia.org/wiki/Chris_Irwin
+387,16684,6,3,8,\N,R,18,0,0,\N,\N,\N,\N,\N,\N,3,parkes,\N,\N,Mike,Parkes,1931-09-24,British,http://en.wikipedia.org/wiki/Mike_Parkes

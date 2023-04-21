@@ -1,0 +1,27 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,17720,172,20,1,1,1,1,9,75,2:26:20.8,8780800,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+341,17721,26,24,2,2,2,2,6,75,+49.2,8830000,\N,\N,\N,\N,1,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+360,17722,170,16,4,3,3,3,4,75,+1:44.8,8885600,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+289,17723,66,12,5,4,4,4,3,75,+1:56.8,8897600,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+356,17724,172,30,9,5,5,5,2,74,\N,\N,\N,\N,\N,\N,11,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+408,17725,170,18,13,6,6,6,1,74,\N,\N,\N,\N,\N,\N,11,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+418,17726,172,34,14,7,7,7,0,74,\N,\N,\N,\N,\N,\N,11,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+401,17727,172,22,10,8,8,8,0,74,\N,\N,\N,\N,\N,\N,11,trevor_taylor,\N,\N,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
+364,17728,95,8,6,9,9,9,0,73,\N,\N,\N,\N,\N,\N,12,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+453,17729,170,42,15,10,10,10,0,72,\N,\N,\N,\N,\N,\N,13,lewis,\N,\N,Jackie,Lewis,1936-11-01,British,http://en.wikipedia.org/wiki/Jackie_Lewis
+438,17730,99,40,19,11,11,11,0,71,\N,\N,\N,\N,\N,\N,14,settember,\N,\N,Tony,Settember,1926-07-10,American,http://en.wikipedia.org/wiki/Tony_Settember
+437,17731,170,36,16,12,12,12,0,71,\N,\N,\N,\N,\N,\N,14,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess
+386,17732,66,14,8,13,13,13,0,70,\N,\N,\N,\N,\N,\N,15,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+430,17733,95,54,17,14,14,14,0,69,\N,\N,\N,\N,\N,\N,16,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+463,17734,172,46,20,15,15,15,0,64,\N,\N,\N,\N,\N,\N,45,chamberlain,\N,\N,Jay,Chamberlain,1925-12-29,American,http://en.wikipedia.org/wiki/Jay_Chamberlain
+404,17735,172,32,3,16,16,16,0,61,\N,\N,\N,\N,\N,\N,111,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+403,17736,6,2,12,\N,R,17,0,47,\N,\N,\N,\N,\N,\N,5,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+456,17737,26,26,11,\N,R,18,0,35,\N,\N,\N,\N,\N,\N,84,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+347,17738,95,10,7,\N,R,19,0,27,\N,\N,\N,\N,\N,\N,24,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+455,17739,176,44,21,\N,R,20,0,11,\N,\N,\N,\N,\N,\N,23,seidel,\N,\N,Wolfgang,Seidel,1926-07-04,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel
+464,17740,172,48,18,\N,R,21,0,6,\N,\N,\N,\N,\N,\N,5,shelly,\N,\N,Tony,Shelly,1937-02-02,New Zealander,http://en.wikipedia.org/wiki/Tony_Shelly
+465,17741,172,48,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,greene,\N,\N,Keith,Greene,1938-01-05,British,http://en.wikipedia.org/wiki/Keith_Greene
+427,17742,172,28,0,\N,W,23,0,0,\N,\N,\N,\N,\N,\N,54,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+436,17743,99,38,0,\N,W,24,0,0,\N,\N,\N,\N,\N,\N,54,campbell-jones,\N,\N,John,Campbell-Jones,1930-01-21,British,http://en.wikipedia.org/wiki/John_Campbell-Jones
+465,17744,97,50,0,\N,W,25,0,0,\N,\N,\N,\N,\N,\N,54,greene,\N,\N,Keith,Greene,1938-01-05,British,http://en.wikipedia.org/wiki/Keith_Greene
+346,17745,176,52,0,\N,W,26,0,0,\N,\N,\N,\N,\N,\N,54,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert

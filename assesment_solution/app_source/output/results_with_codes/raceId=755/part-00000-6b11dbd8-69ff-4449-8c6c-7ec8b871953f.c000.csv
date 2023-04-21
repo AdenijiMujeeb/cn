@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+475,18266,32,5,1,1,1,1,8,75,2:28:52.2,8932200,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+404,18267,32,10,7,2,2,2,6,75,+38.0,8970200,\N,\N,\N,\N,1,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+360,18268,170,3,10,3,3,3,4,75,+52.0,8984200,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+356,18269,170,2,2,4,4,4,3,74,\N,\N,\N,\N,\N,\N,11,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+347,18270,66,15,4,5,5,5,2,74,\N,\N,\N,\N,\N,\N,11,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+403,18271,170,9,13,6,6,6,1,74,\N,\N,\N,\N,\N,\N,11,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+440,18272,32,24,12,7,7,7,0,73,\N,\N,\N,\N,\N,\N,11,hall,\N,\N,Jim,Hall,1935-07-23,American,http://en.wikipedia.org/wiki/Jim_Hall_(race_car_driver)
+456,18273,170,14,15,8,8,8,0,73,\N,\N,\N,\N,\N,\N,12,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+476,18274,167,26,16,9,9,9,0,72,\N,\N,\N,\N,\N,\N,13,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+507,18275,106,23,18,10,10,10,0,70,\N,\N,\N,\N,\N,\N,15,daigh,\N,\N,Chuck,Daigh,1923-11-29,American,http://en.wikipedia.org/wiki/Chuck_Daigh
+353,18276,171,25,20,11,11,11,0,69,\N,\N,\N,\N,\N,\N,16,lovely,\N,\N,Pete,Lovely,1926-04-11,American,http://en.wikipedia.org/wiki/Pete_Lovely
+482,18277,170,7,8,12,12,12,0,69,\N,\N,\N,\N,\N,\N,16,gendebien,\N,\N,Olivier,Gendebien,1924-01-12,Belgian,http://en.wikipedia.org/wiki/Olivier_Gendebien
+548,18278,105,20,22,13,13,13,0,68,\N,\N,\N,\N,\N,\N,17,drake,\N,\N,Bob,Drake,1919-12-14,American,http://en.wikipedia.org/wiki/Bob_Drake_(Formula_One)
+481,18279,170,8,14,14,14,14,0,68,\N,\N,\N,\N,\N,\N,17,henry_taylor,\N,\N,Henry,Taylor,1932-12-16,British,http://en.wikipedia.org/wiki/Henry_Taylor_(racing_driver)
+427,18280,167,18,19,15,15,15,0,66,\N,\N,\N,\N,\N,\N,19,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+373,18281,32,12,5,16,16,16,0,61,\N,\N,\N,\N,\N,\N,111,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+289,18282,66,17,11,\N,R,17,0,34,\N,\N,\N,\N,\N,\N,6,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+437,18283,167,19,23,\N,R,18,0,29,\N,\N,\N,\N,\N,\N,80,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess
+484,18284,167,21,17,\N,R,19,0,20,\N,\N,\N,\N,\N,\N,5,naylor,\N,\N,Brian,Naylor,1923-03-24,British,http://en.wikipedia.org/wiki/Brian_Naylor
+364,18285,66,16,3,\N,R,20,0,18,\N,\N,\N,\N,\N,\N,5,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+541,18286,170,4,21,\N,R,21,0,11,\N,\N,\N,\N,\N,\N,7,flockhart,\N,\N,Ron,Flockhart,1923-06-16,British,http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing)
+479,18287,170,6,9,\N,R,22,0,6,\N,\N,\N,\N,\N,\N,20,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+341,18288,32,11,6,\N,R,23,0,3,\N,\N,\N,\N,\N,\N,3,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees

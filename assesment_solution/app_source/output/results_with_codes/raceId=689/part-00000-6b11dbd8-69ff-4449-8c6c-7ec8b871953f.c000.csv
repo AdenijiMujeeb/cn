@@ -1,0 +1,20 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,16799,180,5,1,1,1,1,9,65,1:59:28.70,7168700,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+356,16800,191,1,5,2,2,2,6,65,+1:25.36,7254060,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+304,16801,191,2,6,3,3,3,4,64,\N,\N,\N,\N,\N,\N,11,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+341,16802,11,3,7,4,4,4,3,64,\N,\N,\N,\N,\N,\N,11,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+374,16803,66,8,11,5,5,5,2,63,\N,\N,\N,\N,\N,\N,12,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+345,16804,167,21,13,6,6,6,1,63,\N,\N,\N,\N,\N,\N,12,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+306,16805,187,22,14,7,7,7,0,63,\N,\N,\N,\N,\N,\N,12,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+395,16806,6,12,16,8,8,8,0,63,\N,\N,\N,\N,\N,\N,12,williams,\N,\N,Jonathan,Williams,1942-10-26,British,http://en.wikipedia.org/wiki/Jonathan_Williams_(racing_driver)
+278,16807,6,9,2,9,9,9,0,62,\N,\N,\N,\N,\N,\N,60,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+347,16808,167,16,17,10,10,10,0,61,\N,\N,\N,\N,\N,\N,14,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+389,16809,191,19,19,11,11,11,0,41,\N,\N,\N,\N,\N,\N,14,ligier,\N,\N,Guy,Ligier,1930-07-12,French,http://en.wikipedia.org/wiki/Guy_Ligier
+346,16810,167,15,10,12,12,12,0,59,\N,\N,\N,\N,\N,\N,25,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+360,16811,194,14,8,\N,R,13,0,45,\N,\N,\N,\N,\N,\N,51,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+388,16812,66,17,15,\N,R,14,0,33,\N,\N,\N,\N,\N,\N,44,irwin,\N,\N,Chris,Irwin,1942-06-27,British,http://en.wikipedia.org/wiki/Chris_Irwin
+328,16813,66,7,12,\N,R,15,0,24,\N,\N,\N,\N,\N,\N,5,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+289,16814,180,6,4,\N,R,16,0,18,\N,\N,\N,\N,\N,\N,86,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+382,16815,176,18,9,\N,R,17,0,12,\N,\N,\N,\N,\N,\N,22,solana,\N,\N,Moisés,Solana,1935-12-26,Mexican,http://en.wikipedia.org/wiki/Mois%C3%A9s_Solana
+364,16816,189,11,3,\N,R,18,0,4,\N,\N,\N,\N,\N,\N,21,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+392,16817,176,10,10,\N,R,19,0,0,\N,\N,\N,\N,\N,\N,69,fisher,\N,\N,Mike,Fisher,1943-03-13,American,http://en.wikipedia.org/wiki/Mike_Fisher_(driver)

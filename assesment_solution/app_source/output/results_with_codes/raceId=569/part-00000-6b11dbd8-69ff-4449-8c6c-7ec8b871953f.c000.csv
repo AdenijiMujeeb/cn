@@ -1,0 +1,29 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+231,13973,1,11,1,1,1,1,9,14,1:41:42.7,6102700,\N,\N,\N,\N,1,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+222,13974,25,3,8,2,2,2,6,14,+27.7,6130400,\N,\N,\N,\N,1,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+200,13975,1,12,9,3,3,3,4,14,+52.4,6155100,\N,\N,\N,\N,1,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+250,13976,204,8,7,4,4,4,3,14,+54.2,6156900,\N,\N,\N,\N,1,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+255,13977,32,6,16,5,5,5,2,14,+1:57.3,6220000,\N,\N,\N,\N,1,nilsson,\N,\N,Gunnar,Nilsson,1948-11-20,Swedish,http://en.wikipedia.org/wiki/Gunnar_Nilsson
+243,13978,204,77,15,6,6,6,1,14,+2:30.3,6253000,\N,\N,\N,\N,1,stommelen,\N,\N,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
+187,13979,67,28,19,7,7,7,0,14,+2:33.9,6256600,\N,\N,\N,\N,1,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+252,13980,58,16,18,8,8,8,0,14,+2:48.2,6270900,\N,\N,\N,\N,1,pryce,\N,\N,Tom,Pryce,1949-06-11,British,http://en.wikipedia.org/wiki/Tom_Pryce
+223,13981,6,2,5,9,9,9,0,14,+3:46.0,6328700,\N,\N,\N,\N,1,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+178,13982,63,19,14,10,10,10,0,14,+3:47.3,6330000,\N,\N,\N,\N,1,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+197,13983,58,17,23,11,11,11,0,14,+4:51.7,6394400,\N,\N,\N,\N,1,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+207,13984,32,5,12,12,12,12,0,14,+4:58.1,6400800,\N,\N,\N,\N,1,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+224,13985,56,30,20,13,13,13,0,14,+5:25.2,6427900,\N,\N,\N,\N,1,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+284,13986,25,40,26,14,14,14,0,13,\N,\N,\N,\N,\N,\N,11,pesenti_rossi,\N,\N,Alessandro,Pesenti-Rossi,1942-08-31,Italian,http://en.wikipedia.org/wiki/Alessandro_Pesenti-Rossi
+265,13987,64,25,25,15,15,15,0,13,\N,\N,\N,\N,\N,\N,11,edwards,\N,\N,Guy,Edwards,1942-12-30,British,http://en.wikipedia.org/wiki/Guy_Edwards
+232,13988,59,20,21,\N,R,16,0,3,\N,\N,\N,\N,\N,\N,23,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+230,13989,37,9,13,\N,R,17,0,1,\N,\N,\N,\N,\N,\N,3,brambilla,\N,\N,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
+221,13990,25,4,3,\N,R,18,0,0,\N,\N,\N,\N,\N,\N,3,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+199,13991,204,7,10,\N,R,19,0,0,\N,\N,\N,\N,\N,\N,69,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+238,13992,37,10,11,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,3,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+233,13993,37,34,4,\N,R,21,0,0,\N,\N,\N,\N,\N,\N,8,stuck,\N,\N,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
+172,13994,27,26,6,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,6,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+278,13995,57,22,17,\N,R,23,0,0,\N,\N,\N,\N,\N,\N,31,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+182,13996,6,1,2,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,3,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+239,13997,63,18,24,\N,R,25,0,0,\N,\N,\N,\N,\N,\N,3,lunger,\N,\N,Brett,Lunger,1945-11-14,American,http://en.wikipedia.org/wiki/Brett_Lunger
+229,13998,64,24,22,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,3,ertl,\N,\N,Harald,Ertl,1948-08-31,Austrian,http://en.wikipedia.org/wiki/Harald_Ertl
+275,13999,182,33,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,lombardi,\N,\N,Lella,Lombardi,1941-03-26,Italian,http://en.wikipedia.org/wiki/Lella_Lombardi
+280,14000,63,38,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo

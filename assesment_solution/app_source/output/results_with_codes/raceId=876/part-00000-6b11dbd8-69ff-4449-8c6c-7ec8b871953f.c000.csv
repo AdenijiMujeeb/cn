@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+20,21616,9,1,1,1,1,1,25,60,1:31:10.744,5470744,60,4,1:28.723,207.950,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+4,21617,6,5,5,2,2,2,18,60,+9.437,5480181,60,3,1:28.630,208.168,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+17,21618,9,2,2,3,3,3,15,60,+13.217,5483961,59,6,1:29.029,207.235,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+1,21619,1,4,3,4,4,4,12,60,+13.909,5484653,58,5,1:28.944,207.433,1,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+18,21620,1,3,4,5,5,5,10,60,+26.266,5497010,60,1,1:28.203,209.176,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+13,21621,6,6,6,6,6,6,8,60,+44.674,5515418,59,11,1:29.283,206.646,1,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+8,21622,208,9,7,7,7,7,6,60,+45.227,5515971,54,12,1:29.354,206.482,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+807,21623,10,12,12,8,8,8,4,60,+54.998,5525742,60,10,1:29.230,206.769,1,hulkenberg,27,HUL,Nico,Hülkenberg,1987-08-19,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+154,21624,208,10,11,9,9,9,2,60,+56.103,5526847,57,15,1:29.522,206.094,1,grosjean,8,GRO,Romain,Grosjean,1986-04-17,French,http://en.wikipedia.org/wiki/Romain_Grosjean
+811,21625,3,19,13,10,10,10,1,60,+1:14.975,5545719,60,2,1:28.431,208.637,1,bruno_senna,\N,SEN,Bruno,Senna,1983-10-15,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna
+3,21626,131,8,10,11,11,11,0,60,+1:21.694,5552438,59,14,1:29.492,206.163,1,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+814,21627,10,11,16,12,12,12,0,60,+1:22.815,5553559,59,7,1:29.086,207.103,1,resta,\N,DIR,Paul,di Resta,1986-04-16,British,http://en.wikipedia.org/wiki/Paul_di_Resta
+817,21628,5,16,15,13,13,13,0,60,+1:26.064,5556808,57,13,1:29.440,206.283,1,ricciardo,3,RIC,Daniel,Ricciardo,1989-07-01,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo
+155,21629,15,14,17,14,14,14,0,60,+1:26.495,5557239,51,8,1:29.204,206.829,1,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi
+818,21630,5,17,18,15,15,15,0,59,\N,\N,59,17,1:30.091,204.792,11,vergne,25,VER,Jean-Éric,Vergne,1990-04-25,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne
+813,21631,3,18,9,16,16,16,0,59,\N,\N,50,16,1:30.067,204.847,11,maldonado,13,MAL,Pastor,Maldonado,1985-03-09,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
+808,21632,207,21,19,17,17,17,0,59,\N,\N,58,19,1:31.163,202.384,11,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
+5,21633,207,20,20,18,18,18,0,59,\N,\N,57,18,1:30.786,203.225,11,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen
+819,21634,206,25,24,19,19,19,0,59,\N,\N,55,20,1:31.366,201.935,11,pic,\N,PIC,Charles,Pic,1990-02-15,French,http://en.wikipedia.org/wiki/Charles_Pic
+10,21635,206,24,21,20,20,20,0,58,\N,\N,56,21,1:31.721,201.153,12,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+39,21636,164,23,23,21,21,21,0,58,\N,\N,53,22,1:32.161,200.193,12,karthikeyan,\N,KAR,Narain,Karthikeyan,1977-01-14,Indian,http://en.wikipedia.org/wiki/Narain_Karthikeyan
+30,21637,131,7,14,22,22,22,0,55,\N,\N,53,9,1:29.230,206.769,31,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+37,21638,164,22,22,\N,R,23,0,43,\N,\N,39,24,1:32.864,198.677,3,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+815,21639,15,15,8,\N,R,24,0,21,\N,\N,17,23,1:32.208,200.091,3,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez

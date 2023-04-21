@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,20132,51,6,1,1,1,1,9,64,2:57:52.8,10672800,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+786,20133,51,4,3,2,2,2,6,64,+25.7,10698500,\N,\N,\N,\N,1,fagioli,\N,\N,Luigi,Fagioli,1898-06-09,Italian,http://en.wikipedia.org/wiki/Luigi_Fagioli
+687,20134,6,14,18,3,3,3,4,61,\N,\N,\N,\N,\N,\N,13,whitehead,\N,\N,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
+626,20135,141,44,12,4,4,4,3,61,\N,\N,\N,\N,\N,\N,13,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+741,20136,154,16,4,5,5,5,1,59,\N,\N,\N,\N,\N,\N,15,etancelin,\N,\N,Philippe,Étancelin,1896-12-28,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
+801,20137,154,26,15,6,6,6,0,56,\N,\N,\N,\N,\N,\N,18,pozzi,\N,\N,Charles,Pozzi,1909-08-27,French,http://en.wikipedia.org/wiki/Charles_Pozzi
+642,20138,51,2,2,7,7,7,0,55,\N,\N,\N,\N,\N,\N,48,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+704,20139,154,18,5,8,8,8,0,52,\N,\N,\N,\N,\N,\N,55,cabantous,\N,\N,Yves,Cabantous,1904-10-08,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous
+773,20140,154,22,9,\N,R,9,0,36,\N,\N,\N,\N,\N,\N,5,levegh,\N,\N,Pierre,Levegh,1905-12-22,French,http://en.wikipedia.org/wiki/Pierre_Levegh
+697,20141,105,40,10,\N,R,10,0,14,\N,\N,\N,\N,\N,\N,5,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+660,20142,154,42,14,\N,R,11,0,11,\N,\N,\N,\N,\N,\N,25,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+627,20143,154,20,6,\N,R,12,0,10,\N,\N,\N,\N,\N,\N,25,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+686,20144,105,32,11,\N,R,13,0,9,\N,\N,\N,\N,\N,\N,5,reg_parnell,\N,\N,Reg,Parnell,1911-07-02,British,http://en.wikipedia.org/wiki/Reg_Parnell
+762,20145,105,28,7,\N,R,14,0,6,\N,\N,\N,\N,\N,\N,5,rol,\N,\N,Franco,Rol,1908-06-05,Italian,http://en.wikipedia.org/wiki/Franco_Rol
+589,20146,105,30,13,\N,R,15,0,6,\N,\N,\N,\N,\N,\N,5,chiron,\N,\N,Louis,Chiron,1899-08-03,Monegasque,http://en.wikipedia.org/wiki/Louis_Chiron
+784,20147,105,34,17,\N,R,16,0,5,\N,\N,\N,\N,\N,\N,5,hampshire,\N,\N,David,Hampshire,1917-12-29,British,http://en.wikipedia.org/wiki/David_Hampshire
+793,20148,154,12,16,\N,R,17,0,4,\N,\N,\N,\N,\N,\N,25,sommer,\N,\N,Raymond,Sommer,1906-08-31,French,http://en.wikipedia.org/wiki/Raymond_Sommer
+498,20149,105,36,8,\N,R,18,0,3,\N,\N,\N,\N,\N,\N,5,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+774,20181,154,16,4,5,5,5,1,59,\N,\N,\N,\N,\N,\N,15,chaboud,\N,\N,Eugène,Chaboud,1907-04-12,French,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Chaboud
+627,20182,154,26,15,6,6,6,0,56,\N,\N,\N,\N,\N,\N,18,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier

@@ -1,0 +1,16 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+347,18346,66,7,1,1,1,1,8,75,2:05:26.8,7526800,\N,\N,\N,\N,1,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+356,18347,170,8,2,2,2,2,6,75,+14.2,7541000,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+418,18348,170,9,7,3,3,3,4,75,+1:23.0,7609800,\N,\N,\N,\N,1,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+404,18349,32,12,9,4,4,4,3,74,\N,\N,\N,\N,\N,\N,11,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+554,18350,6,1,4,5,5,5,2,74,\N,\N,\N,\N,\N,\N,11,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+403,18351,6,3,12,6,6,6,0,73,\N,\N,\N,\N,\N,\N,12,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+289,18352,32,14,5,7,7,7,0,73,\N,\N,\N,\N,\N,\N,12,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+427,18353,170,10,11,8,8,8,0,73,\N,\N,\N,\N,\N,\N,12,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+477,18354,6,16,15,9,9,9,0,71,\N,\N,\N,\N,\N,\N,14,allison,\N,\N,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
+430,18355,95,15,14,10,10,10,0,68,\N,\N,\N,\N,\N,\N,17,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+475,18356,170,11,3,\N,R,11,1,62,\N,\N,\N,\N,\N,\N,6,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+501,18357,66,6,6,\N,R,12,0,46,\N,\N,\N,\N,\N,\N,6,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+479,18358,6,2,8,\N,R,13,0,42,\N,\N,\N,\N,\N,\N,44,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+566,18359,117,5,10,\N,R,14,0,25,\N,\N,\N,\N,\N,\N,5,shelby,\N,\N,Carroll,Shelby,1923-01-11,American,http://en.wikipedia.org/wiki/Carroll_Shelby
+456,18360,117,4,13,\N,R,15,0,3,\N,\N,\N,\N,\N,\N,5,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori

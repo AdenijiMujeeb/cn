@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+30,3348,6,3,3,1,1,1,10,62,1:33:44.792,5624792,\N,\N,\N,\N,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+14,3349,1,2,2,2,2,2,6,62,+4.265,5629057,\N,\N,\N,\N,1,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+22,3350,24,16,6,3,3,3,4,61,\N,\N,\N,\N,\N,\N,11,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+71,3351,17,7,8,4,4,4,3,61,\N,\N,\N,\N,\N,\N,11,damon_hill,\N,\N,Damon,Hill,1960-09-17,British,http://en.wikipedia.org/wiki/Damon_Hill
+21,3352,22,9,16,5,5,5,2,61,\N,\N,\N,\N,\N,\N,11,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+55,3353,15,11,13,6,6,6,1,61,\N,\N,\N,\N,\N,\N,11,alesi,\N,\N,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
+63,3354,16,23,19,7,7,7,0,59,\N,\N,\N,\N,\N,\N,13,salo,\N,\N,Mika,Salo,1966-11-30,Finnish,http://en.wikipedia.org/wiki/Mika_Salo
+69,3355,18,20,22,8,8,8,0,59,\N,\N,\N,\N,\N,\N,13,badoer,\N,BAD,Luca,Badoer,1971-01-25,Italian,http://en.wikipedia.org/wiki/Luca_Badoer
+48,3356,18,21,21,9,9,9,0,59,\N,\N,\N,\N,\N,\N,13,gene,\N,\N,Marc,Gené,1974-03-29,Spanish,http://en.wikipedia.org/wiki/Marc_Gen%C3%A9
+65,3357,24,17,12,10,10,10,0,58,\N,\N,\N,\N,\N,\N,5,herbert,\N,\N,Johnny,Herbert,1964-06-25,British,http://en.wikipedia.org/wiki/Johnny_Herbert
+70,3358,3,5,10,11,11,11,0,58,\N,\N,\N,\N,\N,\N,20,zanardi,\N,\N,Alessandro,Zanardi,1966-10-23,Italian,http://en.wikipedia.org/wiki/Alex_Zanardi
+64,3359,15,12,15,\N,R,12,0,49,\N,\N,\N,\N,\N,\N,20,diniz,\N,\N,Pedro,Diniz,1970-05-22,Brazilian,http://en.wikipedia.org/wiki/Pedro_Diniz
+44,3360,20,18,11,\N,R,13,0,48,\N,\N,\N,\N,\N,\N,37,panis,\N,\N,Olivier,Panis,1966-09-02,French,http://en.wikipedia.org/wiki/Olivier_Panis
+56,3361,6,4,4,\N,R,14,0,46,\N,\N,\N,\N,\N,\N,5,irvine,\N,\N,Eddie,Irvine,1965-11-10,British,http://en.wikipedia.org/wiki/Eddie_Irvine
+49,3362,17,8,7,\N,R,15,0,46,\N,\N,\N,\N,\N,\N,20,frentzen,\N,\N,Heinz-Harald,Frentzen,1967-05-18,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen
+68,3363,21,15,20,\N,R,16,0,29,\N,\N,\N,\N,\N,\N,32,takagi,\N,\N,Toranosuke,Takagi,1974-02-12,Japanese,http://en.wikipedia.org/wiki/Toranosuke_Takagi
+23,3364,3,6,9,\N,R,17,0,28,\N,\N,\N,\N,\N,\N,37,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+57,3365,1,1,1,\N,R,18,0,17,\N,\N,\N,\N,\N,\N,20,hakkinen,\N,\N,Mika,Häkkinen,1968-09-28,Finnish,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen
+37,3366,21,14,18,\N,R,19,0,5,\N,\N,\N,\N,\N,\N,20,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+25,3367,22,10,17,\N,R,20,0,5,\N,\N,\N,\N,\N,\N,20,wurz,\N,WUR,Alexander,Wurz,1974-02-15,Austrian,http://en.wikipedia.org/wiki/Alexander_Wurz
+35,3368,16,22,14,\N,R,21,0,0,\N,\N,\N,\N,\N,\N,6,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+15,3369,20,19,5,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,20,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli

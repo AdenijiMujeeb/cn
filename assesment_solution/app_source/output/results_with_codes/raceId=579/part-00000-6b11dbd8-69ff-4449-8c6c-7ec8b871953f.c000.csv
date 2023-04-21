@@ -1,0 +1,27 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+200,14236,1,2,11,1,1,1,4.5,29,42:53.7,2573700,\N,\N,\N,\N,1,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+235,14237,32,6,16,2,2,2,3,29,+1.1,2574800,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+199,14238,34,7,15,3,3,3,2,28,\N,\N,\N,\N,\N,\N,11,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+197,14239,202,17,10,4,4,4,1.5,28,\N,\N,\N,\N,\N,\N,11,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+230,14240,37,9,5,5,5,5,1,28,\N,\N,\N,\N,\N,\N,11,brambilla,\N,\N,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
+275,14241,37,10,24,6,6,6,0.5,27,\N,\N,\N,\N,\N,\N,12,lombardi,\N,\N,Lella,Lombardi,1941-03-26,Italian,http://en.wikipedia.org/wiki/Lella_Lombardi
+294,14242,3,21,18,7,7,7,0,27,\N,\N,\N,\N,\N,\N,12,brise,\N,\N,Tony,Brise,1952-03-28,British,http://en.wikipedia.org/wiki/Tony_Brise
+187,14243,63,18,6,8,8,8,0,26,\N,\N,\N,\N,\N,\N,13,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+223,14244,6,11,2,\N,N,9,0,25,\N,\N,\N,\N,\N,\N,62,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+243,14245,26,22,9,\N,R,10,0,25,\N,\N,\N,\N,\N,\N,3,stommelen,\N,\N,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
+250,14246,34,8,14,\N,R,11,0,25,\N,\N,\N,\N,\N,\N,3,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+252,14247,202,16,8,\N,R,12,0,23,\N,\N,\N,\N,\N,\N,3,pryce,\N,\N,Tom,Pryce,1949-06-11,British,http://en.wikipedia.org/wiki/Tom_Pryce
+238,14248,32,5,12,\N,R,13,0,23,\N,\N,\N,\N,\N,\N,22,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+295,14249,57,31,19,\N,R,14,0,20,\N,\N,\N,\N,\N,\N,7,wunderink,\N,\N,Roelof,Wunderink,1948-12-12,Dutch,http://en.wikipedia.org/wiki/Roelof_Wunderink
+296,14250,26,23,22,\N,N,15,0,18,\N,\N,\N,\N,\N,\N,62,migault,\N,\N,François,Migault,1944-12-04,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Migault
+207,14251,73,27,4,\N,R,16,0,16,\N,\N,\N,\N,\N,\N,22,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+276,14252,66,14,23,\N,R,17,0,7,\N,\N,\N,\N,\N,\N,69,evans,\N,\N,Bob,Evans,1947-06-11,British,http://en.wikipedia.org/wiki/Bob_Evans_(race_driver)
+231,14253,64,24,3,\N,R,18,0,6,\N,\N,\N,\N,\N,\N,3,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+222,14254,25,3,13,\N,R,19,0,3,\N,\N,\N,\N,\N,\N,5,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+288,14255,67,28,17,\N,R,20,0,3,\N,\N,\N,\N,\N,\N,3,donohue,\N,\N,Mark,Donohue,1937-03-18,American,http://en.wikipedia.org/wiki/Mark_Donohue
+178,14256,64,25,20,\N,R,21,0,3,\N,\N,\N,\N,\N,\N,3,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+221,14257,25,4,7,\N,R,22,0,1,\N,\N,\N,\N,\N,\N,3,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+290,14258,56,30,21,\N,R,23,0,1,\N,\N,\N,\N,\N,\N,54,wilson_fittipaldi,\N,\N,Wilson,Fittipaldi,1943-12-25,Brazilian,http://en.wikipedia.org/wiki/Wilson_Fittipaldi
+232,14259,3,20,25,\N,R,24,0,1,\N,\N,\N,\N,\N,\N,54,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+182,14260,6,12,1,\N,R,25,0,0,\N,\N,\N,\N,\N,\N,3,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+224,14261,1,1,26,\N,W,26,0,0,\N,\N,\N,\N,\N,\N,54,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi

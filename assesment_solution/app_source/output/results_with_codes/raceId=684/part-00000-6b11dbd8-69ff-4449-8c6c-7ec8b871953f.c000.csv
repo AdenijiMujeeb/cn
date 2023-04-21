@@ -1,0 +1,22 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,16700,180,5,1,1,1,1,9,80,1:59:25.6,7165600,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+304,16701,191,2,4,2,2,2,6,80,+12.8,7178400,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+278,16702,6,8,6,3,3,3,4,80,+16.6,7182200,\N,\N,\N,\N,1,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+356,16703,191,1,3,4,4,4,3,80,+21.8,7187400,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+345,16704,167,12,9,5,5,5,2,79,\N,\N,\N,\N,\N,\N,11,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+341,16705,11,7,7,6,6,6,1,78,\N,\N,\N,\N,\N,\N,12,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+388,16706,66,15,13,7,7,7,0,77,\N,\N,\N,\N,\N,\N,13,irwin,\N,\N,Chris,Irwin,1942-06-27,British,http://en.wikipedia.org/wiki/Chris_Irwin
+322,16707,66,20,14,8,8,8,0,77,\N,\N,\N,\N,\N,\N,13,hobbs,\N,\N,David,Hobbs,1939-06-09,British,http://en.wikipedia.org/wiki/David_Hobbs_(racing_driver)
+390,16708,167,14,15,9,9,9,0,76,\N,\N,\N,\N,\N,\N,14,rees,\N,\N,Alan,Rees,1938-01-12,British,http://en.wikipedia.org/wiki/Alan_Rees_(racing_driver)
+389,16709,191,18,21,10,10,10,0,76,\N,\N,\N,\N,\N,\N,14,ligier,\N,\N,Guy,Ligier,1930-07-12,French,http://en.wikipedia.org/wiki/Guy_Ligier
+383,16710,183,19,17,\N,R,11,0,67,\N,\N,\N,\N,\N,\N,5,anderson,\N,\N,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
+289,16711,180,6,2,\N,R,12,0,64,\N,\N,\N,\N,\N,\N,5,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+374,16712,66,4,11,\N,R,13,0,44,\N,\N,\N,\N,\N,\N,80,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+364,16713,190,9,5,\N,R,14,0,34,\N,\N,\N,\N,\N,\N,8,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+351,16714,193,22,20,\N,R,15,0,29,\N,\N,\N,\N,\N,\N,51,moser,\N,\N,Silvio,Moser,1941-04-24,Swiss,http://en.wikipedia.org/wiki/Silvio_Moser
+358,16715,167,11,8,\N,R,16,0,26,\N,\N,\N,\N,\N,\N,5,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+328,16716,66,3,12,\N,R,17,0,20,\N,\N,\N,\N,\N,\N,7,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+360,16717,190,10,10,\N,R,18,0,14,\N,\N,\N,\N,\N,\N,5,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+346,16718,167,17,18,\N,R,19,0,10,\N,\N,\N,\N,\N,\N,5,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+347,16719,167,23,9,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,5,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+361,16720,66,16,0,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,54,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage

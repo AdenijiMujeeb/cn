@@ -1,0 +1,27 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+222,13370,59,20,2,1,1,1,9,76,1:57:52.77,7072770,\N,\N,\N,\N,1,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+182,13371,6,11,6,2,2,2,6,76,+0.889,7073659,\N,\N,\N,\N,1,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+199,13372,6,12,3,3,3,3,4,76,+32.8,7105570,\N,\N,\N,\N,1,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+200,13373,1,2,9,4,4,4,3,76,+34.6,7107370,\N,\N,\N,\N,1,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+207,13374,32,5,10,5,5,5,2,76,+35.55,7108320,\N,\N,\N,\N,1,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+178,13375,58,17,11,6,6,6,1,76,+36.61,7109380,\N,\N,\N,\N,1,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+172,13376,27,26,16,7,7,7,0,76,+1:04.44,7137210,\N,\N,\N,\N,1,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+230,13377,63,19,14,8,8,8,0,76,+1:08.64,7141410,\N,\N,\N,\N,1,brambilla,\N,\N,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
+119,13378,58,16,15,9,9,9,0,75,\N,\N,\N,\N,\N,\N,11,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+235,13379,57,22,17,10,10,10,0,75,\N,\N,\N,\N,\N,\N,11,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+197,13380,67,34,12,11,11,11,0,74,\N,\N,\N,\N,\N,\N,12,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+211,13381,64,24,20,12,12,12,0,73,\N,\N,\N,\N,\N,\N,13,keegan,\N,\N,Rupert,Keegan,1955-02-26,British,http://en.wikipedia.org/wiki/Rupert_Keegan
+255,13382,32,6,13,\N,R,13,0,51,\N,\N,\N,\N,\N,\N,6,nilsson,\N,\N,Gunnar,Nilsson,1948-11-20,Swedish,http://en.wikipedia.org/wiki/Gunnar_Nilsson
+187,13383,34,7,1,\N,R,14,0,48,\N,\N,\N,\N,\N,\N,6,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+221,13384,25,4,8,\N,R,15,0,46,\N,\N,\N,\N,\N,\N,6,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+246,13385,63,18,19,\N,R,16,0,41,\N,\N,\N,\N,\N,\N,69,binder,\N,\N,Hans,Binder,1948-06-12,Austrian,http://en.wikipedia.org/wiki/Hans_Binder
+224,13386,56,28,18,\N,R,17,0,37,\N,\N,\N,\N,\N,\N,5,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+231,13387,1,1,7,\N,R,18,0,25,\N,\N,\N,\N,\N,\N,5,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+233,13388,34,8,5,\N,R,19,0,19,\N,\N,\N,\N,\N,\N,10,stuck,\N,\N,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
+238,13389,25,3,4,\N,R,20,0,10,\N,\N,\N,\N,\N,\N,23,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+232,13390,37,37,0,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+257,13391,37,33,0,\N,F,22,0,0,\N,\N,\N,\N,\N,\N,81,hayje,\N,\N,Boy,Lunger,1949-05-03,Dutch,http://en.wikipedia.org/wiki/Boy_Hayje
+229,13392,64,25,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,ertl,\N,\N,Harald,Ertl,1948-08-31,Austrian,http://en.wikipedia.org/wiki/Harald_Ertl
+223,13393,57,22,0,\N,F,24,0,0,\N,\N,\N,\N,\N,\N,81,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+237,13394,37,9,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,ribeiro,\N,\N,Alex,Ribeiro,1948-11-07,Brazilian,http://en.wikipedia.org/wiki/Alex_Ribeiro
+251,13395,37,10,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,ian_scheckter,\N,\N,Ian,Scheckter,1947-08-22,South African,http://en.wikipedia.org/wiki/Ian_Scheckter

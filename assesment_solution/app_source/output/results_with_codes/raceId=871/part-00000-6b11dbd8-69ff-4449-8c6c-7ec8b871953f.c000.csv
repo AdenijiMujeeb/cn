@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+18,21496,1,3,1,1,1,1,25,44,1:29:08.530,5348530,40,10,1:54.293,220.611,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+20,21497,9,1,10,2,2,2,18,44,+13.624,5362154,39,9,1:54.198,220.795,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+8,21498,208,9,3,3,3,3,15,44,+25.334,5373864,34,5,1:53.640,221.879,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+807,21499,10,12,11,4,4,4,12,44,+27.843,5376373,40,6,1:53.760,221.645,1,hulkenberg,27,HUL,Nico,Hülkenberg,1987-08-19,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+13,21500,6,6,14,5,5,5,10,44,+29.845,5378375,30,3,1:53.464,222.223,1,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+17,21501,9,2,12,6,6,6,8,44,+31.244,5379774,42,7,1:53.768,221.629,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+30,21502,131,7,13,7,7,7,6,44,+53.374,5401904,37,4,1:53.507,222.139,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+818,21503,5,17,15,8,8,8,4,44,+58.865,5407395,31,8,1:53.995,221.188,1,vergne,25,VER,Jean-Éric,Vergne,1990-04-25,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne
+817,21504,5,16,16,9,9,9,2,44,+62.982,5411512,42,12,1:54.605,220.011,1,ricciardo,3,RIC,Daniel,Ricciardo,1989-07-01,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo
+814,21505,10,11,9,10,10,10,1,44,+63.783,5412313,28,11,1:54.562,220.093,1,resta,\N,DIR,Paul,di Resta,1986-04-16,British,http://en.wikipedia.org/wiki/Paul_di_Resta
+3,21506,131,8,23,11,11,11,0,44,+65.111,5413641,39,2,1:53.073,222.992,1,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+811,21507,3,19,17,12,12,12,0,44,+71.529,5420059,43,1,1:52.822,223.488,1,bruno_senna,\N,SEN,Bruno,Senna,1983-10-15,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna
+155,21508,15,14,2,13,13,13,0,44,+116.119,5464649,26,13,1:55.598,218.121,1,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi
+808,21509,207,21,19,14,14,14,0,43,\N,\N,28,15,1:56.741,215.985,11,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
+10,21510,206,24,20,15,15,15,0,43,\N,\N,30,16,1:56.956,215.588,11,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+819,21511,206,25,22,16,16,16,0,43,\N,\N,27,18,1:57.939,213.791,11,pic,\N,PIC,Charles,Pic,1990-02-15,French,http://en.wikipedia.org/wiki/Charles_Pic
+5,21512,207,20,18,17,17,17,0,43,\N,\N,33,14,1:56.475,216.479,11,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen
+37,21513,164,22,21,18,18,18,0,43,\N,\N,30,17,1:57.315,214.929,11,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+39,21514,164,23,24,\N,R,19,0,29,\N,\N,16,19,1:59.113,211.684,20,karthikeyan,\N,KAR,Narain,Karthikeyan,1977-01-14,Indian,http://en.wikipedia.org/wiki/Narain_Karthikeyan
+813,21515,3,18,6,\N,R,20,0,4,\N,\N,4,20,2:56.181,143.116,4,maldonado,13,MAL,Pastor,Maldonado,1985-03-09,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
+815,21516,15,15,4,\N,R,21,0,0,\N,\N,\N,0,\N,\N,4,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+4,21517,6,5,5,\N,R,22,0,0,\N,\N,\N,0,\N,\N,4,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+1,21518,1,4,7,\N,R,23,0,0,\N,\N,\N,0,\N,\N,4,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+154,21519,208,10,8,\N,R,24,0,0,\N,\N,\N,0,\N,\N,4,grosjean,8,GRO,Romain,Grosjean,1986-04-17,French,http://en.wikipedia.org/wiki/Romain_Grosjean

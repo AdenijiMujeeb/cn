@@ -1,0 +1,29 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+172,11846,27,26,4,1,1,1,9,53,1:27:36.47,5256470,\N,\N,\N,\N,1,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+163,11847,4,16,1,2,2,2,6,53,+5.17,5261640,\N,\N,\N,\N,1,arnoux,\N,\N,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
+137,11848,34,5,7,3,3,3,4,53,+7.34,5263810,\N,\N,\N,\N,1,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+178,11849,3,1,6,4,4,4,3,53,+12.04,5268510,\N,\N,\N,\N,1,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+199,11850,3,2,5,5,5,5,2,53,+31.85,5288320,\N,\N,\N,\N,1,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+187,11851,1,7,12,6,6,6,1,53,+1:31.14,5347610,\N,\N,\N,\N,1,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+173,11852,32,11,9,7,7,7,0,52,\N,\N,\N,\N,\N,\N,11,angelis,\N,\N,Elio,de Angelis,1958-03-26,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
+110,11853,1,8,18,8,8,8,0,52,\N,\N,\N,\N,\N,\N,11,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
+202,11854,6,28,8,9,9,9,0,52,\N,\N,\N,\N,\N,\N,11,pironi,\N,\N,Didier,Pironi,1952-03-26,French,http://en.wikipedia.org/wiki/Didier_Pironi
+197,11855,45,32,14,10,10,10,0,51,\N,\N,\N,\N,\N,\N,12,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+206,11856,37,17,19,11,11,11,0,47,\N,\N,\N,\N,\N,\N,16,daly,\N,\N,Derek,Daly,1953-03-11,Irish,http://en.wikipedia.org/wiki/Derek_Daly
+207,11857,51,22,13,\N,R,12,0,46,\N,\N,\N,\N,\N,\N,5,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+201,11858,54,9,21,\N,R,13,0,44,\N,\N,\N,\N,\N,\N,23,borgudd,\N,\N,Slim,Borgudd,1946-11-25,Swedish,http://en.wikipedia.org/wiki/Slim_Borgudd
+119,11859,21,29,10,\N,R,14,0,43,\N,\N,\N,\N,\N,\N,5,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+194,11860,57,14,20,\N,R,15,0,43,\N,\N,\N,\N,\N,\N,51,salazar,\N,\N,Eliseo,Salazar,1954-11-14,Chilean,http://en.wikipedia.org/wiki/Eliseo_Salazar
+105,11861,25,4,22,\N,R,16,0,40,\N,\N,\N,\N,\N,\N,6,alboreto,\N,\N,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
+152,11862,51,23,16,\N,R,17,0,35,\N,\N,\N,\N,\N,\N,42,giacomelli,\N,\N,Bruno,Giacomelli,1952-09-10,Italian,http://en.wikipedia.org/wiki/Bruno_Giacomelli
+212,11863,34,6,15,\N,R,18,0,32,\N,\N,\N,\N,\N,\N,8,rebaque,\N,\N,Hector,Rebaque,1956-02-05,Mexican,http://en.wikipedia.org/wiki/Hector_Rebaque
+216,11864,21,30,24,\N,R,19,0,27,\N,\N,\N,\N,\N,\N,25,stohr,\N,\N,Siegfried,Stohr,1952-10-10,Italian,http://en.wikipedia.org/wiki/Siegfried_Stohr
+117,11865,4,15,2,\N,R,20,0,26,\N,\N,\N,\N,\N,\N,22,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+175,11866,27,25,17,\N,R,21,0,26,\N,\N,\N,\N,\N,\N,5,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+95,11867,32,12,11,\N,R,22,0,23,\N,\N,\N,\N,\N,\N,5,mansell,\N,\N,Nigel,Mansell,1953-08-08,British,http://en.wikipedia.org/wiki/Nigel_Mansell
+203,11868,6,27,3,\N,R,23,0,11,\N,\N,\N,\N,\N,\N,3,gilles_villeneuve,\N,\N,Gilles,Villeneuve,1950-01-18,Canadian,http://en.wikipedia.org/wiki/Gilles_Villeneuve
+176,11869,55,33,23,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,99,surer,\N,\N,Marc,Surer,1951-09-18,Swiss,http://en.wikipedia.org/wiki/Marc_Surer
+158,11870,25,3,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,cheever,\N,\N,Eddie,Cheever,1958-01-10,American,http://en.wikipedia.org/wiki/Eddie_Cheever
+118,11871,53,36,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,warwick,\N,\N,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
+205,11872,53,35,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,henton,\N,\N,Brian,Henton,1946-09-19,British,http://en.wikipedia.org/wiki/Brian_Henton
+213,11873,45,31,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,gabbiani,\N,\N,Beppe,Gabbiani,1957-01-02,Italian,http://en.wikipedia.org/wiki/Beppe_Gabbiani

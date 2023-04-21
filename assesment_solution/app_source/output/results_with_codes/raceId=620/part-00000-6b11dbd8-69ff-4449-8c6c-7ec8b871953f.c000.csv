@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+328,15318,25,21,2,1,1,1,9,95,1:57:59.1,7079100,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+304,15319,1,17,4,2,2,2,6,95,+25.96,7105060,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+235,15320,6,8,8,3,3,3,4,95,+59.39,7138490,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+223,15321,6,9,6,4,4,4,3,95,+1:06.72,7145820,\N,\N,\N,\N,1,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+314,15322,63,19,11,5,5,5,2,95,+1:09.11,7148210,\N,\N,\N,\N,1,schenken,\N,\N,Tim,Schenken,1943-09-26,Australian,http://en.wikipedia.org/wiki/Tim_Schenken
+238,15323,37,14,10,6,6,6,1,94,\N,\N,\N,\N,\N,\N,11,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+199,15324,34,2,1,7,7,7,0,93,\N,\N,\N,\N,\N,\N,12,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+280,15325,37,23,15,8,8,8,0,93,\N,\N,\N,\N,\N,\N,12,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+307,15326,66,3,13,9,9,9,0,93,\N,\N,\N,\N,\N,\N,12,ganley,\N,\N,Howden,Ganley,1941-12-24,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley
+337,15327,66,7,19,10,10,10,0,93,\N,\N,\N,\N,\N,\N,12,marko,\N,\N,Helmut,Marko,1943-04-27,Austrian,http://en.wikipedia.org/wiki/Helmut_Marko
+182,15328,37,15,22,11,11,11,0,93,\N,\N,\N,\N,\N,\N,12,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+224,15329,32,11,5,\N,R,12,0,61,\N,\N,\N,\N,\N,\N,22,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+327,15330,25,22,17,\N,R,13,0,59,\N,\N,\N,\N,\N,\N,6,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+317,15331,66,4,7,\N,R,14,0,59,\N,\N,\N,\N,\N,\N,47,wisell,\N,\N,Reine,Wisell,1941-09-30,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell
+309,15332,1,18,3,\N,R,15,0,49,\N,\N,\N,\N,\N,\N,5,revson,\N,\N,Peter,Revson,1939-02-27,American,http://en.wikipedia.org/wiki/Peter_Revson
+207,15333,6,10,9,\N,R,16,0,20,\N,\N,\N,\N,\N,\N,5,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+333,15334,63,20,14,\N,R,17,0,11,\N,\N,\N,\N,\N,\N,69,adamich,\N,\N,Andrea,de Adamich,1941-10-03,Italian,http://en.wikipedia.org/wiki/Andrea_de_Adamich
+289,15335,34,1,16,\N,R,18,0,11,\N,\N,\N,\N,\N,\N,48,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+338,15336,32,12,20,\N,D,19,0,8,\N,\N,\N,\N,\N,\N,2,walker,\N,\N,David,Walker,1941-06-10,Australian,http://en.wikipedia.org/wiki/David_Walker_(racing_driver)
+320,15337,66,5,18,\N,R,20,0,1,\N,\N,\N,\N,\N,\N,44,gethin,\N,\N,Peter,Gethin,1940-02-21,British,http://en.wikipedia.org/wiki/Peter_Gethin
+339,15338,66,6,21,\N,R,21,0,1,\N,\N,\N,\N,\N,\N,3,roig,\N,\N,Alex,Soler-Roig,1932-10-29,Spanish,http://en.wikipedia.org/wiki/Alex_Soler-Roig
+278,15339,82,16,12,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon

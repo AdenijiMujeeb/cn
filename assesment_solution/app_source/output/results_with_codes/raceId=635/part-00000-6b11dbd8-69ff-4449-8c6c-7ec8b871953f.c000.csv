@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+235,15695,6,2,1,1,1,1,9,70,1:56:20.0,6980000,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+345,15696,66,8,2,2,2,2,6,70,+7.99,6987990,\N,\N,\N,\N,1,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+223,15697,6,3,4,3,3,3,4,69,\N,\N,\N,\N,\N,\N,11,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+238,15698,200,16,13,4,4,4,3,68,\N,\N,\N,\N,\N,\N,12,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+341,15699,63,23,7,5,5,5,2,68,\N,\N,\N,\N,\N,\N,12,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+346,15700,66,9,8,6,6,6,1,68,\N,\N,\N,\N,\N,\N,12,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+307,15701,66,10,9,7,7,7,0,66,\N,\N,\N,\N,\N,\N,14,ganley,\N,\N,Howden,Ganley,1941-12-24,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley
+298,15702,63,30,21,8,8,8,0,65,\N,\N,\N,\N,\N,\N,15,lennep,\N,\N,Gijs,van Lennep,1942-03-16,Dutch,http://en.wikipedia.org/wiki/Gijs_Van_Lennep
+306,15703,82,21,11,9,9,9,0,65,\N,\N,\N,\N,\N,\N,15,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+289,15704,34,24,16,10,10,10,0,65,\N,\N,\N,\N,\N,\N,15,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+328,15705,25,5,3,11,11,11,0,65,\N,\N,\N,\N,\N,\N,15,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+304,15706,1,26,14,12,12,12,0,63,\N,\N,\N,\N,\N,\N,17,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+280,15707,200,31,15,\N,N,13,0,62,\N,\N,\N,\N,\N,\N,62,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+342,15708,200,22,24,\N,N,14,0,60,\N,\N,\N,\N,\N,\N,62,barber,\N,\N,Skip,Barber,1936-11-16,American,http://en.wikipedia.org/wiki/Skip_Barber
+320,15709,1,28,23,\N,N,15,0,60,\N,\N,\N,\N,\N,\N,62,gethin,\N,\N,Peter,Gethin,1940-02-21,British,http://en.wikipedia.org/wiki/Peter_Gethin
+339,15710,200,19,17,\N,R,16,0,57,\N,\N,\N,\N,\N,\N,5,roig,\N,\N,Alex,Soler-Roig,1932-10-29,Spanish,http://en.wikipedia.org/wiki/Alex_Soler-Roig
+314,15711,34,25,19,\N,R,17,0,39,\N,\N,\N,\N,\N,\N,22,schenken,\N,\N,Tim,Schenken,1943-09-26,Australian,http://en.wikipedia.org/wiki/Tim_Schenken
+327,15712,25,6,12,\N,R,18,0,29,\N,\N,\N,\N,\N,\N,3,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+243,15713,63,29,18,\N,D,19,0,19,\N,\N,\N,\N,\N,\N,2,stommelen,\N,\N,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
+317,15714,180,14,4,\N,D,20,0,17,\N,\N,\N,\N,\N,\N,2,wisell,\N,\N,Reine,Wisell,1941-09-30,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell
+207,15715,6,4,16,\N,R,21,0,5,\N,\N,\N,\N,\N,\N,48,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+338,15716,201,15,22,\N,R,22,0,5,\N,\N,\N,\N,\N,\N,3,walker,\N,\N,David,Walker,1941-06-10,Australian,http://en.wikipedia.org/wiki/David_Walker_(racing_driver)
+278,15717,82,20,5,\N,R,23,0,2,\N,\N,\N,\N,\N,\N,20,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon

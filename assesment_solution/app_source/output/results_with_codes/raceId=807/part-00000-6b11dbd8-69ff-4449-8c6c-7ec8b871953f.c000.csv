@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+578,19394,6,38,3,1,1,1,8,80,3:13:52.1,11632100,\N,\N,\N,\N,1,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+577,19395,105,14,7,2,2,2,6,80,+1:13.2,11705300,\N,\N,\N,\N,1,musso,\N,\N,Luigi,Musso,1924-07-28,Italian,http://en.wikipedia.org/wiki/Luigi_Musso
+579,19396,131,2,2,3,3,3,4,79,\N,\N,\N,\N,\N,\N,11,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+643,19397,105,10,11,4,4,4,3,79,\N,\N,\N,\N,\N,\N,11,mieres,\N,\N,Roberto,Mieres,1924-12-03,Argentine,http://en.wikipedia.org/wiki/Roberto_Mieres
+648,19398,131,4,12,5,5,5,2,79,\N,\N,\N,\N,\N,\N,14,kling,\N,\N,Karl,Kling,1910-09-16,German,http://en.wikipedia.org/wiki/Karl_Kling
+580,19399,105,16,13,6,6,6,0,76,\N,\N,\N,\N,\N,\N,14,godia,\N,\N,Paco,Godia,1921-03-21,Spanish,http://en.wikipedia.org/wiki/Paco_Godia
+627,19400,105,26,20,7,7,7,0,74,\N,\N,\N,\N,\N,\N,16,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+663,19401,105,28,14,8,8,8,0,74,\N,\N,\N,\N,\N,\N,16,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+669,19402,105,18,15,9,9,9,0,68,\N,\N,\N,\N,\N,\N,55,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+644,19403,105,12,10,\N,R,10,0,58,\N,\N,\N,\N,\N,\N,23,mantovani,\N,\N,Sergio,Mantovani,1929-05-22,Italian,http://en.wikipedia.org/wiki/Sergio_Mantovani
+640,19404,105,22,21,\N,R,11,0,57,\N,\N,\N,\N,\N,\N,5,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+478,19405,131,6,9,\N,R,12,0,50,\N,\N,\N,\N,\N,\N,98,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+427,19406,6,40,8,\N,R,13,0,47,\N,\N,\N,\N,\N,\N,6,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+650,19407,128,48,16,\N,R,14,0,37,\N,\N,\N,\N,\N,\N,5,pollet,\N,\N,Jacques,Pollet,1922-07-02,French,http://en.wikipedia.org/wiki/Jacques_Pollet
+501,19408,105,24,4,\N,R,15,0,29,\N,\N,\N,\N,\N,\N,7,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+475,19409,105,8,6,\N,R,16,0,20,\N,\N,\N,\N,\N,\N,94,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+554,19410,128,46,18,\N,R,17,0,17,\N,\N,\N,\N,\N,\N,23,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+680,19411,6,30,19,\N,R,18,0,16,\N,\N,\N,\N,\N,\N,5,swaters,\N,\N,Jacques,Swaters,1926-10-30,American,http://en.wikipedia.org/wiki/Jacques_Swaters
+647,19412,132,34,1,\N,R,19,1,10,\N,\N,\N,\N,\N,\N,8,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+633,19413,132,36,5,\N,R,20,0,2,\N,\N,\N,\N,\N,\N,23,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+626,19414,6,20,17,\N,R,21,0,2,\N,\N,\N,\N,\N,\N,5,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+581,19415,118,42,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,3,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+638,20243,105,22,21,\N,R,11,0,57,\N,\N,\N,\N,\N,\N,5,volonterio,\N,\N,Ottorino,Volonterio,1917-12-07,Swiss,http://en.wikipedia.org/wiki/Ottorino_Volonterio

@@ -1,0 +1,31 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+207,13458,32,5,1,1,1,1,9,80,1:39:40.13,5980130,\N,\N,\N,\N,1,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+187,13459,34,7,4,2,2,2,6,80,+1.55,5981680,\N,\N,\N,\N,1,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+231,13460,1,1,2,3,3,3,4,80,+33.87,6014000,\N,\N,\N,\N,1,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+255,13461,32,6,3,4,4,4,3,80,+1:11.08,6051210,\N,\N,\N,\N,1,nilsson,\N,\N,Gunnar,Nilsson,1948-11-20,Swedish,http://en.wikipedia.org/wiki/Gunnar_Nilsson
+182,13462,6,11,9,5,5,5,2,80,+1:14.15,6054280,\N,\N,\N,\N,1,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+199,13463,6,12,6,6,6,6,1,79,\N,\N,\N,\N,\N,\N,11,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+223,13464,57,22,16,7,7,7,0,79,\N,\N,\N,\N,\N,\N,11,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+172,13465,27,26,5,8,8,8,0,78,\N,\N,\N,\N,\N,\N,12,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+200,13466,1,2,7,9,9,9,0,78,\N,\N,\N,\N,\N,\N,12,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+211,13467,64,24,14,10,10,10,0,78,\N,\N,\N,\N,\N,\N,12,keegan,\N,\N,Rupert,Keegan,1955-02-26,British,http://en.wikipedia.org/wiki/Rupert_Keegan
+224,13468,56,28,22,11,11,11,0,77,\N,\N,\N,\N,\N,\N,13,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+238,13469,25,3,17,12,12,12,0,77,\N,\N,\N,\N,\N,\N,13,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+230,13470,63,19,11,13,13,13,0,77,\N,\N,\N,\N,\N,\N,13,brambilla,\N,\N,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
+251,13471,37,10,20,\N,N,14,0,69,\N,\N,\N,\N,\N,\N,62,ian_scheckter,\N,\N,Ian,Scheckter,1947-08-22,South African,http://en.wikipedia.org/wiki/Ian_Scheckter
+222,13472,59,20,8,\N,R,15,0,66,\N,\N,\N,\N,\N,\N,3,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+233,13473,34,8,13,\N,R,16,0,64,\N,\N,\N,\N,\N,\N,3,stuck,\N,\N,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
+178,13474,58,17,10,\N,R,17,0,60,\N,\N,\N,\N,\N,\N,7,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+232,13475,37,37,18,\N,R,18,0,27,\N,\N,\N,\N,\N,\N,6,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+221,13476,25,4,12,\N,R,19,0,21,\N,\N,\N,\N,\N,\N,3,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+119,13477,58,16,15,\N,R,20,0,6,\N,\N,\N,\N,\N,\N,5,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+259,13478,68,31,21,\N,R,21,0,5,\N,\N,\N,\N,\N,\N,3,purley,\N,\N,David,Purley,1945-01-26,British,http://en.wikipedia.org/wiki/David_Purley
+197,13479,67,34,19,\N,R,22,0,4,\N,\N,\N,\N,\N,\N,3,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+237,13480,37,9,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,ribeiro,\N,\N,Alex,Ribeiro,1948-11-07,Brazilian,http://en.wikipedia.org/wiki/Alex_Ribeiro
+258,13481,37,27,0,\N,F,24,0,0,\N,\N,\N,\N,\N,\N,81,neve,\N,\N,Patrick,Nève,1949-10-13,Belgian,http://en.wikipedia.org/wiki/Patrick_Neve
+239,13482,1,30,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,lunger,\N,\N,Brett,Lunger,1945-11-14,American,http://en.wikipedia.org/wiki/Brett_Lunger
+229,13483,64,25,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,ertl,\N,\N,Harald,Ertl,1948-08-31,Austrian,http://en.wikipedia.org/wiki/Harald_Ertl
+256,13484,63,18,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,perkins,\N,\N,Larry,Perkins,1950-03-18,Australian,http://en.wikipedia.org/wiki/Larry_Perkins
+212,13485,64,39,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,rebaque,\N,\N,Hector,Rebaque,1956-02-05,Mexican,http://en.wikipedia.org/wiki/Hector_Rebaque
+175,13486,63,18,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+260,13487,66,35,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,andersson,\N,\N,Conny,Andersson,1939-12-28,Swedish,http://en.wikipedia.org/wiki/Conny_Andersson_(racing_driver)

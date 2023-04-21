@@ -1,0 +1,27 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+117,5791,3,2,1,1,1,1,10,59,1:25:38.189,5138189,\N,\N,\N,\N,1,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+30,5792,22,5,3,2,2,2,6,59,+7.660,5145849,\N,\N,\N,\N,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+119,5793,22,6,5,3,3,3,4,59,+1:17.482,5215671,\N,\N,\N,\N,1,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+65,5794,32,12,7,4,4,4,3,59,+1:18.407,5216596,\N,\N,\N,\N,1,herbert,\N,\N,Johnny,Herbert,1964-06-25,British,http://en.wikipedia.org/wiki/Johnny_Herbert
+102,5795,1,8,4,5,5,5,2,58,\N,\N,\N,\N,\N,\N,60,senna,\N,\N,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
+118,5796,29,9,8,6,6,6,1,58,\N,\N,\N,\N,\N,\N,11,warwick,\N,\N,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
+87,5797,27,26,9,7,7,7,0,58,\N,\N,\N,\N,\N,\N,11,blundell,\N,\N,Mark,Blundell,1966-04-08,British,http://en.wikipedia.org/wiki/Mark_Blundell
+109,5798,15,30,16,8,8,8,0,58,\N,\N,\N,\N,\N,\N,11,lehto,\N,\N,Jyrki,Järvilehto,1966-01-31,Finnish,http://en.wikipedia.org/wiki/Jyrki_J%C3%A4rvilehto
+55,5799,6,27,12,9,9,9,0,58,\N,\N,\N,\N,\N,\N,11,alesi,\N,\N,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
+22,5800,17,14,15,10,10,10,0,58,\N,\N,\N,\N,\N,\N,11,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+112,5801,33,19,24,11,11,11,0,57,\N,\N,\N,\N,\N,\N,12,alliot,\N,\N,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
+104,5802,18,23,19,12,12,12,0,56,\N,\N,\N,\N,\N,\N,6,fittipaldi,\N,\N,Christian,Fittipaldi,1971-01-18,Brazilian,http://en.wikipedia.org/wiki/Christian_Fittipaldi
+79,5803,25,3,22,13,13,13,0,55,\N,\N,\N,\N,\N,\N,14,katayama,\N,\N,Ukyo,Katayama,1963-05-29,Japanese,http://en.wikipedia.org/wiki/Ukyo_Katayama
+84,5804,27,25,6,14,14,14,0,53,\N,\N,\N,\N,\N,\N,6,brundle,\N,\N,Martin,Brundle,1959-06-01,British,http://en.wikipedia.org/wiki/Martin_Brundle
+110,5805,25,4,21,\N,N,15,0,43,\N,\N,\N,\N,\N,\N,62,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
+71,5806,3,0,2,\N,R,16,0,41,\N,\N,\N,\N,\N,\N,5,damon_hill,\N,\N,Damon,Hill,1960-09-17,British,http://en.wikipedia.org/wiki/Damon_Hill
+70,5807,32,11,14,\N,R,17,0,41,\N,\N,\N,\N,\N,\N,22,zanardi,\N,\N,Alessandro,Zanardi,1966-10-23,Italian,http://en.wikipedia.org/wiki/Alex_Zanardi
+123,5808,17,15,23,\N,R,18,0,41,\N,\N,\N,\N,\N,\N,67,boutsen,\N,\N,Thierry,Boutsen,1957-07-13,Belgian,http://en.wikipedia.org/wiki/Thierry_Boutsen
+69,5809,26,22,25,\N,R,19,0,32,\N,\N,\N,\N,\N,\N,10,badoer,\N,BAD,Luca,Badoer,1971-01-25,Italian,http://en.wikipedia.org/wiki/Luca_Badoer
+94,5810,18,24,20,\N,R,20,0,31,\N,\N,\N,\N,\N,\N,68,martini,\N,\N,Pierluigi,Martini,1961-04-23,Italian,http://en.wikipedia.org/wiki/Pierluigi_Martini
+91,5811,15,29,18,\N,R,21,0,24,\N,\N,\N,\N,\N,\N,20,wendlinger,\N,\N,Karl,Wendlinger,1968-12-20,Austrian,http://en.wikipedia.org/wiki/Karl_Wendlinger
+77,5812,6,28,13,\N,R,22,0,10,\N,\N,\N,\N,\N,\N,22,berger,\N,\N,Gerhard,Berger,1959-08-27,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger
+88,5813,29,10,10,\N,R,23,0,8,\N,\N,\N,\N,\N,\N,20,suzuki,\N,\N,Aguri,Suzuki,1960-09-08,Japanese,http://en.wikipedia.org/wiki/Aguri_Suzuki
+121,5814,1,7,11,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,20,andretti,\N,\N,Michael,Andretti,1962-10-05,American,http://en.wikipedia.org/wiki/Michael_Andretti
+100,5815,33,20,17,\N,R,25,0,0,\N,\N,\N,\N,\N,\N,86,comas,\N,\N,Érik,Comas,1963-09-28,French,http://en.wikipedia.org/wiki/%C3%89rik_Comas
+105,5816,26,21,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,alboreto,\N,\N,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto

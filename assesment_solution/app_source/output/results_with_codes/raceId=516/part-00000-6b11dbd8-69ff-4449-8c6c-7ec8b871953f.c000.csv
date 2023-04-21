@@ -1,0 +1,28 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+221,12481,27,25,2,1,1,1,9,75,1:39:11.84,5951840,\N,\N,\N,\N,1,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+199,12482,32,2,8,2,2,2,6,75,+20.94,5972780,\N,\N,\N,\N,1,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+207,12483,32,1,4,3,3,3,4,75,+27.31,5979150,\N,\N,\N,\N,1,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+222,12484,6,11,5,4,4,4,3,75,+28.68,5980520,\N,\N,\N,\N,1,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+197,12485,25,4,12,5,5,5,2,75,+30.39,5982230,\N,\N,\N,\N,1,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+202,12486,25,3,10,6,6,6,1,75,+48.43,6000270,\N,\N,\N,\N,1,pironi,\N,\N,Didier,Pironi,1952-03-26,French,http://en.wikipedia.org/wiki/Didier_Pironi
+203,12487,6,12,3,7,7,7,0,75,+52.31,6004150,\N,\N,\N,\N,1,gilles_villeneuve,\N,\N,Gilles,Villeneuve,1950-01-18,Canadian,http://en.wikipedia.org/wiki/Gilles_Villeneuve
+200,12488,21,30,17,8,8,8,0,75,+1:14.84,6026680,\N,\N,\N,\N,1,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+163,12489,4,16,11,9,9,9,0,74,\N,\N,\N,\N,\N,\N,11,arnoux,\N,\N,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
+119,12490,21,29,16,10,10,10,0,74,\N,\N,\N,\N,\N,\N,11,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+224,12491,56,14,19,11,11,11,0,74,\N,\N,\N,\N,\N,\N,11,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+136,12492,58,17,24,12,12,12,0,73,\N,\N,\N,\N,\N,\N,12,lammers,\N,\N,Jan,Lammers,1956-06-02,Dutch,http://en.wikipedia.org/wiki/Jan_Lammers
+175,12493,1,8,20,13,13,13,0,72,\N,\N,\N,\N,\N,\N,13,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+233,12494,54,9,21,14,14,14,0,69,\N,\N,\N,\N,\N,\N,16,stuck,\N,\N,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
+182,12495,204,5,6,\N,R,15,0,63,\N,\N,\N,\N,\N,\N,47,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+212,12496,32,31,23,\N,R,16,0,58,\N,\N,\N,\N,\N,\N,5,rebaque,\N,\N,Hector,Rebaque,1956-02-05,Mexican,http://en.wikipedia.org/wiki/Hector_Rebaque
+178,12497,3,27,13,\N,R,17,0,54,\N,\N,\N,\N,\N,\N,6,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+173,12498,58,18,22,\N,R,18,0,52,\N,\N,\N,\N,\N,\N,5,angelis,\N,\N,Elio,de Angelis,1958-03-26,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
+223,12499,3,28,14,\N,R,19,0,32,\N,\N,\N,\N,\N,\N,5,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+231,12500,59,20,15,\N,R,20,0,26,\N,\N,\N,\N,\N,\N,23,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+219,12501,4,15,9,\N,R,21,0,21,\N,\N,\N,\N,\N,\N,101,jabouille,\N,\N,Jean-Pierre,Jabouille,1942-10-01,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jabouille
+187,12502,1,7,18,\N,R,22,0,21,\N,\N,\N,\N,\N,\N,5,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+172,12503,27,26,1,\N,R,23,0,15,\N,\N,\N,\N,\N,\N,5,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+137,12504,204,6,7,\N,R,24,0,15,\N,\N,\N,\N,\N,\N,98,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+206,12505,57,22,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,daly,\N,\N,Derek,Daly,1953-03-11,Irish,http://en.wikipedia.org/wiki/Derek_Daly
+232,12506,60,24,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+234,12507,61,36,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,brancatelli,\N,\N,Gianfranco,Brancatelli,1950-01-18,Italian,http://en.wikipedia.org/wiki/Gianfranco_Brancatelli

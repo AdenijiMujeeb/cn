@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+30,1655,6,1,6,1,1,1,10,70,1:28:24.803,5304803,18,2,1:13.630,213.222,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+22,1656,6,2,7,2,2,2,8,70,+5.108,5309911,68,1,1:13.622,213.246,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+18,1657,16,9,2,3,3,3,6,70,+20.409,5325212,68,5,1:14.246,211.453,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+21,1658,15,11,11,4,4,4,5,69,\N,\N,47,9,1:15.078,209.110,11,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+8,1659,1,6,8,5,5,5,4,69,\N,\N,44,7,1:14.752,210.022,11,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+14,1660,1,5,9,6,6,6,3,69,\N,\N,55,10,1:15.478,208.002,11,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+10,1661,17,19,16,7,7,7,2,68,\N,\N,42,16,1:16.300,205.761,12,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+2,1662,17,18,15,8,8,8,1,68,\N,\N,18,14,1:15.890,206.873,12,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+32,1663,19,15,10,9,9,9,0,67,\N,\N,45,13,1:15.731,207.307,13,klien,\N,KLI,Christian,Klien,1983-02-07,Austrian,http://en.wikipedia.org/wiki/Christian_Klien
+47,1664,18,21,18,10,10,10,0,66,\N,\N,64,18,1:17.516,202.533,14,baumgartner,\N,\N,Zsolt,Baumgartner,1981-01-01,Hungarian,http://en.wikipedia.org/wiki/Zsolt_Baumgartner
+13,1665,15,12,17,\N,R,11,0,62,\N,\N,25,11,1:15.560,207.776,3,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+11,1666,16,10,20,\N,R,12,0,48,\N,\N,25,8,1:15.076,209.116,5,sato,\N,SAT,Takuma,Sato,1977-01-28,Japanese,http://en.wikipedia.org/wiki/Takuma_Sato
+4,1667,4,8,5,\N,R,13,0,44,\N,\N,41,4,1:14.179,211.644,30,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+46,1668,18,20,19,\N,R,14,0,30,\N,\N,25,19,1:18.025,201.212,6,bruni,\N,\N,Gianmaria,Bruni,1981-05-30,Italian,http://en.wikipedia.org/wiki/Gianmaria_Bruni
+17,1669,19,14,14,\N,R,15,0,6,\N,\N,6,17,1:16.739,204.584,22,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+15,1670,4,7,3,\N,R,16,0,0,\N,\N,\N,\N,\N,\N,7,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+23,1671,3,4,1,\N,D,17,0,70,\N,\N,70,3,1:14.040,212.042,2,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+31,1672,3,3,4,\N,D,18,0,70,\N,\N,69,6,1:14.295,211.314,2,montoya,\N,MON,Juan,Pablo Montoya,1975-09-20,Colombian,http://en.wikipedia.org/wiki/Juan_Pablo_Montoya
+43,1673,7,16,12,\N,D,19,0,69,\N,\N,39,12,1:15.652,207.523,2,matta,\N,\N,Cristiano,da Matta,1973-09-19,Brazilian,http://en.wikipedia.org/wiki/Cristiano_da_Matta
+44,1674,7,17,13,\N,D,20,0,69,\N,\N,23,15,1:16.045,206.451,2,panis,\N,\N,Olivier,Panis,1966-09-02,French,http://en.wikipedia.org/wiki/Olivier_Panis

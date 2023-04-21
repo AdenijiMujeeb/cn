@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+479,18361,6,24,1,1,1,1,8,50,2:01:26.5,7286500,\N,\N,\N,\N,1,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+403,18362,6,26,3,2,2,2,6,50,+27.5,7314000,\N,\N,\N,\N,1,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+356,18363,170,8,2,3,3,3,4,50,+1:37.7,7384200,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+482,18364,6,22,11,4,4,4,3,50,+1:47.5,7394000,\N,\N,\N,\N,1,gendebien,\N,\N,Olivier,Gendebien,1924-01-12,Belgian,http://en.wikipedia.org/wiki/Olivier_Gendebien
+360,18365,170,12,10,5,5,5,2,50,+1:47.7,7394200,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+541,18366,66,44,13,6,6,6,0,50,+2:05.7,7412200,\N,\N,\N,\N,1,flockhart,\N,\N,Ron,Flockhart,1923-06-16,British,http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing)
+501,18367,66,6,9,7,7,7,0,47,\N,\N,\N,\N,\N,\N,13,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+483,18368,105,40,21,8,8,8,0,41,\N,\N,\N,\N,\N,\N,19,scarlatti,\N,\N,Giorgio,Scarlatti,1921-10-02,Italian,http://en.wikipedia.org/wiki/Giorgio_Scarlatti
+430,18369,105,42,20,9,9,9,0,40,\N,\N,\N,\N,\N,\N,88,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+567,18370,105,38,18,10,10,10,0,40,\N,\N,\N,\N,\N,\N,88,orey,\N,\N,Fritz,d'Orey,1938-03-25,Brazilian,http://en.wikipedia.org/wiki/Fritz_d%27Orey
+427,18371,170,14,8,11,11,11,0,36,\N,\N,\N,\N,\N,\N,111,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+475,18372,66,2,4,\N,D,12,1,42,\N,\N,\N,\N,\N,\N,2,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+554,18373,6,30,5,\N,R,13,0,31,\N,\N,\N,\N,\N,\N,5,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+456,18374,167,16,16,\N,R,14,0,20,\N,\N,\N,\N,\N,\N,5,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+364,18375,6,28,12,\N,R,15,0,19,\N,\N,\N,\N,\N,\N,21,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+404,18376,32,34,15,\N,R,16,0,14,\N,\N,\N,\N,\N,\N,36,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+437,18377,167,18,19,\N,R,17,0,13,\N,\N,\N,\N,\N,\N,5,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess
+418,18378,170,10,7,\N,R,18,0,8,\N,\N,\N,\N,\N,\N,68,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+289,18379,32,32,14,\N,R,19,0,7,\N,\N,\N,\N,\N,\N,21,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+462,18380,167,20,17,\N,R,20,0,7,\N,\N,\N,\N,\N,\N,44,davis,\N,\N,Colin,Davis,1933-07-29,British,http://en.wikipedia.org/wiki/Colin_Davis_(driver)
+347,18381,66,4,6,\N,R,21,0,6,\N,\N,\N,\N,\N,\N,5,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+568,18382,105,36,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,fontes,\N,\N,Azdrubal,Fontes,1922-12-26,Uruguayan,http://en.wikipedia.org/wiki/Azdrubal_Fontes

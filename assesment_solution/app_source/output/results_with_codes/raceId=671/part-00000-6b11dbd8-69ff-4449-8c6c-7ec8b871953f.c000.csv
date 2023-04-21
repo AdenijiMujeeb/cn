@@ -1,0 +1,20 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+328,16453,196,8,5,1,1,1,9,90,2:46:11.2,9971200,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+306,16454,82,17,16,2,2,2,6,90,+1:33.93,10065130,\N,\N,\N,\N,1,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+345,16455,66,15,11,3,3,3,4,89,\N,\N,\N,\N,\N,\N,11,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+235,16456,6,10,6,4,4,4,3,88,\N,\N,\N,\N,\N,\N,12,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+351,16457,191,22,7,5,5,5,2,87,\N,\N,\N,\N,\N,\N,13,moser,\N,\N,Silvio,Moser,1941-04-24,Swiss,http://en.wikipedia.org/wiki/Silvio_Moser
+278,16458,6,9,1,6,6,6,1,85,\N,\N,\N,\N,\N,\N,15,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+370,16459,66,16,15,7,7,7,0,85,\N,\N,\N,\N,\N,\N,15,attwood,\N,\N,Richard,Attwood,1940-04-04,British,http://en.wikipedia.org/wiki/Richard_Attwood
+347,16460,194,19,19,8,8,8,0,82,\N,\N,\N,\N,\N,\N,18,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+289,16461,180,3,3,9,9,9,0,81,\N,\N,\N,\N,\N,\N,3,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+262,16462,180,4,10,\N,N,10,0,80,\N,\N,\N,\N,\N,\N,62,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+364,16463,191,18,12,\N,R,11,0,63,\N,\N,\N,\N,\N,\N,37,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+346,16464,180,21,13,\N,R,12,0,55,\N,\N,\N,\N,\N,\N,6,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+341,16465,11,7,9,\N,R,13,0,50,\N,\N,\N,\N,\N,\N,91,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+361,16466,66,20,14,\N,R,14,0,50,\N,\N,\N,\N,\N,\N,20,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+358,16467,191,6,2,\N,R,15,0,39,\N,\N,\N,\N,\N,\N,80,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+356,16468,191,5,4,\N,R,16,0,22,\N,\N,\N,\N,\N,\N,20,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+360,16469,187,2,8,\N,R,17,0,19,\N,\N,\N,\N,\N,\N,3,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+304,16470,187,1,7,\N,R,18,0,10,\N,\N,\N,\N,\N,\N,80,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+376,16471,195,14,18,\N,R,19,0,9,\N,\N,\N,\N,\N,\N,3,bianchi,\N,BIA,Lucien,Bianchi,1934-11-10,Belgian,http://en.wikipedia.org/wiki/Lucien_Bianchi

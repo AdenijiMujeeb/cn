@@ -1,0 +1,18 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+235,16472,6,26,3,1,1,1,9,60,2:25:40.9,8740900,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+341,16473,11,16,7,2,2,2,6,60,+1:58.6,8859500,\N,\N,\N,\N,1,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+328,16474,196,28,2,3,3,3,4,59,\N,\N,\N,\N,\N,\N,11,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+350,16475,195,30,17,4,4,4,3,58,\N,\N,\N,\N,\N,\N,12,elford,\N,\N,Vic,Elford,1935-06-10,British,http://en.wikipedia.org/wiki/Vic_Elford
+304,16476,187,8,4,5,5,5,2,58,\N,\N,\N,\N,\N,\N,12,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+361,16477,66,36,14,6,6,6,1,57,\N,\N,\N,\N,\N,\N,13,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+370,16478,66,22,12,7,7,7,0,57,\N,\N,\N,\N,\N,\N,13,attwood,\N,\N,Richard,Attwood,1940-04-04,British,http://en.wikipedia.org/wiki/Richard_Attwood
+360,16479,187,10,6,8,8,8,0,56,\N,\N,\N,\N,\N,\N,14,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+306,16480,82,6,8,9,9,9,0,56,\N,\N,\N,\N,\N,\N,14,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+278,16481,6,24,5,10,10,10,0,55,\N,\N,\N,\N,\N,\N,15,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+346,16482,180,34,11,11,11,11,0,54,\N,\N,\N,\N,\N,\N,16,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+345,16483,66,20,10,\N,N,12,0,53,\N,\N,\N,\N,\N,\N,62,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+358,16484,191,2,1,\N,R,13,0,45,\N,\N,\N,\N,\N,\N,95,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+356,16485,191,4,13,\N,R,14,0,15,\N,\N,\N,\N,\N,\N,48,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+289,16486,180,12,9,\N,R,15,0,14,\N,\N,\N,\N,\N,\N,86,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+359,16487,195,32,15,\N,R,16,0,14,\N,\N,\N,\N,\N,\N,3,gavin,\N,\N,Johnny,Servoz-Gavin,1942-01-18,French,http://en.wikipedia.org/wiki/Johnny_Servoz-Gavin
+377,16488,11,18,16,\N,R,17,0,2,\N,\N,\N,\N,\N,\N,3,jo_schlesser,\N,\N,Jo,Schlesser,1928-05-18,French,http://en.wikipedia.org/wiki/Jo_Schlesser

@@ -1,0 +1,18 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+304,16363,187,5,4,1,1,1,9,65,1:54:08.80,6848800,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+235,16364,182,7,2,2,2,2,6,65,+2.56,6851360,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+356,16365,182,8,1,3,3,3,4,65,+38.48,6887280,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+328,16366,196,3,3,4,4,4,3,65,+47.04,6895840,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+306,16367,196,4,8,5,5,5,2,65,+1:38.52,6947320,\N,\N,\N,\N,1,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+262,16368,66,15,12,6,6,6,1,63,\N,\N,\N,\N,\N,\N,12,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+345,16369,6,12,15,7,7,7,0,63,\N,\N,\N,\N,\N,\N,12,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+359,16370,196,16,14,8,8,8,0,63,\N,\N,\N,\N,\N,\N,12,gavin,\N,\N,Johnny,Servoz-Gavin,1942-01-18,French,http://en.wikipedia.org/wiki/Johnny_Servoz-Gavin
+353,16371,180,21,16,9,9,9,0,62,\N,\N,\N,\N,\N,\N,13,lovely,\N,\N,Pete,Lovely,1926-04-11,American,http://en.wikipedia.org/wiki/Pete_Lovely
+361,16372,182,18,9,10,10,10,0,61,\N,\N,\N,\N,\N,\N,14,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+351,16373,182,19,13,11,11,11,0,60,\N,\N,\N,\N,\N,\N,95,moser,\N,\N,Silvio,Moser,1941-04-24,Swiss,http://en.wikipedia.org/wiki/Silvio_Moser
+341,16374,66,14,10,\N,R,12,0,53,\N,\N,\N,\N,\N,\N,6,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+358,16375,180,2,6,\N,R,13,0,21,\N,\N,\N,\N,\N,\N,22,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+352,16376,66,22,17,\N,R,14,0,6,\N,\N,\N,\N,\N,\N,6,eaton,\N,\N,George,Eaton,1945-11-12,Canadian,http://en.wikipedia.org/wiki/George_Eaton
+346,16377,180,10,5,\N,R,15,0,4,\N,\N,\N,\N,\N,\N,3,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+357,16378,180,9,11,\N,R,16,0,3,\N,\N,\N,\N,\N,\N,48,miles,\N,\N,John,Miles,1943-06-14,British,http://en.wikipedia.org/wiki/John_Miles_(auto_racer)
+360,16379,187,6,7,\N,W,17,0,0,\N,\N,\N,\N,\N,\N,54,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren

@@ -1,0 +1,35 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+119,6881,3,6,1,1,1,1,10,71,1:35:42.304,5742304,\N,\N,\N,\N,1,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+102,6882,1,1,3,2,2,2,6,71,+20.941,5763245,\N,\N,\N,\N,1,senna,\N,\N,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
+55,6883,6,28,6,3,3,3,4,71,+53.554,5795858,\N,\N,\N,\N,1,alesi,\N,\N,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
+94,6884,18,23,8,4,4,4,3,71,+1:03.498,5805802,\N,\N,\N,\N,1,martini,\N,\N,Pierluigi,Martini,1961-04-23,Italian,http://en.wikipedia.org/wiki/Pierluigi_Martini
+137,6885,22,20,11,5,5,5,2,71,+1:10.033,5812337,\N,\N,\N,\N,1,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+30,6886,22,19,10,6,6,6,1,71,+1:16.582,5818886,\N,\N,\N,\N,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+127,6887,41,15,7,7,7,7,0,70,\N,\N,\N,\N,\N,\N,11,gugelmin,\N,\N,Maurício,Gugelmin,1963-04-20,Brazilian,http://en.wikipedia.org/wiki/Maur%C3%ADcio_Gugelmin
+110,6888,17,33,14,8,8,8,0,70,\N,\N,\N,\N,\N,\N,11,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
+81,6889,18,24,13,9,9,9,0,70,\N,\N,\N,\N,\N,\N,11,morbidelli,\N,\N,Gianni,Morbidelli,1968-01-13,Italian,http://en.wikipedia.org/wiki/Gianni_Morbidelli
+90,6890,17,32,21,10,10,10,0,70,\N,\N,\N,\N,\N,\N,11,moreno,\N,\N,Roberto,Moreno,1959-02-11,Brazilian,http://en.wikipedia.org/wiki/Roberto_Moreno
+100,6891,27,26,23,11,11,11,0,70,\N,\N,\N,\N,\N,\N,11,comas,\N,\N,Érik,Comas,1963-09-28,French,http://en.wikipedia.org/wiki/%C3%89rik_Comas
+84,6892,34,7,19,12,12,12,0,69,\N,\N,\N,\N,\N,\N,12,brundle,\N,\N,Martin,Brundle,1959-06-01,British,http://en.wikipedia.org/wiki/Martin_Brundle
+138,6893,25,3,17,13,13,13,0,68,\N,\N,\N,\N,\N,\N,13,satoru_nakajima,\N,\N,Satoru,Nakajima,1953-02-23,Japanese,http://en.wikipedia.org/wiki/Satoru_Nakajima
+57,6894,32,11,24,14,14,14,0,68,\N,\N,\N,\N,\N,\N,13,hakkinen,\N,\N,Mika,Häkkinen,1968-09-28,Finnish,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen
+105,6895,29,9,22,15,15,15,0,68,\N,\N,\N,\N,\N,\N,13,alboreto,\N,\N,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
+123,6896,27,25,20,16,16,16,0,68,\N,\N,\N,\N,\N,\N,13,boutsen,\N,\N,Thierry,Boutsen,1957-07-13,Belgian,http://en.wikipedia.org/wiki/Thierry_Boutsen
+122,6897,41,16,9,17,17,17,0,64,\N,\N,\N,\N,\N,\N,20,capelli,\N,\N,Ivan,Capelli,1963-05-24,Italian,http://en.wikipedia.org/wiki/Ivan_Capelli
+131,6898,25,4,12,\N,R,18,0,56,\N,\N,\N,\N,\N,\N,5,modena,\N,\N,Stefano,Modena,1963-05-12,Italian,http://en.wikipedia.org/wiki/Stefano_Modena
+95,6899,3,5,4,\N,D,19,0,51,\N,\N,\N,\N,\N,\N,2,mansell,\N,\N,Nigel,Mansell,1953-08-08,British,http://en.wikipedia.org/wiki/Nigel_Mansell
+88,6900,26,30,25,\N,R,20,0,40,\N,\N,\N,\N,\N,\N,7,suzuki,\N,\N,Aguri,Suzuki,1960-09-08,Japanese,http://en.wikipedia.org/wiki/Aguri_Suzuki
+117,6901,6,27,5,\N,R,21,0,39,\N,\N,\N,\N,\N,\N,5,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+77,6902,1,2,2,\N,R,22,0,37,\N,\N,\N,\N,\N,\N,5,berger,\N,\N,Gerhard,Berger,1959-08-27,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger
+139,6903,35,21,16,\N,R,23,0,18,\N,\N,\N,\N,\N,\N,5,pirro,\N,\N,Emanuele,Pirro,1962-01-12,Italian,http://en.wikipedia.org/wiki/Emanuele_Pirro
+109,6904,35,22,18,\N,R,24,0,21,\N,\N,\N,\N,\N,\N,6,lehto,\N,\N,Jyrki,Järvilehto,1966-01-31,Finnish,http://en.wikipedia.org/wiki/Jyrki_J%C3%A4rvilehto
+87,6905,34,8,15,\N,R,25,0,12,\N,\N,\N,\N,\N,\N,22,blundell,\N,\N,Mark,Blundell,1966-04-08,British,http://en.wikipedia.org/wiki/Mark_Blundell
+65,6906,32,12,26,\N,R,26,0,1,\N,\N,\N,\N,\N,\N,5,herbert,\N,\N,Johnny,Herbert,1964-06-25,British,http://en.wikipedia.org/wiki/Johnny_Herbert
+103,6907,26,29,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,bernard,\N,\N,Éric,Bernard,1964-08-24,French,http://en.wikipedia.org/wiki/%C3%89ric_Bernard
+99,6908,39,17,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,tarquini,\N,\N,Gabriele,Tarquini,1962-03-02,Italian,http://en.wikipedia.org/wiki/Gabriele_Tarquini
+78,6909,40,34,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,larini,\N,\N,Nicola,Larini,1964-03-19,Italian,http://en.wikipedia.org/wiki/Nicola_Larini
+128,6910,40,35,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,poele,\N,\N,Eric,van de Poele,1961-09-30,Belgian,http://en.wikipedia.org/wiki/Eric_van_de_Poele
+120,6911,39,18,0,\N,F,31,0,0,\N,\N,\N,\N,\N,\N,97,barbazza,\N,\N,Fabrizio,Barbazza,1963-04-02,Italian,http://en.wikipedia.org/wiki/Fabrizio_Barbazza
+129,6912,36,14,0,\N,F,32,0,0,\N,\N,\N,\N,\N,\N,97,grouillard,\N,\N,Olivier,Grouillard,1958-09-02,French,http://en.wikipedia.org/wiki/Olivier_Grouillard
+133,6913,29,10,0,\N,F,33,0,0,\N,\N,\N,\N,\N,\N,97,caffi,\N,\N,Alex,Caffi,1964-03-18,Italian,http://en.wikipedia.org/wiki/Alex_Caffi
+142,6914,42,31,0,\N,F,34,0,0,\N,\N,\N,\N,\N,\N,97,chaves,\N,\N,Pedro,Chaves,1965-02-27,Portuguese,http://en.wikipedia.org/wiki/Pedro_Chaves

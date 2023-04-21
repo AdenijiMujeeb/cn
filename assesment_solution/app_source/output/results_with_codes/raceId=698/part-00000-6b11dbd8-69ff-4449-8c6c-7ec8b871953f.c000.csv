@@ -1,0 +1,19 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+341,16966,167,7,1,1,1,1,9,65,2:06:35.34,7595340,\N,\N,\N,\N,1,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+356,16967,191,5,4,2,2,2,6,65,+7.88,7603220,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+304,16968,191,6,6,3,3,3,4,64,\N,\N,\N,\N,\N,\N,11,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+386,16969,11,12,3,4,4,4,3,64,\N,\N,\N,\N,\N,\N,11,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+364,16970,189,15,9,5,5,5,2,64,\N,\N,\N,\N,\N,\N,11,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+347,16971,167,22,12,6,6,6,1,63,\N,\N,\N,\N,\N,\N,12,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+397,16972,176,2,17,7,7,7,0,61,\N,\N,\N,\N,\N,\N,14,arundell,\N,\N,Peter,Arundell,1933-11-08,British,http://en.wikipedia.org/wiki/Peter_Arundell
+405,16973,11,14,13,8,8,8,0,60,\N,\N,\N,\N,\N,\N,15,bucknum,\N,\N,Ronnie,Bucknum,1936-04-05,American,http://en.wikipedia.org/wiki/Ronnie_Bucknum
+345,16974,176,11,8,\N,R,9,0,49,\N,\N,\N,\N,\N,\N,24,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+360,16975,187,17,14,\N,R,10,0,40,\N,\N,\N,\N,\N,\N,5,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+346,16976,167,19,11,\N,R,11,0,33,\N,\N,\N,\N,\N,\N,22,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+358,16977,167,8,5,\N,R,12,0,32,\N,\N,\N,\N,\N,\N,22,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+404,16978,66,10,16,\N,R,13,0,28,\N,\N,\N,\N,\N,\N,7,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+328,16979,66,4,10,\N,R,14,0,26,\N,\N,\N,\N,\N,\N,44,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+396,16980,190,16,18,\N,R,15,0,24,\N,\N,\N,\N,\N,\N,69,bondurant,\N,\N,Bob,Bondurant,1933-04-27,American,http://en.wikipedia.org/wiki/Bob_Bondurant
+289,16981,66,3,7,\N,R,16,0,18,\N,\N,\N,\N,\N,\N,5,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+373,16982,176,1,2,\N,R,17,0,9,\N,\N,\N,\N,\N,\N,6,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+382,16983,167,9,15,\N,R,18,0,9,\N,\N,\N,\N,\N,\N,25,solana,\N,\N,Moisés,Solana,1935-12-26,Mexican,http://en.wikipedia.org/wiki/Mois%C3%A9s_Solana

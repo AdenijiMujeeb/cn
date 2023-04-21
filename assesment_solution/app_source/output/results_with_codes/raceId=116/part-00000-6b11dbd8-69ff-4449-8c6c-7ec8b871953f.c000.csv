@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+23,2035,3,4,3,1,1,1,10,60,1:34:43.622,5683622,\N,\N,\N,\N,1,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+31,2036,3,3,4,2,2,2,8,60,+16.821,5700443,\N,\N,\N,\N,1,montoya,\N,MON,Juan,Pablo Montoya,1975-09-20,Colombian,http://en.wikipedia.org/wiki/Juan_Pablo_Montoya
+22,2037,6,2,5,3,3,3,6,60,+39.673,5723295,\N,\N,\N,\N,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+4,2038,4,8,8,4,4,4,5,60,+1:05.731,5749353,\N,\N,\N,\N,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+30,2039,6,1,2,5,5,5,4,60,+1:06.162,5749784,\N,\N,\N,\N,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+17,2040,19,14,11,6,6,6,3,59,\N,\N,\N,\N,\N,\N,11,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+18,2041,16,17,12,7,7,7,2,59,\N,\N,\N,\N,\N,\N,11,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+2,2042,15,9,20,8,8,8,1,59,\N,\N,\N,\N,\N,\N,11,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+49,2043,15,10,15,9,9,9,0,59,\N,\N,\N,\N,\N,\N,11,frentzen,\N,\N,Heinz-Harald,Frentzen,1967-05-18,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen
+42,2044,19,15,16,10,10,10,0,59,\N,\N,\N,\N,\N,\N,11,pizzonia,\N,PIZ,Antônio,Pizzonia,1980-09-11,Brazilian,http://en.wikipedia.org/wiki/Ant%C3%B4nio_Pizzonia
+52,2045,17,12,14,11,11,11,0,58,\N,\N,\N,\N,\N,\N,12,firman,\N,\N,Ralph,Firman,1975-05-20,Irish,http://en.wikipedia.org/wiki/Ralph_Firman
+21,2046,17,11,13,12,12,12,0,58,\N,\N,\N,\N,\N,\N,12,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+51,2047,18,18,19,13,13,13,0,58,\N,\N,\N,\N,\N,\N,12,wilson,\N,\N,Justin,Wilson,1978-07-31,British,http://en.wikipedia.org/wiki/Justin_Wilson_(racing_driver)
+50,2048,18,19,18,14,14,14,0,57,\N,\N,\N,\N,\N,\N,13,verstappen,\N,\N,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
+14,2049,1,5,9,15,15,15,0,56,\N,\N,\N,\N,\N,\N,14,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+43,2050,7,21,10,\N,R,16,0,53,\N,\N,\N,\N,\N,\N,5,matta,\N,\N,Cristiano,da Matta,1973-09-19,Brazilian,http://en.wikipedia.org/wiki/Cristiano_da_Matta
+35,2051,16,16,17,\N,R,17,0,51,\N,\N,\N,\N,\N,\N,6,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+15,2052,4,7,6,\N,R,18,0,37,\N,\N,\N,\N,\N,\N,32,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+44,2053,7,20,7,\N,R,19,0,37,\N,\N,\N,\N,\N,\N,20,panis,\N,\N,Olivier,Panis,1966-09-02,French,http://en.wikipedia.org/wiki/Olivier_Panis
+8,2054,1,6,1,\N,R,20,0,25,\N,\N,\N,\N,\N,\N,5,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen

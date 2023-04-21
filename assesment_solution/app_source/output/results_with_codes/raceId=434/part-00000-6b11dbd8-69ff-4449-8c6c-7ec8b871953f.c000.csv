@@ -1,0 +1,22 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+95,10180,3,5,1,1,1,1,9,75,1:28:22.866,5302866,\N,\N,\N,\N,1,mansell,\N,\N,Nigel,Mansell,1953-08-08,British,http://en.wikipedia.org/wiki/Nigel_Mansell
+177,10181,3,6,3,2,2,2,6,75,+7.572,5310438,\N,\N,\N,\N,1,keke_rosberg,\N,\N,Keke,Rosberg,1948-12-06,Finnish,http://en.wikipedia.org/wiki/Keke_Rosberg
+117,10182,1,2,9,3,3,3,4,74,\N,\N,\N,\N,\N,\N,11,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+140,10183,6,28,16,4,4,4,3,74,\N,\N,\N,\N,\N,\N,11,johansson,\N,\N,Stefan,Johansson,1956-09-08,Swedish,http://en.wikipedia.org/wiki/Stefan_Johansson
+77,10184,21,17,11,5,5,5,2,74,\N,\N,\N,\N,\N,\N,11,berger,\N,\N,Gerhard,Berger,1959-08-27,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger
+123,10185,21,18,10,6,6,6,1,74,\N,\N,\N,\N,\N,\N,11,boutsen,\N,\N,Thierry,Boutsen,1957-07-13,Belgian,http://en.wikipedia.org/wiki/Thierry_Boutsen
+84,10186,25,3,17,7,7,7,0,73,\N,\N,\N,\N,\N,\N,12,brundle,\N,\N,Martin,Brundle,1959-06-01,British,http://en.wikipedia.org/wiki/Martin_Brundle
+173,10187,32,11,6,\N,R,8,0,52,\N,\N,\N,\N,\N,\N,5,angelis,\N,\N,Elio,de Angelis,1958-03-26,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
+94,10188,18,29,20,\N,R,9,0,45,\N,\N,\N,\N,\N,\N,21,martini,\N,\N,Pierluigi,Martini,1961-04-23,Italian,http://en.wikipedia.org/wiki/Pierluigi_Martini
+182,10189,1,1,8,\N,R,10,0,37,\N,\N,\N,\N,\N,\N,101,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+166,10190,25,4,19,\N,R,11,0,16,\N,\N,\N,\N,\N,\N,3,streiff,\N,\N,Philippe,Streiff,1955-06-26,French,http://en.wikipedia.org/wiki/Philippe_Streiff
+102,10191,32,12,4,\N,R,12,0,8,\N,\N,\N,\N,\N,\N,5,senna,\N,\N,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
+105,10192,6,27,15,\N,R,13,0,8,\N,\N,\N,\N,\N,\N,101,alboreto,\N,\N,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
+137,10193,34,7,2,\N,R,14,0,6,\N,\N,\N,\N,\N,\N,5,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+160,10194,53,20,13,\N,R,15,0,4,\N,\N,\N,\N,\N,\N,5,ghinzani,\N,\N,Piercarlo,Ghinzani,1952-01-16,Italian,http://en.wikipedia.org/wiki/Piercarlo_Ghinzani
+170,10195,53,19,7,\N,R,16,0,3,\N,\N,\N,\N,\N,\N,5,fabi,\N,\N,Teo,Fabi,1955-03-09,Italian,http://en.wikipedia.org/wiki/Teo_Fabi
+176,10196,34,8,5,\N,R,17,0,3,\N,\N,\N,\N,\N,\N,5,surer,\N,\N,Marc,Surer,1951-09-18,Swiss,http://en.wikipedia.org/wiki/Marc_Surer
+179,10197,45,24,21,\N,R,18,0,1,\N,\N,\N,\N,\N,\N,10,rothengatter,\N,\N,Huub,Rothengatter,1954-10-08,Dutch,http://en.wikipedia.org/wiki/Huub_Rothengatter
+119,10198,51,22,12,\N,R,19,0,0,\N,\N,\N,\N,\N,\N,3,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+158,10199,51,23,14,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,3,cheever,\N,\N,Eddie,Cheever,1958-01-10,American,http://en.wikipedia.org/wiki/Eddie_Cheever
+178,10200,26,33,18,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,100,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)

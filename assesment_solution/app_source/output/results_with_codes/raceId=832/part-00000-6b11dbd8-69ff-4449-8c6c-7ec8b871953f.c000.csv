@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,20005,51,22,2,1,1,1,9,70,2:46:54.10,10014100,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+498,20006,6,6,3,2,2,2,6,70,+54.28,10068380,\N,\N,\N,\N,1,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+642,20007,51,20,4,3,3,3,4,70,+1:45.54,10119640,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+647,20008,6,2,1,4,4,4,3,68,\N,\N,\N,\N,\N,\N,12,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+697,20009,51,24,8,5,5,5,2,68,\N,\N,\N,\N,\N,\N,12,bonetto,\N,\N,Felice,Bonetto,1903-06-09,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
+640,20010,51,26,6,6,6,6,0,66,\N,\N,\N,\N,\N,\N,14,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+627,20011,154,28,20,7,7,7,0,64,\N,\N,\N,\N,\N,\N,16,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+741,20012,154,34,13,8,8,8,0,63,\N,\N,\N,\N,\N,\N,17,etancelin,\N,\N,Philippe,Étancelin,1896-12-28,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
+626,20013,141,14,9,9,9,9,0,63,\N,\N,\N,\N,\N,\N,17,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+580,20014,105,44,17,10,10,10,0,60,\N,\N,\N,\N,\N,\N,88,godia,\N,\N,Paco,Godia,1921-03-21,Spanish,http://en.wikipedia.org/wiki/Paco_Godia
+633,20015,6,4,5,\N,R,11,0,48,\N,\N,\N,\N,\N,\N,80,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+609,20016,141,16,10,\N,R,12,0,48,\N,\N,\N,\N,\N,\N,5,simon,\N,\N,André,Simon,1920-01-05,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Simon_(racing_driver)
+660,20017,154,36,15,\N,R,13,0,37,\N,\N,\N,\N,\N,\N,3,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+641,20018,6,8,7,\N,R,14,0,30,\N,\N,\N,\N,\N,\N,36,taruffi,\N,\N,Piero,Taruffi,1906-10-12,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
+427,20019,141,12,11,\N,R,15,0,25,\N,\N,\N,\N,\N,\N,5,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+783,20020,154,38,16,\N,R,16,0,23,\N,\N,\N,\N,\N,\N,5,grignard,\N,\N,Georges,Grignard,1905-07-25,French,http://en.wikipedia.org/wiki/Georges_Grignard
+704,20021,154,32,14,\N,R,17,0,7,\N,\N,\N,\N,\N,\N,3,cabantous,\N,\N,Yves,Cabantous,1904-10-08,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous
+589,20022,154,30,12,\N,R,18,0,4,\N,\N,\N,\N,\N,\N,80,chiron,\N,\N,Louis,Chiron,1899-08-03,Monegasque,http://en.wikipedia.org/wiki/Louis_Chiron
+669,20023,105,18,19,\N,R,19,0,1,\N,\N,\N,\N,\N,\N,5,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+782,20024,105,46,18,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,5,jover,\N,\N,Juan,Jover,1903-11-23,Spanish,http://en.wikipedia.org/wiki/Juan_Jover

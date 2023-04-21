@@ -1,0 +1,14 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+328,16266,196,2,1,1,1,1,9,38,1:56:47.4,7007400,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+306,16267,196,7,5,2,2,2,6,38,+57.1,7064500,\N,\N,\N,\N,1,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+235,16268,182,11,4,3,3,3,4,38,+57.3,7064700,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+360,16269,187,5,7,4,4,4,3,37,\N,\N,\N,\N,\N,\N,11,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+350,16270,187,10,10,5,5,5,2,37,\N,\N,\N,\N,\N,\N,11,elford,\N,\N,Vic,Elford,1935-06-10,British,http://en.wikipedia.org/wiki/Vic_Elford
+289,16271,180,1,8,6,6,6,1,37,\N,\N,\N,\N,\N,\N,11,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+351,16272,182,12,13,7,7,7,0,36,\N,\N,\N,\N,\N,\N,12,moser,\N,\N,Silvio,Moser,1941-04-24,Swiss,http://en.wikipedia.org/wiki/Silvio_Moser
+304,16273,187,4,2,8,8,8,0,35,\N,\N,\N,\N,\N,\N,13,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+346,16274,180,3,9,9,9,9,0,34,\N,\N,\N,\N,\N,\N,14,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+278,16275,6,6,6,\N,R,10,0,30,\N,\N,\N,\N,\N,\N,5,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+358,16276,180,15,3,\N,R,11,0,22,\N,\N,\N,\N,\N,\N,68,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+361,16277,182,9,11,\N,R,12,0,21,\N,\N,\N,\N,\N,\N,83,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+357,16278,180,14,12,\N,R,13,0,1,\N,\N,\N,\N,\N,\N,48,miles,\N,\N,John,Miles,1943-06-14,British,http://en.wikipedia.org/wiki/John_Miles_(auto_racer)

@@ -1,0 +1,15 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+235,16296,182,6,1,1,1,1,9,14,1:49:55.4,6595400,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+328,16297,196,7,2,2,2,2,6,14,+57.7,6653100,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+360,16298,187,10,8,3,3,3,4,14,+3:21.6,6797000,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+289,16299,180,1,9,4,4,4,3,14,+3:58.8,6834200,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+346,16300,180,11,4,5,5,5,2,12,\N,\N,\N,\N,\N,\N,22,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+306,16301,196,8,10,6,6,6,1,12,\N,\N,\N,\N,\N,\N,22,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+304,16302,187,9,5,\N,R,7,0,11,\N,\N,\N,\N,\N,\N,7,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+262,16303,197,15,16,\N,R,8,0,11,\N,\N,\N,\N,\N,\N,44,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+358,16304,180,2,3,\N,R,9,0,10,\N,\N,\N,\N,\N,\N,80,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+347,16305,180,16,23,\N,R,10,0,4,\N,\N,\N,\N,\N,\N,95,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+361,16306,182,17,7,\N,R,11,0,1,\N,\N,\N,\N,\N,\N,3,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+350,16307,187,12,6,\N,R,12,0,0,\N,\N,\N,\N,\N,\N,3,elford,\N,\N,Vic,Elford,1935-06-10,British,http://en.wikipedia.org/wiki/Vic_Elford
+207,16308,180,3,15,\N,R,13,0,0,\N,\N,\N,\N,\N,\N,3,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+341,16309,66,14,11,\N,W,14,0,0,\N,\N,\N,\N,\N,\N,54,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees

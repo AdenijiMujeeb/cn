@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,17465,172,18,1,1,1,1,9,53,2:10:54.3,7854300,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+408,17466,170,12,8,2,2,2,6,53,+1:04.9,7919200,\N,\N,\N,\N,1,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+289,17467,66,2,2,3,3,3,0,53,+1:13.9,7928200,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+356,17468,34,6,5,4,4,4,3,53,+2:15.2,7989500,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+364,17469,34,8,3,5,5,5,2,53,+2:33.4,8007700,\N,\N,\N,\N,1,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+346,17470,176,36,10,6,6,6,1,52,\N,\N,\N,\N,\N,\N,11,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+278,17471,26,30,17,7,7,7,0,51,\N,\N,\N,\N,\N,\N,12,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+427,17472,172,28,15,8,8,8,0,50,\N,\N,\N,\N,\N,\N,13,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+404,17473,94,32,9,9,9,9,0,49,\N,\N,\N,\N,\N,\N,14,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+385,17474,66,46,21,10,10,10,0,45,\N,\N,\N,\N,\N,\N,18,bandini,\N,\N,Lorenzo,Bandini,1935-12-21,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
+440,17475,176,34,18,11,11,11,0,45,\N,\N,\N,\N,\N,\N,18,hall,\N,\N,Jim,Hall,1935-07-23,American,http://en.wikipedia.org/wiki/Jim_Hall_(race_car_driver)
+360,17476,170,10,6,12,12,12,0,42,\N,\N,\N,\N,\N,\N,80,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+401,17477,172,20,7,13,13,13,0,41,\N,\N,\N,\N,\N,\N,22,trevor_taylor,\N,\N,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
+403,17478,176,42,13,\N,N,14,0,34,\N,\N,\N,\N,\N,\N,62,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+347,17479,170,44,11,\N,N,15,0,32,\N,\N,\N,\N,\N,\N,62,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+418,17480,176,48,19,\N,R,16,0,30,\N,\N,\N,\N,\N,\N,6,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+341,17481,6,16,4,\N,R,17,0,12,\N,\N,\N,\N,\N,\N,48,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+438,17482,92,38,20,\N,R,18,0,5,\N,\N,\N,\N,\N,\N,67,settember,\N,\N,Tony,Settember,1926-07-10,American,http://en.wikipedia.org/wiki/Tony_Settember
+386,17483,66,4,12,\N,R,19,0,4,\N,\N,\N,\N,\N,\N,21,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+375,17484,6,14,0,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,54,scarfiotti,\N,\N,Ludovico,Scarfiotti,1933-10-18,Italian,http://en.wikipedia.org/wiki/Ludovico_Scarfiotti
+397,17485,172,22,0,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,54,arundell,\N,\N,Peter,Arundell,1933-11-08,British,http://en.wikipedia.org/wiki/Peter_Arundell
+394,17486,54,26,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,baghetti,\N,\N,Giancarlo,Baghetti,1934-12-25,Italian,http://en.wikipedia.org/wiki/Giancarlo_Baghetti
+437,17487,92,40,0,\N,W,23,0,0,\N,\N,\N,\N,\N,\N,54,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess
+439,17488,86,50,0,\N,W,24,0,0,\N,\N,\N,\N,\N,\N,54,estefano,\N,\N,Nasif,Estéfano,1932-11-18,Argentine,http://en.wikipedia.org/wiki/Nasif_Est%C3%A9fano

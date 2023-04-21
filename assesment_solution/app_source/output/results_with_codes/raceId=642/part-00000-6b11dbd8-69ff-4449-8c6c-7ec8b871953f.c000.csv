@@ -1,0 +1,30 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+327,15860,25,9,5,1,1,1,9,59,1:43:51.991,6231991,\N,\N,\N,\N,1,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+346,15861,66,14,6,2,2,2,6,59,+40.062,6272053,\N,\N,\N,\N,1,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+238,15862,200,25,11,3,3,3,4,59,+44.070,6276061,\N,\N,\N,\N,1,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+307,15863,66,16,12,4,4,4,3,59,+56.749,6288740,\N,\N,\N,\N,1,ganley,\N,\N,Howden,Ganley,1941-12-24,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley
+328,15864,25,8,1,5,5,5,2,59,+1:00.003,6291994,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+223,15865,6,5,4,6,6,6,1,59,+1:16.426,6308417,\N,\N,\N,\N,1,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+289,15866,34,22,18,7,7,7,0,58,\N,\N,\N,\N,\N,\N,11,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+306,15867,82,12,10,8,8,8,0,58,\N,\N,\N,\N,\N,\N,11,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+320,15868,66,15,21,9,9,9,0,58,\N,\N,\N,\N,\N,\N,11,gethin,\N,\N,Peter,Gethin,1940-02-21,British,http://en.wikipedia.org/wiki/Peter_Gethin
+322,15869,1,31,22,10,10,10,0,58,\N,\N,\N,\N,\N,\N,11,hobbs,\N,\N,David,Hobbs,1939-06-09,British,http://en.wikipedia.org/wiki/David_Hobbs_(racing_driver)
+333,15870,199,27,26,11,11,11,0,57,\N,\N,\N,\N,\N,\N,12,adamich,\N,\N,Andrea,de Adamich,1941-10-03,Italian,http://en.wikipedia.org/wiki/Andrea_de_Adamich
+278,15871,82,11,8,12,12,12,0,57,\N,\N,\N,\N,\N,\N,12,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+337,15872,66,17,16,13,13,13,0,57,\N,\N,\N,\N,\N,\N,12,marko,\N,\N,Helmut,Marko,1943-04-27,Austrian,http://en.wikipedia.org/wiki/Helmut_Marko
+355,15873,66,28,24,14,14,14,0,56,\N,\N,\N,\N,\N,\N,13,Cannoc,\N,\N,John,Cannon,1933-06-21,Canadian,http://en.wikipedia.org/wiki/John_Cannon_(auto_racer)
+305,15874,63,20,14,15,15,15,0,54,\N,\N,\N,\N,\N,\N,3,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+347,15875,1,29,28,16,16,16,0,54,\N,\N,\N,\N,\N,\N,60,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+341,15876,63,18,13,17,17,17,0,54,\N,\N,\N,\N,\N,\N,15,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+342,15877,200,33,25,\N,N,18,0,52,\N,\N,\N,\N,\N,\N,62,barber,\N,\N,Skip,Barber,1936-11-16,American,http://en.wikipedia.org/wiki/Skip_Barber
+235,15878,6,32,7,\N,R,19,0,49,\N,\N,\N,\N,\N,\N,91,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+224,15879,180,2,2,\N,N,20,0,49,\N,\N,\N,\N,\N,\N,62,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+353,15880,180,30,29,\N,N,21,0,49,\N,\N,\N,\N,\N,\N,62,lovely,\N,\N,Pete,Lovely,1926-04-11,American,http://en.wikipedia.org/wiki/Pete_Lovely
+304,15881,1,7,3,\N,R,22,0,47,\N,\N,\N,\N,\N,\N,3,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+314,15882,34,23,15,\N,R,23,0,41,\N,\N,\N,\N,\N,\N,5,schenken,\N,\N,Tim,Schenken,1943-09-26,Australian,http://en.wikipedia.org/wiki/Tim_Schenken
+354,15883,34,24,27,\N,R,24,0,30,\N,\N,\N,\N,\N,\N,22,craft,\N,\N,Chris,Craft,1939-11-17,British,http://en.wikipedia.org/wiki/Chris_Craft_(racing_driver)
+344,15884,63,19,17,\N,R,25,0,15,\N,\N,\N,\N,\N,\N,5,posey,\N,\N,Sam,Posey,1944-05-26,American,http://en.wikipedia.org/wiki/Sam_Posey
+280,15885,200,21,20,\N,R,26,0,23,\N,\N,\N,\N,\N,\N,5,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+330,15886,200,26,23,\N,R,27,0,11,\N,\N,\N,\N,\N,\N,36,galli,\N,\N,Nanni,Galli,1940-10-02,Italian,http://en.wikipedia.org/wiki/Nanni_Galli
+317,15887,180,3,9,\N,R,28,0,5,\N,\N,\N,\N,\N,\N,23,wisell,\N,\N,Reine,Wisell,1941-09-30,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell
+309,15888,25,10,19,\N,R,29,0,1,\N,\N,\N,\N,\N,\N,8,revson,\N,\N,Peter,Revson,1939-02-27,American,http://en.wikipedia.org/wiki/Peter_Revson

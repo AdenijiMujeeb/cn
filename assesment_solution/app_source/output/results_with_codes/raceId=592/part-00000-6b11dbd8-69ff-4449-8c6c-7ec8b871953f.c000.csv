@@ -1,0 +1,28 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+199,14575,34,7,4,1,1,1,9,78,1:42:40.96,6160960,\N,\N,\N,\N,1,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+306,14576,66,14,11,2,2,2,6,78,+33.94,6194900,\N,\N,\N,\N,1,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+305,14577,1,33,12,3,3,3,4,78,+42.16,6203120,\N,\N,\N,\N,1,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+221,14578,25,4,15,4,4,4,3,78,+44.19,6205150,\N,\N,\N,\N,1,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+233,14579,37,9,7,5,5,5,2,78,+46.23,6207190,\N,\N,\N,\N,1,stuck,\N,\N,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
+232,14580,80,20,3,6,6,6,1,78,+56.04,6217000,\N,\N,\N,\N,1,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+224,14581,1,5,5,7,7,7,0,78,+1:08.39,6229350,\N,\N,\N,\N,1,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+222,14582,25,3,8,8,8,8,0,78,+1:10.54,6231500,\N,\N,\N,\N,1,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+304,14583,1,6,9,9,9,9,0,77,\N,\N,\N,\N,\N,\N,11,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+230,14584,37,10,19,10,10,10,0,77,\N,\N,\N,\N,\N,\N,11,brambilla,\N,\N,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
+250,14585,63,18,2,11,11,11,0,77,\N,\N,\N,\N,\N,\N,11,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+289,14586,26,26,18,12,12,12,0,77,\N,\N,\N,\N,\N,\N,11,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+251,14587,32,29,22,13,13,13,0,76,\N,\N,\N,\N,\N,\N,12,ian_scheckter,\N,\N,Ian,Scheckter,1947-08-22,South African,http://en.wikipedia.org/wiki/Ian_Scheckter
+292,14588,25,32,24,14,14,14,0,76,\N,\N,\N,\N,\N,\N,12,keizan,\N,\N,Eddie,Keizan,1944-09-12,South African,http://en.wikipedia.org/wiki/Eddie_Keizan
+296,14589,66,37,25,15,15,15,0,75,\N,\N,\N,\N,\N,\N,13,migault,\N,\N,François,Migault,1944-12-04,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Migault
+182,14590,6,12,1,16,16,16,0,74,\N,\N,\N,\N,\N,\N,80,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+308,14591,34,8,23,17,17,17,0,74,\N,\N,\N,\N,\N,\N,14,robarts,\N,\N,Richard,Robarts,1944-09-22,British,http://en.wikipedia.org/wiki/Richard_Robarts
+280,14592,66,15,21,18,18,18,0,72,\N,\N,\N,\N,\N,\N,16,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+293,14593,1,23,20,19,19,19,0,71,\N,\N,\N,\N,\N,\N,17,charlton,\N,\N,Dave,Charlton,1936-10-27,South African,http://en.wikipedia.org/wiki/Dave_Charlton
+223,14594,6,11,6,\N,R,20,0,65,\N,\N,\N,\N,\N,\N,51,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+187,14595,34,28,13,\N,R,21,0,54,\N,\N,\N,\N,\N,\N,69,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+235,14596,32,2,10,\N,R,22,0,31,\N,\N,\N,\N,\N,\N,23,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+231,14597,64,24,14,\N,R,23,0,13,\N,\N,\N,\N,\N,\N,7,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+200,14598,63,19,17,\N,R,24,0,11,\N,\N,\N,\N,\N,\N,22,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+310,14599,32,30,26,\N,R,25,0,6,\N,\N,\N,\N,\N,\N,8,driver,\N,\N,Paddy,Driver,1934-05-13,South African,http://en.wikipedia.org/wiki/Paddy_Driver
+238,14600,32,1,16,\N,R,26,0,2,\N,\N,\N,\N,\N,\N,4,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+311,14601,80,21,27,\N,R,27,0,0,\N,\N,\N,\N,\N,\N,8,belso,\N,\N,Tom,Belsø,1942-08-27,Danish,http://en.wikipedia.org/wiki/Tom_Bels%C3%B8

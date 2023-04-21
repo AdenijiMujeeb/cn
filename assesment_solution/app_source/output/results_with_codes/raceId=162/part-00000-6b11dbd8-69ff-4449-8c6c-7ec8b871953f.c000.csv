@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+57,3019,1,1,2,1,1,1,10,65,1:33:55.390,5635390,\N,\N,\N,\N,1,hakkinen,\N,\N,Mika,Häkkinen,1968-09-28,Finnish,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen
+14,3020,1,2,4,2,2,2,6,65,+16.066,5651456,\N,\N,\N,\N,1,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+22,3021,6,4,3,3,3,3,4,65,+29.112,5664502,\N,\N,\N,\N,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+23,3022,3,9,5,4,4,4,3,65,+37.311,5672701,\N,\N,\N,\N,1,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+30,3023,6,3,1,5,5,5,2,65,+47.983,5683373,\N,\N,\N,\N,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+49,3024,17,5,8,6,6,6,1,65,+1:21.925,5717315,\N,\N,\N,\N,1,frentzen,\N,\N,Heinz-Harald,Frentzen,1967-05-18,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen
+63,3025,15,17,12,7,7,7,0,64,\N,\N,\N,\N,\N,\N,11,salo,\N,\N,Mika,Salo,1966-11-30,Finnish,http://en.wikipedia.org/wiki/Mika_Salo
+41,3026,16,23,16,8,8,8,0,64,\N,\N,\N,\N,\N,\N,11,zonta,\N,ZON,Ricardo,Zonta,1976-03-23,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta
+21,3027,22,11,13,9,9,9,0,64,\N,\N,\N,\N,\N,\N,11,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+25,3028,22,12,18,10,10,10,0,64,\N,\N,\N,\N,\N,\N,11,wurz,\N,WUR,Alexander,Wurz,1974-02-15,Austrian,http://en.wikipedia.org/wiki/Alexander_Wurz
+56,3029,19,7,9,11,11,11,0,64,\N,\N,\N,\N,\N,\N,11,irvine,\N,\N,Eddie,Irvine,1965-11-10,British,http://en.wikipedia.org/wiki/Eddie_Irvine
+15,3030,17,6,7,12,12,12,0,64,\N,\N,\N,\N,\N,\N,11,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+65,3031,19,8,14,13,13,13,0,64,\N,\N,\N,\N,\N,\N,11,herbert,\N,\N,Johnny,Herbert,1964-06-25,British,http://en.wikipedia.org/wiki/Johnny_Herbert
+48,3032,18,20,20,14,14,14,0,63,\N,\N,\N,\N,\N,\N,12,gene,\N,\N,Marc,Gené,1974-03-29,Spanish,http://en.wikipedia.org/wiki/Marc_Gen%C3%A9
+60,3033,18,21,21,15,15,15,0,63,\N,\N,\N,\N,\N,\N,12,mazzacane,\N,\N,Gastón,Mazzacane,1975-05-08,Argentine,http://en.wikipedia.org/wiki/Gast%C3%B3n_Mazzacane
+2,3034,20,15,19,16,16,16,0,62,\N,\N,\N,\N,\N,\N,13,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+18,3035,3,10,10,17,17,17,0,61,\N,\N,\N,\N,\N,\N,5,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+50,3036,21,19,11,\N,R,18,0,25,\N,\N,\N,\N,\N,\N,6,verstappen,\N,\N,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
+35,3037,16,22,6,\N,R,19,0,21,\N,\N,\N,\N,\N,\N,9,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+55,3038,20,14,17,\N,R,20,0,1,\N,\N,\N,\N,\N,\N,4,alesi,\N,\N,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
+37,3039,21,18,22,\N,R,21,0,1,\N,\N,\N,\N,\N,\N,4,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+64,3040,15,16,15,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,20,diniz,\N,\N,Pedro,Diniz,1970-05-22,Brazilian,http://en.wikipedia.org/wiki/Pedro_Diniz

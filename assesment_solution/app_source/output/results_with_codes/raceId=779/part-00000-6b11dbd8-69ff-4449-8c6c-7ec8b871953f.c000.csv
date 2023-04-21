@@ -1,0 +1,17 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,18791,105,2,1,1,1,1,8,77,3:07:46.4,11266400,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+577,18792,6,10,3,2,2,2,7,77,+50.8,11317200,\N,\N,\N,\N,1,musso,\N,\N,Luigi,Musso,1924-07-28,Italian,http://en.wikipedia.org/wiki/Luigi_Musso
+581,18793,6,12,5,3,3,3,4,77,+2:06.0,11392400,\N,\N,\N,\N,1,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+578,18794,6,14,7,4,4,4,3,76,\N,\N,\N,\N,\N,\N,11,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+501,18795,105,6,4,5,5,5,2,70,\N,\N,\N,\N,\N,\N,17,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+554,18796,105,4,2,6,6,6,0,69,\N,\N,\N,\N,\N,\N,18,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+617,18797,87,24,15,7,7,7,0,68,\N,\N,\N,\N,\N,\N,19,macdowel,\N,\N,Mike,MacDowel,1932-09-13,British,http://en.wikipedia.org/wiki/Mike_MacDowel
+496,18798,105,8,9,\N,R,8,0,30,\N,\N,\N,\N,\N,\N,5,menditeguy,\N,\N,Carlos,Menditeguy,1914-08-10,Argentine,http://en.wikipedia.org/wiki/Carlos_Menditeguy
+590,18799,118,18,10,\N,R,9,0,30,\N,\N,\N,\N,\N,\N,38,lewis-evans,\N,\N,Stuart,Lewis-Evans,1930-04-20,British,http://en.wikipedia.org/wiki/Stuart_Lewis-Evans
+456,18800,118,20,6,\N,R,10,0,25,\N,\N,\N,\N,\N,\N,5,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+618,18801,66,28,12,\N,R,11,0,24,\N,\N,\N,\N,\N,\N,7,mackay-fraser,\N,\N,Herbert,MacKay-Fraser,1927-06-23,American,http://en.wikipedia.org/wiki/Herbert_MacKay-Fraser
+427,18802,6,16,8,\N,R,12,0,23,\N,\N,\N,\N,\N,\N,10,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+356,18803,87,22,13,\N,R,13,0,4,\N,\N,\N,\N,\N,\N,3,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+547,18804,105,30,14,\N,R,14,0,4,\N,\N,\N,\N,\N,\N,86,gould,\N,\N,Horace,Gould,1918-09-20,British,http://en.wikipedia.org/wiki/Horace_Gould
+541,18805,66,26,11,\N,R,15,0,2,\N,\N,\N,\N,\N,\N,3,flockhart,\N,\N,Ron,Flockhart,1923-06-16,British,http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing)
+356,20290,87,24,15,7,7,7,0,68,\N,\N,\N,\N,\N,\N,19,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham

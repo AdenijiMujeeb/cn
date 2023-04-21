@@ -1,0 +1,16 @@
+QUESTION 2 APPROACH.
+The following steps are how I would approach the above question:
+Assuming that the rank column is used to determine the drivers’ position and the circuit is the same as the track.
+1.	I would join the 3 datasets which are Drivers, Race and Results using inner join on the raceId and driverId.
+2.	I would remove all the null values in the resulting datasets generated in step 1 above.
+3.	I would check the correlation between all the joined dataset columns by plotting correlation matrix heatmap. This would enable me to select the columns that has strong correlations among themselves.
+4.	Since I want to predict the likely winner of a race on a particular track, I can treat the target variable as either a regression or a classification. 
+5.	I would use some machine learning algorithms and would compare the results of their predictions such as linear regression, support vector machines, and random forest.
+6.	Then, I would split the dataset into test and train sets using the year. I would be training with datasets from 2008 downwards and would be testing with only 2009 dataset alone.
+7.	I would be using the rank column as the target variable i.e Y and other columns as X. 
+8.	Then, I would fit the data into the model.
+9.	I would plot a confusion matrix to show the actual and the predicted values of the driver and their circuit Id using the prediction probabilities. Or I would view the prediction probabilities of each driver for the particular track and the driver with the highest probability would be predicted as the winner.
+
+QUESTIONS:
+- I am not too familiar with car racing but from the race data, I am assuming that the circuit is the same as the track right?
+- Is the rank column used to determine the drivers’ position (1st, 2nd, 3rd etc ) in a race?

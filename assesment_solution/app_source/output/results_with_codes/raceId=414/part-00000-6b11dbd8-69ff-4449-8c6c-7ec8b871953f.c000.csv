@@ -1,0 +1,27 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+137,9663,3,6,2,1,1,1,9,76,2:00:34.508,7234508,\N,\N,\N,\N,1,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+102,9664,32,12,1,2,2,2,6,76,+17.673,7252181,\N,\N,\N,\N,1,senna,\N,\N,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
+95,9665,3,5,4,3,3,3,4,75,\N,\N,\N,\N,\N,\N,11,mansell,\N,\N,Nigel,Mansell,1953-08-08,British,http://en.wikipedia.org/wiki/Nigel_Mansell
+140,9666,6,28,7,4,4,4,3,75,\N,\N,\N,\N,\N,\N,11,johansson,\N,\N,Stefan,Johansson,1956-09-08,Swedish,http://en.wikipedia.org/wiki/Stefan_Johansson
+174,9667,32,11,8,5,5,5,2,74,\N,\N,\N,\N,\N,\N,12,dumfries,\N,\N,Johnny,Dumfries,1958-04-26,British,http://en.wikipedia.org/wiki/Johnny_Dumfries
+84,9668,25,3,16,6,6,6,1,74,\N,\N,\N,\N,\N,\N,12,brundle,\N,\N,Martin,Brundle,1959-06-01,British,http://en.wikipedia.org/wiki/Martin_Brundle
+175,9669,26,16,6,7,7,7,0,74,\N,\N,\N,\N,\N,\N,12,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+166,9670,25,4,18,8,8,8,0,74,\N,\N,\N,\N,\N,\N,12,streiff,\N,\N,Philippe,Streiff,1955-06-26,French,http://en.wikipedia.org/wiki/Philippe_Streiff
+112,9671,27,26,12,9,9,9,0,73,\N,\N,\N,\N,\N,\N,13,alliot,\N,\N,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
+156,9672,49,14,24,10,10,10,0,70,\N,\N,\N,\N,\N,\N,16,palmer,\N,\N,Jonathan,Palmer,1956-11-07,British,http://en.wikipedia.org/wiki/Jonathan_Palmer
+163,9673,27,25,9,\N,R,11,0,48,\N,\N,\N,\N,\N,\N,5,arnoux,\N,\N,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
+178,9674,26,15,10,\N,R,12,0,46,\N,\N,\N,\N,\N,\N,24,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+77,9675,22,20,11,\N,R,13,0,44,\N,\N,\N,\N,\N,\N,7,berger,\N,\N,Gerhard,Berger,1959-08-27,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger
+123,9676,21,18,22,\N,R,14,0,40,\N,\N,\N,\N,\N,\N,10,boutsen,\N,\N,Thierry,Boutsen,1957-07-13,Belgian,http://en.wikipedia.org/wiki/Thierry_Boutsen
+177,9677,1,2,5,\N,R,15,0,34,\N,\N,\N,\N,\N,\N,22,keke_rosberg,\N,\N,Keke,Rosberg,1948-12-06,Finnish,http://en.wikipedia.org/wiki/Keke_Rosberg
+170,9678,22,19,13,\N,R,16,0,32,\N,\N,\N,\N,\N,\N,7,fabi,\N,\N,Teo,Fabi,1955-03-09,Italian,http://en.wikipedia.org/wiki/Teo_Fabi
+145,9679,18,24,17,\N,R,17,0,30,\N,\N,\N,\N,\N,\N,5,nannini,\N,\N,Alessandro,Nannini,1959-07-07,Italian,http://en.wikipedia.org/wiki/Alessandro_Nannini
+105,9680,6,27,15,\N,R,18,0,29,\N,\N,\N,\N,\N,\N,3,alboreto,\N,\N,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
+118,9681,34,8,19,\N,R,19,0,28,\N,\N,\N,\N,\N,\N,3,warwick,\N,\N,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
+117,9682,1,1,3,\N,R,20,0,23,\N,\N,\N,\N,\N,\N,3,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+160,9683,45,21,23,\N,R,21,0,15,\N,\N,\N,\N,\N,\N,22,ghinzani,\N,\N,Piercarlo,Ghinzani,1952-01-16,Italian,http://en.wikipedia.org/wiki/Piercarlo_Ghinzani
+157,9684,21,17,21,\N,R,22,0,7,\N,\N,\N,\N,\N,\N,22,danner,\N,\N,Christian,Danner,1958-04-04,German,http://en.wikipedia.org/wiki/Christian_Danner
+119,9685,34,7,14,\N,R,23,0,5,\N,\N,\N,\N,\N,\N,6,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+110,9686,18,23,20,\N,R,24,0,5,\N,\N,\N,\N,\N,\N,5,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
+179,9687,49,29,25,\N,R,25,0,2,\N,\N,\N,\N,\N,\N,21,rothengatter,\N,\N,Huub,Rothengatter,1954-10-08,Dutch,http://en.wikipedia.org/wiki/Huub_Rothengatter
+180,9688,45,22,26,\N,R,26,0,1,\N,\N,\N,\N,\N,\N,101,berg,\N,\N,Allen,Berg,1961-08-01,Canadian,http://en.wikipedia.org/wiki/Allen_Berg

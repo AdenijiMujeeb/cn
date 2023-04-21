@@ -1,0 +1,20 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+647,19798,6,2,1,1,1,1,9,90,2:53:28.5,10408500,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+642,19799,6,4,2,2,2,2,6,90,+40.1,10448600,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+633,19800,6,6,4,3,3,3,4,90,+1:34.4,10502900,\N,\N,\N,\N,1,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+578,19801,87,32,3,4,4,4,3,88,\N,\N,\N,\N,\N,\N,12,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+626,19802,128,10,6,5,5,5,2,87,\N,\N,\N,\N,\N,\N,13,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+427,19803,128,12,5,6,6,6,0,87,\N,\N,\N,\N,\N,\N,13,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+708,19804,133,28,10,7,7,7,0,85,\N,\N,\N,\N,\N,\N,15,duncan_hamilton,\N,\N,Duncan,Hamilton,1920-04-30,British,http://en.wikipedia.org/wiki/Duncan_Hamilton_(racing_driver)
+651,19805,133,26,9,8,8,8,0,84,\N,\N,\N,\N,\N,\N,16,macklin,\N,\N,Lance,Macklin,1919-09-02,British,http://en.wikipedia.org/wiki/Lance_Macklin
+622,19806,105,16,16,9,9,9,0,83,\N,\N,\N,\N,\N,\N,17,landi,\N,\N,Chico,Landi,1907-07-14,Brazilian,http://en.wikipedia.org/wiki/Chico_Landi
+663,19807,148,34,7,\N,R,10,0,76,\N,\N,\N,\N,\N,\N,67,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+475,19808,151,36,18,\N,R,11,0,73,\N,\N,\N,\N,\N,\N,5,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+758,19809,133,30,14,\N,N,12,0,70,\N,\N,\N,\N,\N,\N,62,lof,\N,\N,Dries,van der Lof,1919-08-23,Dutch,http://en.wikipedia.org/wiki/Dries_van_der_Lof
+744,19810,125,22,13,\N,R,13,0,27,\N,\N,\N,\N,\N,\N,51,downing,\N,\N,Ken,Downing,1917-12-05,British,http://en.wikipedia.org/wiki/Ken_Downing
+735,19811,6,24,17,\N,R,14,0,19,\N,\N,\N,\N,\N,\N,5,tornaco,\N,\N,Charles,de Tornaco,1927-06-07,Belgian,http://en.wikipedia.org/wiki/Charles_de_Tornaco
+632,19812,141,14,11,\N,R,15,0,15,\N,\N,\N,\N,\N,\N,8,frere,\N,\N,Paul,Frère,1917-01-30,Belgian,http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re
+554,19813,128,8,6,\N,R,16,0,10,\N,\N,\N,\N,\N,\N,10,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+759,19814,105,20,15,\N,R,17,0,7,\N,\N,\N,\N,\N,\N,24,flinterman,\N,\N,Jan,Flinterman,1919-10-02,Dutch,http://en.wikipedia.org/wiki/Jan_Flinterman
+746,19815,105,18,12,\N,R,18,0,4,\N,\N,\N,\N,\N,\N,109,bianco,\N,\N,Gino,Bianco,1916-07-22,Brazilian,http://en.wikipedia.org/wiki/Gino_Bianco
+759,20193,105,16,16,9,9,9,0,83,\N,\N,\N,\N,\N,\N,17,flinterman,\N,\N,Jan,Flinterman,1919-10-02,Dutch,http://en.wikipedia.org/wiki/Jan_Flinterman

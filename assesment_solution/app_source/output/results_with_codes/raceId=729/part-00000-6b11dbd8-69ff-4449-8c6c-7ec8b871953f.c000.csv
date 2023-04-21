@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+289,17626,66,17,2,1,1,1,9,80,2:11:02.1,7862100,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+401,17627,172,5,10,2,2,2,6,80,+27.2,7889300,\N,\N,\N,\N,1,trevor_taylor,\N,\N,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
+403,17628,6,1,9,3,3,3,4,80,+1:21.1,7943200,\N,\N,\N,\N,1,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+394,17629,6,2,12,4,4,4,3,79,\N,\N,\N,\N,\N,\N,11,baghetti,\N,\N,Giancarlo,Baghetti,1934-12-25,Italian,http://en.wikipedia.org/wiki/Giancarlo_Baghetti
+408,17630,170,7,15,5,5,5,2,78,\N,\N,\N,\N,\N,\N,12,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+430,17631,95,14,14,6,6,6,1,76,\N,\N,\N,\N,\N,\N,14,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+347,17632,95,11,13,7,7,7,0,75,\N,\N,\N,\N,\N,\N,15,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+453,17633,170,21,7,8,8,8,0,70,\N,\N,\N,\N,\N,\N,88,lewis,\N,\N,Jackie,Lewis,1936-11-01,British,http://en.wikipedia.org/wiki/Jackie_Lewis
+373,17634,172,4,3,9,9,9,0,70,\N,\N,\N,\N,\N,\N,88,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+454,17635,6,3,11,\N,R,10,0,73,\N,\N,\N,\N,\N,\N,3,ricardo_rodriguez,\N,\N,Ricardo,Rodríguez,1942-02-14,Mexican,http://en.wikipedia.org/wiki/Ricardo_Rodr%C3%ADguez_(Formula_One)
+386,17636,66,18,7,\N,R,11,0,71,\N,\N,\N,\N,\N,\N,3,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+404,17637,172,9,6,\N,R,12,0,61,\N,\N,\N,\N,\N,\N,3,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+418,17638,172,10,16,\N,R,13,0,54,\N,\N,\N,\N,\N,\N,86,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+455,17639,99,16,20,\N,N,14,0,52,\N,\N,\N,\N,\N,\N,62,seidel,\N,\N,Wolfgang,Seidel,1926-07-04,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel
+364,17640,95,12,8,\N,R,15,0,47,\N,\N,\N,\N,\N,\N,6,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+360,17641,170,6,5,\N,R,16,0,21,\N,\N,\N,\N,\N,\N,6,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+456,17642,26,20,17,\N,R,17,0,12,\N,\N,\N,\N,\N,\N,54,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+341,17643,26,19,1,\N,R,18,0,8,\N,\N,\N,\N,\N,\N,3,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+356,17644,172,8,4,\N,R,19,0,4,\N,\N,\N,\N,\N,\N,3,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+457,17645,95,15,10,\N,R,20,0,2,\N,\N,\N,\N,\N,\N,3,pon,\N,\N,Ben,Pon,1936-12-09,Dutch,http://en.wikipedia.org/wiki/Ben_Pon
+458,17646,95,16,0,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,54,slotemaker,\N,\N,Rob,Slotemaker,1929-06-13,Dutch,http://en.wikipedia.org/wiki/Rob_Slotemaker
+427,17647,172,21,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant

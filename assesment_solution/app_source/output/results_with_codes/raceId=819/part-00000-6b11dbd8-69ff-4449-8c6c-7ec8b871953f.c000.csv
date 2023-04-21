@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+647,19694,6,4,1,1,1,1,9,36,3:03:46.3,11026300,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+642,19695,6,2,2,2,2,2,6,36,+1:55.2,11141500,\N,\N,\N,\N,1,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+626,19696,128,14,4,3,3,3,4,36,+4:28.4,11294700,\N,\N,\N,\N,1,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+578,19697,87,8,6,4,4,4,3,35,\N,\N,\N,\N,\N,\N,11,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+632,19698,133,28,8,5,5,5,2,34,\N,\N,\N,\N,\N,\N,12,frere,\N,\N,Paul,Frère,1917-01-30,Belgian,http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re
+689,19699,87,10,9,6,6,6,0,34,\N,\N,\N,\N,\N,\N,12,alan_brown,\N,\N,Alan,Brown,1919-11-20,British,http://en.wikipedia.org/wiki/Alan_Brown_(racing_driver)
+735,19700,6,34,13,7,7,7,0,33,\N,\N,\N,\N,\N,\N,13,tornaco,\N,\N,Charles,de Tornaco,1927-06-07,Belgian,http://en.wikipedia.org/wiki/Charles_de_Tornaco
+660,19701,128,18,19,8,8,8,0,33,\N,\N,\N,\N,\N,\N,13,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+688,19702,87,12,12,9,9,9,0,33,\N,\N,\N,\N,\N,\N,13,brandon,\N,\N,Eric,Brandon,1920-07-18,British,http://en.wikipedia.org/wiki/Eric_Brandon
+669,19703,141,20,18,10,10,10,0,32,\N,\N,\N,\N,\N,\N,14,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+651,19704,133,24,14,11,11,11,0,32,\N,\N,\N,\N,\N,\N,14,macklin,\N,\N,Lance,Macklin,1919-09-02,British,http://en.wikipedia.org/wiki/Lance_Macklin
+736,19705,133,30,20,12,12,12,0,32,\N,\N,\N,\N,\N,\N,14,laurent,\N,\N,Roger,Laurent,1913-02-21,Belgian,http://en.wikipedia.org/wiki/Roger_Laurent
+703,19706,144,38,21,13,13,13,0,31,\N,\N,\N,\N,\N,\N,15,legat,\N,\N,Arthur,Legat,1898-11-01,Belgian,http://en.wikipedia.org/wiki/Arthur_Legat
+737,19707,141,44,22,14,14,14,0,30,\N,\N,\N,\N,\N,\N,16,obrien,\N,\N,Robert,O'Brien,1908-04-11,American,http://en.wikipedia.org/wiki/Robert_O%27Brien_(auto_racer)
+738,19708,133,42,16,15,15,15,0,30,\N,\N,\N,\N,\N,\N,16,gaze,\N,\N,Tony,Gaze,1920-02-03,Australian,http://en.wikipedia.org/wiki/Tony_Gaze
+739,19709,152,40,15,\N,R,16,0,17,\N,\N,\N,\N,\N,\N,5,charrington,\N,\N,Robin,Montgomerie-Charrington,1915-06-23,British,http://en.wikipedia.org/wiki/Robin_Montgomerie-Charrington
+641,19710,6,6,3,\N,R,17,0,13,\N,\N,\N,\N,\N,\N,3,taruffi,\N,\N,Piero,Taruffi,1906-10-12,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
+554,19711,128,16,5,\N,R,18,0,13,\N,\N,\N,\N,\N,\N,3,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+663,19712,148,36,7,\N,R,19,0,10,\N,\N,\N,\N,\N,\N,20,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+627,19713,6,22,17,\N,R,20,0,6,\N,\N,\N,\N,\N,\N,7,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+581,19714,133,26,11,\N,R,21,0,3,\N,\N,\N,\N,\N,\N,86,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+475,19715,151,32,10,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,5,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss

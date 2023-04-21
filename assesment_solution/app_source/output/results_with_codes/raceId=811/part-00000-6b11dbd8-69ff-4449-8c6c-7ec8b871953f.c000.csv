@@ -1,0 +1,22 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+647,19484,6,10,2,1,1,1,8,36,2:48:30.3,10110300,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+633,19485,6,8,5,2,2,2,6,36,+2:48.2,10278500,\N,\N,\N,\N,1,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+670,19486,105,28,16,3,3,3,4,35,\N,\N,\N,\N,\N,\N,11,marimon,\N,\N,Onofre,Marimón,1923-12-19,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n
+640,19487,105,30,9,4,4,4,3,35,\N,\N,\N,\N,\N,\N,11,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+427,19488,128,18,8,5,5,5,2,35,\N,\N,\N,\N,\N,\N,11,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+578,19489,6,14,7,6,6,6,0,35,\N,\N,\N,\N,\N,\N,11,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+501,19490,128,20,12,7,7,7,0,33,\N,\N,\N,\N,\N,\N,13,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+627,19491,6,32,13,8,8,8,0,33,\N,\N,\N,\N,\N,\N,13,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+693,19492,128,38,15,9,9,9,0,32,\N,\N,\N,\N,\N,\N,14,wacker,\N,\N,Fred,Wacker,1918-07-10,American,http://en.wikipedia.org/wiki/Fred_Wacker
+632,19493,133,24,11,10,10,10,0,30,\N,\N,\N,\N,\N,\N,16,frere,\N,\N,Paul,Frère,1917-01-30,Belgian,http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re
+429,19494,125,40,18,11,11,11,0,29,\N,\N,\N,\N,\N,\N,17,andre_pilette,\N,\N,André,Pilette,1918-10-06,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette
+660,19495,105,6,10,\N,R,12,0,35,\N,\N,\N,\N,\N,\N,3,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+651,19496,133,22,17,\N,R,13,0,19,\N,\N,\N,\N,\N,\N,5,macklin,\N,\N,Lance,Macklin,1919-09-02,British,http://en.wikipedia.org/wiki/Lance_Macklin
+642,19497,6,12,4,\N,R,14,0,16,\N,\N,\N,\N,\N,\N,5,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+579,19498,105,4,1,\N,R,15,0,13,\N,\N,\N,\N,\N,\N,5,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+498,19499,105,2,3,\N,R,16,1,11,\N,\N,\N,\N,\N,\N,37,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+554,19500,128,16,14,\N,R,17,0,9,\N,\N,\N,\N,\N,\N,5,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+581,19501,133,26,16,\N,R,18,0,4,\N,\N,\N,\N,\N,\N,8,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+681,19502,141,34,20,\N,R,19,0,3,\N,\N,\N,\N,\N,\N,5,georges_berger,\N,\N,Georges,Berger,1918-09-14,Belgian,http://en.wikipedia.org/wiki/Georges_Berger
+703,19503,144,36,19,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,7,legat,\N,\N,Arthur,Legat,1898-11-01,Belgian,http://en.wikipedia.org/wiki/Arthur_Legat
+579,20210,105,6,10,\N,R,12,0,35,\N,\N,\N,\N,\N,\N,3,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio

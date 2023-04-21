@@ -1,0 +1,16 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+479,18413,6,4,1,1,1,1,9,60,2:09:31.6,7771600,\N,\N,\N,\N,1,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+364,18414,6,6,3,2,2,2,6,60,+2.9,7774500,\N,\N,\N,\N,1,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+403,18415,6,5,6,3,3,3,4,60,+1:04.8,7836400,\N,\N,\N,\N,1,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+427,18416,170,8,12,4,4,4,3,59,\N,\N,\N,\N,\N,\N,11,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+347,18417,66,9,7,5,5,5,2,58,\N,\N,\N,\N,\N,\N,12,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+437,18418,167,18,15,6,6,6,0,56,\N,\N,\N,\N,\N,\N,14,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess
+501,18419,66,10,8,7,7,7,0,49,\N,\N,\N,\N,\N,\N,45,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+360,18420,170,2,9,\N,R,8,0,36,\N,\N,\N,\N,\N,\N,7,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+478,18421,66,11,11,\N,R,9,0,36,\N,\N,\N,\N,\N,\N,3,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+418,18422,170,3,5,\N,R,10,0,23,\N,\N,\N,\N,\N,\N,5,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+356,18423,170,1,4,\N,R,11,0,15,\N,\N,\N,\N,\N,\N,7,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+289,18424,32,16,10,\N,R,12,0,10,\N,\N,\N,\N,\N,\N,6,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+404,18425,32,15,13,\N,R,13,0,7,\N,\N,\N,\N,\N,\N,24,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+477,18426,6,17,14,\N,R,14,0,2,\N,\N,\N,\N,\N,\N,8,allison,\N,\N,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
+475,18427,170,7,2,\N,R,15,0,1,\N,\N,\N,\N,\N,\N,7,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss

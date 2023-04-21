@@ -1,0 +1,30 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+178,11545,3,1,2,1,1,1,9,80,1:50:41.33,6641330,\N,\N,\N,\N,1,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+199,11546,3,2,3,2,2,2,6,80,+9.19,6650520,\N,\N,\N,\N,1,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+137,11547,34,5,4,3,3,3,4,80,+34.92,6676250,\N,\N,\N,\N,1,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+207,11548,51,22,6,4,4,4,3,80,+49.31,6690640,\N,\N,\N,\N,1,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+158,11549,25,3,8,5,5,5,2,80,+1:06.70,6708030,\N,\N,\N,\N,1,cheever,\N,\N,Eddie,Cheever,1958-01-10,American,http://en.wikipedia.org/wiki/Eddie_Cheever
+175,11550,55,33,17,6,6,6,1,79,\N,\N,\N,\N,\N,\N,11,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+192,11551,56,21,18,7,7,7,0,78,\N,\N,\N,\N,\N,\N,12,serra,\N,\N,Chico,Serra,1957-02-03,Brazilian,http://en.wikipedia.org/wiki/Chico_Serra
+163,11552,4,16,20,8,8,8,0,77,\N,\N,\N,\N,\N,\N,13,arnoux,\N,\N,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
+176,11553,57,14,19,\N,R,9,0,70,\N,\N,\N,\N,\N,\N,69,surer,\N,\N,Marc,Surer,1951-09-18,Swiss,http://en.wikipedia.org/wiki/Marc_Surer
+202,11554,6,28,11,\N,R,10,0,67,\N,\N,\N,\N,\N,\N,69,pironi,\N,\N,Didier,Pironi,1952-03-26,French,http://en.wikipedia.org/wiki/Didier_Pironi
+197,11555,27,25,10,\N,R,11,0,64,\N,\N,\N,\N,\N,\N,48,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+212,11556,34,6,15,\N,R,12,0,49,\N,\N,\N,\N,\N,\N,3,rebaque,\N,\N,Hector,Rebaque,1956-02-05,Mexican,http://en.wikipedia.org/wiki/Hector_Rebaque
+152,11557,51,23,9,\N,R,13,0,41,\N,\N,\N,\N,\N,\N,4,giacomelli,\N,\N,Bruno,Giacomelli,1952-09-10,Italian,http://en.wikipedia.org/wiki/Bruno_Giacomelli
+172,11558,27,26,12,\N,R,14,0,41,\N,\N,\N,\N,\N,\N,4,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+177,11559,56,20,16,\N,R,15,0,41,\N,\N,\N,\N,\N,\N,5,keke_rosberg,\N,\N,Keke,Rosberg,1948-12-06,Finnish,http://en.wikipedia.org/wiki/Keke_Rosberg
+136,11560,54,9,21,\N,R,16,0,41,\N,\N,\N,\N,\N,\N,4,lammers,\N,\N,Jan,Lammers,1956-06-02,Dutch,http://en.wikipedia.org/wiki/Jan_Lammers
+119,11561,21,29,1,\N,R,17,0,33,\N,\N,\N,\N,\N,\N,69,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+213,11562,45,32,24,\N,R,18,0,26,\N,\N,\N,\N,\N,\N,3,gabbiani,\N,\N,Beppe,Gabbiani,1957-01-02,Italian,http://en.wikipedia.org/wiki/Beppe_Gabbiani
+95,11563,32,12,7,\N,R,19,0,25,\N,\N,\N,\N,\N,\N,3,mansell,\N,\N,Nigel,Mansell,1953-08-08,British,http://en.wikipedia.org/wiki/Nigel_Mansell
+203,11564,6,27,5,\N,R,20,0,17,\N,\N,\N,\N,\N,\N,86,gilles_villeneuve,\N,\N,Gilles,Villeneuve,1950-01-18,Canadian,http://en.wikipedia.org/wiki/Gilles_Villeneuve
+187,11565,1,7,23,\N,R,21,0,16,\N,\N,\N,\N,\N,\N,23,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+173,11566,32,11,13,\N,R,22,0,13,\N,\N,\N,\N,\N,\N,3,angelis,\N,\N,Elio,de Angelis,1958-03-26,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
+117,11567,4,15,14,\N,R,23,0,0,\N,\N,\N,\N,\N,\N,4,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+110,11568,1,8,22,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,4,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
+214,11569,25,4,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,cogan,\N,\N,Kevin,Cogan,1956-03-31,American,http://en.wikipedia.org/wiki/Kevin_Cogan
+206,11570,37,17,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,daly,\N,\N,Derek,Daly,1953-03-11,Irish,http://en.wikipedia.org/wiki/Derek_Daly
+215,11571,45,31,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,guerra,\N,\N,Miguel Ángel,Guerra,1953-08-31,Argentine,http://en.wikipedia.org/wiki/Miguel_Angel_Guerra
+216,11572,21,30,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,stohr,\N,\N,Siegfried,Stohr,1952-10-10,Italian,http://en.wikipedia.org/wiki/Siegfried_Stohr
+194,11573,37,18,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,salazar,\N,\N,Eliseo,Salazar,1954-11-14,Chilean,http://en.wikipedia.org/wiki/Eliseo_Salazar

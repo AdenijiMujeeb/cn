@@ -1,0 +1,30 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+309,15141,1,8,3,1,1,1,9,67,1:29:18.5,5358500,\N,\N,\N,\N,1,revson,\N,\N,Peter,Revson,1939-02-27,American,http://en.wikipedia.org/wiki/Peter_Revson
+238,15142,32,2,1,2,2,2,6,67,+2.8,5361300,\N,\N,\N,\N,1,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+304,15143,1,7,2,3,3,3,4,67,+3.0,5361500,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+231,15144,37,27,11,4,4,4,3,67,+3.4,5361900,\N,\N,\N,\N,1,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+327,15145,25,6,7,5,5,5,2,67,+36.6,5395100,\N,\N,\N,\N,1,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+199,15146,34,10,8,6,6,6,1,67,+44.7,5403200,\N,\N,\N,\N,1,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+223,15147,66,19,10,7,7,7,0,67,+1:11.7,5430200,\N,\N,\N,\N,1,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+235,15148,6,3,19,8,8,8,0,67,+1:17.4,5435900,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+307,15149,80,25,18,9,9,9,0,66,\N,\N,\N,\N,\N,\N,11,ganley,\N,\N,Howden,Ganley,1941-12-24,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley
+328,15150,25,5,4,10,10,10,0,66,\N,\N,\N,\N,\N,\N,11,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+329,15151,37,15,24,11,11,11,0,65,\N,\N,\N,\N,\N,\N,12,beuttler,\N,\N,Mike,Beuttler,1940-04-13,British,http://en.wikipedia.org/wiki/Mike_Beuttler
+182,15152,66,21,9,12,12,12,0,63,\N,\N,\N,\N,\N,\N,14,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+313,15153,57,28,21,13,13,13,0,61,\N,\N,\N,\N,\N,\N,16,opel,\N,\N,Rikky,von Opel,1947-10-14,Liechtensteiner,http://en.wikipedia.org/wiki/Rikky_von_Opel
+290,15154,34,11,13,\N,R,14,0,44,\N,\N,\N,\N,\N,\N,44,wilson_fittipaldi,\N,\N,Wilson,Fittipaldi,1943-12-25,Brazilian,http://en.wikipedia.org/wiki/Wilson_Fittipaldi
+224,15155,32,1,5,\N,R,15,0,36,\N,\N,\N,\N,\N,\N,7,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+187,15156,34,29,23,\N,R,16,0,36,\N,\N,\N,\N,\N,\N,69,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+289,15157,58,12,27,\N,R,17,0,24,\N,\N,\N,\N,\N,\N,83,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+278,15158,81,22,29,\N,R,18,0,6,\N,\N,\N,\N,\N,\N,69,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+222,15159,1,30,6,\N,R,19,0,0,\N,\N,\N,\N,\N,\N,4,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+305,15160,63,23,12,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,4,hailwood,\N,\N,Mike,Hailwood,1940-04-02,British,http://en.wikipedia.org/wiki/Mike_Hailwood
+200,15161,63,31,14,\N,R,21,0,0,\N,\N,\N,\N,\N,\N,4,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+250,15162,63,24,15,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,4,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+306,15163,66,20,17,\N,R,23,0,0,\N,\N,\N,\N,\N,\N,4,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+333,15164,34,9,20,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,4,adamich,\N,\N,Andrea,de Adamich,1941-10-03,Italian,http://en.wikipedia.org/wiki/Andrea_de_Adamich
+335,15165,37,14,22,\N,R,25,0,0,\N,\N,\N,\N,\N,\N,4,williamson,\N,\N,Roger,Williamson,1948-02-02,British,http://en.wikipedia.org/wiki/Roger_Williamson
+332,15166,58,16,25,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,4,follmer,\N,\N,George,Follmer,1934-01-27,American,http://en.wikipedia.org/wiki/George_Follmer
+262,15167,58,17,26,\N,R,27,0,0,\N,\N,\N,\N,\N,\N,4,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+336,15168,80,26,28,\N,R,28,0,0,\N,\N,\N,\N,\N,\N,37,mcrae,\N,\N,Graham,McRae,1940-03-05,New Zealander,http://en.wikipedia.org/wiki/Graham_McRae
+259,15169,37,18,16,\N,R,29,0,0,\N,\N,\N,\N,\N,\N,20,purley,\N,\N,David,Purley,1945-01-26,British,http://en.wikipedia.org/wiki/David_Purley

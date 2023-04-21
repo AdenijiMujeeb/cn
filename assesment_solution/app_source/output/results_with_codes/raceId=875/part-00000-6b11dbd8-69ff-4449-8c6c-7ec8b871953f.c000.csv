@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+20,21592,9,1,2,1,1,1,25,55,1:36:28.651,5788651,55,5,1:42.499,197.211,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+17,21593,9,2,1,2,2,2,18,55,+8.231,5796882,54,1,1:42.037,198.104,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+4,21594,6,5,4,3,3,3,15,55,+13.944,5802595,52,3,1:42.442,197.321,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+13,21595,6,6,6,4,4,4,12,55,+20.168,5808819,48,2,1:42.242,197.707,1,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+8,21596,208,9,5,5,5,5,10,55,+36.739,5825390,51,11,1:42.822,196.592,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+807,21597,10,12,8,6,6,6,8,55,+45.301,5833952,54,6,1:42.645,196.931,1,hulkenberg,27,HUL,Nico,Hülkenberg,1987-08-19,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+154,21598,208,10,7,7,7,7,6,55,+54.812,5843463,44,10,1:42.783,196.666,1,grosjean,8,GRO,Romain,Grosjean,1986-04-17,French,http://en.wikipedia.org/wiki/Romain_Grosjean
+818,21599,5,17,16,8,8,8,4,55,+69.589,5858240,48,8,1:42.721,196.785,1,vergne,25,VER,Jean-Éric,Vergne,1990-04-25,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne
+817,21600,5,16,21,9,9,9,2,55,+71.787,5860438,45,12,1:43.148,195.970,1,ricciardo,3,RIC,Daniel,Ricciardo,1989-07-01,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo
+1,21601,1,4,3,10,10,10,1,55,+79.692,5868343,49,9,1:42.721,196.785,1,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+815,21602,15,15,12,11,11,11,0,55,+80.062,5868713,49,4,1:42.495,197.219,1,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+814,21603,10,11,14,12,12,12,0,55,+84.448,5873099,48,15,1:43.517,195.272,1,resta,\N,DIR,Paul,di Resta,1986-04-16,British,http://en.wikipedia.org/wiki/Paul_di_Resta
+30,21604,131,7,10,13,13,13,0,55,+89.241,5877892,49,13,1:43.184,195.902,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+813,21605,3,18,15,14,14,14,0,55,+94.924,5883575,55,7,1:42.679,196.865,1,maldonado,13,MAL,Pastor,Maldonado,1985-03-09,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
+811,21606,3,19,17,15,15,15,0,55,+96.902,5885553,49,14,1:43.411,195.472,1,bruno_senna,\N,SEN,Bruno,Senna,1983-10-15,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna
+808,21607,207,21,18,16,16,16,0,54,\N,\N,50,18,1:45.013,192.490,11,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
+5,21608,207,20,19,17,17,17,0,54,\N,\N,43,17,1:44.955,192.596,11,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen
+10,21609,206,24,20,18,18,18,0,54,\N,\N,42,19,1:45.236,192.082,11,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+819,21610,206,25,24,19,19,19,0,53,\N,\N,52,16,1:44.462,193.505,12,pic,\N,PIC,Charles,Pic,1990-02-15,French,http://en.wikipedia.org/wiki/Charles_Pic
+39,21611,164,23,23,20,20,20,0,53,\N,\N,39,21,1:47.068,188.795,12,karthikeyan,\N,KAR,Narain,Karthikeyan,1977-01-14,Indian,http://en.wikipedia.org/wiki/Narain_Karthikeyan
+37,21612,164,22,22,\N,R,21,0,16,\N,\N,9,22,1:49.861,183.996,37,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+155,21613,15,14,13,\N,R,22,0,16,\N,\N,3,20,1:47.066,188.799,130,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi
+3,21614,131,8,9,\N,R,23,0,1,\N,\N,\N,0,\N,\N,4,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+18,21615,1,3,11,\N,R,24,0,0,\N,\N,\N,0,\N,\N,4,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button

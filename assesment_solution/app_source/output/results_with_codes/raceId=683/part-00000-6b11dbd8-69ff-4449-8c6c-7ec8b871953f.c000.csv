@@ -1,0 +1,16 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+356,16685,191,3,2,1,1,1,9,80,2:13:21.3,8001300,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+304,16686,191,4,6,2,2,2,6,80,+49.5,8050800,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+328,16687,66,10,10,3,3,3,4,79,\N,\N,\N,\N,\N,\N,11,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+346,16688,167,18,11,4,4,4,3,77,\N,\N,\N,\N,\N,\N,13,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+388,16689,66,15,9,5,5,5,2,76,\N,\N,\N,\N,\N,\N,5,irwin,\N,\N,Chris,Irwin,1942-06-27,British,http://en.wikipedia.org/wiki/Chris_Irwin
+345,16690,167,14,13,6,6,6,1,76,\N,\N,\N,\N,\N,\N,14,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+389,16691,167,16,15,\N,N,7,0,68,\N,\N,\N,\N,\N,\N,62,ligier,\N,\N,Guy,Ligier,1930-07-12,French,http://en.wikipedia.org/wiki/Guy_Ligier
+278,16692,6,2,7,\N,R,8,0,47,\N,\N,\N,\N,\N,\N,37,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+364,16693,190,9,3,\N,R,9,0,40,\N,\N,\N,\N,\N,\N,95,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+358,16694,167,12,8,\N,R,10,0,33,\N,\N,\N,\N,\N,\N,5,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+360,16695,190,8,5,\N,R,11,0,26,\N,\N,\N,\N,\N,\N,80,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+373,16696,180,6,4,\N,R,12,0,23,\N,\N,\N,\N,\N,\N,24,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+383,16697,183,17,14,\N,R,13,0,16,\N,\N,\N,\N,\N,\N,80,anderson,\N,\N,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
+289,16698,180,7,1,\N,R,14,0,13,\N,\N,\N,\N,\N,\N,24,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+374,16699,66,11,12,\N,R,15,0,9,\N,\N,\N,\N,\N,\N,86,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence

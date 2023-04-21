@@ -1,0 +1,18 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+476,17870,6,3,2,1,1,1,9,75,2:01:52.1,7312100,\N,\N,\N,\N,1,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+403,17871,6,1,1,2,2,2,6,75,+0.9,7313000,\N,\N,\N,\N,1,phil_hill,\N,\N,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
+373,17872,172,15,11,3,3,3,4,75,+13.1,7325200,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+475,17873,172,14,4,4,4,4,3,75,+22.2,7334300,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+386,17874,6,2,3,5,5,5,2,75,+22.3,7334400,\N,\N,\N,\N,1,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+356,17875,170,10,7,6,6,6,1,75,+1:20.1,7392200,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+341,17876,170,12,9,7,7,7,0,75,+1:26.7,7398800,\N,\N,\N,\N,1,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+289,17877,66,4,5,8,8,8,0,75,+1:29.8,7401900,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+479,17878,66,5,8,9,9,9,0,74,\N,\N,\N,\N,\N,\N,11,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+364,17879,95,7,6,10,10,10,0,74,\N,\N,\N,\N,\N,\N,11,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+347,17880,95,6,12,11,11,11,0,73,\N,\N,\N,\N,\N,\N,12,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+360,17881,170,11,14,12,12,12,0,73,\N,\N,\N,\N,\N,\N,12,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+401,17882,172,16,16,13,13,13,0,73,\N,\N,\N,\N,\N,\N,12,trevor_taylor,\N,\N,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
+430,17883,95,8,17,14,14,14,0,72,\N,\N,\N,\N,\N,\N,13,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+478,17884,95,9,13,15,15,15,0,72,\N,\N,\N,\N,\N,\N,13,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+418,17885,170,17,0,\N,W,16,0,0,\N,\N,\N,\N,\N,\N,54,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+437,17886,172,18,0,\N,W,17,0,0,\N,\N,\N,\N,\N,\N,54,burgess,\N,\N,Ian,Burgess,1930-07-06,British,http://en.wikipedia.org/wiki/Ian_Burgess

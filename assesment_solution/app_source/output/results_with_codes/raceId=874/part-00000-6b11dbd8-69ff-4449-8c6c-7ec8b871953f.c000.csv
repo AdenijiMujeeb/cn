@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+20,21568,9,1,1,1,1,1,25,53,1:28:56.242,5336242,52,1,1:35.774,218.276,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+13,21569,6,6,10,2,2,2,18,53,+20.639,5356881,50,5,1:36.894,215.753,1,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+155,21570,15,14,3,3,3,3,15,53,+24.538,5360780,52,3,1:36.679,216.233,1,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi
+18,21571,1,3,8,4,4,4,12,53,+25.098,5361340,51,2,1:36.606,216.396,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+1,21572,1,4,9,5,5,5,10,53,+46.490,5382732,45,11,1:37.760,213.842,1,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+8,21573,208,9,7,6,6,6,8,53,+50.424,5386666,49,13,1:37.886,213.566,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+807,21574,10,12,15,7,7,7,6,53,+51.159,5387401,46,14,1:37.938,213.453,1,hulkenberg,27,HUL,Nico,Hülkenberg,1987-08-19,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+813,21575,3,18,12,8,8,8,4,53,+52.364,5388606,45,12,1:37.771,213.818,1,maldonado,13,MAL,Pastor,Maldonado,1985-03-09,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
+17,21576,9,2,2,9,9,9,2,53,+54.675,5390917,49,7,1:37.128,215.233,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+817,21577,5,16,14,10,10,10,1,53,+66.919,5403161,50,8,1:37.455,214.511,1,ricciardo,3,RIC,Daniel,Ricciardo,1989-07-01,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo
+30,21578,131,7,23,11,11,11,0,53,+67.769,5404011,43,6,1:36.942,215.646,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+814,21579,10,11,11,12,12,12,0,53,+83.460,5419702,48,10,1:37.535,214.335,1,resta,\N,DIR,Paul,di Resta,1986-04-16,British,http://en.wikipedia.org/wiki/Paul_di_Resta
+818,21580,5,17,19,13,13,13,0,53,+88.645,5424887,39,9,1:37.533,214.339,1,vergne,25,VER,Jean-Éric,Vergne,1990-04-25,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne
+811,21581,3,19,16,14,14,14,0,53,+88.709,5424951,44,4,1:36.819,215.920,1,bruno_senna,\N,SEN,Bruno,Senna,1983-10-15,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna
+5,21582,207,20,17,15,15,15,0,52,\N,\N,52,15,1:38.043,213.224,11,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen
+10,21583,206,24,18,16,16,16,0,52,\N,\N,48,18,1:38.756,211.685,11,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+808,21584,207,21,22,17,17,17,0,52,\N,\N,47,17,1:38.344,212.572,11,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
+37,21585,164,22,20,18,18,18,0,52,\N,\N,50,20,1:39.351,210.417,11,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+154,21586,208,10,4,19,19,19,0,51,\N,\N,32,16,1:38.277,212.717,12,grosjean,8,GRO,Romain,Grosjean,1986-04-17,French,http://en.wikipedia.org/wiki/Romain_Grosjean
+819,21587,206,25,21,\N,R,20,0,37,\N,\N,34,21,1:40.493,208.026,5,pic,\N,PIC,Charles,Pic,1990-02-15,French,http://en.wikipedia.org/wiki/Charles_Pic
+39,21588,164,23,24,\N,R,21,0,32,\N,\N,21,22,1:41.388,206.190,76,karthikeyan,\N,KAR,Narain,Karthikeyan,1977-01-14,Indian,http://en.wikipedia.org/wiki/Narain_Karthikeyan
+815,21589,15,15,5,\N,R,22,0,18,\N,\N,17,19,1:38.983,211.199,20,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+4,21590,6,5,6,\N,R,23,0,0,\N,\N,\N,0,\N,\N,4,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+3,21591,131,8,13,\N,R,24,0,0,\N,\N,\N,0,\N,\N,4,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg

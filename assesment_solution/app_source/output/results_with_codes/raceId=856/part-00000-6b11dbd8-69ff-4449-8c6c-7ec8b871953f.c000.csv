@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+20,21136,9,1,2,1,1,1,25,55,1:38:01.994,5881994,55,1,1:39.605,202.941,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+1,21137,1,3,1,2,2,2,18,55,+12.019,5894013,54,3,1:40.459,201.216,1,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+17,21138,9,2,4,3,3,3,15,55,+12.477,5894471,55,2,1:40.294,201.547,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+18,21139,1,4,3,4,4,4,12,55,+14.694,5896688,55,7,1:40.709,200.716,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+4,21140,6,5,6,5,5,5,10,55,+15.689,5897683,41,6,1:40.547,201.040,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+13,21141,6,6,5,6,6,6,8,55,+25.133,5907127,51,5,1:40.541,201.052,1,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+153,21142,5,19,11,7,7,7,6,55,+49.538,5931532,55,8,1:40.940,200.257,1,alguersuari,\N,ALG,Jaime,Alguersuari,1990-03-23,Spanish,http://en.wikipedia.org/wiki/Jaime_Alguersuari
+3,21143,131,8,7,8,8,8,4,55,+54.053,5936047,49,9,1:41.770,198.624,1,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+67,21144,5,18,13,9,9,9,2,55,+1:02.762,5944756,50,4,1:40.537,201.060,1,buemi,\N,BUE,Sébastien,Buemi,1988-10-31,Swiss,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi
+814,21145,10,15,9,10,10,10,1,55,+1:08.602,5950596,50,12,1:42.102,197.978,1,resta,\N,DIR,Paul,di Resta,1986-04-16,British,http://en.wikipedia.org/wiki/Paul_di_Resta
+16,21146,10,14,10,11,11,11,0,55,+1:11.229,5953223,49,10,1:42.014,198.149,1,sutil,99,SUT,Adrian,Sutil,1983-01-11,German,http://en.wikipedia.org/wiki/Adrian_Sutil
+22,21147,3,11,18,12,12,12,0,55,+1:33.068,5975062,54,13,1:42.371,197.458,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+811,21148,4,9,15,13,13,13,0,54,\N,\N,41,16,1:42.549,197.115,11,bruno_senna,\N,SEN,Bruno,Senna,1983-10-15,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna
+5,21149,205,20,19,14,14,14,0,54,\N,\N,52,15,1:42.456,197.294,11,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen
+155,21150,15,16,14,15,15,15,0,54,\N,\N,45,11,1:42.080,198.021,11,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi
+815,21151,15,17,17,16,16,16,0,54,\N,\N,39,14,1:42.425,197.354,11,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+15,21152,205,21,20,17,17,17,0,54,\N,\N,46,17,1:43.009,196.235,11,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+10,21153,166,24,21,18,18,18,0,54,\N,\N,53,18,1:44.536,193.368,11,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+817,21154,164,22,24,19,19,19,0,54,\N,\N,53,21,1:44.870,192.752,11,ricciardo,3,RIC,Daniel,Ricciardo,1989-07-01,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo
+816,21155,166,25,22,20,20,20,0,54,\N,\N,53,20,1:44.746,192.981,11,ambrosio,\N,DAM,Jérôme,d'Ambrosio,1985-12-27,Belgian,http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio
+24,21156,164,23,23,21,21,21,0,52,\N,\N,45,24,1:46.173,190.387,13,liuzzi,\N,LIU,Vitantonio,Liuzzi,1980-08-06,Italian,http://en.wikipedia.org/wiki/Vitantonio_Liuzzi
+813,21157,3,12,16,\N,R,22,0,30,\N,\N,26,19,1:44.689,193.086,8,maldonado,13,MAL,Pastor,Maldonado,1985-03-09,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
+808,21158,4,10,8,\N,R,23,0,16,\N,\N,10,23,1:45.469,191.658,4,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
+30,21159,131,7,12,\N,R,24,0,15,\N,\N,13,22,1:45.327,191.916,4,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher

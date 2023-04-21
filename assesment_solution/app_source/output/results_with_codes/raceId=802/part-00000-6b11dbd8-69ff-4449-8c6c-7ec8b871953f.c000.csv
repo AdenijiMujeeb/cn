@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,19279,131,18,1,1,1,1,8,61,2:42:47.9,9767900,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+648,19280,131,20,2,2,2,2,6,61,+0.1,9768000,\N,\N,\N,\N,1,kling,\N,\N,Karl,Kling,1910-09-16,German,http://en.wikipedia.org/wiki/Karl_Kling
+626,19281,6,34,12,3,3,3,4,60,\N,\N,\N,\N,\N,\N,11,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+669,19282,105,46,6,4,4,4,3,60,\N,\N,\N,\N,\N,\N,11,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+633,19283,105,14,14,5,5,5,2,58,\N,\N,\N,\N,\N,\N,13,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+554,19284,128,24,17,6,6,6,0,56,\N,\N,\N,\N,\N,\N,15,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+632,19285,128,28,19,\N,R,7,0,50,\N,\N,\N,\N,\N,\N,109,frere,\N,\N,Paul,Frère,1917-01-30,Belgian,http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re
+427,19286,6,4,9,\N,R,8,0,36,\N,\N,\N,\N,\N,\N,5,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+627,19287,6,36,13,\N,R,9,0,27,\N,\N,\N,\N,\N,\N,5,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+670,19288,105,12,5,\N,R,10,0,27,\N,\N,\N,\N,\N,\N,6,marimon,\N,\N,Onofre,Marimón,1923-12-19,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n
+643,19289,105,16,11,\N,R,11,0,24,\N,\N,\N,\N,\N,\N,5,mieres,\N,\N,Roberto,Mieres,1924-12-03,Argentine,http://en.wikipedia.org/wiki/Roberto_Mieres
+663,19290,105,42,16,\N,R,12,0,19,\N,\N,\N,\N,\N,\N,7,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+501,19291,105,48,21,\N,R,13,0,19,\N,\N,\N,\N,\N,\N,48,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+478,19292,131,22,7,\N,R,14,1,16,\N,\N,\N,\N,\N,\N,5,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+456,19293,105,44,10,\N,R,15,0,15,\N,\N,\N,\N,\N,\N,86,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+498,19294,6,2,4,\N,R,16,0,13,\N,\N,\N,\N,\N,\N,5,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+651,19295,133,32,15,\N,R,17,0,10,\N,\N,\N,\N,\N,\N,5,macklin,\N,\N,Lance,Macklin,1919-09-02,British,http://en.wikipedia.org/wiki/Lance_Macklin
+681,19296,128,30,20,\N,R,18,0,9,\N,\N,\N,\N,\N,\N,5,georges_berger,\N,\N,Georges,Berger,1918-09-14,Belgian,http://en.wikipedia.org/wiki/Georges_Berger
+578,19297,6,6,8,\N,R,19,0,9,\N,\N,\N,\N,\N,\N,5,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+650,19298,128,26,18,\N,R,20,0,8,\N,\N,\N,\N,\N,\N,5,pollet,\N,\N,Jacques,Pollet,1922-07-02,French,http://en.wikipedia.org/wiki/Jacques_Pollet
+647,19299,105,10,3,\N,R,21,0,1,\N,\N,\N,\N,\N,\N,7,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+644,19300,105,40,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,mantovani,\N,\N,Sergio,Mantovani,1929-05-22,Italian,http://en.wikipedia.org/wiki/Sergio_Mantovani

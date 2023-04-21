@@ -1,0 +1,22 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+289,17828,66,3,2,1,1,1,9,82,2:08:03.3,7683300,\N,\N,\N,\N,1,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+360,17829,170,8,8,2,2,2,6,82,+49.8,7733100,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+408,17830,170,9,6,3,3,3,4,82,+50.3,7733600,\N,\N,\N,\N,1,maggs,\N,\N,Tony,Maggs,1937-02-09,South African,http://en.wikipedia.org/wiki/Tony_Maggs
+356,17831,34,10,3,4,4,4,3,82,+53.8,7737100,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+404,17832,172,11,4,5,5,5,2,81,\N,\N,\N,\N,\N,\N,11,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+410,17833,172,20,10,6,6,6,1,78,\N,\N,\N,\N,\N,\N,14,lederle,\N,\N,Neville,Lederle,1938-09-25,South African,http://en.wikipedia.org/wiki/Neville_Lederle
+386,17834,66,4,7,7,7,7,0,78,\N,\N,\N,\N,\N,\N,14,ginther,\N,\N,Richie,Ginther,1930-08-05,American,http://en.wikipedia.org/wiki/Richie_Ginther
+340,17835,170,18,12,8,8,8,0,78,\N,\N,\N,\N,\N,\N,14,love,\N,\N,John,Love,1924-12-07,Rhodesian,http://en.wikipedia.org/wiki/John_Love_(racing_driver)
+471,17836,66,5,17,9,9,9,0,76,\N,\N,\N,\N,\N,\N,16,johnstone,\N,\N,Bruce,Johnstone,1937-01-30,South African,http://en.wikipedia.org/wiki/Bruce_Johnstone_(racing_driver)
+413,17837,172,14,13,10,10,10,0,71,\N,\N,\N,\N,\N,\N,45,pieterse,\N,\N,Ernie,Pieterse,1938-07-04,South African,http://en.wikipedia.org/wiki/Ernie_Pieterse
+430,17838,95,15,16,11,11,11,0,70,\N,\N,\N,\N,\N,\N,69,beaufort,\N,\N,Carel Godin,de Beaufort,1934-04-10,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
+373,17839,172,1,1,\N,R,12,0,62,\N,\N,\N,\N,\N,\N,44,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+411,17840,89,21,14,\N,R,13,0,62,\N,\N,\N,\N,\N,\N,21,serrurier,\N,\N,Doug,Serrurier,1920-12-09,South African,http://en.wikipedia.org/wiki/Doug_Serrurier
+456,17841,26,7,11,\N,R,14,0,56,\N,\N,\N,\N,\N,\N,95,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+472,17842,178,22,15,\N,R,15,0,31,\N,\N,\N,\N,\N,\N,67,harris,\N,\N,Mike,Harris,1939-05-25,South African,http://en.wikipedia.org/wiki/Mike_Harris_(race_car_driver)
+341,17843,26,6,5,\N,R,16,0,26,\N,\N,\N,\N,\N,\N,5,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+401,17844,172,2,9,\N,R,17,0,11,\N,\N,\N,\N,\N,\N,6,trevor_taylor,\N,\N,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
+473,17845,172,12,0,\N,W,18,0,0,\N,\N,\N,\N,\N,\N,54,hocking,\N,\N,Gary,Hocking,1937-09-30,Rhodesian,http://en.wikipedia.org/wiki/Gary_Hocking
+474,17846,172,16,0,\N,W,19,0,0,\N,\N,\N,\N,\N,\N,54,vyver,\N,\N,Syd,van der Vyver,1920-06-01,South African,http://en.wikipedia.org/wiki/Syd_van_der_Vyver
+438,17847,99,17,0,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,54,settember,\N,\N,Tony,Settember,1926-07-10,American,http://en.wikipedia.org/wiki/Tony_Settember
+368,17848,172,19,0,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,54,tingle,\N,\N,Sam,Tingle,1921-08-24,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle

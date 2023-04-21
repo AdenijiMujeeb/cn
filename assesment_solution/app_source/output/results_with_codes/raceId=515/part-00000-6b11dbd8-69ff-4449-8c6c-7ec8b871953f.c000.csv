@@ -1,0 +1,27 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+203,12455,6,12,1,1,1,1,9,80,1:50:25.40,6625400,\N,\N,\N,\N,1,gilles_villeneuve,\N,\N,Gilles,Villeneuve,1950-01-18,Canadian,http://en.wikipedia.org/wiki/Gilles_Villeneuve
+222,12456,6,11,3,2,2,2,6,80,+29.38,6654780,\N,\N,\N,\N,1,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+178,12457,3,27,10,3,3,3,4,80,+59.69,6685090,\N,\N,\N,\N,1,jones,\N,\N,Alan,Jones,1946-11-02,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)
+207,12458,32,1,6,4,4,4,3,80,+1:04.33,6689730,\N,\N,\N,\N,1,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+221,12459,27,25,4,5,5,5,2,80,+1:23.52,6708920,\N,\N,\N,\N,1,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+197,12460,25,4,7,6,6,6,1,79,\N,\N,\N,\N,\N,\N,11,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+173,12461,58,18,20,7,7,7,0,78,\N,\N,\N,\N,\N,\N,12,angelis,\N,\N,Elio,de Angelis,1958-03-26,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
+137,12462,204,6,12,8,8,8,0,78,\N,\N,\N,\N,\N,\N,12,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+200,12463,21,30,13,9,9,9,0,78,\N,\N,\N,\N,\N,\N,12,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+202,12464,25,3,17,\N,D,10,0,72,\N,\N,\N,\N,\N,\N,2,pironi,\N,\N,Didier,Pironi,1952-03-26,French,http://en.wikipedia.org/wiki/Didier_Pironi
+212,12465,32,31,23,\N,R,11,0,71,\N,\N,\N,\N,\N,\N,3,rebaque,\N,\N,Hector,Rebaque,1956-02-05,Mexican,http://en.wikipedia.org/wiki/Hector_Rebaque
+206,12466,57,22,24,\N,R,12,0,69,\N,\N,\N,\N,\N,\N,3,daly,\N,\N,Derek,Daly,1953-03-11,Irish,http://en.wikipedia.org/wiki/Derek_Daly
+187,12467,1,7,18,\N,R,13,0,62,\N,\N,\N,\N,\N,\N,98,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+233,12468,54,9,21,\N,D,14,0,49,\N,\N,\N,\N,\N,\N,2,stuck,\N,\N,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
+223,12469,3,28,15,\N,R,15,0,48,\N,\N,\N,\N,\N,\N,5,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+136,12470,58,17,14,\N,R,16,0,47,\N,\N,\N,\N,\N,\N,22,lammers,\N,\N,Jan,Lammers,1956-06-02,Dutch,http://en.wikipedia.org/wiki/Jan_Lammers
+119,12471,21,29,9,\N,R,17,0,40,\N,\N,\N,\N,\N,\N,23,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+199,12472,32,2,2,\N,R,18,0,21,\N,\N,\N,\N,\N,\N,7,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+224,12473,56,14,16,\N,R,19,0,19,\N,\N,\N,\N,\N,\N,7,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+232,12474,60,24,22,\N,R,20,0,13,\N,\N,\N,\N,\N,\N,5,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+172,12475,27,26,5,\N,R,21,0,8,\N,\N,\N,\N,\N,\N,23,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+231,12476,59,20,8,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,7,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+182,12477,204,5,11,\N,R,23,0,0,\N,\N,\N,\N,\N,\N,3,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+175,12478,1,8,19,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,4,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+163,12479,4,16,0,\N,W,25,0,0,\N,\N,\N,\N,\N,\N,54,arnoux,\N,\N,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
+219,12480,4,15,0,\N,W,26,0,0,\N,\N,\N,\N,\N,\N,54,jabouille,\N,\N,Jean-Pierre,Jabouille,1942-10-01,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jabouille

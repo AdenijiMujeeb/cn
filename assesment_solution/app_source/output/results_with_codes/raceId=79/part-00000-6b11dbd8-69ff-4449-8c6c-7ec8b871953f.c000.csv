@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+30,1295,6,1,5,1,1,1,10,73,1:29:43.181,5383181,48,1,1:11.497,211.074,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+22,1296,6,2,7,2,2,2,8,73,+1.5,5384681,48,2,1:11.649,210.626,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+33,1297,17,18,17,3,3,3,6,72,\N,\N,44,3,1:13.237,206.059,11,monteiro,\N,TMO,Tiago,Monteiro,1976-07-24,Portuguese,http://en.wikipedia.org/wiki/Tiago_Monteiro
+39,1298,17,19,19,4,4,4,5,72,\N,\N,65,4,1:13.370,205.686,11,karthikeyan,\N,KAR,Narain,Karthikeyan,1977-01-14,Indian,http://en.wikipedia.org/wiki/Narain_Karthikeyan
+27,1299,18,21,18,5,5,5,4,71,\N,\N,2,5,1:13.907,204.191,12,albers,\N,ALB,Christijan,Albers,1979-04-16,Dutch,http://en.wikipedia.org/wiki/Christijan_Albers
+40,1300,18,20,20,6,6,6,3,71,\N,\N,43,6,1:14.490,202.593,12,friesacher,\N,FRI,Patrick,Friesacher,1980-09-26,Austrian,http://en.wikipedia.org/wiki/Patrick_Friesacher
+15,1301,7,16,1,\N,W,7,0,0,\N,\N,\N,\N,\N,\N,54,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+8,1302,1,9,2,\N,W,8,0,0,\N,\N,\N,\N,\N,\N,54,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+18,1303,16,3,3,\N,W,9,0,0,\N,\N,\N,\N,\N,\N,54,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+21,1304,4,6,4,\N,W,10,0,0,\N,\N,\N,\N,\N,\N,54,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+4,1305,4,5,6,\N,W,11,0,0,\N,\N,\N,\N,\N,\N,54,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+11,1306,16,4,8,\N,W,12,0,0,\N,\N,\N,\N,\N,\N,54,sato,\N,SAT,Takuma,Sato,1977-01-28,Japanese,http://en.wikipedia.org/wiki/Takuma_Sato
+17,1307,3,7,9,\N,W,13,0,0,\N,\N,\N,\N,\N,\N,54,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+13,1308,15,12,10,\N,W,14,0,0,\N,\N,\N,\N,\N,\N,54,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+31,1309,1,10,11,\N,W,15,0,0,\N,\N,\N,\N,\N,\N,54,montoya,\N,MON,Juan,Pablo Montoya,1975-09-20,Colombian,http://en.wikipedia.org/wiki/Juan_Pablo_Montoya
+35,1310,15,11,12,\N,W,16,0,0,\N,\N,\N,\N,\N,\N,54,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+41,1311,7,17,13,\N,W,17,0,0,\N,\N,\N,\N,\N,\N,54,zonta,\N,ZON,Ricardo,Zonta,1976-03-23,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta
+32,1312,9,15,14,\N,W,18,0,0,\N,\N,\N,\N,\N,\N,54,klien,\N,KLI,Christian,Klien,1983-02-07,Austrian,http://en.wikipedia.org/wiki/Christian_Klien
+2,1313,3,8,15,\N,W,19,0,0,\N,\N,\N,\N,\N,\N,54,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+14,1314,9,14,16,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,54,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard

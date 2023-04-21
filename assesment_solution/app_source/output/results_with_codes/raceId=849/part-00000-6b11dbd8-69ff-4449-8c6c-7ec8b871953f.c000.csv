@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+4,20968,6,5,3,1,1,1,25,52,1:28:41.196,5321196,41,1,1:34.908,223.454,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+20,20969,9,1,2,2,2,2,18,52,+16.511,5337707,38,3,1:35.565,221.918,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+17,20970,9,2,1,3,3,3,15,52,+16.947,5338143,49,4,1:35.665,221.686,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+1,20971,1,3,10,4,4,4,12,52,+28.986,5350182,39,5,1:36.180,220.499,1,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+13,20972,6,6,4,5,5,5,10,52,+29.010,5350206,49,2,1:35.474,222.129,1,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+3,20973,131,8,9,6,6,6,8,52,+1:00.665,5381861,32,13,1:37.073,218.470,1,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+815,20974,15,17,12,7,7,7,6,52,+1:05.590,5386786,35,7,1:36.656,219.413,1,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+2,20975,4,9,16,8,8,8,4,52,+1:15.542,5396738,37,14,1:37.117,218.371,1,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+30,20976,131,7,13,9,9,9,2,52,+1:17.912,5399108,34,11,1:37.034,218.558,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+153,20977,5,19,18,10,10,10,1,52,+1:19.108,5400304,38,15,1:37.160,218.275,1,alguersuari,\N,ALG,Jaime,Alguersuari,1990-03-23,Spanish,http://en.wikipedia.org/wiki/Jaime_Alguersuari
+16,20978,10,14,11,11,11,11,0,52,+1:19.712,5400908,42,9,1:36.744,219.213,1,sutil,99,SUT,Adrian,Sutil,1983-01-11,German,http://en.wikipedia.org/wiki/Adrian_Sutil
+808,20979,4,10,14,12,12,12,0,52,+1:20.681,5401877,40,6,1:36.308,220.206,1,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
+22,20980,3,11,15,13,13,13,0,51,\N,\N,38,8,1:36.733,219.238,11,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+813,20981,3,12,7,14,14,14,0,51,\N,\N,41,12,1:37.036,218.553,11,maldonado,13,MAL,Pastor,Maldonado,1985-03-09,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
+814,20982,10,15,6,15,15,15,0,51,\N,\N,48,16,1:37.936,216.545,11,resta,\N,DIR,Paul,di Resta,1986-04-16,British,http://en.wikipedia.org/wiki/Paul_di_Resta
+10,20983,166,24,20,16,16,16,0,50,\N,\N,49,17,1:39.811,212.477,12,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+816,20984,166,25,22,17,17,17,0,50,\N,\N,30,20,1:40.560,210.894,12,ambrosio,\N,DAM,Jérôme,d'Ambrosio,1985-12-27,Belgian,http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio
+24,20985,164,23,23,18,18,18,0,50,\N,\N,40,19,1:40.524,210.970,12,liuzzi,\N,LIU,Vitantonio,Liuzzi,1980-08-06,Italian,http://en.wikipedia.org/wiki/Vitantonio_Liuzzi
+817,20986,164,22,24,19,19,19,0,49,\N,\N,30,22,1:40.910,210.163,13,ricciardo,3,RIC,Daniel,Ricciardo,1989-07-01,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo
+18,20987,1,4,5,\N,R,20,0,39,\N,\N,31,10,1:36.982,218.675,61,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+67,20988,5,18,19,\N,R,21,0,25,\N,\N,24,18,1:40.224,211.602,3,buemi,\N,BUE,Sébastien,Buemi,1988-10-31,Swiss,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi
+155,20989,15,16,8,\N,R,22,0,23,\N,\N,23,21,1:40.703,210.595,5,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi
+15,20990,205,21,21,\N,R,23,0,10,\N,\N,9,23,1:55.491,183.629,44,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+5,20991,205,20,17,\N,R,24,0,2,\N,\N,2,24,2:10.404,162.629,6,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen

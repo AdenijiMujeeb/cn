@@ -1,0 +1,18 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+373,16650,180,5,8,1,1,1,9,90,2:14:45.1,8085100,\N,\N,\N,\N,1,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+356,16651,191,1,3,2,2,2,6,90,+23.6,8108700,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+304,16652,191,2,7,3,3,3,4,90,+25.7,8110800,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+278,16653,6,3,9,4,4,4,3,90,+27.3,8112400,\N,\N,\N,\N,1,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+387,16654,6,4,10,5,5,5,2,89,\N,\N,\N,\N,\N,\N,11,parkes,\N,\N,Mike,Parkes,1931-09-24,British,http://en.wikipedia.org/wiki/Mike_Parkes
+375,16655,6,22,15,6,6,6,1,89,\N,\N,\N,\N,\N,\N,11,scarfiotti,\N,\N,Ludovico,Scarfiotti,1933-10-18,Italian,http://en.wikipedia.org/wiki/Ludovico_Scarfiotti
+388,16656,176,18,13,7,7,7,0,88,\N,\N,\N,\N,\N,\N,12,irwin,\N,\N,Chris,Irwin,1942-06-27,British,http://en.wikipedia.org/wiki/Chris_Irwin
+374,16657,66,10,12,8,8,8,0,87,\N,\N,\N,\N,\N,\N,13,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+383,16658,183,21,17,9,9,9,0,86,\N,\N,\N,\N,\N,\N,14,anderson,\N,\N,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
+346,16659,167,20,16,10,10,10,0,83,\N,\N,\N,\N,\N,\N,17,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+341,16660,11,7,6,\N,R,11,0,73,\N,\N,\N,\N,\N,\N,37,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+328,16661,66,9,11,\N,R,12,0,51,\N,\N,\N,\N,\N,\N,23,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+358,16662,167,12,4,\N,R,13,0,41,\N,\N,\N,\N,\N,\N,22,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+345,16663,167,14,5,\N,R,14,0,39,\N,\N,\N,\N,\N,\N,6,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+289,16664,180,6,1,\N,R,15,0,11,\N,\N,\N,\N,\N,\N,5,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+364,16665,190,15,2,\N,R,16,0,8,\N,\N,\N,\N,\N,\N,98,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+360,16666,194,17,14,\N,R,17,0,1,\N,\N,\N,\N,\N,\N,3,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren

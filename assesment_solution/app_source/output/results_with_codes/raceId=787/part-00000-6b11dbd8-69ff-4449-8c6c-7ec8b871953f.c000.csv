@@ -1,0 +1,17 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+581,18947,6,8,3,1,1,1,8,36,2:40:00.3,9600300,\N,\N,\N,\N,1,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+632,18948,6,6,8,2,2,2,6,36,+1:51.3,9711600,\N,\N,\N,\N,1,frere,\N,\N,Paul,Frère,1917-01-30,Belgian,http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re
+607,18949,105,34,9,3,3,3,2,36,+3:16.6,9796900,\N,\N,\N,\N,1,perdisa,\N,\N,Cesare,Perdisa,1932-10-21,Italian,http://en.wikipedia.org/wiki/Cesare_Perdisa
+501,18950,118,10,6,4,4,4,3,35,\N,\N,\N,\N,\N,\N,11,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+633,18951,105,22,11,5,5,5,2,34,\N,\N,\N,\N,\N,\N,12,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+429,18952,6,20,16,6,6,6,0,33,\N,\N,\N,\N,\N,\N,13,andre_pilette,\N,\N,André,Pilette,1918-10-06,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette
+554,18953,105,32,4,7,7,7,0,33,\N,\N,\N,\N,\N,\N,13,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+627,18954,105,24,10,8,8,8,0,33,\N,\N,\N,\N,\N,\N,13,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+579,18955,6,2,1,\N,R,9,0,23,\N,\N,\N,\N,\N,\N,7,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+427,18956,118,12,7,\N,R,10,0,11,\N,\N,\N,\N,\N,\N,69,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+475,18957,105,30,2,\N,R,11,0,10,\N,\N,\N,\N,\N,\N,36,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+608,18958,6,4,5,\N,R,12,0,10,\N,\N,\N,\N,\N,\N,7,castellotti,\N,\N,Eugenio,Castellotti,1930-10-10,Italian,http://en.wikipedia.org/wiki/Eugenio_Castellotti
+634,18959,125,28,12,\N,R,13,0,10,\N,\N,\N,\N,\N,\N,5,scotti,\N,\N,Piero,Scotti,1909-11-11,Italian,http://en.wikipedia.org/wiki/Piero_Scotti
+547,18960,105,26,15,\N,R,14,0,2,\N,\N,\N,\N,\N,\N,6,gould,\N,\N,Horace,Gould,1918-09-20,British,http://en.wikipedia.org/wiki/Horace_Gould
+580,18961,105,36,13,\N,R,15,0,0,\N,\N,\N,\N,\N,\N,3,godia,\N,\N,Paco,Godia,1921-03-21,Spanish,http://en.wikipedia.org/wiki/Paco_Godia
+475,20274,105,34,9,3,3,3,3,36,+3:16.6,9796900,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss

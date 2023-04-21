@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,19333,131,18,1,1,1,1,8,22,3:45:45.8,13545800,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+498,19334,6,1,5,2,2,2,3,22,+1:36.5,13642300,\N,\N,\N,\N,1,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+427,19335,6,2,7,3,3,3,4,22,+5:08.6,13854400,\N,\N,\N,\N,1,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+648,19336,131,19,23,4,4,4,4,22,+6:06.5,13912300,\N,\N,\N,\N,1,kling,\N,\N,Karl,Kling,1910-09-16,German,http://en.wikipedia.org/wiki/Karl_Kling
+644,19337,105,7,15,5,5,5,2,22,+8:50.5,14076300,\N,\N,\N,\N,1,mantovani,\N,\N,Sergio,Mantovani,1929-05-22,Italian,http://en.wikipedia.org/wiki/Sergio_Mantovani
+641,19338,6,4,13,6,6,6,0,21,\N,\N,\N,\N,\N,\N,11,taruffi,\N,\N,Piero,Taruffi,1906-10-12,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
+501,19339,105,15,14,7,7,7,0,21,\N,\N,\N,\N,\N,\N,11,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+627,19340,6,25,11,8,8,8,0,21,\N,\N,\N,\N,\N,\N,11,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+626,19341,6,24,12,9,9,9,0,20,\N,\N,\N,\N,\N,\N,12,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+554,19342,128,9,9,10,10,10,0,20,\N,\N,\N,\N,\N,\N,12,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+669,19343,105,14,19,\N,R,11,0,18,\N,\N,\N,\N,\N,\N,38,bira,\N,\N,Prince,Bira,1914-07-15,Thai,http://en.wikipedia.org/wiki/Prince_Bira
+691,19344,131,21,13,\N,R,12,0,10,\N,\N,\N,\N,\N,\N,20,lang,\N,\N,Hermann,Lang,1909-04-06,German,http://en.wikipedia.org/wiki/Hermann_Lang
+645,19345,128,11,16,\N,R,13,0,8,\N,\N,\N,\N,\N,\N,36,bucci,\N,\N,Clemar,Bucci,1920-09-04,Argentine,http://en.wikipedia.org/wiki/Clemar_Bucci
+692,19346,140,22,21,\N,R,14,0,8,\N,\N,\N,\N,\N,\N,5,helfrich,\N,\N,Theo,Helfrich,1913-05-13,German,http://en.wikipedia.org/wiki/Theo_Helfrich
+478,19347,131,20,4,\N,R,15,0,7,\N,\N,\N,\N,\N,\N,95,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+632,19348,128,10,4,\N,R,16,0,4,\N,\N,\N,\N,\N,\N,36,frere,\N,\N,Paul,Frère,1917-01-30,Belgian,http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re
+578,19349,6,3,3,\N,R,17,0,3,\N,\N,\N,\N,\N,\N,7,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+643,19350,105,8,17,\N,R,18,0,2,\N,\N,\N,\N,\N,\N,95,mieres,\N,\N,Roberto,Mieres,1924-12-03,Argentine,http://en.wikipedia.org/wiki/Roberto_Mieres
+475,19351,105,16,3,\N,R,19,0,1,\N,\N,\N,\N,\N,\N,67,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+429,19352,128,12,20,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,22,andre_pilette,\N,\N,André,Pilette,1918-10-06,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette
+670,19353,105,6,8,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,3,marimon,\N,\N,Onofre,Marimón,1923-12-19,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n
+633,19354,105,5,10,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+663,19355,105,17,22,\N,W,23,0,0,\N,\N,\N,\N,\N,\N,54,wharton,\N,\N,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+578,20241,6,1,5,2,2,2,3,22,+1:36.5,13642300,\N,\N,\N,\N,1,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn

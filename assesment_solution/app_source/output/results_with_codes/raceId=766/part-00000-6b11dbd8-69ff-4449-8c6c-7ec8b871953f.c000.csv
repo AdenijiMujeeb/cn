@@ -1,0 +1,32 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+427,18494,87,20,5,1,1,1,8,100,2:52:27.9,10347900,\N,\N,\N,\N,1,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+577,18495,6,34,10,2,2,2,6,100,+20.2,10368100,\N,\N,\N,\N,1,musso,\N,\N,Luigi,Musso,1924-07-28,Italian,http://en.wikipedia.org/wiki/Luigi_Musso
+581,18496,6,36,9,3,3,3,4,100,+38.8,10386700,\N,\N,\N,\N,1,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+356,18497,87,16,3,4,4,4,3,97,\N,\N,\N,\N,\N,\N,13,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+501,18498,66,8,12,5,5,5,2,91,\N,\N,\N,\N,\N,\N,19,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+477,18499,32,24,13,6,6,6,0,87,\N,\N,\N,\N,\N,\N,53,allison,\N,\N,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
+476,18500,6,40,11,\N,R,7,0,91,\N,\N,\N,\N,\N,\N,5,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+347,18501,105,58,16,\N,R,8,0,71,\N,\N,\N,\N,\N,\N,3,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+289,18502,32,26,15,\N,R,9,0,69,\N,\N,\N,\N,\N,\N,86,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+456,18503,87,18,4,\N,R,10,0,56,\N,\N,\N,\N,\N,\N,6,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+578,18504,6,38,6,\N,R,11,1,47,\N,\N,\N,\N,\N,\N,48,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+475,18505,118,28,8,\N,R,12,0,38,\N,\N,\N,\N,\N,\N,5,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+554,18506,66,6,2,\N,R,13,0,29,\N,\N,\N,\N,\N,\N,23,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+483,18507,105,46,14,\N,R,14,0,28,\N,\N,\N,\N,\N,\N,5,scarlatti,\N,\N,Giorgio,Scarlatti,1921-10-02,Italian,http://en.wikipedia.org/wiki/Giorgio_Scarlatti
+479,18508,118,30,1,\N,R,15,0,22,\N,\N,\N,\N,\N,\N,5,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+590,18509,118,32,7,\N,R,16,0,11,\N,\N,\N,\N,\N,\N,25,lewis-evans,\N,\N,Stuart,Lewis-Evans,1930-04-20,British,http://en.wikipedia.org/wiki/Stuart_Lewis-Evans
+541,18510,87,22,0,\N,F,17,0,0,\N,\N,\N,\N,\N,\N,81,flockhart,\N,\N,Ron,Flockhart,1923-06-16,British,http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing)
+582,18511,105,50,0,\N,F,18,0,0,\N,\N,\N,\N,\N,\N,81,kavanagh,\N,\N,Ken,Kavanagh,1923-12-12,Australian,http://en.wikipedia.org/wiki/Ken_Kavanagh
+583,18512,105,48,0,\N,F,19,0,0,\N,\N,\N,\N,\N,\N,81,gerini,\N,\N,Gerino,Gerini,1928-08-10,Italian,http://en.wikipedia.org/wiki/Gerino_Gerini_(racing_driver)
+584,18513,125,12,0,\N,F,20,0,0,\N,\N,\N,\N,\N,\N,81,kessler,\N,\N,Bruce,Kessler,1936-03-23,American,http://en.wikipedia.org/wiki/Bruce_Kessler
+585,18514,125,14,0,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,emery,\N,\N,Paul,Emery,1916-11-12,British,http://en.wikipedia.org/wiki/Paul_Emery
+551,18515,105,44,0,\N,F,22,0,0,\N,\N,\N,\N,\N,\N,81,filippis,\N,\N,Maria,de Filippis,1926-11-11,Italian,http://en.wikipedia.org/wiki/Maria_Teresa_de_Filippis
+553,18516,105,56,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,testut,\N,\N,André,Testut,1926-04-13,Monegasque,http://en.wikipedia.org/wiki/Andr%C3%A9_Testut
+543,18517,127,52,0,\N,F,24,0,0,\N,\N,\N,\N,\N,\N,81,cabianca,\N,\N,Giulio,Cabianca,1923-02-19,Italian,http://en.wikipedia.org/wiki/Giulio_Cabianca
+586,18518,127,54,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,piotti,\N,\N,Luigi,Piotti,1913-10-27,Italian,http://en.wikipedia.org/wiki/Luigi_Piotti
+547,18519,105,42,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,gould,\N,\N,Horace,Gould,1918-09-20,British,http://en.wikipedia.org/wiki/Horace_Gould
+541,18520,66,10,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,flockhart,\N,\N,Ron,Flockhart,1923-06-16,British,http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing)
+587,18521,125,12,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,ecclestone,\N,\N,Bernie,Ecclestone,1930-10-28,British,http://en.wikipedia.org/wiki/Bernie_Ecclestone
+588,18522,105,50,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,taramazzo,\N,\N,Luigi,Taramazzo,1932-05-05,Italian,http://en.wikipedia.org/wiki/Luigi_Taramazzo
+589,18523,105,56,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,chiron,\N,\N,Louis,Chiron,1899-08-03,Monegasque,http://en.wikipedia.org/wiki/Louis_Chiron
+580,18524,105,4,0,\N,F,31,0,0,\N,\N,\N,\N,\N,\N,81,godia,\N,\N,Paco,Godia,1921-03-21,Spanish,http://en.wikipedia.org/wiki/Paco_Godia

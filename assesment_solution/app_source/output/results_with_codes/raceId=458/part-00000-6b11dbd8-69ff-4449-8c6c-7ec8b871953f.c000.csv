@@ -1,0 +1,28 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+105,10825,25,3,6,1,1,1,9,60,1:50:53.669,6653669,\N,\N,\N,\N,1,alboreto,\N,\N,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
+177,10826,3,1,12,2,2,2,6,60,+7.702,6661371,\N,\N,\N,\N,1,keke_rosberg,\N,\N,Keke,Rosberg,1948-12-06,Finnish,http://en.wikipedia.org/wiki/Keke_Rosberg
+187,10827,1,7,21,3,3,3,4,60,+9.283,6662952,\N,\N,\N,\N,1,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+137,10828,34,5,2,4,4,4,3,60,+1:12.185,6725854,\N,\N,\N,\N,1,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+172,10829,3,2,20,5,5,5,2,60,+1:32.603,6746272,\N,\N,\N,\N,1,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+95,10830,32,12,14,6,6,6,1,59,\N,\N,\N,\N,\N,\N,11,mansell,\N,\N,Nigel,Mansell,1953-08-08,British,http://en.wikipedia.org/wiki/Nigel_Mansell
+123,10831,21,30,10,7,7,7,0,59,\N,\N,\N,\N,\N,\N,11,boutsen,\N,\N,Thierry,Boutsen,1957-07-13,Belgian,http://en.wikipedia.org/wiki/Thierry_Boutsen
+117,10832,4,15,13,8,8,8,0,59,\N,\N,\N,\N,\N,\N,11,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+152,10833,53,36,17,9,9,9,0,59,\N,\N,\N,\N,\N,\N,11,giacomelli,\N,\N,Bruno,Giacomelli,1952-09-10,Italian,http://en.wikipedia.org/wiki/Bruno_Giacomelli
+196,10834,27,26,23,10,10,10,0,58,\N,\N,\N,\N,\N,\N,12,boesel,\N,\N,Raul,Boesel,1957-12-04,Brazilian,http://en.wikipedia.org/wiki/Raul_Boesel
+176,10835,21,29,5,11,11,11,0,58,\N,\N,\N,\N,\N,\N,12,surer,\N,\N,Marc,Surer,1951-09-18,Swiss,http://en.wikipedia.org/wiki/Marc_Surer
+184,10836,51,23,25,12,12,12,0,56,\N,\N,\N,\N,\N,\N,14,baldi,\N,\N,Mauro,Baldi,1954-01-31,Italian,http://en.wikipedia.org/wiki/Mauro_Baldi
+182,10837,1,8,18,13,13,13,0,49,\N,\N,\N,\N,\N,\N,22,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+195,10838,55,33,11,\N,N,14,0,38,\N,\N,\N,\N,\N,\N,62,guerrero,\N,\N,Roberto,Guerrero,1958-11-16,Colombian,http://en.wikipedia.org/wiki/Roberto_Guerrero
+188,10839,55,34,26,\N,R,15,0,34,\N,\N,\N,\N,\N,\N,6,cecotto,\N,\N,Johnny,Cecotto,1956-01-25,Venezuelan,http://en.wikipedia.org/wiki/Johnny_Cecotto
+110,10840,51,22,8,\N,R,16,0,33,\N,\N,\N,\N,\N,\N,101,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
+163,10841,6,28,1,\N,R,17,0,31,\N,\N,\N,\N,\N,\N,10,arnoux,\N,\N,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
+193,10842,25,4,16,\N,R,18,0,30,\N,\N,\N,\N,\N,\N,10,sullivan,\N,\N,Danny,Sullivan,1950-03-09,American,http://en.wikipedia.org/wiki/Danny_Sullivan
+197,10843,27,25,19,\N,R,19,0,29,\N,\N,\N,\N,\N,\N,36,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+181,10844,54,9,22,\N,R,20,0,26,\N,\N,\N,\N,\N,\N,4,manfred_winkelhock,\N,\N,Manfred,Winkelhock,1951-10-06,German,http://en.wikipedia.org/wiki/Manfred_Winkelhock
+118,10845,53,35,9,\N,R,21,0,25,\N,\N,\N,\N,\N,\N,5,warwick,\N,\N,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
+119,10846,34,6,15,\N,R,22,0,24,\N,\N,\N,\N,\N,\N,23,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+173,10847,32,11,4,\N,R,23,0,5,\N,\N,\N,\N,\N,\N,6,angelis,\N,\N,Elio,de Angelis,1958-03-26,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
+158,10848,4,16,7,\N,R,24,0,4,\N,\N,\N,\N,\N,\N,99,cheever,\N,\N,Eddie,Cheever,1958-01-10,American,http://en.wikipedia.org/wiki/Eddie_Cheever
+160,10849,45,32,24,\N,R,25,0,4,\N,\N,\N,\N,\N,\N,25,ghinzani,\N,\N,Piercarlo,Ghinzani,1952-01-16,Italian,http://en.wikipedia.org/wiki/Piercarlo_Ghinzani
+175,10850,6,27,3,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,5,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+190,10851,45,31,0,\N,W,27,0,0,\N,\N,\N,\N,\N,\N,54,corrado_fabi,\N,\N,Corrado,Fabi,1961-04-12,Italian,http://en.wikipedia.org/wiki/Corrado_Fabi

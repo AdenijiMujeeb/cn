@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,18737,105,32,1,1,1,1,9,105,3:10:12.8,11412800,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+479,18738,118,20,4,2,2,2,6,105,+25.2,11438000,\N,\N,\N,\N,1,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+418,18739,105,2,10,3,3,3,4,103,\N,\N,\N,\N,\N,\N,12,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+590,18740,125,10,13,4,4,4,3,102,\N,\N,\N,\N,\N,\N,13,lewis-evans,\N,\N,Stuart,Lewis-Evans,1930-04-20,British,http://en.wikipedia.org/wiki/Stuart_Lewis-Evans
+427,18741,6,30,6,5,5,5,2,100,\N,\N,\N,\N,\N,\N,15,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+356,18742,87,14,15,6,6,6,0,100,\N,\N,\N,\N,\N,\N,15,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+476,18743,6,24,9,\N,R,7,0,95,\N,\N,\N,\N,\N,\N,5,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+483,18744,105,34,14,\N,R,8,0,64,\N,\N,\N,\N,\N,\N,44,scarlatti,\N,\N,Giorgio,Scarlatti,1921-10-02,Italian,http://en.wikipedia.org/wiki/Giorgio_Scarlatti
+541,18745,66,6,11,\N,R,9,0,60,\N,\N,\N,\N,\N,\N,5,flockhart,\N,\N,Ron,Flockhart,1923-06-16,British,http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing)
+496,18746,105,36,7,\N,R,10,0,51,\N,\N,\N,\N,\N,\N,20,menditeguy,\N,\N,Carlos,Menditeguy,1914-08-10,Argentine,http://en.wikipedia.org/wiki/Carlos_Menditeguy
+549,18747,125,12,16,\N,R,11,0,47,\N,\N,\N,\N,\N,\N,95,bueb,\N,\N,Ivor,Bueb,1923-06-06,British,http://en.wikipedia.org/wiki/Ivor_Bueb
+501,18748,105,38,8,\N,R,12,0,23,\N,\N,\N,\N,\N,\N,22,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+547,18749,105,22,12,\N,R,13,0,10,\N,\N,\N,\N,\N,\N,3,gould,\N,\N,Horace,Gould,1918-09-20,British,http://en.wikipedia.org/wiki/Horace_Gould
+581,18750,6,26,2,\N,R,14,0,4,\N,\N,\N,\N,\N,\N,3,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+475,18751,118,18,3,\N,R,15,0,4,\N,\N,\N,\N,\N,\N,3,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+578,18752,6,28,5,\N,R,16,0,4,\N,\N,\N,\N,\N,\N,3,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+456,18753,66,8,0,\N,F,17,0,0,\N,\N,\N,\N,\N,\N,81,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+478,18754,105,40,0,\N,F,18,0,0,\N,\N,\N,\N,\N,\N,81,herrmann,\N,\N,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
+609,18755,105,4,0,\N,F,19,0,0,\N,\N,\N,\N,\N,\N,81,simon,\N,\N,André,Simon,1920-01-05,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Simon_(racing_driver)
+586,18756,105,42,0,\N,F,20,0,0,\N,\N,\N,\N,\N,\N,81,piotti,\N,\N,Luigi,Piotti,1913-10-27,Italian,http://en.wikipedia.org/wiki/Luigi_Piotti
+610,18757,87,16,0,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,leston,\N,\N,Les,Leston,1920-12-16,British,http://en.wikipedia.org/wiki/Les_Leston
+578,20288,6,24,9,\N,R,7,0,95,\N,\N,\N,\N,\N,\N,5,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+501,20289,105,34,14,\N,R,8,0,64,\N,\N,\N,\N,\N,\N,44,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell

@@ -1,0 +1,27 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+786,19918,51,8,7,1,1,1,4,77,3:22:11.0,12131000,\N,\N,\N,\N,1,fagioli,\N,\N,Luigi,Fagioli,1898-06-09,Italian,http://en.wikipedia.org/wiki/Luigi_Fagioli
+647,19919,6,14,6,2,2,2,3,77,+58.2,12189200,\N,\N,\N,\N,1,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+633,19920,6,10,4,3,3,3,4,74,\N,\N,\N,\N,\N,\N,13,villoresi,\N,\N,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+686,19921,6,26,9,4,4,4,3,73,\N,\N,\N,\N,\N,\N,14,reg_parnell,\N,\N,Reg,Parnell,1911-07-02,British,http://en.wikipedia.org/wiki/Reg_Parnell
+642,19922,51,2,2,5,5,5,2,73,\N,\N,\N,\N,\N,\N,14,farina,\N,\N,Nino,Farina,1906-10-30,Italian,http://en.wikipedia.org/wiki/Nino_Farina
+589,19923,154,42,8,6,6,6,0,71,\N,\N,\N,\N,\N,\N,16,chiron,\N,\N,Louis,Chiron,1899-08-03,Monegasque,http://en.wikipedia.org/wiki/Louis_Chiron
+704,19924,154,46,11,7,7,7,0,71,\N,\N,\N,\N,\N,\N,16,cabantous,\N,\N,Yves,Cabantous,1904-10-08,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous
+774,19925,154,44,14,8,8,8,0,69,\N,\N,\N,\N,\N,\N,18,chaboud,\N,\N,Eugène,Chaboud,1907-04-12,French,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Chaboud
+764,19926,154,48,19,9,9,9,0,66,\N,\N,\N,\N,\N,\N,45,guy_mairesse,\N,\N,Guy,Mairesse,1910-08-10,French,http://en.wikipedia.org/wiki/Guy_Mairesse
+763,19927,51,6,5,10,10,10,0,58,\N,\N,\N,\N,\N,\N,124,sanesi,\N,\N,Consalvo,Sanesi,1911-03-28,Italian,http://en.wikipedia.org/wiki/Consalvo_Sanesi
+579,19928,51,24,1,11,11,11,0,55,\N,\N,\N,\N,\N,\N,115,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+660,19929,154,28,12,\N,R,12,0,54,\N,\N,\N,\N,\N,\N,3,claes,\N,\N,Johnny,Claes,1916-08-11,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes
+627,19930,154,40,13,\N,R,13,0,43,\N,\N,\N,\N,\N,\N,7,rosier,\N,\N,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
+741,19931,154,38,10,\N,R,14,0,37,\N,\N,\N,\N,\N,\N,5,etancelin,\N,\N,Philippe,Étancelin,1896-12-28,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
+775,19932,141,36,17,\N,R,15,0,27,\N,\N,\N,\N,\N,\N,5,gordini,\N,\N,Aldo,Gordini,1921-05-20,French,http://en.wikipedia.org/wiki/Aldo_Gordini
+501,19933,105,20,22,\N,R,16,0,23,\N,\N,\N,\N,\N,\N,25,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+427,19934,141,32,18,\N,R,17,0,11,\N,\N,\N,\N,\N,\N,5,trintignant,\N,\N,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+647,19935,6,12,3,\N,R,18,0,10,\N,\N,\N,\N,\N,\N,6,ascari,\N,\N,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
+609,19936,141,34,21,\N,R,19,0,7,\N,\N,\N,\N,\N,\N,5,simon,\N,\N,André,Simon,1920-01-05,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Simon_(racing_driver)
+626,19937,141,30,23,\N,R,20,0,3,\N,\N,\N,\N,\N,\N,5,manzon,\N,\N,Robert,Manzon,1917-04-12,French,http://en.wikipedia.org/wiki/Robert_Manzon
+670,19938,105,50,15,\N,R,21,0,2,\N,\N,\N,\N,\N,\N,5,marimon,\N,\N,Onofre,Marimón,1923-12-19,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n
+640,19939,105,18,16,\N,R,22,0,1,\N,\N,\N,\N,\N,\N,7,graffenried,\N,\N,Toulo,de Graffenried,1914-05-18,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
+687,19940,6,24,20,\N,R,23,0,1,\N,\N,\N,\N,\N,\N,5,whitehead,\N,\N,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
+579,20186,51,8,7,1,1,1,5,77,3:22:11.0,12131000,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+498,20187,6,14,6,2,2,2,3,77,+58.2,12189200,\N,\N,\N,\N,1,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+786,20188,51,24,1,11,11,11,0,55,\N,\N,\N,\N,\N,\N,115,fagioli,\N,\N,Luigi,Fagioli,1898-06-09,Italian,http://en.wikipedia.org/wiki/Luigi_Fagioli

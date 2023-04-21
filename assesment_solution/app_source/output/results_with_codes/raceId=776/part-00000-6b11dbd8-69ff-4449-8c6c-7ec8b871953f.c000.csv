@@ -1,0 +1,18 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+579,18723,105,2,2,1,1,1,8,100,3:00:55.9,10855900,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+554,18724,105,6,3,2,2,2,6,100,+18.3,10874200,\N,\N,\N,\N,1,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+496,18725,105,8,8,3,3,3,4,99,\N,\N,\N,\N,\N,\N,11,menditeguy,\N,\N,Carlos,Menditeguy,1914-08-10,Argentine,http://en.wikipedia.org/wiki/Carlos_Menditeguy
+501,18726,105,22,9,4,4,4,3,98,\N,\N,\N,\N,\N,\N,12,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+606,18727,6,20,10,5,5,5,1,98,\N,\N,\N,\N,\N,\N,12,portago,\N,\N,Alfonso,de Portago,1928-10-11,Spanish,http://en.wikipedia.org/wiki/Alfonso_de_Portago
+607,18728,6,18,11,6,6,6,0,98,\N,\N,\N,\N,\N,\N,12,perdisa,\N,\N,Cesare,Perdisa,1932-10-21,Italian,http://en.wikipedia.org/wiki/Cesare_Perdisa
+347,18729,105,24,13,7,7,7,0,95,\N,\N,\N,\N,\N,\N,15,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+475,18730,105,4,1,8,8,8,1,93,\N,\N,\N,\N,\N,\N,17,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+573,18731,6,26,12,9,9,9,0,91,\N,\N,\N,\N,\N,\N,19,tomaso,\N,\N,Alessandro,de Tomaso,1928-07-10,Argentine-Italian,http://en.wikipedia.org/wiki/Alessandro_de_Tomaso
+586,18732,105,28,14,10,10,10,0,90,\N,\N,\N,\N,\N,\N,88,piotti,\N,\N,Luigi,Piotti,1913-10-27,Italian,http://en.wikipedia.org/wiki/Luigi_Piotti
+608,18733,6,14,4,\N,R,11,0,75,\N,\N,\N,\N,\N,\N,36,castellotti,\N,\N,Eugenio,Castellotti,1930-10-10,Italian,http://en.wikipedia.org/wiki/Eugenio_Castellotti
+578,18734,6,16,7,\N,R,12,0,35,\N,\N,\N,\N,\N,\N,8,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+577,18735,6,12,6,\N,R,13,0,31,\N,\N,\N,\N,\N,\N,8,musso,\N,\N,Luigi,Musso,1924-07-28,Italian,http://en.wikipedia.org/wiki/Luigi_Musso
+581,18736,6,10,5,\N,R,14,0,26,\N,\N,\N,\N,\N,\N,8,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+498,20285,6,20,10,5,5,5,1,98,\N,\N,\N,\N,\N,\N,12,gonzalez,\N,\N,José Froilán,González,1922-10-05,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+581,20286,6,18,11,6,6,6,0,98,\N,\N,\N,\N,\N,\N,12,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)
+476,20287,6,18,11,6,6,6,0,98,\N,\N,\N,\N,\N,\N,12,trips,\N,\N,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips

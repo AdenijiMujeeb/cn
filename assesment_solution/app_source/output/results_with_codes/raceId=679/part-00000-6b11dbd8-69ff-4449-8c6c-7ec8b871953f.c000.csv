@@ -1,0 +1,19 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+345,16613,167,4,4,1,1,1,9,80,2:05:45.9,7545900,\N,\N,\N,\N,1,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+340,16614,170,17,5,2,2,2,6,80,+26.4,7572300,\N,\N,\N,\N,1,love,\N,\N,John,Love,1924-12-07,Rhodesian,http://en.wikipedia.org/wiki/John_Love_(racing_driver)
+341,16615,11,11,6,3,3,3,4,79,\N,\N,\N,\N,\N,\N,11,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+304,16616,191,2,2,4,4,4,3,78,\N,\N,\N,\N,\N,\N,12,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+383,16617,183,14,10,5,5,5,2,78,\N,\N,\N,\N,\N,\N,12,anderson,\N,\N,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
+356,16618,191,1,1,6,6,6,1,76,\N,\N,\N,\N,\N,\N,14,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+293,16619,183,19,8,\N,N,7,0,63,\N,\N,\N,\N,\N,\N,62,charlton,\N,\N,Dave,Charlton,1936-10-27,South African,http://en.wikipedia.org/wiki/Dave_Charlton
+384,16620,183,20,17,\N,N,8,0,60,\N,\N,\N,\N,\N,\N,62,botha,\N,\N,Luki,Botha,1930-01-16,South African,http://en.wikipedia.org/wiki/Luki_Botha
+368,16621,184,18,14,\N,R,9,0,56,\N,\N,\N,\N,\N,\N,3,tingle,\N,\N,Sam,Tingle,1921-08-24,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle
+361,16622,176,16,18,\N,R,10,0,51,\N,\N,\N,\N,\N,\N,69,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+364,16623,189,9,11,\N,R,11,0,44,\N,\N,\N,\N,\N,\N,22,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+346,16624,167,12,16,\N,R,12,0,41,\N,\N,\N,\N,\N,\N,5,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+358,16625,167,3,7,\N,R,13,0,38,\N,\N,\N,\N,\N,\N,5,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+374,16626,66,6,13,\N,R,14,0,31,\N,\N,\N,\N,\N,\N,44,spence,\N,\N,Mike,Spence,1936-12-30,British,http://en.wikipedia.org/wiki/Mike_Spence
+347,16627,167,15,12,\N,R,15,0,30,\N,\N,\N,\N,\N,\N,5,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+373,16628,176,7,3,\N,R,16,0,22,\N,\N,\N,\N,\N,\N,5,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+289,16629,176,8,15,\N,R,17,0,6,\N,\N,\N,\N,\N,\N,3,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+328,16630,66,5,9,\N,R,18,0,2,\N,\N,\N,\N,\N,\N,5,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart

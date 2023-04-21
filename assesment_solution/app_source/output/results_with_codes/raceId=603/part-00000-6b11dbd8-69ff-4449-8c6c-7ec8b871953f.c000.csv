@@ -1,0 +1,31 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+224,14901,1,5,1,1,1,1,9,80,1:40:26.136,6026136,\N,\N,\N,\N,1,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+223,14902,6,11,6,2,2,2,6,80,+13.034,6039170,\N,\N,\N,\N,1,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+238,14903,32,1,10,3,3,3,4,80,+14.494,6040630,\N,\N,\N,\N,1,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+231,14904,64,24,8,4,4,4,3,80,+15.669,6041805,\N,\N,\N,\N,1,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+221,14905,25,4,7,5,5,5,2,80,+55.322,6081458,\N,\N,\N,\N,1,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+304,14906,1,6,14,6,6,6,1,79,\N,\N,\N,\N,\N,\N,11,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+207,14907,73,55,16,7,7,7,0,79,\N,\N,\N,\N,\N,\N,11,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+250,14908,34,8,9,8,8,8,0,79,\N,\N,\N,\N,\N,\N,11,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+199,14909,34,7,4,9,9,9,0,79,\N,\N,\N,\N,\N,\N,11,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+324,14910,63,19,22,10,10,10,0,78,\N,\N,\N,\N,\N,\N,12,koinigg,\N,\N,Helmuth,Koinigg,1948-11-03,Austrian,http://en.wikipedia.org/wiki/Helmuth_Koinigg
+243,14911,26,27,11,11,11,11,0,78,\N,\N,\N,\N,\N,\N,12,stommelen,\N,\N,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
+288,14912,67,66,24,12,12,12,0,78,\N,\N,\N,\N,\N,\N,12,donohue,\N,\N,Mark,Donohue,1937-03-18,American,http://en.wikipedia.org/wiki/Mark_Donohue
+235,14913,32,2,21,13,13,13,0,78,\N,\N,\N,\N,\N,\N,12,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+289,14914,26,26,20,14,14,14,0,77,\N,\N,\N,\N,\N,\N,13,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+172,14915,80,21,18,15,15,15,0,74,\N,\N,\N,\N,\N,\N,29,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+200,14916,1,33,12,16,16,16,0,72,\N,\N,\N,\N,\N,\N,18,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+278,14917,66,15,25,\N,N,17,0,70,\N,\N,\N,\N,\N,\N,62,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+182,14918,6,12,2,\N,R,18,0,67,\N,\N,\N,\N,\N,\N,3,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+252,14919,58,16,13,\N,R,19,0,65,\N,\N,\N,\N,\N,\N,5,pryce,\N,\N,Tom,Pryce,1949-06-11,British,http://en.wikipedia.org/wiki/Tom_Pryce
+187,14920,34,28,15,\N,R,20,0,61,\N,\N,\N,\N,\N,\N,22,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+306,14921,66,14,17,\N,N,21,0,60,\N,\N,\N,\N,\N,\N,62,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+222,14922,25,3,3,\N,R,22,0,48,\N,\N,\N,\N,\N,\N,23,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+197,14923,58,17,5,\N,R,23,0,46,\N,\N,\N,\N,\N,\N,86,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+232,14924,80,20,19,\N,R,24,0,40,\N,\N,\N,\N,\N,\N,64,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+326,14925,34,50,26,\N,R,25,0,33,\N,\N,\N,\N,\N,\N,5,wietzes,\N,\N,Eppie,Wietzes,1938-05-28,Canadian,http://en.wikipedia.org/wiki/Eppie_Wietzes
+233,14926,37,9,23,\N,R,26,0,12,\N,\N,\N,\N,\N,\N,69,stuck,\N,\N,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
+321,14927,63,18,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,bell,\N,\N,Derek,Bell,1941-10-31,British,http://en.wikipedia.org/wiki/Derek_Bell_(auto_racer)
+283,14928,57,22,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,wilds,\N,\N,Mike,Wilds,1946-01-07,British,http://en.wikipedia.org/wiki/Mike_Wilds
+230,14929,37,10,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,brambilla,\N,\N,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
+270,14930,34,42,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,ashley,\N,\N,Ian,Ashley,1947-10-26,British,http://en.wikipedia.org/wiki/Ian_Ashley

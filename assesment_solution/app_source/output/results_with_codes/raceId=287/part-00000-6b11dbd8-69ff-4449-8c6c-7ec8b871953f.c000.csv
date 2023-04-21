@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+102,5947,1,8,2,1,1,1,10,53,1:40:27.912,6027912,\N,\N,\N,\N,1,senna,\N,\N,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
+117,5948,3,2,1,2,2,2,6,53,+11.435,6039347,\N,\N,\N,\N,1,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+57,5949,1,7,3,3,3,3,4,53,+26.129,6054041,\N,\N,\N,\N,1,hakkinen,\N,\N,Mika,Häkkinen,1968-09-28,Finnish,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen
+71,5950,3,0,6,4,4,4,3,53,+1:23.538,6111450,\N,\N,\N,\N,1,damon_hill,\N,\N,Damon,Hill,1960-09-17,British,http://en.wikipedia.org/wiki/Damon_Hill
+22,5951,17,14,12,5,5,5,2,53,+1:35.101,6123013,\N,\N,\N,\N,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+56,5952,17,15,8,6,6,6,1,53,+1:46.421,6134333,\N,\N,\N,\N,1,irvine,\N,\N,Eddie,Irvine,1965-11-10,British,http://en.wikipedia.org/wiki/Eddie_Irvine
+87,5953,27,26,17,7,7,7,0,52,\N,\N,\N,\N,\N,\N,11,blundell,\N,\N,Mark,Blundell,1966-04-08,British,http://en.wikipedia.org/wiki/Mark_Blundell
+109,5954,15,30,11,8,8,8,0,52,\N,\N,\N,\N,\N,\N,11,lehto,\N,\N,Jyrki,Järvilehto,1966-01-31,Finnish,http://en.wikipedia.org/wiki/Jyrki_J%C3%A4rvilehto
+84,5955,27,25,15,9,9,9,0,51,\N,\N,\N,\N,\N,\N,4,brundle,\N,\N,Martin,Brundle,1959-06-01,British,http://en.wikipedia.org/wiki/Martin_Brundle
+94,5956,18,24,22,10,10,10,0,51,\N,\N,\N,\N,\N,\N,12,martini,\N,\N,Pierluigi,Martini,1961-04-23,Italian,http://en.wikipedia.org/wiki/Pierluigi_Martini
+65,5957,32,12,19,11,11,11,0,51,\N,\N,\N,\N,\N,\N,12,herbert,\N,\N,Johnny,Herbert,1964-06-25,British,http://en.wikipedia.org/wiki/Johnny_Herbert
+126,5958,33,19,23,12,12,12,0,51,\N,\N,\N,\N,\N,\N,12,toshio_suzuki,\N,\N,Toshio,Suzuki,1955-03-10,Japanese,http://en.wikipedia.org/wiki/Toshio_Suzuki_(driver)
+83,5959,32,11,20,13,13,13,0,49,\N,\N,\N,\N,\N,\N,20,lamy,\N,\N,Pedro,Lamy,1972-03-20,Portuguese,http://en.wikipedia.org/wiki/Pedro_Lamy
+118,5960,29,9,7,14,14,14,0,48,\N,\N,\N,\N,\N,\N,4,warwick,\N,\N,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
+119,5961,22,6,10,\N,R,15,0,45,\N,\N,\N,\N,\N,\N,20,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+77,5962,6,28,5,\N,R,16,0,40,\N,\N,\N,\N,\N,\N,5,berger,\N,\N,Gerhard,Berger,1959-08-27,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger
+88,5963,29,10,9,\N,R,17,0,28,\N,\N,\N,\N,\N,\N,20,suzuki,\N,\N,Aguri,Suzuki,1960-09-08,Japanese,http://en.wikipedia.org/wiki/Aguri_Suzuki
+111,5964,18,23,13,\N,R,18,0,26,\N,\N,\N,\N,\N,\N,54,gounon,\N,\N,Jean-Marc,Gounon,1963-01-01,French,http://en.wikipedia.org/wiki/Jean-Marc_Gounon
+79,5965,25,3,24,\N,R,19,0,26,\N,\N,\N,\N,\N,\N,5,katayama,\N,\N,Ukyo,Katayama,1963-05-29,Japanese,http://en.wikipedia.org/wiki/Ukyo_Katayama
+91,5966,15,29,16,\N,R,20,0,25,\N,\N,\N,\N,\N,\N,5,wendlinger,\N,\N,Karl,Wendlinger,1968-12-20,Austrian,http://en.wikipedia.org/wiki/Karl_Wendlinger
+100,5967,33,20,21,\N,R,21,0,17,\N,\N,\N,\N,\N,\N,5,comas,\N,\N,Érik,Comas,1963-09-28,French,http://en.wikipedia.org/wiki/%C3%89rik_Comas
+30,5968,22,5,4,\N,R,22,0,10,\N,\N,\N,\N,\N,\N,4,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+55,5969,6,27,14,\N,R,23,0,7,\N,\N,\N,\N,\N,\N,5,alesi,\N,\N,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
+110,5970,25,4,18,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,4,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris

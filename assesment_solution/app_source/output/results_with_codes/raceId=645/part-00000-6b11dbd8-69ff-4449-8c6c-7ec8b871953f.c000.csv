@@ -1,0 +1,22 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+358,15934,32,3,8,1,1,1,9,80,1:54:37.4,6877400,\N,\N,\N,\N,1,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+356,15935,34,5,4,2,2,2,6,80,+23.1,6900500,\N,\N,\N,\N,1,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+280,15936,82,9,7,3,3,3,4,80,+51.4,6928800,\N,\N,\N,\N,1,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+304,15937,187,11,3,4,4,4,3,80,+1:28.3,6965700,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+289,15938,32,1,16,5,5,5,2,79,\N,\N,\N,\N,\N,\N,11,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+345,15939,66,17,15,6,6,6,1,78,\N,\N,\N,\N,\N,\N,12,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+238,15940,37,23,12,7,7,7,0,78,\N,\N,\N,\N,\N,\N,12,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+346,15941,37,19,11,8,8,8,0,76,\N,\N,\N,\N,\N,\N,60,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+278,15942,37,28,2,\N,R,9,0,60,\N,\N,\N,\N,\N,\N,22,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+361,15943,86,24,9,\N,N,10,0,58,\N,\N,\N,\N,\N,\N,62,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+328,15944,37,21,1,\N,R,11,0,57,\N,\N,\N,\N,\N,\N,5,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+262,15945,66,16,14,\N,R,12,0,42,\N,\N,\N,\N,\N,\N,5,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+306,15946,82,8,6,\N,R,13,0,21,\N,\N,\N,\N,\N,\N,24,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+360,15947,187,12,10,\N,R,14,0,19,\N,\N,\N,\N,\N,\N,22,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+341,15948,187,14,13,\N,R,15,0,14,\N,\N,\N,\N,\N,\N,51,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+235,15949,6,26,5,\N,R,16,0,11,\N,\N,\N,\N,\N,\N,86,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+333,15950,198,10,0,\N,F,17,0,0,\N,\N,\N,\N,\N,\N,81,adamich,\N,\N,Andrea,de Adamich,1941-10-03,Italian,http://en.wikipedia.org/wiki/Andrea_de_Adamich
+243,15951,34,6,0,\N,F,18,0,0,\N,\N,\N,\N,\N,\N,81,stommelen,\N,\N,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
+352,15952,66,15,0,\N,F,19,0,0,\N,\N,\N,\N,\N,\N,81,eaton,\N,\N,George,Eaton,1945-11-12,Canadian,http://en.wikipedia.org/wiki/George_Eaton
+357,15953,32,2,0,\N,F,20,0,0,\N,\N,\N,\N,\N,\N,81,miles,\N,\N,John,Miles,1943-06-14,British,http://en.wikipedia.org/wiki/John_Miles_(auto_racer)
+359,15954,37,20,0,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,gavin,\N,\N,Johnny,Servoz-Gavin,1942-01-18,French,http://en.wikipedia.org/wiki/Johnny_Servoz-Gavin

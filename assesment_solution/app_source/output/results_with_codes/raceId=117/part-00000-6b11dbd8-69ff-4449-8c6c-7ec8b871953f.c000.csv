@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+23,2055,3,4,1,1,1,1,10,70,1:30:49.213,5449213,\N,\N,\N,\N,1,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+31,2056,3,3,2,2,2,2,8,70,+13.813,5463026,\N,\N,\N,\N,1,montoya,\N,MON,Juan,Pablo Montoya,1975-09-20,Colombian,http://en.wikipedia.org/wiki/Juan_Pablo_Montoya
+30,2057,6,1,3,3,3,3,6,70,+19.568,5468781,\N,\N,\N,\N,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+8,2058,1,6,4,4,4,4,5,70,+38.047,5487260,\N,\N,\N,\N,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+14,2059,1,5,5,5,5,5,4,70,+40.289,5489502,\N,\N,\N,\N,1,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+17,2060,19,14,9,6,6,6,3,70,+1:06.380,5515593,\N,\N,\N,\N,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+22,2061,6,2,8,7,7,7,2,69,\N,\N,\N,\N,\N,\N,11,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+44,2062,7,20,10,8,8,8,1,69,\N,\N,\N,\N,\N,\N,11,panis,\N,\N,Olivier,Panis,1966-09-02,French,http://en.wikipedia.org/wiki/Olivier_Panis
+35,2063,16,16,12,9,9,9,0,69,\N,\N,\N,\N,\N,\N,11,villeneuve,\N,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+42,2064,19,15,11,10,10,10,0,69,\N,\N,\N,\N,\N,\N,11,pizzonia,\N,PIZ,Antônio,Pizzonia,1980-09-11,Brazilian,http://en.wikipedia.org/wiki/Ant%C3%B4nio_Pizzonia
+43,2065,7,21,13,11,11,11,0,69,\N,\N,\N,\N,\N,\N,11,matta,\N,\N,Cristiano,da Matta,1973-09-19,Brazilian,http://en.wikipedia.org/wiki/Cristiano_da_Matta
+49,2066,15,10,16,12,12,12,0,68,\N,\N,\N,\N,\N,\N,12,frentzen,\N,\N,Heinz-Harald,Frentzen,1967-05-18,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen
+2,2067,15,9,15,13,13,13,0,68,\N,\N,\N,\N,\N,\N,12,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+51,2068,18,18,20,14,14,14,0,67,\N,\N,\N,\N,\N,\N,13,wilson,\N,\N,Justin,Wilson,1978-07-31,British,http://en.wikipedia.org/wiki/Justin_Wilson_(racing_driver)
+52,2069,17,12,18,15,15,15,0,67,\N,\N,\N,\N,\N,\N,13,firman,\N,\N,Ralph,Firman,1975-05-20,Irish,http://en.wikipedia.org/wiki/Ralph_Firman
+50,2070,18,19,19,16,16,16,0,66,\N,\N,\N,\N,\N,\N,14,verstappen,\N,\N,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
+15,2071,4,7,6,\N,R,17,0,45,\N,\N,\N,\N,\N,\N,5,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+4,2072,4,8,7,\N,R,18,0,43,\N,\N,\N,\N,\N,\N,5,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+21,2073,17,11,17,\N,R,19,0,42,\N,\N,\N,\N,\N,\N,5,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+18,2074,16,17,14,\N,R,20,0,23,\N,\N,\N,\N,\N,\N,74,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button

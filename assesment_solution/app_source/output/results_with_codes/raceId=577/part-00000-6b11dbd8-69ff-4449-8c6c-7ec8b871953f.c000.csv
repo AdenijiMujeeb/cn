@@ -1,0 +1,24 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+250,14185,34,8,6,1,1,1,9,40,1:44:41.17,6281170,\N,\N,\N,\N,1,pace,\N,\N,Carlos,Pace,1944-10-06,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace
+224,14186,1,1,2,2,2,2,6,40,+5.79,6286960,\N,\N,\N,\N,1,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+200,14187,1,2,10,3,3,3,4,40,+26.66,6307830,\N,\N,\N,\N,1,mass,\N,\N,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
+223,14188,6,11,5,4,4,4,3,40,+43.28,6324450,\N,\N,\N,\N,1,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+182,14189,6,12,4,5,5,5,2,40,+1:01.88,6343050,\N,\N,\N,\N,1,lauda,\N,\N,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
+231,14190,64,24,7,6,6,6,1,40,+1:05.12,6346290,\N,\N,\N,\N,1,hunt,\N,\N,James,Hunt,1947-08-29,British,http://en.wikipedia.org/wiki/James_Hunt
+207,14191,73,27,18,7,7,7,0,40,+1:06.81,6347980,\N,\N,\N,\N,1,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+199,14192,34,7,3,8,8,8,0,40,+1:39.62,6380790,\N,\N,\N,\N,1,reutemann,\N,\N,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
+235,14193,32,6,12,9,9,9,0,40,+1:51.84,6393010,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+187,14194,63,18,13,10,10,10,0,40,+2:29.60,6430770,\N,\N,\N,\N,1,watson,\N,\N,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+172,14195,3,21,11,11,11,11,0,39,\N,\N,\N,\N,\N,\N,11,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+289,14196,26,22,20,12,12,12,0,39,\N,\N,\N,\N,\N,\N,11,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+290,14197,56,30,21,13,13,13,0,39,\N,\N,\N,\N,\N,\N,11,wilson_fittipaldi,\N,\N,Wilson,Fittipaldi,1943-12-25,Brazilian,http://en.wikipedia.org/wiki/Wilson_Fittipaldi
+243,14198,26,23,23,14,14,14,0,39,\N,\N,\N,\N,\N,\N,11,stommelen,\N,\N,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
+238,14199,32,5,16,15,15,15,0,38,\N,\N,\N,\N,\N,\N,12,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+197,14200,202,17,1,\N,R,16,0,32,\N,\N,\N,\N,\N,\N,69,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+221,14201,25,4,9,\N,R,17,0,31,\N,\N,\N,\N,\N,\N,22,depailler,\N,\N,Patrick,Depailler,1944-08-09,French,http://en.wikipedia.org/wiki/Patrick_Depailler
+252,14202,202,16,14,\N,R,18,0,31,\N,\N,\N,\N,\N,\N,3,pryce,\N,\N,Tom,Pryce,1949-06-11,British,http://en.wikipedia.org/wiki/Tom_Pryce
+232,14203,3,20,11,\N,R,19,0,24,\N,\N,\N,\N,\N,\N,69,merzario,\N,\N,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
+288,14204,67,28,15,\N,R,20,0,22,\N,\N,\N,\N,\N,\N,64,donohue,\N,\N,Mark,Donohue,1937-03-18,American,http://en.wikipedia.org/wiki/Mark_Donohue
+283,14205,66,14,22,\N,R,21,0,22,\N,\N,\N,\N,\N,\N,10,wilds,\N,\N,Mike,Wilds,1946-01-07,British,http://en.wikipedia.org/wiki/Mike_Wilds
+222,14206,25,3,8,\N,R,22,0,18,\N,\N,\N,\N,\N,\N,44,scheckter,\N,\N,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+230,14207,37,9,17,\N,R,23,0,1,\N,\N,\N,\N,\N,\N,5,brambilla,\N,\N,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla

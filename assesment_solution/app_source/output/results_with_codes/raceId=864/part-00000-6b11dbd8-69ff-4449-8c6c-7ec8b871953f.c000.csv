@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+813,21328,3,18,1,1,1,1,25,66,1:39:09.145,5949145,26,6,1:27.906,190.635,1,maldonado,13,MAL,Pastor,Maldonado,1985-03-09,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
+4,21329,6,5,2,2,2,2,18,66,+3.195,5952340,46,3,1:27.390,191.761,1,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+8,21330,208,9,4,3,3,3,15,66,+3.884,5953029,50,2,1:26.938,192.758,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+154,21331,208,10,3,4,4,4,12,66,+14.799,5963944,53,1,1:26.250,194.295,1,grosjean,8,GRO,Romain,Grosjean,1986-04-17,French,http://en.wikipedia.org/wiki/Romain_Grosjean
+155,21332,15,14,9,5,5,5,10,66,+1:04.641,6013786,45,8,1:28.266,189.857,1,kobayashi,10,KOB,Kamui,Kobayashi,1986-09-13,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi
+20,21333,9,1,7,6,6,6,8,66,+1:07.576,6016721,65,4,1:27.768,190.935,1,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+3,21334,131,8,6,7,7,7,6,66,+1:17.919,6027064,45,7,1:28.150,190.107,1,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
+1,21335,1,4,24,8,8,8,4,66,+1:18.140,6027285,50,18,1:28.918,188.465,1,hamilton,44,HAM,Lewis,Hamilton,1985-01-07,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+18,21336,1,3,10,9,9,9,2,66,+1:25.246,6034391,41,14,1:28.624,189.090,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+807,21337,10,12,13,10,10,10,1,65,\N,\N,48,17,1:28.912,188.478,11,hulkenberg,27,HUL,Nico,Hülkenberg,1987-08-19,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+17,21338,9,2,11,11,11,11,0,65,\N,\N,44,5,1:27.857,190.741,11,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+818,21339,5,17,14,12,12,12,0,65,\N,\N,54,9,1:28.308,189.767,11,vergne,25,VER,Jean-Éric,Vergne,1990-04-25,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne
+817,21340,5,16,15,13,13,13,0,65,\N,\N,44,12,1:28.587,189.169,11,ricciardo,3,RIC,Daniel,Ricciardo,1989-07-01,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo
+814,21341,10,11,12,14,14,14,0,65,\N,\N,44,10,1:28.313,189.756,11,resta,\N,DIR,Paul,di Resta,1986-04-16,British,http://en.wikipedia.org/wiki/Paul_di_Resta
+13,21342,6,6,16,15,15,15,0,65,\N,\N,47,11,1:28.448,189.467,11,massa,19,MAS,Felipe,Massa,1981-04-25,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
+5,21343,207,20,19,16,16,16,0,65,\N,\N,50,15,1:28.715,188.897,11,kovalainen,\N,KOV,Heikki,Kovalainen,1981-10-19,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen
+808,21344,207,21,18,17,17,17,0,65,\N,\N,48,16,1:28.773,188.773,11,petrov,\N,PET,Vitaly,Petrov,1984-09-08,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
+10,21345,206,24,21,18,18,18,0,64,\N,\N,49,19,1:29.599,187.033,12,glock,\N,GLO,Timo,Glock,1982-03-18,German,http://en.wikipedia.org/wiki/Timo_Glock
+37,21346,164,22,22,19,19,19,0,63,\N,\N,54,20,1:30.722,184.718,13,rosa,\N,DLR,Pedro,de la Rosa,1971-02-24,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa
+815,21347,15,15,5,\N,R,20,0,37,\N,\N,20,13,1:28.605,189.131,61,perez,11,PER,Sergio,Pérez,1990-01-26,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+819,21348,206,25,20,\N,R,21,0,35,\N,\N,29,22,1:31.136,183.879,26,pic,\N,PIC,Charles,Pic,1990-02-15,French,http://en.wikipedia.org/wiki/Charles_Pic
+39,21349,164,23,23,\N,R,22,0,22,\N,\N,15,24,1:32.903,180.381,26,karthikeyan,\N,KAR,Narain,Karthikeyan,1977-01-14,Indian,http://en.wikipedia.org/wiki/Narain_Karthikeyan
+811,21350,3,19,17,\N,R,23,0,12,\N,\N,10,23,1:31.822,182.505,4,bruno_senna,\N,SEN,Bruno,Senna,1983-10-15,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna
+30,21351,131,7,8,\N,R,24,0,12,\N,\N,4,21,1:31.089,183.973,4,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher

@@ -1,0 +1,11 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+475,18484,87,14,7,1,1,1,8,80,2:19:33.7,8373700,\N,\N,\N,\N,1,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+577,18485,6,16,5,2,2,2,6,80,+2.7,8376400,\N,\N,\N,\N,1,musso,\N,\N,Luigi,Musso,1924-07-28,Italian,http://en.wikipedia.org/wiki/Luigi_Musso
+578,18486,6,20,2,3,3,3,4,80,+12.6,8386300,\N,\N,\N,\N,1,hawthorn,\N,\N,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
+579,18487,105,2,1,4,4,4,4,80,+53.0,8426700,\N,\N,\N,\N,1,fangio,\N,\N,Juan,Fangio,1911-06-24,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio
+554,18488,105,4,4,5,5,5,2,78,\N,\N,\N,\N,\N,\N,12,behra,\N,\N,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
+501,18489,105,8,8,6,6,6,0,77,\N,\N,\N,\N,\N,\N,13,schell,\N,\N,Harry,Schell,1921-06-29,American,http://en.wikipedia.org/wiki/Harry_Schell
+496,18490,105,6,6,7,7,7,0,76,\N,\N,\N,\N,\N,\N,14,menditeguy,\N,\N,Carlos,Menditeguy,1914-08-10,Argentine,http://en.wikipedia.org/wiki/Carlos_Menditeguy
+580,18491,105,10,9,8,8,8,0,75,\N,\N,\N,\N,\N,\N,15,godia,\N,\N,Paco,Godia,1921-03-21,Spanish,http://en.wikipedia.org/wiki/Paco_Godia
+547,18492,105,12,10,9,9,9,0,71,\N,\N,\N,\N,\N,\N,19,gould,\N,\N,Horace,Gould,1918-09-20,British,http://en.wikipedia.org/wiki/Horace_Gould
+581,18493,6,18,3,\N,R,10,0,0,\N,\N,\N,\N,\N,\N,86,collins,\N,\N,Peter,Collins,1931-11-06,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)

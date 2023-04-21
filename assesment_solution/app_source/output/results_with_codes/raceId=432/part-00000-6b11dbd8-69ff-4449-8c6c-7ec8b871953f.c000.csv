@@ -1,0 +1,25 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+102,10130,32,12,2,1,1,1,9,43,1:34:19.893,5659893,\N,\N,\N,\N,1,senna,\N,\N,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
+95,10131,3,5,7,2,2,2,6,43,+28.422,5688315,\N,\N,\N,\N,1,mansell,\N,\N,Nigel,Mansell,1953-08-08,British,http://en.wikipedia.org/wiki/Nigel_Mansell
+117,10132,1,2,1,3,3,3,4,43,+55.109,5715002,\N,\N,\N,\N,1,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+177,10133,3,6,10,4,4,4,3,43,+1:15.290,5735183,\N,\N,\N,\N,1,keke_rosberg,\N,\N,Keke,Rosberg,1948-12-06,Finnish,http://en.wikipedia.org/wiki/Keke_Rosberg
+137,10134,34,7,3,5,5,5,2,42,\N,\N,\N,\N,\N,\N,11,piquet,\N,\N,Nelson,Piquet,1952-08-17,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+118,10135,4,16,14,6,6,6,1,42,\N,\N,\N,\N,\N,\N,11,warwick,\N,\N,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
+77,10136,21,17,8,7,7,7,0,42,\N,\N,\N,\N,\N,\N,11,berger,\N,\N,Gerhard,Berger,1959-08-27,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger
+176,10137,34,8,12,8,8,8,0,42,\N,\N,\N,\N,\N,\N,11,surer,\N,\N,Marc,Surer,1951-09-18,Swiss,http://en.wikipedia.org/wiki/Marc_Surer
+166,10138,27,25,18,9,9,9,0,42,\N,\N,\N,\N,\N,\N,11,streiff,\N,\N,Philippe,Streiff,1955-06-26,French,http://en.wikipedia.org/wiki/Philippe_Streiff
+123,10139,21,18,9,10,10,10,0,40,\N,\N,\N,\N,\N,\N,13,boutsen,\N,\N,Thierry,Boutsen,1957-07-13,Belgian,http://en.wikipedia.org/wiki/Thierry_Boutsen
+172,10140,27,26,17,11,11,11,0,38,\N,\N,\N,\N,\N,\N,3,laffite,\N,\N,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
+94,10141,18,29,24,12,12,12,0,38,\N,\N,\N,\N,\N,\N,15,martini,\N,\N,Pierluigi,Martini,1961-04-23,Italian,http://en.wikipedia.org/wiki/Pierluigi_Martini
+84,10142,25,3,21,13,13,13,0,38,\N,\N,\N,\N,\N,\N,15,brundle,\N,\N,Martin,Brundle,1959-06-01,British,http://en.wikipedia.org/wiki/Martin_Brundle
+179,10143,45,24,23,\N,N,14,0,37,\N,\N,\N,\N,\N,\N,62,rothengatter,\N,\N,Huub,Rothengatter,1954-10-08,Dutch,http://en.wikipedia.org/wiki/Huub_Rothengatter
+119,10144,51,22,15,\N,R,15,0,31,\N,\N,\N,\N,\N,\N,5,patrese,\N,\N,Riccardo,Patrese,1954-04-17,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese
+158,10145,51,23,19,\N,R,16,0,26,\N,\N,\N,\N,\N,\N,6,cheever,\N,\N,Eddie,Cheever,1958-01-10,American,http://en.wikipedia.org/wiki/Eddie_Cheever
+175,10146,4,15,13,\N,R,17,0,24,\N,\N,\N,\N,\N,\N,6,tambay,\N,\N,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+170,10147,53,19,11,\N,R,18,0,23,\N,\N,\N,\N,\N,\N,37,fabi,\N,\N,Teo,Fabi,1955-03-09,Italian,http://en.wikipedia.org/wiki/Teo_Fabi
+173,10148,32,11,9,\N,R,19,0,17,\N,\N,\N,\N,\N,\N,101,angelis,\N,\N,Elio,de Angelis,1958-03-26,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
+157,10149,49,30,22,\N,R,20,0,16,\N,\N,\N,\N,\N,\N,6,danner,\N,\N,Christian,Danner,1958-04-04,German,http://en.wikipedia.org/wiki/Christian_Danner
+112,10150,50,9,20,\N,R,21,0,10,\N,\N,\N,\N,\N,\N,3,alliot,\N,\N,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
+140,10151,6,28,5,\N,R,22,0,7,\N,\N,\N,\N,\N,\N,20,johansson,\N,\N,Stefan,Johansson,1956-09-08,Swedish,http://en.wikipedia.org/wiki/Stefan_Johansson
+160,10152,53,20,16,\N,R,23,0,7,\N,\N,\N,\N,\N,\N,3,ghinzani,\N,\N,Piercarlo,Ghinzani,1952-01-16,Italian,http://en.wikipedia.org/wiki/Piercarlo_Ghinzani
+105,10153,6,27,4,\N,R,24,0,3,\N,\N,\N,\N,\N,\N,8,alboreto,\N,\N,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto

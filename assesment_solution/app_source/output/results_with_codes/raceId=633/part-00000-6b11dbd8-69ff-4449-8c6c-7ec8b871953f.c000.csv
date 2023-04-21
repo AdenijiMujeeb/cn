@@ -1,0 +1,23 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+328,15652,25,11,4,1,1,1,9,75,1:49:03.4,6543400,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+235,15653,6,4,1,2,2,2,6,75,+3.4,6546800,\N,\N,\N,\N,1,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+278,15654,82,20,3,3,3,3,4,75,+58.1,6601500,\N,\N,\N,\N,1,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+345,15655,66,14,5,4,4,4,3,75,+1:17.9,6621300,\N,\N,\N,\N,1,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+304,15656,1,9,9,5,5,5,2,75,+1:27.0,6630400,\N,\N,\N,\N,1,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+306,15657,82,21,6,6,6,6,1,74,\N,\N,\N,\N,\N,\N,11,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+327,15658,25,12,12,7,7,7,0,74,\N,\N,\N,\N,\N,\N,11,cevert,\N,\N,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+320,15659,1,10,7,8,8,8,0,73,\N,\N,\N,\N,\N,\N,12,gethin,\N,\N,Peter,Gethin,1940-02-21,British,http://en.wikipedia.org/wiki/Peter_Gethin
+314,15660,34,8,21,9,9,9,0,72,\N,\N,\N,\N,\N,\N,13,schenken,\N,\N,Tim,Schenken,1943-09-26,Australian,http://en.wikipedia.org/wiki/Tim_Schenken
+307,15661,66,16,17,10,10,10,0,71,\N,\N,\N,\N,\N,\N,14,ganley,\N,\N,Howden,Ganley,1941-12-24,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley
+341,15662,63,24,22,11,11,11,0,67,\N,\N,\N,\N,\N,\N,18,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+317,15663,180,3,16,\N,N,12,0,58,\N,\N,\N,\N,\N,\N,62,wisell,\N,\N,Reine,Wisell,1941-09-30,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell
+224,15664,180,2,14,\N,R,13,0,54,\N,\N,\N,\N,\N,\N,22,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
+280,15665,200,27,11,\N,R,14,0,53,\N,\N,\N,\N,\N,\N,5,pescarolo,\N,\N,Henri,Pescarolo,1942-09-25,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
+207,15666,6,6,8,\N,R,15,0,50,\N,\N,\N,\N,\N,\N,5,mario_andretti,\N,\N,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
+339,15667,200,19,20,\N,R,16,0,46,\N,\N,\N,\N,\N,\N,48,roig,\N,\N,Alex,Soler-Roig,1932-10-29,Spanish,http://en.wikipedia.org/wiki/Alex_Soler-Roig
+238,15668,200,18,13,\N,R,18,0,24,\N,\N,\N,\N,\N,\N,80,peterson,\N,\N,Ronnie,Peterson,1944-02-14,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson
+223,15669,6,5,2,\N,R,19,0,13,\N,\N,\N,\N,\N,\N,5,regazzoni,\N,\N,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
+243,15670,63,25,19,\N,R,20,0,9,\N,\N,\N,\N,\N,\N,32,stommelen,\N,\N,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
+346,15671,66,15,15,\N,R,21,0,5,\N,\N,\N,\N,\N,\N,6,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+289,15672,34,7,10,\N,R,22,0,5,\N,\N,\N,\N,\N,\N,38,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+333,24305,199,17,18,\N,R,17,0,26,\N,\N,\N,\N,\N,\N,7,adamich,\N,\N,Andrea,de Adamich,1941-10-03,Italian,http://en.wikipedia.org/wiki/Andrea_de_Adamich

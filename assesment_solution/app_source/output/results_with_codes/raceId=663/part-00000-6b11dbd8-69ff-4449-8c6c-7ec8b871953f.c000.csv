@@ -1,0 +1,16 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+328,16310,196,20,3,1,1,1,9,68,1:39:11.26,5951260,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+358,16311,180,4,1,2,2,2,6,68,+0.08,5951340,\N,\N,\N,\N,1,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+306,16312,196,22,6,3,3,3,4,68,+0.17,5951430,\N,\N,\N,\N,1,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+360,16313,187,18,5,4,4,4,3,68,+0.19,5951450,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+361,16314,182,32,4,5,5,5,2,68,+33.44,5984700,\N,\N,\N,\N,1,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+345,16315,6,10,12,6,6,6,1,66,\N,\N,\N,\N,\N,\N,12,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+304,16316,187,16,2,7,7,7,0,66,\N,\N,\N,\N,\N,\N,12,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+346,16317,180,30,8,8,8,8,0,64,\N,\N,\N,\N,\N,\N,5,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+289,16318,180,1,9,9,9,9,0,63,\N,\N,\N,\N,\N,\N,86,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+235,16319,182,26,15,10,10,10,0,61,\N,\N,\N,\N,\N,\N,60,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+341,16320,66,14,10,\N,N,11,0,60,\N,\N,\N,\N,\N,\N,62,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+262,16321,66,12,11,\N,R,12,0,48,\N,\N,\N,\N,\N,\N,51,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+351,16322,182,36,13,\N,R,13,0,9,\N,\N,\N,\N,\N,\N,95,moser,\N,\N,Silvio,Moser,1941-04-24,Swiss,http://en.wikipedia.org/wiki/Silvio_Moser
+356,16323,182,28,7,\N,R,14,0,6,\N,\N,\N,\N,\N,\N,44,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+357,16324,180,6,14,\N,R,15,0,3,\N,\N,\N,\N,\N,\N,5,miles,\N,\N,John,Miles,1943-06-14,British,http://en.wikipedia.org/wiki/John_Miles_(auto_racer)

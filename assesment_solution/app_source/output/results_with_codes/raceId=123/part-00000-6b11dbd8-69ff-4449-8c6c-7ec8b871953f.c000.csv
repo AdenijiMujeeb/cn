@@ -1,0 +1,21 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+22,2175,6,2,1,1,1,1,10,53,1:25:11.743,5111743,\N,\N,\N,\N,1,barrichello,\N,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
+8,2176,1,6,8,2,2,2,8,53,+11.085,5122828,\N,\N,\N,\N,1,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+14,2177,1,5,7,3,3,3,6,53,+11.614,5123357,\N,\N,\N,\N,1,coulthard,\N,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
+18,2178,16,17,9,4,4,4,5,53,+33.106,5144849,\N,\N,\N,\N,1,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
+15,2179,4,7,20,5,5,5,4,53,+34.269,5146012,\N,\N,\N,\N,1,trulli,\N,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
+11,2180,16,16,13,6,6,6,3,53,+51.692,5163435,\N,\N,\N,\N,1,sato,\N,SAT,Takuma,Sato,1977-01-28,Japanese,http://en.wikipedia.org/wiki/Takuma_Sato
+43,2181,7,21,3,7,7,7,2,53,+56.794,5168537,\N,\N,\N,\N,1,matta,\N,\N,Cristiano,da Matta,1973-09-19,Brazilian,http://en.wikipedia.org/wiki/Cristiano_da_Matta
+30,2182,6,1,14,8,8,8,1,53,+59.487,5171230,\N,\N,\N,\N,1,michael_schumacher,\N,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+2,2183,15,9,11,9,9,9,0,53,+1:00.159,5171902,\N,\N,\N,\N,1,heidfeld,\N,HEI,Nick,Heidfeld,1977-05-10,German,http://en.wikipedia.org/wiki/Nick_Heidfeld
+44,2184,7,20,4,10,10,10,0,53,+1:01.844,5173587,\N,\N,\N,\N,1,panis,\N,\N,Olivier,Panis,1966-09-02,French,http://en.wikipedia.org/wiki/Olivier_Panis
+17,2185,19,14,6,11,11,11,0,53,+1:11.005,5182748,\N,\N,\N,\N,1,webber,\N,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber
+23,2186,3,4,19,12,12,12,0,52,\N,\N,\N,\N,\N,\N,11,ralf_schumacher,\N,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+51,2187,19,15,10,13,13,13,0,52,\N,\N,\N,\N,\N,\N,11,wilson,\N,\N,Justin,Wilson,1978-07-31,British,http://en.wikipedia.org/wiki/Justin_Wilson_(racing_driver)
+52,2188,17,12,15,14,14,14,0,51,\N,\N,\N,\N,\N,\N,12,firman,\N,\N,Ralph,Firman,1975-05-20,Irish,http://en.wikipedia.org/wiki/Ralph_Firman
+50,2189,18,19,17,15,15,15,0,51,\N,\N,\N,\N,\N,\N,12,verstappen,\N,\N,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
+53,2190,18,18,18,16,16,16,0,50,\N,\N,\N,\N,\N,\N,13,kiesa,\N,\N,Nicolas,Kiesa,1978-03-03,Danish,http://en.wikipedia.org/wiki/Nicolas_Kiesa
+21,2191,17,11,16,\N,R,17,0,33,\N,\N,\N,\N,\N,\N,60,fisichella,\N,FIS,Giancarlo,Fisichella,1973-01-14,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella
+4,2192,4,8,5,\N,R,18,0,17,\N,\N,\N,\N,\N,\N,5,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+49,2193,15,10,12,\N,R,19,0,9,\N,\N,\N,\N,\N,\N,5,frentzen,\N,\N,Heinz-Harald,Frentzen,1967-05-18,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen
+31,2194,3,3,2,\N,R,20,0,9,\N,\N,\N,\N,\N,\N,9,montoya,\N,MON,Juan,Pablo Montoya,1975-09-20,Colombian,http://en.wikipedia.org/wiki/Juan_Pablo_Montoya

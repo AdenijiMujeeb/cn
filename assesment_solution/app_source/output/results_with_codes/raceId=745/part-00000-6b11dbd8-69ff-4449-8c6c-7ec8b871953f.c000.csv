@@ -1,0 +1,22 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+404,18047,172,15,8,1,1,1,9,100,2:13:45.8,8025800,\N,\N,\N,\N,1,ireland,\N,\N,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
+364,18048,95,12,7,2,2,2,6,100,+4.3,8030100,\N,\N,\N,\N,1,gurney,\N,\N,Dan,Gurney,1931-04-13,American,http://en.wikipedia.org/wiki/Dan_Gurney
+479,18049,66,5,5,3,3,3,4,100,+49.0,8074800,\N,\N,\N,\N,1,brooks,\N,\N,Tony,Brooks,1932-02-25,British,http://en.wikipedia.org/wiki/Tony_Brooks
+360,18050,170,2,4,4,4,4,3,100,+58.0,8083800,\N,\N,\N,\N,1,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+289,18051,66,4,2,5,5,5,2,99,\N,\N,\N,\N,\N,\N,11,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+347,18052,95,11,10,6,6,6,1,98,\N,\N,\N,\N,\N,\N,12,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+373,18053,172,14,6,7,7,7,0,96,\N,\N,\N,\N,\N,\N,14,clark,\N,\N,Jim,Clark,1936-03-04,British,http://en.wikipedia.org/wiki/Jim_Clark
+468,18054,170,6,16,8,8,8,0,96,\N,\N,\N,\N,\N,\N,14,penske,\N,\N,Roger,Penske,1937-02-20,American,http://en.wikipedia.org/wiki/Roger_Penske
+493,18055,172,16,13,9,9,9,0,96,\N,\N,\N,\N,\N,\N,14,ryan,\N,\N,Peter,Ryan,1940-06-10,Canadian,http://en.wikipedia.org/wiki/Peter_Ryan_(driver)
+434,18056,170,3,17,10,10,10,0,93,\N,\N,\N,\N,\N,\N,17,sharp,\N,\N,Hap,Sharp,1928-01-01,American,http://en.wikipedia.org/wiki/Hap_Sharp
+482,18057,172,21,15,11,11,11,0,92,\N,\N,\N,\N,\N,\N,18,gendebien,\N,\N,Olivier,Gendebien,1924-01-12,Belgian,http://en.wikipedia.org/wiki/Olivier_Gendebien
+456,18058,170,19,12,\N,R,12,0,96,\N,\N,\N,\N,\N,\N,5,salvadori,\N,\N,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
+440,18059,172,17,18,\N,R,13,0,76,\N,\N,\N,\N,\N,\N,95,hall,\N,\N,Jim,Hall,1935-07-23,American,http://en.wikipedia.org/wiki/Jim_Hall_(race_car_driver)
+494,18060,172,26,19,\N,R,14,0,76,\N,\N,\N,\N,\N,\N,121,ruby,\N,\N,Lloyd,Ruby,1928-01-12,American,http://en.wikipedia.org/wiki/Lloyd_Ruby
+475,18061,172,7,3,\N,R,15,0,58,\N,\N,\N,\N,\N,\N,5,moss,\N,\N,Stirling,Moss,1929-09-17,British,http://en.wikipedia.org/wiki/Stirling_Moss
+356,18062,170,1,1,\N,R,16,0,57,\N,\N,\N,\N,\N,\N,25,jack_brabham,\N,\N,Jack,Brabham,1926-04-02,Australian,http://en.wikipedia.org/wiki/Jack_Brabham
+418,18063,172,22,11,\N,R,17,0,23,\N,\N,\N,\N,\N,\N,6,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory
+433,18064,170,60,14,\N,R,18,0,14,\N,\N,\N,\N,\N,\N,3,hansgen,\N,\N,Walt,Hansgen,1919-10-28,American,http://en.wikipedia.org/wiki/Walt_Hansgen
+341,18065,170,18,9,\N,R,19,0,0,\N,\N,\N,\N,\N,\N,5,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
+495,18066,172,23,0,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,54,ken_miles,\N,\N,Ken,Miles,1918-11-01,British,http://en.wikipedia.org/wiki/Ken_Miles
+418,24303,172,21,15,11,11,11,0,92,\N,\N,\N,\N,\N,\N,18,gregory,\N,\N,Masten,Gregory,1932-02-29,American,http://en.wikipedia.org/wiki/Masten_Gregory

@@ -1,0 +1,18 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+328,16279,196,3,2,1,1,1,9,84,1:55:55.6,6955600,\N,\N,\N,\N,1,stewart,\N,\N,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
+235,16280,182,7,4,2,2,2,6,83,\N,\N,\N,\N,\N,\N,11,ickx,\N,\N,Jacky,Ickx,1945-01-01,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx
+360,16281,187,6,7,3,3,3,4,83,\N,\N,\N,\N,\N,\N,11,mclaren,\N,\N,Bruce,McLaren,1937-08-30,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren
+358,16282,180,2,1,4,4,4,3,83,\N,\N,\N,\N,\N,\N,11,rindt,\N,\N,Jochen,Rindt,1942-04-18,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt
+361,16283,182,16,10,5,5,5,2,83,\N,\N,\N,\N,\N,\N,11,courage,\N,\N,Piers,Courage,1942-05-27,British,http://en.wikipedia.org/wiki/Piers_Courage
+350,16284,187,19,11,6,6,6,1,82,\N,\N,\N,\N,\N,\N,12,elford,\N,\N,Vic,Elford,1935-06-10,British,http://en.wikipedia.org/wiki/Vic_Elford
+289,16285,180,1,12,7,7,7,0,82,\N,\N,\N,\N,\N,\N,12,hill,\N,\N,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+346,16286,180,10,9,8,8,8,0,81,\N,\N,\N,\N,\N,\N,13,siffert,\N,\N,Jo,Siffert,1936-07-07,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
+306,16287,196,4,17,9,9,9,0,78,\N,\N,\N,\N,\N,\N,16,beltoise,\N,\N,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
+357,16288,180,9,14,10,10,10,0,75,\N,\N,\N,\N,\N,\N,19,miles,\N,\N,John,Miles,1943-06-14,British,http://en.wikipedia.org/wiki/John_Miles_(auto_racer)
+345,16289,6,12,8,\N,R,11,0,61,\N,\N,\N,\N,\N,\N,5,rodriguez,\N,\N,Pedro,Rodríguez,1940-01-18,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+278,16290,6,11,5,\N,R,12,0,45,\N,\N,\N,\N,\N,\N,6,amon,\N,\N,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
+304,16291,187,5,3,\N,R,13,0,27,\N,\N,\N,\N,\N,\N,80,hulme,\N,\N,Denny,Hulme,1936-06-18,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme
+262,16292,66,15,13,\N,R,14,0,19,\N,\N,\N,\N,\N,\N,7,oliver,\N,\N,Jackie,Oliver,1942-08-14,British,http://en.wikipedia.org/wiki/Jackie_Oliver
+347,16293,180,18,16,\N,R,15,0,6,\N,\N,\N,\N,\N,\N,5,bonnier,\N,\N,Jo,Bonnier,1930-01-31,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
+321,16294,187,20,15,\N,R,16,0,5,\N,\N,\N,\N,\N,\N,22,bell,\N,\N,Derek,Bell,1941-10-31,British,http://en.wikipedia.org/wiki/Derek_Bell_(auto_racer)
+341,16295,66,14,6,\N,R,17,0,1,\N,\N,\N,\N,\N,\N,22,surtees,\N,\N,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees

@@ -1,0 +1,15 @@
+driverId,resultId,constructorId,result_number,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,driverRef,number,code,forename,surname,dob,nationality,url
+202,11173,6,28,4,1,1,1,9,60,1:36:38.887,5798887,\N,\N,\N,\N,1,pironi,\N,\N,Didier,Pironi,1952-03-26,French,http://en.wikipedia.org/wiki/Didier_Pironi
+203,11174,6,27,3,2,2,2,6,60,+0.366,5799253,\N,\N,\N,\N,1,gilles_villeneuve,\N,\N,Gilles,Villeneuve,1950-01-18,Canadian,http://en.wikipedia.org/wiki/Gilles_Villeneuve
+105,11175,25,3,5,3,3,3,4,60,+1:07.684,5866571,\N,\N,\N,\N,1,alboreto,\N,\N,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
+197,11176,45,31,9,4,4,4,3,59,\N,\N,\N,\N,\N,\N,11,jarier,\N,\N,Jean-Pierre,Jarier,1946-07-10,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier
+194,11177,54,10,14,5,5,5,2,57,\N,\N,\N,\N,\N,\N,13,salazar,\N,\N,Eliseo,Salazar,1954-11-14,Chilean,http://en.wikipedia.org/wiki/Eliseo_Salazar
+181,11178,54,9,12,\N,D,6,0,54,\N,\N,\N,\N,\N,\N,2,manfred_winkelhock,\N,\N,Manfred,Winkelhock,1951-10-06,German,http://en.wikipedia.org/wiki/Manfred_Winkelhock
+170,11179,53,36,10,\N,N,7,0,52,\N,\N,\N,\N,\N,\N,62,fabi,\N,\N,Teo,Fabi,1955-03-09,Italian,http://en.wikipedia.org/wiki/Teo_Fabi
+163,11180,4,16,1,\N,R,8,0,44,\N,\N,\N,\N,\N,\N,101,arnoux,\N,\N,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
+152,11181,51,23,6,\N,R,9,0,24,\N,\N,\N,\N,\N,\N,5,giacomelli,\N,\N,Bruno,Giacomelli,1952-09-10,Italian,http://en.wikipedia.org/wiki/Bruno_Giacomelli
+204,11182,45,32,13,\N,R,10,0,7,\N,\N,\N,\N,\N,\N,22,paletti,\N,\N,Riccardo,Paletti,1958-06-15,Italian,http://en.wikipedia.org/wiki/Riccardo_Paletti
+117,11183,4,15,2,\N,R,11,0,6,\N,\N,\N,\N,\N,\N,5,prost,\N,\N,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
+110,11184,51,22,7,\N,R,12,0,4,\N,\N,\N,\N,\N,\N,10,cesaris,\N,\N,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
+205,11185,25,4,11,\N,R,13,0,0,\N,\N,\N,\N,\N,\N,7,henton,\N,\N,Brian,Henton,1946-09-19,British,http://en.wikipedia.org/wiki/Brian_Henton
+118,11186,53,35,8,\N,R,14,0,0,\N,\N,\N,\N,\N,\N,10,warwick,\N,\N,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
